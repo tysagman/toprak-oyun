@@ -1,5 +1,11 @@
 [
 {
+"v": 103,
+"d": "2026-10-22",
+"tr": "Yeni: 🎙️ Telsiz! Soldaki mikrofona basılı tut, konuş; herkes ya da sadece arkadaşların duysun (Ayarlar). Grafik artık telefonuna göre otomatik ayarlanır; 30/60/90/120/165 FPS seçenekleri eklendi. Bölgene göre mescit, kilise ya da sinagog. Köydeki cami küçük bir mescide dönüştü. Ahır ve kümes evden uzaklaştırıldı. Dünya haritası bölgelere ayrıldı. Sesli arama ve sandık hataları düzeltildi.",
+"en": "New: 🎙️ Walkie-talkie! Hold the mic on the left and talk to everyone or just friends. Graphics now auto-tune to your phone; 30/60/90/120/165 FPS modes. Masjid, church or synagogue depending on your region. Stable and coop moved away from the house. World map shows regions. Voice call and chest bugs fixed."
+},
+{
 "v": 102,
 "d": "2026-10-22",
 "tr": "Yeni: Yurdunu kur! Oyun artık senin memleketinde geçebilir. Karadeniz, Ege, İç Anadolu, Akdeniz ya da Doğu'yu seç veya köyüne, şehrine, gölüne, dağına kendin ad koy. Tabelalar, görevler ve konuşmalar bu adları kullanır; doğanın rengi de bölgene göre değişir. Mesaj › Profilim › Yurdunu düzenle.",
