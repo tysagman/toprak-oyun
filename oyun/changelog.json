@@ -1,5 +1,11 @@
 [
 {
+"v": 200,
+"d": "2026-10-22",
+"tr": "Toprağın Mirası v2.00! Oyun baştan sona hızlandırıldı: daha az takılma, daha az ısınma, daha uzun pil. Uzaktaki ağaçlar ve binalar daha hafif çiziliyor, grafik telefonuna göre ayarlanıyor.",
+"en": "Toprağın Mirası v2.00! The whole game is faster: less stutter, less heat, longer battery. Distant trees and buildings are lighter to draw and graphics adapt to your phone."
+},
+{
 "v": 103,
 "d": "2026-10-22",
 "tr": "Yeni: 🎙️ Telsiz! Soldaki mikrofona basılı tut, konuş; herkes ya da sadece arkadaşların duysun (Ayarlar). Grafik artık telefonuna göre otomatik ayarlanır; 30/60/90/120/165 FPS seçenekleri eklendi. Bölgene göre mescit, kilise ya da sinagog. Köydeki cami küçük bir mescide dönüştü. Ahır ve kümes evden uzaklaştırıldı. Dünya haritası bölgelere ayrıldı. Sesli arama ve sandık hataları düzeltildi.",
