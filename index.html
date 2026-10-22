@@ -1,0 +1,10 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>body{margin:0;background:#0e2a1b;color:#f3e9d2;font:16px system-ui,sans-serif;display:flex;align-items:center;justify-content:center;height:100vh}</style>
+Yükleniyor…
+<script>
+(function(){var go=function(){location.replace("oyun/"+location.search)};
+if("serviceWorker" in navigator){navigator.serviceWorker.register("sw-root.js",{scope:"./"}).then(function(){setTimeout(go,150)},go)}else go();
+setTimeout(go,1500)})();
+</script>

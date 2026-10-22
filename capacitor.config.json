@@ -1,0 +1,11 @@
+{
+  "appId": "com.tsai.topraginmirasi",
+  "appName": "Toprağın Mirası",
+  "webDir": "www",
+  "server": {
+    "url": "https://tysagman.github.io/toprak-oyun/",
+    "cleartext": false,
+    "allowNavigation": ["tysagman.github.io"]
+  },
+  "android": { "backgroundColor": "#0e2a1b" }
+}
