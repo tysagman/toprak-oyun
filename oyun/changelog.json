@@ -1,5 +1,11 @@
 [
 {
+"v": 205,
+"d": "2026-10-23",
+"tr": "Harita 2 kat büyüdü: dağların ardında Kuzey Diyarı (Çamlıbel, Akpınar, Karaçam ormanı, taş ocağı, değirmen, Kartal Tepesi). 26 yeni görev (toplam 52, Perde 3 ve 4). Köylerde ve şehirde yüzlerce yeni insan; kadın karakterler daha çok ve daha gerçekçi. Kuzeye otobüs hattı. Telsiz artık bölge kanalında. Görevler takılmasın diye güvenlik ağı; turistle durakta konuşma ve köy ismi değiştirme düzeltildi.",
+"en": "The map doubled: the Northern Lands beyond the mountains (Çamlıbel, Akpınar, Black Pine forest, quarry, mill, Eagle Hill). 26 new quests (52 total, Acts 3 and 4). Hundreds of new people in villages and the city; more and more realistic female characters. Bus line to the north. Walkie-talkie now uses regional channels. Quest safety net; fixed talking to tourists at the bus stop and renaming the village."
+},
+{
 "v": 204,
 "d": "2026-10-23",
 "tr": "v2.04: 👷 Çalışanlar ne yaptığını anlık bildiriyor, her sabah dünün iş raporu geliyor; geliştirme önerilerini onayına sunuyorlar. ☰ Alt menü sadeleşti (Köylüler, Harita, Ye artık 'Diğer' içinde). Turistlere çantandaki her ürünü satabilirsin. Sesli aramada doğrudan bağlantı kurulamazsa yedek hatla konuşmaya devam edilir. Misafirler de telsizle konuşabilir. Yoldaki ev kenara alındı.",
