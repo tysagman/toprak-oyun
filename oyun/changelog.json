@@ -1,5 +1,11 @@
 [
 {
+"v": 215,
+"d": "2026-10-23",
+"tr": "Yeni başlayanlar için daha sade başlangıç: butonlar görevler ilerledikçe açılıyor, ilk görevlerde ne yapacağın parlayarak gösteriliyor, açılış pencereleri ilk görevlerden sonra çıkıyor.",
+"en": "Simpler start for new players: buttons unlock as you progress, the first quests highlight what to do, and pop-ups wait until you've finished the first quests."
+},
+{
 "v": 214,
 "d": "2026-10-23",
 "tr": "Yemek yerken ekran artık kapanmıyor; arka arkaya yiyebilirsin.",
