@@ -1,5 +1,11 @@
 [
 {
+"v": 209,
+"d": "2026-10-23",
+"tr": "Duyurulara 'Görüşümü yaz' butonu eklendi; yönetim gerektiğinde hatalı gönderilen altını geri alabiliyor.",
+"en": "Announcements can now include a 'Write my feedback' button; admins can reverse mistakenly sent gold."
+},
+{
 "v": 208,
 "d": "2026-10-23",
 "tr": "Köy-şehir ve kuzey yolu üstüne 12 otobüs durağı eklendi; yol üstünden otobüse binebilirsin (06:00-22:00). Gece ya da otobüs yokken Araç sahibi Kadir ücret karşılığı seni köye, şehre veya istediğin yere götürüyor (☰ Diğer › Araç çağır, gece fiyatı 1,5 kat).",
