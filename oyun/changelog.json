@@ -1,5 +1,11 @@
 [
 {
+"v": 212,
+"d": "2026-10-23",
+"tr": "Uzaktan siparişte alınan ürünler artık doğrudan çantana geliyor (yer yoksa sandığına); listede çantadaki ve sandıktaki miktar görünüyor.",
+"en": "Remote orders now go straight to your bag (to the chest if the bag is full); the list shows how many you have in bag and chest."
+},
+{
 "v": 211,
 "d": "2026-10-23",
 "tr": "Günlük hediyeler büyüdü: her gün eşya + altın, 7. gün 2.000 altın; hikâyede ilerledikçe (Perde 3: 2 kat, Perde 4: 4 kat) ve seri uzadıkça daha da artıyor. Seri ödülleri: 14. gün 5.000 … 365. gün 300.000 altın.",
