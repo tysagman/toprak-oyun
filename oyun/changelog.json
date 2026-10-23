@@ -1,5 +1,11 @@
 [
 {
+"v": 204,
+"d": "2026-10-23",
+"tr": "v2.04: 👷 Çalışanlar ne yaptığını anlık bildiriyor, her sabah dünün iş raporu geliyor; geliştirme önerilerini onayına sunuyorlar. ☰ Alt menü sadeleşti (Köylüler, Harita, Ye artık 'Diğer' içinde). Turistlere çantandaki her ürünü satabilirsin. Sesli aramada doğrudan bağlantı kurulamazsa yedek hatla konuşmaya devam edilir. Misafirler de telsizle konuşabilir. Yoldaki ev kenara alındı.",
+"en": "v2.04: 👷 Workers report what they do, a daily work report arrives every morning and they propose upgrades for your approval. ☰ Simpler bottom bar (Villagers, Map, Eat moved to 'More'). Sell any product to tourists. Voice calls fall back to a backup line if a direct connection fails. Guests can use the walkie-talkie. A house on the road was moved."
+},
+{
 "v": 203,
 "d": "2026-10-23",
 "tr": "v2.03: 🏙️ Şehir merkezi artık daha uzakta. Ovadaki tarlalar araziye oturuyor, ekin sıraları var. Köylüler artık evlerin ve anıtın içinden geçmiyor. 🎙️ Telsiz ve durum paneli ayarlardan (Butonları düzenle) istediğin yere taşınabiliyor. Yeni taş çeşme, çiçekli pencereler, şehir binalarında kat silmeleri ve klimalar. Temel malzemeler (tohum, yem, odun, taş) her sabah yenileniyor.",
