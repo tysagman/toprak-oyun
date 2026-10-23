@@ -1,5 +1,11 @@
 [
 {
+"v": 207,
+"d": "2026-10-23",
+"tr": "Çalışanlar artık oyun kapalıyken de çalışıyor: Murat tavukları yemliyor ve yumurta topluyor, Ayşe tarlayı biçip yeniden ekiyor, Hamit odun-ot-taş topluyor, Burak fazlaları satıyor (en fazla 7 iş günü). Oyuna girince 'Sen yokken çiftlikte neler oldu' raporu çıkıyor.",
+"en": "Workers now work while the game is closed: Murat feeds the hens and collects eggs, Ayşe harvests and replants, Hamit gathers wood, grass and stone, Burak sells surplus (up to 7 work days). When you return you get a 'While you were away' report."
+},
+{
 "v": 206,
 "d": "2026-10-23",
 "tr": "Çalışanlar düzeltildi: Pazarlamacı Burak artık sandıktaki yem, tohum, buğday ve görev malzemelerini satmıyor (Murat ve Ayşe bu yüzden çalışamıyordu). Bir çalışan işini yapamazsa nedenini mesajla bildiriyor (sandıkta yem/tohum yok, sandık dolu).",
