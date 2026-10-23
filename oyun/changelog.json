@@ -1,5 +1,11 @@
 [
 {
+"v": 202,
+"d": "2026-10-23",
+"tr": "v2.02 büyük güncelleme: 🏘️ Klan artık Kooperatif. Köy meydanı genişledi; bölge ve yer adları her oyuncuya rastgele. Kaplıca, bağ, çay ocağı, kale ve ovanın sahipleri, daha çok insan, ağaç ve turist var. Otobüse inip binenler, turist haberleri. Kamp ateşini yak/söndür; kuzu çevirme ve tepsi yemekleri. Satıcıların stoğu biter, haftaya gelir. Sandık geliştirme, görünür sulama kanalı ve otomatik suluk. Köpekli çiftlikte hırsız önce köpeği yemle oyalamalı; köylüler hırsızlığı haber verir. Joystick'i sonuna kadar itince koşarsın; panel gizlenebilir. Misafirler için kurtarma kodu. Namaz için abdest gerekir, 2 rekât. Birçok hata düzeltildi.",
+"en": "v2.02 big update: 🏘️ Clans are now Co-ops. Bigger village square; random region and place names for every player. Spa, vineyard, tea house, castle and plain have owners; more people, trees and tourists. Bus passengers, tourist news. Light/put out the campfire; roast lamb and tray dishes. Vendors can sell out and restock weekly. Chest upgrades, visible irrigation and auto waterer. Guard dogs must be distracted with food before a raid; villagers report thefts. Push the joystick fully to run; the status panel can be hidden. Recovery code for guests. Many bug fixes."
+},
+{
 "v": 201,
 "d": "2026-10-23",
 "tr": "v2.01: 🌍 Yeni Dünya sekmesi: harita, sıralama (arkadaşlar/genel/klanlar), çevrimiçi arkadaşlar, sohbet, klan ve pazar tek yerde. Mesajlar artık sadece köy ve oyuncu mesajları. Birinin köyüne gidince ev sahibi çevrimiçiyse ok seni yanına götürür. Telsizde oyun sesi kesilmiyor; Bas konuş / Dokun / Hep açık seçenekleri. Hedeflerde perdenin tüm görevleri. Ana menü butonu Ayarlar'ın en üstünde. Kamp ateşi evden uzaklaştı.",
