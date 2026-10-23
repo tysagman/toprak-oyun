@@ -1,5 +1,11 @@
 [
 {
+"v": 214,
+"d": "2026-10-23",
+"tr": "Yemek yerken ekran artık kapanmıyor; arka arkaya yiyebilirsin.",
+"en": "The eat screen no longer closes after eating; you can eat several things in a row."
+},
+{
 "v": 213,
 "d": "2026-10-23",
 "tr": "Oyunda olmayan arkadaşların 'köyüne ziyarete geldi' diye görünmesi düzeltildi; oyunu arka plana alan oyuncu artık köyde görünmüyor, aynı kişi için bildirim 10 dakikada bir çıkıyor.",
