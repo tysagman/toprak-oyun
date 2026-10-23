@@ -1,5 +1,11 @@
 [
 {
+"v": 203,
+"d": "2026-10-23",
+"tr": "v2.03: 🏙️ Şehir merkezi artık daha uzakta. Ovadaki tarlalar araziye oturuyor, ekin sıraları var. Köylüler artık evlerin ve anıtın içinden geçmiyor. 🎙️ Telsiz ve durum paneli ayarlardan (Butonları düzenle) istediğin yere taşınabiliyor. Yeni taş çeşme, çiçekli pencereler, şehir binalarında kat silmeleri ve klimalar. Temel malzemeler (tohum, yem, odun, taş) her sabah yenileniyor.",
+"en": "v2.03: 🏙️ The city centre is now farther away. Plain fields follow the terrain with crop rows. Villagers no longer walk through houses and the monument. 🎙️ Walkie-talkie and the status panel can be moved via Settings › Edit buttons. New stone fountain, flower boxes, city building details. Basic supplies restock every morning."
+},
+{
 "v": 202,
 "d": "2026-10-23",
 "tr": "v2.02 büyük güncelleme: 🏘️ Klan artık Kooperatif. Köy meydanı genişledi; bölge ve yer adları her oyuncuya rastgele. Kaplıca, bağ, çay ocağı, kale ve ovanın sahipleri, daha çok insan, ağaç ve turist var. Otobüse inip binenler, turist haberleri. Kamp ateşini yak/söndür; kuzu çevirme ve tepsi yemekleri. Satıcıların stoğu biter, haftaya gelir. Sandık geliştirme, görünür sulama kanalı ve otomatik suluk. Köpekli çiftlikte hırsız önce köpeği yemle oyalamalı; köylüler hırsızlığı haber verir. Joystick'i sonuna kadar itince koşarsın; panel gizlenebilir. Misafirler için kurtarma kodu. Namaz için abdest gerekir, 2 rekât. Birçok hata düzeltildi.",
