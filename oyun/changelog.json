@@ -1,5 +1,11 @@
 [
 {
+"v": 210,
+"d": "2026-10-23",
+"tr": "Günlük giriş hediyesi (her gün farklı, 7. gün altın kesesi, seri uzadıkça büyür; 14/30/60/100. gün büyük ödül). Haftalık görevler ve haftalık etkinlikler, arkadaş daveti (sen 500, o 300 altın), kooperatif yarışı, çiftlik süsleri, hasat ve hediye hatırlatma bildirimleri. Araç artık sadece yoldan gidiyor ve seni aracın yanına bırakıyor. İnsanlar, köpekler, hayvanlar ve araçlar birbirinin ve binaların içinden geçmiyor. Geri bildirimde görsel ekleme hatası düzeltildi.",
+"en": "Daily login gift (different every day, bag of gold on day 7, grows with your streak; big rewards on days 14/30/60/100). Weekly tasks and events, invite a friend (you get 500, they get 300 gold), co-op race, farm decorations, harvest and gift reminders. Rides now stay on the road and drop you beside the car. People, dogs, animals and vehicles no longer pass through each other or buildings. Fixed the image upload error in feedback."
+},
+{
 "v": 209,
 "d": "2026-10-23",
 "tr": "Duyurulara 'Görüşümü yaz' butonu eklendi; yönetim gerektiğinde hatalı gönderilen altını geri alabiliyor.",
