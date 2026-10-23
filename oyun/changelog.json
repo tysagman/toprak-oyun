@@ -1,5 +1,11 @@
 [
 {
+"v": 206,
+"d": "2026-10-23",
+"tr": "Çalışanlar düzeltildi: Pazarlamacı Burak artık sandıktaki yem, tohum, buğday ve görev malzemelerini satmıyor (Murat ve Ayşe bu yüzden çalışamıyordu). Bir çalışan işini yapamazsa nedenini mesajla bildiriyor (sandıkta yem/tohum yok, sandık dolu).",
+"en": "Workers fixed: salesman Burak no longer sells feed, seeds, wheat or quest materials from the chest (that stopped Murat and Ayşe from working). If a worker can't do a job, they now message you why (no feed/seeds in chest, chest full)."
+},
+{
 "v": 205,
 "d": "2026-10-23",
 "tr": "Harita 2 kat büyüdü: dağların ardında Kuzey Diyarı (Çamlıbel, Akpınar, Karaçam ormanı, taş ocağı, değirmen, Kartal Tepesi). 26 yeni görev (toplam 52, Perde 3 ve 4). Köylerde ve şehirde yüzlerce yeni insan; kadın karakterler daha çok ve daha gerçekçi. Kuzeye otobüs hattı. Telsiz artık bölge kanalında. Görevler takılmasın diye güvenlik ağı; turistle durakta konuşma ve köy ismi değiştirme düzeltildi.",
