@@ -1,5 +1,11 @@
 [
 {
+"v": 252,
+"d": "2026-10-24",
+"tr": "Banka: kredi çektikten hemen sonra yanlışlıkla \"Kapat\"a basınca kredi faiziyle kapanıyordu. Artık erken kapatma onay istiyor ve kalan günlerin faizi alınmıyor (aynı gün kapatırsan sadece aldığın parayı geri ödersin). Bu yüzden faiz kesilen oyunculara faiz hesaplarına iade edildi. Mera: \"Merayı genişlet\" gibi yapı görevlerinde görev kutusunda artık \"Çiftlikte aç\" düğmesi var, doğrudan ilgili geliştirmeyi açar.",
+"en": "Bank: tapping \"Close\" right after taking a loan closed it with full interest. Early payoff now asks for confirmation and skips the interest for the remaining days (closing on the same day repays only what you borrowed). Players who were charged this interest got it refunded to their account. Pasture: building quests like \"Expand the pasture\" now have an \"Open in Farm\" button in the quest box that opens the right upgrade."
+},
+{
 "v": 251,
 "d": "2026-10-24",
 "tr": "Görev kartı artık her şeyi gösteriyor: görevin için gereken altın ve malzemeler canlı listede, elindeki miktarla birlikte (çanta ve sandık birlikte sayılır). Eksik malzemenin nereden bulunacağı ve 📍 ile yeri, nasıl yapılacağı ve ilgili ekrana giden düğme (Çiftlik, Çalışanlar, Banka…), görevin neden önemli olduğu ve sonra neyin açılacağı da yazıyor. Fiyatlar bölüme göre otomatik güncellenir. Hedefler ekranındaki hikâye görevine 📋 ile de açılır.",
