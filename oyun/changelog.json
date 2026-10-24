@@ -1,5 +1,11 @@
 [
 {
+"v": 226,
+"d": "2026-10-24",
+"tr": "Oyun artık çok daha uzun: hikâye 6 perdeye çıkacak, ilk adımda Perde 2 uzadı. Dedenin tarlasını geri almak için 25.000 altın, ilk inek, yavru büyütme ve kredi gerekiyor. Altın kazanmak zorlaştı: hediyeler, siparişler, iş ilanları ve faiz azaldı; alıp satmaktan kâr çıkmıyor. Binalar perde ilerledikçe pahalanıyor, çalışan maaşları da artıyor. Güneş panelleri havaya göre her sabah elektrik satıyor, dron sadece zirai ilaçlama yapıyor, su deposu her sabah susuz ekinleri suluyor, süsler köye turist getiriyor. Ev, sandık ve kümese yeni seviyeler eklendi. Bir oyun günü artık 60 dakika.",
+"en": "The game is now much longer: the story will grow to 6 acts, starting with a longer Act 2. Buying back Grandpa's field takes 25,000 gold, a first cow, raising a young animal and a loan. Earning gold is harder: gifts, orders, jobs and interest are lower, and buying to resell no longer pays. Buildings cost more as acts progress and wages rise too. Solar panels sell power each morning depending on the weather, the drone only sprays crops, the water tank waters dry crops every morning and decorations bring tourists. New levels for the house, chest and coop. A game day now lasts 60 minutes."
+},
+{
 "v": 225,
 "d": "2026-10-24",
 "tr": "Sesler: Ata ya da eşeğe binince nal sesi duyulur; adımda, tırısta ve dörtnalada ritim değişir, yolda taşa vuran nal, toprakta boğuk ses, dörtnalada atın nefesi. Otobüs, taksi ve şehirdeki arabaların motor ve yol sesi var; hızlandıkça devir yükselir, uzaklaştıkça ses azalır. Hepsi Ayarlar'daki efekt sesine uyar.",
