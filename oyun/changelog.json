@@ -1,5 +1,11 @@
 [
 {
+"v": 251,
+"d": "2026-10-24",
+"tr": "Görev kartı artık her şeyi gösteriyor: görevin için gereken altın ve malzemeler canlı listede, elindeki miktarla birlikte (çanta ve sandık birlikte sayılır). Eksik malzemenin nereden bulunacağı ve 📍 ile yeri, nasıl yapılacağı ve ilgili ekrana giden düğme (Çiftlik, Çalışanlar, Banka…), görevin neden önemli olduğu ve sonra neyin açılacağı da yazıyor. Fiyatlar bölüme göre otomatik güncellenir. Hedefler ekranındaki hikâye görevine 📋 ile de açılır.",
+"en": "The quest card now shows everything: the gold and materials you need in a live list with how many you have (bag and chest count together), where to find missing materials with a 📍 button, how to do it with a button to the right screen (Farm, Workers, Bank…), why the quest matters and what it unlocks next. Prices update automatically with the chapter. Also opens from the story quest in Goals via 📋."
+},
+{
 "v": 250,
 "d": "2026-10-24",
 "tr": "Silo, ambar ve diğer çiftlik yapıları artık bahçedeki meyve fidanlarının üstüne kurulmaz; bahçe büyüyünce de çakışmaz. Bir yapı kurulunca içine düşen taş ve ağaçlar hemen dışarı alınır. Taksi artık bütün bölgelere gider (kıyı, orman, çayır, vadi, yayla, geçit, değirmen dahil); yolu olmayan yerde en yakın yol kenarına bırakır ve ok hedefi gösterir. Şehir görevlerinde 'vardın' bildiriminin art arda gelmesi düzeltildi. Evlerin yan odunluğu ya da çardağı başka bir yapıya değmez.",
