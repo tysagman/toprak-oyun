@@ -1,5 +1,11 @@
 [
 {
+"v": 250,
+"d": "2026-10-24",
+"tr": "Silo, ambar ve diğer çiftlik yapıları artık bahçedeki meyve fidanlarının üstüne kurulmaz; bahçe büyüyünce de çakışmaz. Bir yapı kurulunca içine düşen taş ve ağaçlar hemen dışarı alınır. Taksi artık bütün bölgelere gider (kıyı, orman, çayır, vadi, yayla, geçit, değirmen dahil); yolu olmayan yerde en yakın yol kenarına bırakır ve ok hedefi gösterir. Şehir görevlerinde 'vardın' bildiriminin art arda gelmesi düzeltildi. Evlerin yan odunluğu ya da çardağı başka bir yapıya değmez.",
+"en": "Silos, barns and other farm buildings no longer sit on garden fruit saplings, even when the garden grows. Rocks and trees inside a new building are moved out right away. Taxis now go to every region (shore, forest, meadow, valley, plateau, pass, mill); where there is no road you are dropped at the nearest roadside and the arrow points the way. Fixed the repeating 'you arrived' notification on city quests. House woodsheds and arbors no longer overlap other buildings."
+},
+{
 "v": 249,
 "d": "2026-10-24",
 "tr": "Samsung telefonlarda çökme koruması güçlendirildi: araç motor sesleri daha az bellek kullanıyor, çökme sonrası oyun kendini hafifletiyor.",
@@ -348,10 +354,5 @@
 "v": 92,
 "tr": "Oyuncu pazarı ve online kasa: ürünlerini diğer oyunculara sat, onlardan al.",
 "en": "Player market and online vault: sell your goods to other players and buy from them."
-},
-{
-"v": 91,
-"tr": "Genel sohbet mesajları oyun ekranının üstünde görünüyor.",
-"en": "Global chat messages now appear at the top of the game screen."
 }
 ]
