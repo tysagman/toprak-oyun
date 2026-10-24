@@ -1,5 +1,11 @@
 [
  {
+  "v": 256,
+  "d": "2026-10-24",
+  "tr": "Görev kartındaki ve kişinin yanındaki düğme artık doğrudan doğru menüyü açar ve yapılacak satırı yanıp sönerek gösterir (ör. Merayı genişlet). Mera çiti Çiftlik menüsünden de kurulabilir.",
+  "en": "The button on the quest card and next to the quest person now opens the right menu directly and highlights the row to use (e.g. Expand the pasture). The pasture fence can also be built from the Farm menu."
+ },
+ {
   "v": 255,
   "d": "2026-10-24",
   "tr": "Banka: kredi taksiti ve sigorta primi kesilince mesaj gelir; hesapta para yoksa cepten ödendiği söylenir. Şubede gişe bankolarının arasından geçilemez.",
