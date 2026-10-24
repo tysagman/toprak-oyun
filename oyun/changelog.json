@@ -1,5 +1,11 @@
 [
  {
+  "v": 255,
+  "d": "2026-10-24",
+  "tr": "Banka: kredi taksiti ve sigorta primi kesilince mesaj gelir; hesapta para yoksa cepten ödendiği söylenir. Şubede gişe bankolarının arasından geçilemez.",
+  "en": "Bank: you get a message when a loan installment or insurance premium is charged, and you are told when it is paid from your pocket. You can no longer walk between the bank counters."
+ },
+ {
   "v": 254,
   "d": "2026-10-24",
   "tr": "Çalışanlar artık sormadan satmaz: Burak satış önerisi getirir, ne kadar satılacağını sen seçersin. Mert her sabah sefer planı hazırlar, kamyon yükünü sen onaylarsın. Çalışanlar sandığı en çok %65 doldurur.",
