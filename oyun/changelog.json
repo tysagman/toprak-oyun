@@ -1,5 +1,11 @@
 [
 {
+"v": 225,
+"d": "2026-10-24",
+"tr": "Sesler: Ata ya da eşeğe binince nal sesi duyulur; adımda, tırısta ve dörtnalada ritim değişir, yolda taşa vuran nal, toprakta boğuk ses, dörtnalada atın nefesi. Otobüs, taksi ve şehirdeki arabaların motor ve yol sesi var; hızlandıkça devir yükselir, uzaklaştıkça ses azalır. Hepsi Ayarlar'daki efekt sesine uyar.",
+"en": "Sounds: riding a horse or donkey now plays hoofbeats that change rhythm at walk, trot and gallop, with stone clatter on roads, a softer thud on dirt and the horse's breathing at a gallop. The bus, taxis and city cars have engine and road noise that revs up with speed and fades with distance. All follow the effects volume in Settings."
+},
+{
 "v": 224,
 "d": "2026-10-24",
 "tr": "Yeni çalışanlar: Arıcı Zehra kovanlara bakar ve balı sandığa koyar, Bahçıvan Cemil meyve ağaçlarını budar, sebze bahçesini eker, sular ve toplar. İkisi de oyun kapalıyken çalışır ve 'Sen yokken' raporunda görünür. Sulama kanalı artık gerçekteki gibi: ana ark tarlanın başından akar, su karıklarla ekin sıralarının arasından parsellerin içinden geçer.",
