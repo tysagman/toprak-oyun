@@ -1,293 +1,299 @@
 [
-{
-"v": 235,
-"d": "2026-10-24",
-"tr": "Yeni: ☰ Diğer menüsünde ve Ayarlar'da «Sık sorulan sorular» bölümü: başlangıç, görevler ve perdeler, çalışanlar ve «Sen yokken» raporu, sandık ve çanta, pazar ve altın, araç çağırma, kooperatif, hesap ve kurtarma kodu, hesap silme, kayıt ve grafik ayarları. Köy meydanındaki Hamza Usta anıtının yazısı artık «Köyün Kurucusu».",
-"en": "New: an «FAQ» section in the ☰ Other menu and in Settings: getting started, quests and acts, workers and the «While you were away» report, chest and bag, market and gold, calling a ride, co-ops, account and recovery code, deleting your account, saving and graphics settings. The Master Hamza monument in the village square now reads «Village Founder»."
-},
-{
-"v": 234,
-"d": "2026-10-24",
-"tr": "Ağaç keserken, taş kırarken ve ot yolarken karakter artık hedefin içine girmez; uygun mesafede, yüzü hedefe dönük durur.",
-"en": "When chopping trees, breaking stones or gathering grass, your character no longer clips into the target; they stand at the right distance, facing it."
-},
-{
-"v": 233,
-"d": "2026-10-24",
-"tr": "Camiye giriş düzeltildi. Arka planda küçük iyileştirmeler: oyun ilerlemen destek ekibine daha doğru görünüyor, sorunlara daha hızlı yardım edebiliyoruz.",
-"en": "Mosque entrance fixed. Small background improvements: your progress now shows more accurately to the support team so we can help faster."
-},
-{
-"v": 231,
-"d": "2026-10-24",
-"tr": "Perde 3 artık Köyün Umudu: dede konağından sonra hikâye sürüyor. 17 yeni görev, merayı 30 hayvana kadar büyütme, her sabah sütü peynire çeviren mandıra, Hazar'da süt kooperatifi, Demirkol'un fiyat kırma oyunu ve Hazar Bank'ın yeni müdürü Nevzat Bey.",
-"en": "Act 3 is now The Village's Hope: the story goes on after grandpa's mansion. 17 new quests, a pasture that grows up to 30 animals, a dairy that turns milk into cheese every morning, a milk cooperative in Hazar, Demirkol's price war and Nevzat Bey, the new manager of Hazar Bank."
-},
-{
-"v": 230,
-"d": "2026-10-24",
-"tr": "Oduncu Hamit artık günde bir kez değil, 08:00–18:00 arası her saat sandığa odun, ot ve taş getirir. Bir çalışana dokununca şu an ne yaptığı ve sıradaki teslimin ne zaman olacağı görünür. Camiye giriş düzeltildi: şadırvan artık yolu kesmiyor, kapının önüne gelince içeri gir düğmesi çıkıyor.",
-"en": "Woodcutter Hamit now brings wood, hay and stone to the chest every hour from 08:00 to 18:00 instead of once a day. Tap a worker to see what they're doing now and when the next delivery is. Mosque entrance fixed: the fountain no longer blocks the way, the enter button appears in front of the door."
-},
-{
-"v": 229,
-"d": "2026-10-24",
-"tr": "Çalışanlar yem ya da tohum bitince pazardan pazar fiyatıyla alıp işine devam eder; bedel kasandan düşer, altın yetmezse nedenini yazar. Köylüler ve dükkânlar 07:00'de açılır, 23:00'e kadar çalışır; muhtarlar bazı sabahlar biraz gecikir. Silo, ambar, su deposu ve güneş panelleri artık ahırın ya da başka yapıların üstüne kurulmaz, çakışanlar boş yere taşındı. Sandık yükseltilince yanına yeni sandık eklenmez, sandığın kendisi büyür.",
-"en": "When feed or seeds run out, workers buy them at market price and keep working; the cost comes out of your gold, and if it isn't enough they tell you why. Villagers and shops open at 07:00 and work until 23:00; the village heads are sometimes a little late. The silo, barn, water tank and solar panels no longer get built on top of the stable or other buildings, and overlapping ones were moved to free spots. Upgrading the chest now makes the chest itself bigger instead of adding another chest beside it."
-},
-{
-"v": 228,
-"d": "2026-10-24",
-"tr": "Artık kullanıcı adıyla da giriş yapabilirsin (kayıtta e-posta yine gerekli). Misafir olarak oynadıysan hesap açınca ya da giriş yapınca ilerlemen korunur; iki kayıt çakışırsa seçmediğin kayıt kurtarma koduyla yedeklenir.",
-"en": "You can now sign in with a username too (email is still required to register). Guest progress is kept when you sign up or sign in; if two saves clash, the one you don't pick is backed up with a recovery code."
-},
-{
-"v": 227,
-"d": "2026-10-24",
-"tr": "Çalışanlar: kısa süre oyundan çıkınca artık tam gün yevmiye kesilmiyor; işi olmayan çalışana yevmiye ödenmez, 'Sen yokken' raporu yevmiyeyi, satışı ve sandığa gelenlerin değerini ayrı gösterir. Oduncu Hamit gün içinde 11:00, 15:00 ve 18:00'de odun, ot ve taş getirir. İtibar seviyen sol üst panelde; dokununca her seviyede neyin açıldığı yazar (en yüksek seviye 10). Kurye paketi elinde taşınır; teslim yalnızca kişi yanındayken olur, evdeyse kapıyı çalarsın. Traktöre binip sürebilirsin, üstünden geçtiğin tarla derin sürülür. LED akşam yanar. Yumurta bandı yerine yumurta rafları geldi, yumurtaları Murat toplar. Römork kaldırıldı (150 A iade), hasat çantaya gelir. Banklara oturup dinlenebilirsin. Köpek kulübesi çatısı ve ahırdaki ata binme düzeltildi. Altın, enerji, sağlık ve açlık sıfırın altına düşmez. Samsung'da çökme olursa grafik kendiliğinden hafifler.",
-"en": "Workers: short breaks no longer cost a full day's wages; idle workers aren't paid, and the 'While you were away' report shows wages, sales and the value of what reached the chest. Woodcutter Hamit now brings wood, grass and stone at 11:00, 15:00 and 18:00. Your reputation level is shown top left; tap it to see what each level unlocks (max level 10). The courier parcel is carried in your hands; deliveries only work when the person is there, and you can knock if they're home. You can drive the tractor and plough the field by driving over it. The LED lights work in the evening. Egg racks replace the egg conveyor and Murat collects the eggs. The trailer was removed (150 G refunded) and the harvest goes to your bag. You can sit on benches to rest. Fixed the dog kennel roof and riding the horse in the stable. Gold, energy, health and hunger never go below zero. On Samsung the graphics lower themselves after a crash."
-},
-{
-"v": 226,
-"d": "2026-10-24",
-"tr": "Oyun artık çok daha uzun: hikâye 6 perdeye çıkacak, ilk adımda Perde 2 uzadı. Dedenin tarlasını geri almak için 25.000 altın, ilk inek, yavru büyütme ve kredi gerekiyor. Altın kazanmak zorlaştı: hediyeler, siparişler, iş ilanları ve faiz azaldı; alıp satmaktan kâr çıkmıyor. Binalar perde ilerledikçe pahalanıyor, çalışan maaşları da artıyor. Güneş panelleri havaya göre her sabah elektrik satıyor, dron sadece zirai ilaçlama yapıyor, su deposu her sabah susuz ekinleri suluyor, süsler köye turist getiriyor. Ev, sandık ve kümese yeni seviyeler eklendi. Bir oyun günü artık 60 dakika.",
-"en": "The game is now much longer: the story will grow to 6 acts, starting with a longer Act 2. Buying back Grandpa's field takes 25,000 gold, a first cow, raising a young animal and a loan. Earning gold is harder: gifts, orders, jobs and interest are lower, and buying to resell no longer pays. Buildings cost more as acts progress and wages rise too. Solar panels sell power each morning depending on the weather, the drone only sprays crops, the water tank waters dry crops every morning and decorations bring tourists. New levels for the house, chest and coop. A game day now lasts 60 minutes."
-},
-{
-"v": 225,
-"d": "2026-10-24",
-"tr": "Sesler: Ata ya da eşeğe binince nal sesi duyulur; adımda, tırısta ve dörtnalada ritim değişir, yolda taşa vuran nal, toprakta boğuk ses, dörtnalada atın nefesi. Otobüs, taksi ve şehirdeki arabaların motor ve yol sesi var; hızlandıkça devir yükselir, uzaklaştıkça ses azalır. Hepsi Ayarlar'daki efekt sesine uyar.",
-"en": "Sounds: riding a horse or donkey now plays hoofbeats that change rhythm at walk, trot and gallop, with stone clatter on roads, a softer thud on dirt and the horse's breathing at a gallop. The bus, taxis and city cars have engine and road noise that revs up with speed and fades with distance. All follow the effects volume in Settings."
-},
-{
-"v": 224,
-"d": "2026-10-24",
-"tr": "Yeni çalışanlar: Arıcı Zehra kovanlara bakar ve balı sandığa koyar, Bahçıvan Cemil meyve ağaçlarını budar, sebze bahçesini eker, sular ve toplar. İkisi de oyun kapalıyken çalışır ve 'Sen yokken' raporunda görünür. Sulama kanalı artık gerçekteki gibi: ana ark tarlanın başından akar, su karıklarla ekin sıralarının arasından parsellerin içinden geçer.",
-"en": "New workers: Beekeeper Zehra tends the hives and puts honey in the chest, Gardener Cemil prunes the fruit trees and plants, waters and picks the vegetable garden. Both work while the game is closed and show up in the 'While you were away' report. The irrigation canal is now realistic: the main ditch runs along the head of the field and water flows through the plots in furrows between the crop rows."
-},
-{
-"v": 223,
-"d": "2026-10-24",
-"tr": "Araç artık köy ve kasaba meydanlarına, çiftlik avlusuna girmiyor, yapıların içinden geçmiyor; uzaktan görünüyor, insanlar önündeyse bekliyor, sen yürürsen yeni yerine geliyor ve yol kenarında duruyor. Tepelere ve bayırlara ağaçlar, sürüler, inekler ve yürüyen insanlar eklendi; hayvanlar insanların arasına girmiyor. Çamlıbel, Akpınar ve Hankendi kendiliğinden büyüyor. Bal kovanlarda birikiyor, yanına gidip topluyorsun. Sandıkta 1/5/10/25/hepsi seçimi var. Çanta 60'tan başlıyor, 90-120-200-300'e büyütülebiliyor. Kooperatif ekranına Yarış sekmesi eklendi. Hediye ve geri çekilen altın oyundayken anında işleniyor.",
-"en": "Cars no longer enter village squares or your farmyard or drive through buildings; they are visible from afar, wait for people, follow you if you move and stop at the roadside. Hills now have more trees, flocks, cows and walkers; animals keep away from people. Çamlıbel, Akpınar and Hankendi grow on their own. Honey builds up in the hives; go there to collect it. The chest has 1/5/10/25/all amounts. The bag starts at 60 and upgrades to 90-120-200-300. Added a Race tab to the co-op screen. Gifted or withdrawn gold now applies instantly while you play."
-},
-{
-"v": 222,
-"d": "2026-10-24",
-"tr": "Camide beş vakit namaz cemaatle kılınıyor, vakit dışında kaza namazı (rekatı sen seçersin). Minber merdiveni düzeltildi.",
-"en": "Five daily prayers in congregation at the mosque, make-up prayers outside prayer times (you choose the rak'ahs). Minbar stairs fixed."
-},
-{
-"v": 221,
-"d": "2026-10-24",
-"tr": "Araç çağırınca şoförün adı ve yüzü görünüyor; araç yoldan gelip seni bekliyor, gelince haber veriyor ve ok aracı gösteriyor; araç daha yavaş ve köyün içinden değil çevre yolundan gidiyor; yolculuk sonundaki çökme giderildi; kuleye merdivenle çıkılıp iniliyor; bazı cihazlarda çökmelere karşı koruma.",
-"en": "Calling a car now shows the driver's name and face; the car drives to you on the road, waits, tells you when it arrives and an arrow points to it; cars drive slower and use the ring road instead of the village; fixed a crash at the end of a ride; the tower now has a ladder; crash protection on some devices."
-},
-{
-"v": 220,
-"d": "2026-10-24",
-"tr": "Eve kapı açılarak giriliyor; köy meydanı genişledi; telsiz düğmesi yürümeyi engellemiyor; araç çağırınca farklı şoförler geliyor; içinden geçilen nesneler düzeltildi; binalar daha net.",
-"en": "Enter your house through the door; wider village square; radio button no longer blocks walking; different drivers answer your call; fixed walking through objects; sharper buildings."
-},
-{
-"v": 219,
-"d": "2026-10-24",
-"tr": "Haritalarda yakınlaştırma; köylüler 23:00'e kadar çalışıyor; Kartal Tepesi kulesine çıkılıyor; yatakta her yandan uyunuyor; görev yönlendirmesi ve portreler yenilendi.",
-"en": "Map zoom; villagers work until 23:00; you can climb the Eagle Hill tower; sleep from any side of the bed; quest guidance and portraits updated."
-},
-{
-"v": 218,
-"d": "2026-10-23",
-"tr": "Hatırlatma bildirimleri haftada bire indirildi.",
-"en": "Reminder notifications reduced to once a week."
-},
-{
-"v": 217,
-"d": "2026-10-23",
-"tr": "Günlük hediye çarpanı düzeltildi.",
-"en": "Daily gift multiplier fixed."
-},
-{
-"v": 216,
-"d": "2026-10-23",
-"tr": "Ayarlar › Hesap'a 'Hesabımı sil' eklendi; gizlilik politikası sayfası yayında.",
-"en": "Added 'Delete my account' to Settings › Account; privacy policy page is live."
-},
-{
-"v": 215,
-"d": "2026-10-23",
-"tr": "Yeni başlayanlar için daha sade başlangıç: butonlar görevler ilerledikçe açılıyor, ilk görevlerde ne yapacağın parlayarak gösteriliyor, açılış pencereleri ilk görevlerden sonra çıkıyor.",
-"en": "Simpler start for new players: buttons unlock as you progress, the first quests highlight what to do, and pop-ups wait until you've finished the first quests."
-},
-{
-"v": 214,
-"d": "2026-10-23",
-"tr": "Yemek yerken ekran artık kapanmıyor; arka arkaya yiyebilirsin.",
-"en": "The eat screen no longer closes after eating; you can eat several things in a row."
-},
-{
-"v": 213,
-"d": "2026-10-23",
-"tr": "Oyunda olmayan arkadaşların 'köyüne ziyarete geldi' diye görünmesi düzeltildi; oyunu arka plana alan oyuncu artık köyde görünmüyor, aynı kişi için bildirim 10 dakikada bir çıkıyor.",
-"en": "Fixed friends who are not playing showing up as 'came to visit your village'; players who put the game in the background no longer appear in the village, and the same visitor notice shows at most every 10 minutes."
-},
-{
-"v": 212,
-"d": "2026-10-23",
-"tr": "Uzaktan siparişte alınan ürünler artık doğrudan çantana geliyor (yer yoksa sandığına); listede çantadaki ve sandıktaki miktar görünüyor.",
-"en": "Remote orders now go straight to your bag (to the chest if the bag is full); the list shows how many you have in bag and chest."
-},
-{
-"v": 211,
-"d": "2026-10-23",
-"tr": "Günlük hediyeler büyüdü: her gün eşya + altın, 7. gün 2.000 altın; hikâyede ilerledikçe (Perde 3: 2 kat, Perde 4: 4 kat) ve seri uzadıkça daha da artıyor. Seri ödülleri: 14. gün 5.000 … 365. gün 300.000 altın.",
-"en": "Daily gifts are bigger: items + gold every day, 2,000 gold on day 7; they grow further as you progress in the story (Act 3: ×2, Act 4: ×4) and as your streak grows. Streak rewards: day 14: 5,000 … day 365: 300,000 gold."
-},
-{
-"v": 210,
-"d": "2026-10-23",
-"tr": "Günlük giriş hediyesi (her gün farklı, 7. gün altın kesesi, seri uzadıkça büyür; 14/30/60/100. gün büyük ödül). Haftalık görevler ve haftalık etkinlikler, arkadaş daveti (sen 500, o 300 altın), kooperatif yarışı, çiftlik süsleri, hasat ve hediye hatırlatma bildirimleri. Araç artık sadece yoldan gidiyor ve seni aracın yanına bırakıyor. İnsanlar, köpekler, hayvanlar ve araçlar birbirinin ve binaların içinden geçmiyor. Geri bildirimde görsel ekleme hatası düzeltildi.",
-"en": "Daily login gift (different every day, bag of gold on day 7, grows with your streak; big rewards on days 14/30/60/100). Weekly tasks and events, invite a friend (you get 500, they get 300 gold), co-op race, farm decorations, harvest and gift reminders. Rides now stay on the road and drop you beside the car. People, dogs, animals and vehicles no longer pass through each other or buildings. Fixed the image upload error in feedback."
-},
-{
-"v": 209,
-"d": "2026-10-23",
-"tr": "Duyurulara 'Görüşümü yaz' butonu eklendi; yönetim gerektiğinde hatalı gönderilen altını geri alabiliyor.",
-"en": "Announcements can now include a 'Write my feedback' button; admins can reverse mistakenly sent gold."
-},
-{
-"v": 208,
-"d": "2026-10-23",
-"tr": "Köy-şehir ve kuzey yolu üstüne 12 otobüs durağı eklendi; yol üstünden otobüse binebilirsin (06:00-22:00). Gece ya da otobüs yokken Araç sahibi Kadir ücret karşılığı seni köye, şehre veya istediğin yere götürüyor (☰ Diğer › Araç çağır, gece fiyatı 1,5 kat).",
-"en": "12 bus stops added along the village-city and northern roads; you can board the bus on the way (06:00-22:00). At night or when there's no bus, Kadir the driver takes you to the village, the city or anywhere you like for a fare (☰ More › Call a ride, night fare ×1.5)."
-},
-{
-"v": 207,
-"d": "2026-10-23",
-"tr": "Çalışanlar artık oyun kapalıyken de çalışıyor: Murat tavukları yemliyor ve yumurta topluyor, Ayşe tarlayı biçip yeniden ekiyor, Hamit odun-ot-taş topluyor, Burak fazlaları satıyor (en fazla 7 iş günü). Oyuna girince 'Sen yokken çiftlikte neler oldu' raporu çıkıyor.",
-"en": "Workers now work while the game is closed: Murat feeds the hens and collects eggs, Ayşe harvests and replants, Hamit gathers wood, grass and stone, Burak sells surplus (up to 7 work days). When you return you get a 'While you were away' report."
-},
-{
-"v": 206,
-"d": "2026-10-23",
-"tr": "Çalışanlar düzeltildi: Pazarlamacı Burak artık sandıktaki yem, tohum, buğday ve görev malzemelerini satmıyor (Murat ve Ayşe bu yüzden çalışamıyordu). Bir çalışan işini yapamazsa nedenini mesajla bildiriyor (sandıkta yem/tohum yok, sandık dolu).",
-"en": "Workers fixed: salesman Burak no longer sells feed, seeds, wheat or quest materials from the chest (that stopped Murat and Ayşe from working). If a worker can't do a job, they now message you why (no feed/seeds in chest, chest full)."
-},
-{
-"v": 205,
-"d": "2026-10-23",
-"tr": "Harita 2 kat büyüdü: dağların ardında Kuzey Diyarı (Çamlıbel, Akpınar, Karaçam ormanı, taş ocağı, değirmen, Kartal Tepesi). 26 yeni görev (toplam 52, Perde 3 ve 4). Köylerde ve şehirde yüzlerce yeni insan; kadın karakterler daha çok ve daha gerçekçi. Kuzeye otobüs hattı. Telsiz artık bölge kanalında. Görevler takılmasın diye güvenlik ağı; turistle durakta konuşma ve köy ismi değiştirme düzeltildi.",
-"en": "The map doubled: the Northern Lands beyond the mountains (Çamlıbel, Akpınar, Black Pine forest, quarry, mill, Eagle Hill). 26 new quests (52 total, Acts 3 and 4). Hundreds of new people in villages and the city; more and more realistic female characters. Bus line to the north. Walkie-talkie now uses regional channels. Quest safety net; fixed talking to tourists at the bus stop and renaming the village."
-},
-{
-"v": 204,
-"d": "2026-10-23",
-"tr": "v2.04: 👷 Çalışanlar ne yaptığını anlık bildiriyor, her sabah dünün iş raporu geliyor; geliştirme önerilerini onayına sunuyorlar. ☰ Alt menü sadeleşti (Köylüler, Harita, Ye artık 'Diğer' içinde). Turistlere çantandaki her ürünü satabilirsin. Sesli aramada doğrudan bağlantı kurulamazsa yedek hatla konuşmaya devam edilir. Misafirler de telsizle konuşabilir. Yoldaki ev kenara alındı.",
-"en": "v2.04: 👷 Workers report what they do, a daily work report arrives every morning and they propose upgrades for your approval. ☰ Simpler bottom bar (Villagers, Map, Eat moved to 'More'). Sell any product to tourists. Voice calls fall back to a backup line if a direct connection fails. Guests can use the walkie-talkie. A house on the road was moved."
-},
-{
-"v": 203,
-"d": "2026-10-23",
-"tr": "v2.03: 🏙️ Şehir merkezi artık daha uzakta. Ovadaki tarlalar araziye oturuyor, ekin sıraları var. Köylüler artık evlerin ve anıtın içinden geçmiyor. 🎙️ Telsiz ve durum paneli ayarlardan (Butonları düzenle) istediğin yere taşınabiliyor. Yeni taş çeşme, çiçekli pencereler, şehir binalarında kat silmeleri ve klimalar. Temel malzemeler (tohum, yem, odun, taş) her sabah yenileniyor.",
-"en": "v2.03: 🏙️ The city centre is now farther away. Plain fields follow the terrain with crop rows. Villagers no longer walk through houses and the monument. 🎙️ Walkie-talkie and the status panel can be moved via Settings › Edit buttons. New stone fountain, flower boxes, city building details. Basic supplies restock every morning."
-},
-{
-"v": 202,
-"d": "2026-10-23",
-"tr": "v2.02 büyük güncelleme: 🏘️ Klan artık Kooperatif. Köy meydanı genişledi; bölge ve yer adları her oyuncuya rastgele. Kaplıca, bağ, çay ocağı, kale ve ovanın sahipleri, daha çok insan, ağaç ve turist var. Otobüse inip binenler, turist haberleri. Kamp ateşini yak/söndür; kuzu çevirme ve tepsi yemekleri. Satıcıların stoğu biter, haftaya gelir. Sandık geliştirme, görünür sulama kanalı ve otomatik suluk. Köpekli çiftlikte hırsız önce köpeği yemle oyalamalı; köylüler hırsızlığı haber verir. Joystick'i sonuna kadar itince koşarsın; panel gizlenebilir. Misafirler için kurtarma kodu. Namaz için abdest gerekir, 2 rekât. Birçok hata düzeltildi.",
-"en": "v2.02 big update: 🏘️ Clans are now Co-ops. Bigger village square; random region and place names for every player. Spa, vineyard, tea house, castle and plain have owners; more people, trees and tourists. Bus passengers, tourist news. Light/put out the campfire; roast lamb and tray dishes. Vendors can sell out and restock weekly. Chest upgrades, visible irrigation and auto waterer. Guard dogs must be distracted with food before a raid; villagers report thefts. Push the joystick fully to run; the status panel can be hidden. Recovery code for guests. Many bug fixes."
-},
-{
-"v": 201,
-"d": "2026-10-23",
-"tr": "v2.01: 🌍 Yeni Dünya sekmesi: harita, sıralama (arkadaşlar/genel/klanlar), çevrimiçi arkadaşlar, sohbet, klan ve pazar tek yerde. Mesajlar artık sadece köy ve oyuncu mesajları. Birinin köyüne gidince ev sahibi çevrimiçiyse ok seni yanına götürür. Telsizde oyun sesi kesilmiyor; Bas konuş / Dokun / Hep açık seçenekleri. Hedeflerde perdenin tüm görevleri. Ana menü butonu Ayarlar'ın en üstünde. Kamp ateşi evden uzaklaştı.",
-"en": "v2.01: 🌍 New World tab: map, rankings (friends/overall/clans), online friends, chat, clan and market in one place. Messages now only village and player messages. When you visit a village and the host is online, an arrow guides you to them. Walkie-talkie no longer mutes game sound; Push to talk / Tap / Always on modes. All quests of the act in Goals. Main menu button at the top of Settings. Campfire moved away from the house."
-},
-{
-"v": 200,
-"d": "2026-10-22",
-"tr": "Toprağın Mirası v2.00! Oyun baştan sona hızlandırıldı: daha az takılma, daha az ısınma, daha uzun pil. Uzaktaki ağaçlar ve binalar daha hafif çiziliyor, grafik telefonuna göre ayarlanıyor.",
-"en": "Toprağın Mirası v2.00! The whole game is faster: less stutter, less heat, longer battery. Distant trees and buildings are lighter to draw and graphics adapt to your phone."
-},
-{
-"v": 103,
-"d": "2026-10-22",
-"tr": "Yeni: 🎙️ Telsiz! Soldaki mikrofona basılı tut, konuş; herkes ya da sadece arkadaşların duysun (Ayarlar). Grafik artık telefonuna göre otomatik ayarlanır; 30/60/90/120/165 FPS seçenekleri eklendi. Bölgene göre mescit, kilise ya da sinagog. Köydeki cami küçük bir mescide dönüştü. Ahır ve kümes evden uzaklaştırıldı. Dünya haritası bölgelere ayrıldı. Sesli arama ve sandık hataları düzeltildi.",
-"en": "New: 🎙️ Walkie-talkie! Hold the mic on the left and talk to everyone or just friends. Graphics now auto-tune to your phone; 30/60/90/120/165 FPS modes. Masjid, church or synagogue depending on your region. Stable and coop moved away from the house. World map shows regions. Voice call and chest bugs fixed."
-},
-{
-"v": 102,
-"d": "2026-10-22",
-"tr": "Yeni: Yurdunu kur! Oyun artık senin memleketinde geçebilir. Karadeniz, Ege, İç Anadolu, Akdeniz ya da Doğu'yu seç veya köyüne, şehrine, gölüne, dağına kendin ad koy. Tabelalar, görevler ve konuşmalar bu adları kullanır; doğanın rengi de bölgene göre değişir. Mesaj › Profilim › Yurdunu düzenle.",
-"en": "New: Build your homeland! Pick a region or name your own village, city, lake and mountain. Signs, quests and dialogue use your names, and nature's colours match your region. Messages › My profile › Edit your homeland."
-},
-{
-"v": 100,
-"d": "2026-10-22",
-"tr": "Yeni: Artık diğer oyuncuları canlı görüyorsun! Ortak alanlarda ve köy ziyaretlerinde birbirinizi görün; arkadaşlarını 📞 ile sesli ara.",
-"en": "New: See other players live! Meet in shared areas and on village visits; voice-call your friends with 📞."
-},
-{
-"v": 99,
-"d": "2026-10-22",
-"tr": "Yeni: Sıralama! Dünya sekmesinde en güçlü klanları ve en ileri çiftçileri gör.",
-"en": "New: Rankings! See the strongest clans and most advanced farmers in the World tab."
-},
-{
-"v": 98,
-"d": "2026-10-22",
-"tr": "Harita büyüdü! Elazığ yolunda 5 yeni yer: Hankendi kasabası (çay ocağı), Kürk Kaplıcası, Üzüm bağları, Harput Kalesi ve Uluova tarlaları. Keşfet, ödülleri topla.",
-"en": "The map grew! 5 new places on the Elazığ road: Hankendi town (tea house), Kürk Hot Spring, the Vineyards, Harput Castle and the Uluova fields. Explore them and collect rewards."
-},
-{
-"v": 96,
-"d": "2026-10-22",
-"tr": "Her oyuncunun köyü artık farklı görünüyor: ev renkleri, bahçeler, çitler ve köy süsleri sana özel. Güncelleme notları ekranı eklendi.",
-"en": "Every player's village now looks different: house colours, gardens, fences and decorations are unique to you. Added the update notes screen."
-},
-{
-"v": 95,
-"tr": "Baskınlar: komşu köylerin ambarına gizlice gir, çiftliğini köpek, çit ve gece nöbetçisiyle koru, intikam al.",
-"en": "Raids: sneak into neighbouring barns, protect your farm with dogs, a fence and a night guard, take revenge."
-},
-{
-"v": 94,
-"tr": "Klanlar ve ortaklık: klan kur, klan sohbeti, klan kasası ve seviyeleri (köy pazarında satış bonusu), arkadaşla ortak kasa.",
-"en": "Clans and partnerships: found a clan, clan chat, clan vault and levels (market sale bonus), shared vault with a friend."
-},
-{
-"v": 93,
-"tr": "Dünya haritası: bütün oyuncuların köyleri haritada; başkasının köyünü misafir olarak gez.",
-"en": "World map: every player's village on the map; visit other villages as a guest."
-},
-{
-"v": 92,
-"tr": "Oyuncu pazarı ve online kasa: ürünlerini diğer oyunculara sat, onlardan al.",
-"en": "Player market and online vault: sell your goods to other players and buy from them."
-},
-{
-"v": 91,
-"tr": "Genel sohbet mesajları oyun ekranının üstünde görünüyor.",
-"en": "Global chat messages now appear at the top of the game screen."
-},
-{
-"v": 90,
-"tr": "Topluluk: genel sohbet, arkadaşlar, özel mesaj ve profil (Mesaj düğmesi).",
-"en": "Community: global chat, friends, private messages and profile (Message button)."
-},
-{
-"v": 89,
-"tr": "Kod koruması, kullanım şartları ve hile takibi.",
-"en": "Code protection, terms of use and cheat tracking."
-},
-{
-"v": 88,
-"tr": "Çitlerden ve ev duvarlarından artık geçilmiyor.",
-"en": "You can no longer walk through fences and house walls."
-},
-{
-"v": 87,
-"tr": "Otobüs uçlarda düzgün dönüyor; sıkışınca otomatik kurtarma ve Ayarlar'da 'Takıldım' düğmesi.",
-"en": "The bus turns around properly; automatic rescue when stuck and an 'I'm stuck' button in Settings."
-}
+ {
+  "v": 236,
+  "d": "2026-10-24",
+  "tr": "Çalışanların artık günlük iş kapasitesi var. Kapasitesini dolduran çalışana prim verebilirsin: ertesi gün %20 daha çok ve hızlı çalışır. Hak ettiği primi alamayanın morali düşer. Burak %25 komisyon alıyor ve günde en çok maaşının 3 katı kadar satıyor. Ayşe'nin hasadı daha az. Yumurta, buğday, süt, peynir, bal, meyve ve sebzenin satış fiyatı düştü.",
+  "en": "Workers now have a daily work capacity. You can give a bonus to a worker who fills it: the next day they work 20% more and faster. Skipping an earned bonus lowers morale. Burak takes 25% commission and sells at most 3× his wage a day. Ayşe's harvest is smaller. Eggs, wheat, milk, cheese, honey, fruit and vegetables now sell for less."
+ },
+ {
+  "v": 235,
+  "d": "2026-10-24",
+  "tr": "Yeni: ☰ Diğer menüsünde ve Ayarlar'da «Sık sorulan sorular» bölümü: başlangıç, görevler ve perdeler, çalışanlar ve «Sen yokken» raporu, sandık ve çanta, pazar ve altın, araç çağırma, kooperatif, hesap ve kurtarma kodu, hesap silme, kayıt ve grafik ayarları. Köy meydanındaki Hamza Usta anıtının yazısı artık «Köyün Kurucusu».",
+  "en": "New: an «FAQ» section in the ☰ Other menu and in Settings: getting started, quests and acts, workers and the «While you were away» report, chest and bag, market and gold, calling a ride, co-ops, account and recovery code, deleting your account, saving and graphics settings. The Master Hamza monument in the village square now reads «Village Founder»."
+ },
+ {
+  "v": 234,
+  "d": "2026-10-24",
+  "tr": "Ağaç keserken, taş kırarken ve ot yolarken karakter artık hedefin içine girmez; uygun mesafede, yüzü hedefe dönük durur.",
+  "en": "When chopping trees, breaking stones or gathering grass, your character no longer clips into the target; they stand at the right distance, facing it."
+ },
+ {
+  "v": 233,
+  "d": "2026-10-24",
+  "tr": "Camiye giriş düzeltildi. Arka planda küçük iyileştirmeler: oyun ilerlemen destek ekibine daha doğru görünüyor, sorunlara daha hızlı yardım edebiliyoruz.",
+  "en": "Mosque entrance fixed. Small background improvements: your progress now shows more accurately to the support team so we can help faster."
+ },
+ {
+  "v": 231,
+  "d": "2026-10-24",
+  "tr": "Perde 3 artık Köyün Umudu: dede konağından sonra hikâye sürüyor. 17 yeni görev, merayı 30 hayvana kadar büyütme, her sabah sütü peynire çeviren mandıra, Hazar'da süt kooperatifi, Demirkol'un fiyat kırma oyunu ve Hazar Bank'ın yeni müdürü Nevzat Bey.",
+  "en": "Act 3 is now The Village's Hope: the story goes on after grandpa's mansion. 17 new quests, a pasture that grows up to 30 animals, a dairy that turns milk into cheese every morning, a milk cooperative in Hazar, Demirkol's price war and Nevzat Bey, the new manager of Hazar Bank."
+ },
+ {
+  "v": 230,
+  "d": "2026-10-24",
+  "tr": "Oduncu Hamit artık günde bir kez değil, 08:00–18:00 arası her saat sandığa odun, ot ve taş getirir. Bir çalışana dokununca şu an ne yaptığı ve sıradaki teslimin ne zaman olacağı görünür. Camiye giriş düzeltildi: şadırvan artık yolu kesmiyor, kapının önüne gelince içeri gir düğmesi çıkıyor.",
+  "en": "Woodcutter Hamit now brings wood, hay and stone to the chest every hour from 08:00 to 18:00 instead of once a day. Tap a worker to see what they're doing now and when the next delivery is. Mosque entrance fixed: the fountain no longer blocks the way, the enter button appears in front of the door."
+ },
+ {
+  "v": 229,
+  "d": "2026-10-24",
+  "tr": "Çalışanlar yem ya da tohum bitince pazardan pazar fiyatıyla alıp işine devam eder; bedel kasandan düşer, altın yetmezse nedenini yazar. Köylüler ve dükkânlar 07:00'de açılır, 23:00'e kadar çalışır; muhtarlar bazı sabahlar biraz gecikir. Silo, ambar, su deposu ve güneş panelleri artık ahırın ya da başka yapıların üstüne kurulmaz, çakışanlar boş yere taşındı. Sandık yükseltilince yanına yeni sandık eklenmez, sandığın kendisi büyür.",
+  "en": "When feed or seeds run out, workers buy them at market price and keep working; the cost comes out of your gold, and if it isn't enough they tell you why. Villagers and shops open at 07:00 and work until 23:00; the village heads are sometimes a little late. The silo, barn, water tank and solar panels no longer get built on top of the stable or other buildings, and overlapping ones were moved to free spots. Upgrading the chest now makes the chest itself bigger instead of adding another chest beside it."
+ },
+ {
+  "v": 228,
+  "d": "2026-10-24",
+  "tr": "Artık kullanıcı adıyla da giriş yapabilirsin (kayıtta e-posta yine gerekli). Misafir olarak oynadıysan hesap açınca ya da giriş yapınca ilerlemen korunur; iki kayıt çakışırsa seçmediğin kayıt kurtarma koduyla yedeklenir.",
+  "en": "You can now sign in with a username too (email is still required to register). Guest progress is kept when you sign up or sign in; if two saves clash, the one you don't pick is backed up with a recovery code."
+ },
+ {
+  "v": 227,
+  "d": "2026-10-24",
+  "tr": "Çalışanlar: kısa süre oyundan çıkınca artık tam gün yevmiye kesilmiyor; işi olmayan çalışana yevmiye ödenmez, 'Sen yokken' raporu yevmiyeyi, satışı ve sandığa gelenlerin değerini ayrı gösterir. Oduncu Hamit gün içinde 11:00, 15:00 ve 18:00'de odun, ot ve taş getirir. İtibar seviyen sol üst panelde; dokununca her seviyede neyin açıldığı yazar (en yüksek seviye 10). Kurye paketi elinde taşınır; teslim yalnızca kişi yanındayken olur, evdeyse kapıyı çalarsın. Traktöre binip sürebilirsin, üstünden geçtiğin tarla derin sürülür. LED akşam yanar. Yumurta bandı yerine yumurta rafları geldi, yumurtaları Murat toplar. Römork kaldırıldı (150 A iade), hasat çantaya gelir. Banklara oturup dinlenebilirsin. Köpek kulübesi çatısı ve ahırdaki ata binme düzeltildi. Altın, enerji, sağlık ve açlık sıfırın altına düşmez. Samsung'da çökme olursa grafik kendiliğinden hafifler.",
+  "en": "Workers: short breaks no longer cost a full day's wages; idle workers aren't paid, and the 'While you were away' report shows wages, sales and the value of what reached the chest. Woodcutter Hamit now brings wood, grass and stone at 11:00, 15:00 and 18:00. Your reputation level is shown top left; tap it to see what each level unlocks (max level 10). The courier parcel is carried in your hands; deliveries only work when the person is there, and you can knock if they're home. You can drive the tractor and plough the field by driving over it. The LED lights work in the evening. Egg racks replace the egg conveyor and Murat collects the eggs. The trailer was removed (150 G refunded) and the harvest goes to your bag. You can sit on benches to rest. Fixed the dog kennel roof and riding the horse in the stable. Gold, energy, health and hunger never go below zero. On Samsung the graphics lower themselves after a crash."
+ },
+ {
+  "v": 226,
+  "d": "2026-10-24",
+  "tr": "Oyun artık çok daha uzun: hikâye 6 perdeye çıkacak, ilk adımda Perde 2 uzadı. Dedenin tarlasını geri almak için 25.000 altın, ilk inek, yavru büyütme ve kredi gerekiyor. Altın kazanmak zorlaştı: hediyeler, siparişler, iş ilanları ve faiz azaldı; alıp satmaktan kâr çıkmıyor. Binalar perde ilerledikçe pahalanıyor, çalışan maaşları da artıyor. Güneş panelleri havaya göre her sabah elektrik satıyor, dron sadece zirai ilaçlama yapıyor, su deposu her sabah susuz ekinleri suluyor, süsler köye turist getiriyor. Ev, sandık ve kümese yeni seviyeler eklendi. Bir oyun günü artık 60 dakika.",
+  "en": "The game is now much longer: the story will grow to 6 acts, starting with a longer Act 2. Buying back Grandpa's field takes 25,000 gold, a first cow, raising a young animal and a loan. Earning gold is harder: gifts, orders, jobs and interest are lower, and buying to resell no longer pays. Buildings cost more as acts progress and wages rise too. Solar panels sell power each morning depending on the weather, the drone only sprays crops, the water tank waters dry crops every morning and decorations bring tourists. New levels for the house, chest and coop. A game day now lasts 60 minutes."
+ },
+ {
+  "v": 225,
+  "d": "2026-10-24",
+  "tr": "Sesler: Ata ya da eşeğe binince nal sesi duyulur; adımda, tırısta ve dörtnalada ritim değişir, yolda taşa vuran nal, toprakta boğuk ses, dörtnalada atın nefesi. Otobüs, taksi ve şehirdeki arabaların motor ve yol sesi var; hızlandıkça devir yükselir, uzaklaştıkça ses azalır. Hepsi Ayarlar'daki efekt sesine uyar.",
+  "en": "Sounds: riding a horse or donkey now plays hoofbeats that change rhythm at walk, trot and gallop, with stone clatter on roads, a softer thud on dirt and the horse's breathing at a gallop. The bus, taxis and city cars have engine and road noise that revs up with speed and fades with distance. All follow the effects volume in Settings."
+ },
+ {
+  "v": 224,
+  "d": "2026-10-24",
+  "tr": "Yeni çalışanlar: Arıcı Zehra kovanlara bakar ve balı sandığa koyar, Bahçıvan Cemil meyve ağaçlarını budar, sebze bahçesini eker, sular ve toplar. İkisi de oyun kapalıyken çalışır ve 'Sen yokken' raporunda görünür. Sulama kanalı artık gerçekteki gibi: ana ark tarlanın başından akar, su karıklarla ekin sıralarının arasından parsellerin içinden geçer.",
+  "en": "New workers: Beekeeper Zehra tends the hives and puts honey in the chest, Gardener Cemil prunes the fruit trees and plants, waters and picks the vegetable garden. Both work while the game is closed and show up in the 'While you were away' report. The irrigation canal is now realistic: the main ditch runs along the head of the field and water flows through the plots in furrows between the crop rows."
+ },
+ {
+  "v": 223,
+  "d": "2026-10-24",
+  "tr": "Araç artık köy ve kasaba meydanlarına, çiftlik avlusuna girmiyor, yapıların içinden geçmiyor; uzaktan görünüyor, insanlar önündeyse bekliyor, sen yürürsen yeni yerine geliyor ve yol kenarında duruyor. Tepelere ve bayırlara ağaçlar, sürüler, inekler ve yürüyen insanlar eklendi; hayvanlar insanların arasına girmiyor. Çamlıbel, Akpınar ve Hankendi kendiliğinden büyüyor. Bal kovanlarda birikiyor, yanına gidip topluyorsun. Sandıkta 1/5/10/25/hepsi seçimi var. Çanta 60'tan başlıyor, 90-120-200-300'e büyütülebiliyor. Kooperatif ekranına Yarış sekmesi eklendi. Hediye ve geri çekilen altın oyundayken anında işleniyor.",
+  "en": "Cars no longer enter village squares or your farmyard or drive through buildings; they are visible from afar, wait for people, follow you if you move and stop at the roadside. Hills now have more trees, flocks, cows and walkers; animals keep away from people. Çamlıbel, Akpınar and Hankendi grow on their own. Honey builds up in the hives; go there to collect it. The chest has 1/5/10/25/all amounts. The bag starts at 60 and upgrades to 90-120-200-300. Added a Race tab to the co-op screen. Gifted or withdrawn gold now applies instantly while you play."
+ },
+ {
+  "v": 222,
+  "d": "2026-10-24",
+  "tr": "Camide beş vakit namaz cemaatle kılınıyor, vakit dışında kaza namazı (rekatı sen seçersin). Minber merdiveni düzeltildi.",
+  "en": "Five daily prayers in congregation at the mosque, make-up prayers outside prayer times (you choose the rak'ahs). Minbar stairs fixed."
+ },
+ {
+  "v": 221,
+  "d": "2026-10-24",
+  "tr": "Araç çağırınca şoförün adı ve yüzü görünüyor; araç yoldan gelip seni bekliyor, gelince haber veriyor ve ok aracı gösteriyor; araç daha yavaş ve köyün içinden değil çevre yolundan gidiyor; yolculuk sonundaki çökme giderildi; kuleye merdivenle çıkılıp iniliyor; bazı cihazlarda çökmelere karşı koruma.",
+  "en": "Calling a car now shows the driver's name and face; the car drives to you on the road, waits, tells you when it arrives and an arrow points to it; cars drive slower and use the ring road instead of the village; fixed a crash at the end of a ride; the tower now has a ladder; crash protection on some devices."
+ },
+ {
+  "v": 220,
+  "d": "2026-10-24",
+  "tr": "Eve kapı açılarak giriliyor; köy meydanı genişledi; telsiz düğmesi yürümeyi engellemiyor; araç çağırınca farklı şoförler geliyor; içinden geçilen nesneler düzeltildi; binalar daha net.",
+  "en": "Enter your house through the door; wider village square; radio button no longer blocks walking; different drivers answer your call; fixed walking through objects; sharper buildings."
+ },
+ {
+  "v": 219,
+  "d": "2026-10-24",
+  "tr": "Haritalarda yakınlaştırma; köylüler 23:00'e kadar çalışıyor; Kartal Tepesi kulesine çıkılıyor; yatakta her yandan uyunuyor; görev yönlendirmesi ve portreler yenilendi.",
+  "en": "Map zoom; villagers work until 23:00; you can climb the Eagle Hill tower; sleep from any side of the bed; quest guidance and portraits updated."
+ },
+ {
+  "v": 218,
+  "d": "2026-10-23",
+  "tr": "Hatırlatma bildirimleri haftada bire indirildi.",
+  "en": "Reminder notifications reduced to once a week."
+ },
+ {
+  "v": 217,
+  "d": "2026-10-23",
+  "tr": "Günlük hediye çarpanı düzeltildi.",
+  "en": "Daily gift multiplier fixed."
+ },
+ {
+  "v": 216,
+  "d": "2026-10-23",
+  "tr": "Ayarlar › Hesap'a 'Hesabımı sil' eklendi; gizlilik politikası sayfası yayında.",
+  "en": "Added 'Delete my account' to Settings › Account; privacy policy page is live."
+ },
+ {
+  "v": 215,
+  "d": "2026-10-23",
+  "tr": "Yeni başlayanlar için daha sade başlangıç: butonlar görevler ilerledikçe açılıyor, ilk görevlerde ne yapacağın parlayarak gösteriliyor, açılış pencereleri ilk görevlerden sonra çıkıyor.",
+  "en": "Simpler start for new players: buttons unlock as you progress, the first quests highlight what to do, and pop-ups wait until you've finished the first quests."
+ },
+ {
+  "v": 214,
+  "d": "2026-10-23",
+  "tr": "Yemek yerken ekran artık kapanmıyor; arka arkaya yiyebilirsin.",
+  "en": "The eat screen no longer closes after eating; you can eat several things in a row."
+ },
+ {
+  "v": 213,
+  "d": "2026-10-23",
+  "tr": "Oyunda olmayan arkadaşların 'köyüne ziyarete geldi' diye görünmesi düzeltildi; oyunu arka plana alan oyuncu artık köyde görünmüyor, aynı kişi için bildirim 10 dakikada bir çıkıyor.",
+  "en": "Fixed friends who are not playing showing up as 'came to visit your village'; players who put the game in the background no longer appear in the village, and the same visitor notice shows at most every 10 minutes."
+ },
+ {
+  "v": 212,
+  "d": "2026-10-23",
+  "tr": "Uzaktan siparişte alınan ürünler artık doğrudan çantana geliyor (yer yoksa sandığına); listede çantadaki ve sandıktaki miktar görünüyor.",
+  "en": "Remote orders now go straight to your bag (to the chest if the bag is full); the list shows how many you have in bag and chest."
+ },
+ {
+  "v": 211,
+  "d": "2026-10-23",
+  "tr": "Günlük hediyeler büyüdü: her gün eşya + altın, 7. gün 2.000 altın; hikâyede ilerledikçe (Perde 3: 2 kat, Perde 4: 4 kat) ve seri uzadıkça daha da artıyor. Seri ödülleri: 14. gün 5.000 … 365. gün 300.000 altın.",
+  "en": "Daily gifts are bigger: items + gold every day, 2,000 gold on day 7; they grow further as you progress in the story (Act 3: ×2, Act 4: ×4) and as your streak grows. Streak rewards: day 14: 5,000 … day 365: 300,000 gold."
+ },
+ {
+  "v": 210,
+  "d": "2026-10-23",
+  "tr": "Günlük giriş hediyesi (her gün farklı, 7. gün altın kesesi, seri uzadıkça büyür; 14/30/60/100. gün büyük ödül). Haftalık görevler ve haftalık etkinlikler, arkadaş daveti (sen 500, o 300 altın), kooperatif yarışı, çiftlik süsleri, hasat ve hediye hatırlatma bildirimleri. Araç artık sadece yoldan gidiyor ve seni aracın yanına bırakıyor. İnsanlar, köpekler, hayvanlar ve araçlar birbirinin ve binaların içinden geçmiyor. Geri bildirimde görsel ekleme hatası düzeltildi.",
+  "en": "Daily login gift (different every day, bag of gold on day 7, grows with your streak; big rewards on days 14/30/60/100). Weekly tasks and events, invite a friend (you get 500, they get 300 gold), co-op race, farm decorations, harvest and gift reminders. Rides now stay on the road and drop you beside the car. People, dogs, animals and vehicles no longer pass through each other or buildings. Fixed the image upload error in feedback."
+ },
+ {
+  "v": 209,
+  "d": "2026-10-23",
+  "tr": "Duyurulara 'Görüşümü yaz' butonu eklendi; yönetim gerektiğinde hatalı gönderilen altını geri alabiliyor.",
+  "en": "Announcements can now include a 'Write my feedback' button; admins can reverse mistakenly sent gold."
+ },
+ {
+  "v": 208,
+  "d": "2026-10-23",
+  "tr": "Köy-şehir ve kuzey yolu üstüne 12 otobüs durağı eklendi; yol üstünden otobüse binebilirsin (06:00-22:00). Gece ya da otobüs yokken Araç sahibi Kadir ücret karşılığı seni köye, şehre veya istediğin yere götürüyor (☰ Diğer › Araç çağır, gece fiyatı 1,5 kat).",
+  "en": "12 bus stops added along the village-city and northern roads; you can board the bus on the way (06:00-22:00). At night or when there's no bus, Kadir the driver takes you to the village, the city or anywhere you like for a fare (☰ More › Call a ride, night fare ×1.5)."
+ },
+ {
+  "v": 207,
+  "d": "2026-10-23",
+  "tr": "Çalışanlar artık oyun kapalıyken de çalışıyor: Murat tavukları yemliyor ve yumurta topluyor, Ayşe tarlayı biçip yeniden ekiyor, Hamit odun-ot-taş topluyor, Burak fazlaları satıyor (en fazla 7 iş günü). Oyuna girince 'Sen yokken çiftlikte neler oldu' raporu çıkıyor.",
+  "en": "Workers now work while the game is closed: Murat feeds the hens and collects eggs, Ayşe harvests and replants, Hamit gathers wood, grass and stone, Burak sells surplus (up to 7 work days). When you return you get a 'While you were away' report."
+ },
+ {
+  "v": 206,
+  "d": "2026-10-23",
+  "tr": "Çalışanlar düzeltildi: Pazarlamacı Burak artık sandıktaki yem, tohum, buğday ve görev malzemelerini satmıyor (Murat ve Ayşe bu yüzden çalışamıyordu). Bir çalışan işini yapamazsa nedenini mesajla bildiriyor (sandıkta yem/tohum yok, sandık dolu).",
+  "en": "Workers fixed: salesman Burak no longer sells feed, seeds, wheat or quest materials from the chest (that stopped Murat and Ayşe from working). If a worker can't do a job, they now message you why (no feed/seeds in chest, chest full)."
+ },
+ {
+  "v": 205,
+  "d": "2026-10-23",
+  "tr": "Harita 2 kat büyüdü: dağların ardında Kuzey Diyarı (Çamlıbel, Akpınar, Karaçam ormanı, taş ocağı, değirmen, Kartal Tepesi). 26 yeni görev (toplam 52, Perde 3 ve 4). Köylerde ve şehirde yüzlerce yeni insan; kadın karakterler daha çok ve daha gerçekçi. Kuzeye otobüs hattı. Telsiz artık bölge kanalında. Görevler takılmasın diye güvenlik ağı; turistle durakta konuşma ve köy ismi değiştirme düzeltildi.",
+  "en": "The map doubled: the Northern Lands beyond the mountains (Çamlıbel, Akpınar, Black Pine forest, quarry, mill, Eagle Hill). 26 new quests (52 total, Acts 3 and 4). Hundreds of new people in villages and the city; more and more realistic female characters. Bus line to the north. Walkie-talkie now uses regional channels. Quest safety net; fixed talking to tourists at the bus stop and renaming the village."
+ },
+ {
+  "v": 204,
+  "d": "2026-10-23",
+  "tr": "v2.04: 👷 Çalışanlar ne yaptığını anlık bildiriyor, her sabah dünün iş raporu geliyor; geliştirme önerilerini onayına sunuyorlar. ☰ Alt menü sadeleşti (Köylüler, Harita, Ye artık 'Diğer' içinde). Turistlere çantandaki her ürünü satabilirsin. Sesli aramada doğrudan bağlantı kurulamazsa yedek hatla konuşmaya devam edilir. Misafirler de telsizle konuşabilir. Yoldaki ev kenara alındı.",
+  "en": "v2.04: 👷 Workers report what they do, a daily work report arrives every morning and they propose upgrades for your approval. ☰ Simpler bottom bar (Villagers, Map, Eat moved to 'More'). Sell any product to tourists. Voice calls fall back to a backup line if a direct connection fails. Guests can use the walkie-talkie. A house on the road was moved."
+ },
+ {
+  "v": 203,
+  "d": "2026-10-23",
+  "tr": "v2.03: 🏙️ Şehir merkezi artık daha uzakta. Ovadaki tarlalar araziye oturuyor, ekin sıraları var. Köylüler artık evlerin ve anıtın içinden geçmiyor. 🎙️ Telsiz ve durum paneli ayarlardan (Butonları düzenle) istediğin yere taşınabiliyor. Yeni taş çeşme, çiçekli pencereler, şehir binalarında kat silmeleri ve klimalar. Temel malzemeler (tohum, yem, odun, taş) her sabah yenileniyor.",
+  "en": "v2.03: 🏙️ The city centre is now farther away. Plain fields follow the terrain with crop rows. Villagers no longer walk through houses and the monument. 🎙️ Walkie-talkie and the status panel can be moved via Settings › Edit buttons. New stone fountain, flower boxes, city building details. Basic supplies restock every morning."
+ },
+ {
+  "v": 202,
+  "d": "2026-10-23",
+  "tr": "v2.02 büyük güncelleme: 🏘️ Klan artık Kooperatif. Köy meydanı genişledi; bölge ve yer adları her oyuncuya rastgele. Kaplıca, bağ, çay ocağı, kale ve ovanın sahipleri, daha çok insan, ağaç ve turist var. Otobüse inip binenler, turist haberleri. Kamp ateşini yak/söndür; kuzu çevirme ve tepsi yemekleri. Satıcıların stoğu biter, haftaya gelir. Sandık geliştirme, görünür sulama kanalı ve otomatik suluk. Köpekli çiftlikte hırsız önce köpeği yemle oyalamalı; köylüler hırsızlığı haber verir. Joystick'i sonuna kadar itince koşarsın; panel gizlenebilir. Misafirler için kurtarma kodu. Namaz için abdest gerekir, 2 rekât. Birçok hata düzeltildi.",
+  "en": "v2.02 big update: 🏘️ Clans are now Co-ops. Bigger village square; random region and place names for every player. Spa, vineyard, tea house, castle and plain have owners; more people, trees and tourists. Bus passengers, tourist news. Light/put out the campfire; roast lamb and tray dishes. Vendors can sell out and restock weekly. Chest upgrades, visible irrigation and auto waterer. Guard dogs must be distracted with food before a raid; villagers report thefts. Push the joystick fully to run; the status panel can be hidden. Recovery code for guests. Many bug fixes."
+ },
+ {
+  "v": 201,
+  "d": "2026-10-23",
+  "tr": "v2.01: 🌍 Yeni Dünya sekmesi: harita, sıralama (arkadaşlar/genel/klanlar), çevrimiçi arkadaşlar, sohbet, klan ve pazar tek yerde. Mesajlar artık sadece köy ve oyuncu mesajları. Birinin köyüne gidince ev sahibi çevrimiçiyse ok seni yanına götürür. Telsizde oyun sesi kesilmiyor; Bas konuş / Dokun / Hep açık seçenekleri. Hedeflerde perdenin tüm görevleri. Ana menü butonu Ayarlar'ın en üstünde. Kamp ateşi evden uzaklaştı.",
+  "en": "v2.01: 🌍 New World tab: map, rankings (friends/overall/clans), online friends, chat, clan and market in one place. Messages now only village and player messages. When you visit a village and the host is online, an arrow guides you to them. Walkie-talkie no longer mutes game sound; Push to talk / Tap / Always on modes. All quests of the act in Goals. Main menu button at the top of Settings. Campfire moved away from the house."
+ },
+ {
+  "v": 200,
+  "d": "2026-10-22",
+  "tr": "Toprağın Mirası v2.00! Oyun baştan sona hızlandırıldı: daha az takılma, daha az ısınma, daha uzun pil. Uzaktaki ağaçlar ve binalar daha hafif çiziliyor, grafik telefonuna göre ayarlanıyor.",
+  "en": "Toprağın Mirası v2.00! The whole game is faster: less stutter, less heat, longer battery. Distant trees and buildings are lighter to draw and graphics adapt to your phone."
+ },
+ {
+  "v": 103,
+  "d": "2026-10-22",
+  "tr": "Yeni: 🎙️ Telsiz! Soldaki mikrofona basılı tut, konuş; herkes ya da sadece arkadaşların duysun (Ayarlar). Grafik artık telefonuna göre otomatik ayarlanır; 30/60/90/120/165 FPS seçenekleri eklendi. Bölgene göre mescit, kilise ya da sinagog. Köydeki cami küçük bir mescide dönüştü. Ahır ve kümes evden uzaklaştırıldı. Dünya haritası bölgelere ayrıldı. Sesli arama ve sandık hataları düzeltildi.",
+  "en": "New: 🎙️ Walkie-talkie! Hold the mic on the left and talk to everyone or just friends. Graphics now auto-tune to your phone; 30/60/90/120/165 FPS modes. Masjid, church or synagogue depending on your region. Stable and coop moved away from the house. World map shows regions. Voice call and chest bugs fixed."
+ },
+ {
+  "v": 102,
+  "d": "2026-10-22",
+  "tr": "Yeni: Yurdunu kur! Oyun artık senin memleketinde geçebilir. Karadeniz, Ege, İç Anadolu, Akdeniz ya da Doğu'yu seç veya köyüne, şehrine, gölüne, dağına kendin ad koy. Tabelalar, görevler ve konuşmalar bu adları kullanır; doğanın rengi de bölgene göre değişir. Mesaj › Profilim › Yurdunu düzenle.",
+  "en": "New: Build your homeland! Pick a region or name your own village, city, lake and mountain. Signs, quests and dialogue use your names, and nature's colours match your region. Messages › My profile › Edit your homeland."
+ },
+ {
+  "v": 100,
+  "d": "2026-10-22",
+  "tr": "Yeni: Artık diğer oyuncuları canlı görüyorsun! Ortak alanlarda ve köy ziyaretlerinde birbirinizi görün; arkadaşlarını 📞 ile sesli ara.",
+  "en": "New: See other players live! Meet in shared areas and on village visits; voice-call your friends with 📞."
+ },
+ {
+  "v": 99,
+  "d": "2026-10-22",
+  "tr": "Yeni: Sıralama! Dünya sekmesinde en güçlü klanları ve en ileri çiftçileri gör.",
+  "en": "New: Rankings! See the strongest clans and most advanced farmers in the World tab."
+ },
+ {
+  "v": 98,
+  "d": "2026-10-22",
+  "tr": "Harita büyüdü! Elazığ yolunda 5 yeni yer: Hankendi kasabası (çay ocağı), Kürk Kaplıcası, Üzüm bağları, Harput Kalesi ve Uluova tarlaları. Keşfet, ödülleri topla.",
+  "en": "The map grew! 5 new places on the Elazığ road: Hankendi town (tea house), Kürk Hot Spring, the Vineyards, Harput Castle and the Uluova fields. Explore them and collect rewards."
+ },
+ {
+  "v": 96,
+  "d": "2026-10-22",
+  "tr": "Her oyuncunun köyü artık farklı görünüyor: ev renkleri, bahçeler, çitler ve köy süsleri sana özel. Güncelleme notları ekranı eklendi.",
+  "en": "Every player's village now looks different: house colours, gardens, fences and decorations are unique to you. Added the update notes screen."
+ },
+ {
+  "v": 95,
+  "tr": "Baskınlar: komşu köylerin ambarına gizlice gir, çiftliğini köpek, çit ve gece nöbetçisiyle koru, intikam al.",
+  "en": "Raids: sneak into neighbouring barns, protect your farm with dogs, a fence and a night guard, take revenge."
+ },
+ {
+  "v": 94,
+  "tr": "Klanlar ve ortaklık: klan kur, klan sohbeti, klan kasası ve seviyeleri (köy pazarında satış bonusu), arkadaşla ortak kasa.",
+  "en": "Clans and partnerships: found a clan, clan chat, clan vault and levels (market sale bonus), shared vault with a friend."
+ },
+ {
+  "v": 93,
+  "tr": "Dünya haritası: bütün oyuncuların köyleri haritada; başkasının köyünü misafir olarak gez.",
+  "en": "World map: every player's village on the map; visit other villages as a guest."
+ },
+ {
+  "v": 92,
+  "tr": "Oyuncu pazarı ve online kasa: ürünlerini diğer oyunculara sat, onlardan al.",
+  "en": "Player market and online vault: sell your goods to other players and buy from them."
+ },
+ {
+  "v": 91,
+  "tr": "Genel sohbet mesajları oyun ekranının üstünde görünüyor.",
+  "en": "Global chat messages now appear at the top of the game screen."
+ },
+ {
+  "v": 90,
+  "tr": "Topluluk: genel sohbet, arkadaşlar, özel mesaj ve profil (Mesaj düğmesi).",
+  "en": "Community: global chat, friends, private messages and profile (Message button)."
+ },
+ {
+  "v": 89,
+  "tr": "Kod koruması, kullanım şartları ve hile takibi.",
+  "en": "Code protection, terms of use and cheat tracking."
+ },
+ {
+  "v": 88,
+  "tr": "Çitlerden ve ev duvarlarından artık geçilmiyor.",
+  "en": "You can no longer walk through fences and house walls."
+ },
+ {
+  "v": 87,
+  "tr": "Otobüs uçlarda düzgün dönüyor; sıkışınca otomatik kurtarma ve Ayarlar'da 'Takıldım' düğmesi.",
+  "en": "The bus turns around properly; automatic rescue when stuck and an 'I'm stuck' button in Settings."
+ }
 ]
