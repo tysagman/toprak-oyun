@@ -1,5 +1,11 @@
 [
  {
+  "v": 258,
+  "d": "2026-10-24",
+  "tr": "Görevdeki kişi artık günün her saatinde bulunur: gece evindeyse kapısına git ve 🚪 Kapıyı çal, dışarı çıkar. Görev kartında kişinin nerede olduğu, şu an ne yaptığı ve ne zaman bulunduğu yazar. Bazı görevlerin 'nasıl yapılır' yolları düzeltildi (ev geliştirme, geniş sandık) ve balık, mera, yavru, banka görevlerinde 📍 ok doğru yeri gösterir.",
+  "en": "The quest person can now be found at any hour: if they are home at night, go to their door and 🚪 Knock and they come out. The quest card shows where the person is, what they are doing and when to find them. Some 'how to' paths were fixed (house upgrades, wide chest) and the 📍 arrow now points to the right place for fishing, pasture, newborn and bank quests."
+ },
+ {
   "v": 257,
   "d": "2026-10-24",
   "tr": "Taksi listede yazan ücreti keser, mesafeler doğru gösterilir. İki köylü yan yanayken düğme en yakınını açar. '8 odun topla' ve '1.600 altın biriktir' kartları doğru sayar. Bölüm 1 sonunda tarla bedeli doğru (50.000 A) yazar. Gizli keşif ödülü ekranda görünür. Ormanda 'Yol gösteriliyor' bildirimi tekrar tekrar çıkmaz.",
@@ -352,34 +358,5 @@
   "d": "2026-10-22",
   "tr": "Yeni: Yurdunu kur! Oyun artık senin memleketinde geçebilir. Karadeniz, Ege, İç Anadolu, Akdeniz ya da Doğu'yu seç veya köyüne, şehrine, gölüne, dağına kendin ad koy. Tabelalar, görevler ve konuşmalar bu adları kullanır; doğanın rengi de bölgene göre değişir. Mesaj › Profilim › Yurdunu düzenle.",
   "en": "New: Build your homeland! Pick a region or name your own village, city, lake and mountain. Signs, quests and dialogue use your names, and nature's colours match your region. Messages › My profile › Edit your homeland."
- },
- {
-  "v": 100,
-  "d": "2026-10-22",
-  "tr": "Yeni: Artık diğer oyuncuları canlı görüyorsun! Ortak alanlarda ve köy ziyaretlerinde birbirinizi görün; arkadaşlarını 📞 ile sesli ara.",
-  "en": "New: See other players live! Meet in shared areas and on village visits; voice-call your friends with 📞."
- },
- {
-  "v": 99,
-  "d": "2026-10-22",
-  "tr": "Yeni: Sıralama! Dünya sekmesinde en güçlü klanları ve en ileri çiftçileri gör.",
-  "en": "New: Rankings! See the strongest clans and most advanced farmers in the World tab."
- },
- {
-  "v": 98,
-  "d": "2026-10-22",
-  "tr": "Harita büyüdü! Elazığ yolunda 5 yeni yer: Hankendi kasabası (çay ocağı), Kürk Kaplıcası, Üzüm bağları, Harput Kalesi ve Uluova tarlaları. Keşfet, ödülleri topla.",
-  "en": "The map grew! 5 new places on the Elazığ road: Hankendi town (tea house), Kürk Hot Spring, the Vineyards, Harput Castle and the Uluova fields. Explore them and collect rewards."
- },
- {
-  "v": 96,
-  "d": "2026-10-22",
-  "tr": "Her oyuncunun köyü artık farklı görünüyor: ev renkleri, bahçeler, çitler ve köy süsleri sana özel. Güncelleme notları ekranı eklendi.",
-  "en": "Every player's village now looks different: house colours, gardens, fences and decorations are unique to you. Added the update notes screen."
- },
- {
-  "v": 95,
-  "tr": "Baskınlar: komşu köylerin ambarına gizlice gir, çiftliğini köpek, çit ve gece nöbetçisiyle koru, intikam al.",
-  "en": "Raids: sneak into neighbouring barns, protect your farm with dogs, a fence and a night guard, take revenge."
  }
 ]
