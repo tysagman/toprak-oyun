@@ -1,5 +1,11 @@
 [
 {
+"v": 244,
+"d": "2026-10-24",
+"tr": "Karakter artık ineğin ve atın içinden geçmez; inekler camiye ya da binalara takılmaz. Çağrılan araç yolu kullanır, yanına gelince durur ve hemen binebilirsin; araç kartı görev kartının altına yerleşti. Çamlıbel ve Akpınar'da yol artık meydanın içinden değil kenarından geçer. Köylülerin bir işi var: çiftçi, pazarcı, bahçıvan, marangoz; sadece turistler ve yolcular dolaşır. Meyve bahçesi silonun içinden alınıp boş bir yere taşındı. Sandıkta seçilen miktar (1, 5, 10, 25, hepsi) artık doğru uygulanır.",
+"en": "Your character no longer walks through cows and horses; cows no longer get stuck on the mosque or buildings. Called cars use the road, stop next to you and you can board right away; the car card now sits below the quest card. In Çamlıbel and Akpınar the road now passes beside the square, not through it. Villagers have jobs (farmer, market seller, gardener, carpenter); only tourists and travellers wander. The orchard was moved away from the silo. The chosen chest amount (1, 5, 10, 25, all) now works correctly."
+},
+{
 "v": 243,
 "d": "2026-10-24",
 "tr": "Bahçıvan Cemil artık bahçede gün boyu görünür şekilde çalışıyor: kapıdan girip sıra aralarından yatağa yürüyor, sebze ekiyor, suluyor, topluyor ve boş yerlere meyve fidanı dikiyor. Tohum ya da fidan yoksa pazardan az miktarda alıyor. Yataklar hep doluysa bahçeyi büyütmeyi öneriyor; onaylarsan büyütüyor (fiyat bölüme göre artar).",
