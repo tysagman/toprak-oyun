@@ -1,5 +1,11 @@
 [
 {
+"v": 241,
+"d": "2026-10-24",
+"tr": "Düzeltmeler: itibar artık kesirli birikmiyor; tuzağa elma, kayısı, dut ve üzüm de yem olur; çanta doluyken toplama enerji harcamaz; mera çitinden geçilmez ve çit sandıktaki odunu da sayar; sebze bahçesi görevi yeni oyunda bedava geçmez; göl adlarında Türkçe ekler düzeldi (Yeşilgöl'de), turist memleketi ekleri düzeldi (İzmir'den); kümes kapasite yazıları doğru; Selim köprüden sonra eski sözünü söylemez.",
+"en": "Fixes: reputation no longer builds up in odd fractions; apples, apricots, mulberries and grapes work as trap bait; gathering with a full bag no longer costs energy; you can't walk through the pasture fence and it now counts wood in the chest; the vegetable garden quest is no longer free in new games; Turkish suffixes on lake names and tourist hometowns fixed; coop capacity texts corrected; Selim no longer talks about the broken bridge after it's rebuilt."
+},
+{
 "v": 240,
 "d": "2026-10-24",
 "tr": "Yol gösterme: sağ üstteki 🧭 düğmesinden ya da haritadan bir yer veya kişi seç; mavi ok ve yerdeki mavi çizgi seni yollardan oraya götürür. Yürürken, ata binmişken ya da araçla çalışır, varınca kendiliğinden kapanır. Görev oku (sarı) ayrı kalır.",
