@@ -1,5 +1,11 @@
 [
 {
+"v": 253,
+"d": "2026-10-24",
+"tr": "Pil tasarrufu güçlendi: uygulama arka plandayken oyun tamamen durur. Beklerken (8 saniye dokunulmazsa) 15 FPS, menüler açıkken 8 FPS. Gölgeler daha seyrek hesaplanıyor, uzaktaki kalabalık ve çimen azaltıldı. Pil %20 altındayken ve şarjda değilken en hafif moda geçer. Kare hızı sınırına 45 FPS seçeneği eklendi.",
+"en": "Stronger battery saver: the game fully pauses in the background, runs at 15 FPS when idle (8 s without touch) and 8 FPS in menus, updates shadows less often and trims far crowds and grass. Below 20% battery (not charging) it switches to the lightest mode. Added a 45 FPS option."
+},
+{
 "v": 252,
 "d": "2026-10-24",
 "tr": "Banka: kredi çektikten hemen sonra yanlışlıkla \"Kapat\"a basınca kredi faiziyle kapanıyordu. Artık erken kapatma onay istiyor ve kalan günlerin faizi alınmıyor (aynı gün kapatırsan sadece aldığın parayı geri ödersin). Bu yüzden faiz kesilen oyunculara faiz hesaplarına iade edildi. Mera: \"Merayı genişlet\" gibi yapı görevlerinde görev kutusunda artık \"Çiftlikte aç\" düğmesi var, doğrudan ilgili geliştirmeyi açar.",
@@ -351,20 +357,5 @@
 "v": 95,
 "tr": "Baskınlar: komşu köylerin ambarına gizlice gir, çiftliğini köpek, çit ve gece nöbetçisiyle koru, intikam al.",
 "en": "Raids: sneak into neighbouring barns, protect your farm with dogs, a fence and a night guard, take revenge."
-},
-{
-"v": 94,
-"tr": "Klanlar ve ortaklık: klan kur, klan sohbeti, klan kasası ve seviyeleri (köy pazarında satış bonusu), arkadaşla ortak kasa.",
-"en": "Clans and partnerships: found a clan, clan chat, clan vault and levels (market sale bonus), shared vault with a friend."
-},
-{
-"v": 93,
-"tr": "Dünya haritası: bütün oyuncuların köyleri haritada; başkasının köyünü misafir olarak gez.",
-"en": "World map: every player's village on the map; visit other villages as a guest."
-},
-{
-"v": 92,
-"tr": "Oyuncu pazarı ve online kasa: ürünlerini diğer oyunculara sat, onlardan al.",
-"en": "Player market and online vault: sell your goods to other players and buy from them."
 }
 ]
