@@ -1,5 +1,11 @@
 [
  {
+  "v": 259,
+  "d": "2026-10-24",
+  "tr": "Şehirde arabalar artık birbirinin içinden geçmez: öndeki araca mesafe bırakır, kavşağa sırayla girer, karşı şeritte ayrı gider. Otobüs ve taksi de bu kurala uyar; taksi şehirde kaldırım dibinde bekler, trafiği kapatmaz. Köylülerin üstündeki simge balonları artık sadece yakındayken görünür (uzaktan ağaçların arkasında beyaz top gibi duruyordu).",
+  "en": "Cars in the city no longer drive through each other: they keep distance, take turns at crossings and stay in their lane. The bus and taxi follow the same rules; the taxi waits at the curb in the city without blocking traffic. Villager icon bubbles now only show when you are close (from afar they looked like white balls behind trees)."
+ },
+ {
   "v": 258,
   "d": "2026-10-24",
   "tr": "Görevdeki kişi artık günün her saatinde bulunur: gece evindeyse kapısına git ve 🚪 Kapıyı çal, dışarı çıkar. Görev kartında kişinin nerede olduğu, şu an ne yaptığı ve ne zaman bulunduğu yazar. Bazı görevlerin 'nasıl yapılır' yolları düzeltildi (ev geliştirme, geniş sandık) ve balık, mera, yavru, banka görevlerinde 📍 ok doğru yeri gösterir.",
