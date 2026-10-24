@@ -1,5 +1,11 @@
 [
 {
+"v": 229,
+"d": "2026-10-24",
+"tr": "Çalışanlar yem ya da tohum bitince pazardan pazar fiyatıyla alıp işine devam eder; bedel kasandan düşer, altın yetmezse nedenini yazar. Köylüler ve dükkânlar 07:00'de açılır, 23:00'e kadar çalışır; muhtarlar bazı sabahlar biraz gecikir. Silo, ambar, su deposu ve güneş panelleri artık ahırın ya da başka yapıların üstüne kurulmaz, çakışanlar boş yere taşındı. Sandık yükseltilince yanına yeni sandık eklenmez, sandığın kendisi büyür.",
+"en": "When feed or seeds run out, workers buy them at market price and keep working; the cost comes out of your gold, and if it isn't enough they tell you why. Villagers and shops open at 07:00 and work until 23:00; the village heads are sometimes a little late. The silo, barn, water tank and solar panels no longer get built on top of the stable or other buildings, and overlapping ones were moved to free spots. Upgrading the chest now makes the chest itself bigger instead of adding another chest beside it."
+},
+{
 "v": 228,
 "d": "2026-10-24",
 "tr": "Artık kullanıcı adıyla da giriş yapabilirsin (kayıtta e-posta yine gerekli). Misafir olarak oynadıysan hesap açınca ya da giriş yapınca ilerlemen korunur; iki kayıt çakışırsa seçmediğin kayıt kurtarma koduyla yedeklenir.",
