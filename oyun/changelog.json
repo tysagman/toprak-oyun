@@ -1,5 +1,11 @@
 [
 {
+"v": 249,
+"d": "2026-10-24",
+"tr": "Samsung telefonlarda çökme koruması güçlendirildi: araç motor sesleri daha az bellek kullanıyor, çökme sonrası oyun kendini hafifletiyor.",
+"en": "Stronger crash protection on Samsung phones: vehicle engine sounds use less memory, and the game lightens itself after a crash."
+},
+{
 "v": 248,
 "d": "2026-10-24",
 "tr": "Bölüm 3'teki \"Nevzat Bey ile tanış\" görevi düzeldi: bankada hesabın olmasa da Elazığ'daki Hazar Bank şubesine girince Nevzat Bey seni karşılıyor. Banka görevlerinde ok artık şehir merkezini değil, doğrudan banka kapısını gösteriyor.",
@@ -347,15 +353,5 @@
 "v": 91,
 "tr": "Genel sohbet mesajları oyun ekranının üstünde görünüyor.",
 "en": "Global chat messages now appear at the top of the game screen."
-},
-{
-"v": 90,
-"tr": "Topluluk: genel sohbet, arkadaşlar, özel mesaj ve profil (Mesaj düğmesi).",
-"en": "Community: global chat, friends, private messages and profile (Message button)."
-},
-{
-"v": 89,
-"tr": "Kod koruması, kullanım şartları ve hile takibi.",
-"en": "Code protection, terms of use and cheat tracking."
 }
 ]
