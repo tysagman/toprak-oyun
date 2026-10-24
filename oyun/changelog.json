@@ -1,5 +1,11 @@
 [
 {
+"v": 247,
+"d": "2026-10-24",
+"tr": "Görsel yenilik: güneş sabah ve akşam sıcak renkte, gün doğumu ve batımı daha güzel, gökyüzünde havaya göre bulutlar var. Göl kıyısında köpük ve su parıltısı, bacalardan duman, kelebekler ve rüzgârda sallanan ağaçlar eklendi. Evlerde farklı panjur renkleri, odunluk ve asma çardağı; fabrikalarda pencere ve kapı var. Kalabalıktaki insanlar daha düzgün görünüyor. Düşük grafik ayarında ek yük yok.",
+"en": "Visual refresh: warm morning and evening sunlight, nicer sunrise and sunset, weather-based clouds. Lake shore foam and sparkles, chimney smoke, butterflies and trees swaying in the wind. Houses get different shutter colors, woodsheds and grape arbors; factories get windows and doors. Crowd characters look better. No extra load on Low graphics."
+},
+{
 "v": 246,
 "d": "2026-10-24",
 "tr": "Oyun komple değişti! Bölüm 5 (Yollar ve Limanlar) ve Bölüm 6 (Miras) geldi: meslek okulunda akşam kursları ve diplomalar, burslu mühendis yetiştirme, Mühendis Kerem, Muhasebeci Nur ve Lojistikçi Mert, üç kamyon ve seferler, soğuk hava deposu, Mersin limanından ihracat, holding merkezi ve üç şirket, hastane, kütüphane ve Hasan Dede Vakfı. Satışta ekranda yazan fiyat artık hesaba yatan parayla aynı: her üründen günde ilk 40 tane tam fiyat, sonra fiyat yavaşça düşer ve önceden gösterilir. Odun, taş, ot ve meyve toplarken artık şansına göre 1 ile 5 arası ürün çıkar.",
@@ -345,15 +351,5 @@
 "v": 89,
 "tr": "Kod koruması, kullanım şartları ve hile takibi.",
 "en": "Code protection, terms of use and cheat tracking."
-},
-{
-"v": 88,
-"tr": "Çitlerden ve ev duvarlarından artık geçilmiyor.",
-"en": "You can no longer walk through fences and house walls."
-},
-{
-"v": 87,
-"tr": "Otobüs uçlarda düzgün dönüyor; sıkışınca otomatik kurtarma ve Ayarlar'da 'Takıldım' düğmesi.",
-"en": "The bus turns around properly; automatic rescue when stuck and an 'I'm stuck' button in Settings."
 }
 ]
