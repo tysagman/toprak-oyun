@@ -1,5 +1,11 @@
 [
 {
+"v": 248,
+"d": "2026-10-24",
+"tr": "Bölüm 3'teki \"Nevzat Bey ile tanış\" görevi düzeldi: bankada hesabın olmasa da Elazığ'daki Hazar Bank şubesine girince Nevzat Bey seni karşılıyor. Banka görevlerinde ok artık şehir merkezini değil, doğrudan banka kapısını gösteriyor.",
+"en": "The Chapter 3 quest \"Meet Mr. Nevzat\" is fixed: even without a bank account, Mr. Nevzat greets you when you enter the Hazar Bank branch in Elazığ. For bank quests the arrow now points straight to the bank door instead of the city center."
+},
+{
 "v": 247,
 "d": "2026-10-24",
 "tr": "Görsel yenilik: güneş sabah ve akşam sıcak renkte, gün doğumu ve batımı daha güzel, gökyüzünde havaya göre bulutlar var. Göl kıyısında köpük ve su parıltısı, bacalardan duman, kelebekler ve rüzgârda sallanan ağaçlar eklendi. Evlerde farklı panjur renkleri, odunluk ve asma çardağı; fabrikalarda pencere ve kapı var. Kalabalıktaki insanlar daha düzgün görünüyor. Düşük grafik ayarında ek yük yok.",
