@@ -1,5 +1,11 @@
 [
 {
+"v": 228,
+"d": "2026-10-24",
+"tr": "Artık kullanıcı adıyla da giriş yapabilirsin (kayıtta e-posta yine gerekli). Misafir olarak oynadıysan hesap açınca ya da giriş yapınca ilerlemen korunur; iki kayıt çakışırsa seçmediğin kayıt kurtarma koduyla yedeklenir.",
+"en": "You can now sign in with a username too (email is still required to register). Guest progress is kept when you sign up or sign in; if two saves clash, the one you don't pick is backed up with a recovery code."
+},
+{
 "v": 227,
 "d": "2026-10-24",
 "tr": "Çalışanlar: kısa süre oyundan çıkınca artık tam gün yevmiye kesilmiyor; işi olmayan çalışana yevmiye ödenmez, 'Sen yokken' raporu yevmiyeyi, satışı ve sandığa gelenlerin değerini ayrı gösterir. Oduncu Hamit gün içinde 11:00, 15:00 ve 18:00'de odun, ot ve taş getirir. İtibar seviyen sol üst panelde; dokununca her seviyede neyin açıldığı yazar (en yüksek seviye 10). Kurye paketi elinde taşınır; teslim yalnızca kişi yanındayken olur, evdeyse kapıyı çalarsın. Traktöre binip sürebilirsin, üstünden geçtiğin tarla derin sürülür. LED akşam yanar. Yumurta bandı yerine yumurta rafları geldi, yumurtaları Murat toplar. Römork kaldırıldı (150 A iade), hasat çantaya gelir. Banklara oturup dinlenebilirsin. Köpek kulübesi çatısı ve ahırdaki ata binme düzeltildi. Altın, enerji, sağlık ve açlık sıfırın altına düşmez. Samsung'da çökme olursa grafik kendiliğinden hafifler.",
