@@ -1,5 +1,11 @@
 [
 {
+"v": 234,
+"d": "2026-10-24",
+"tr": "Ağaç keserken, taş kırarken ve ot yolarken karakter artık hedefin içine girmez; uygun mesafede, yüzü hedefe dönük durur.",
+"en": "When chopping trees, breaking stones or gathering grass, your character no longer clips into the target; they stand at the right distance, facing it."
+},
+{
 "v": 233,
 "d": "2026-10-24",
 "tr": "Camiye giriş düzeltildi. Arka planda küçük iyileştirmeler: oyun ilerlemen destek ekibine daha doğru görünüyor, sorunlara daha hızlı yardım edebiliyoruz.",
