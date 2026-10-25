@@ -1,5 +1,11 @@
 [
  {
+  "v": 266,
+  "d": "2026-10-25",
+  "tr": "İnekler artık sen oyunda yokken de süt veriyor (en fazla 7 gün; mera dolunca fazlası bozulur, Çoban Osman varsa sandığa koyar). Mandıra da sen yokken sandıktaki sütten peynir yapıyor. Mandıra kuruluysa merada \"3 sütten peynir yap\" ile yaptığın peynir de \"Mandırada 60 peynir üret\" görevine sayılıyor (günde en çok 15).",
+  "en": "Cows now give milk while you are away (up to 7 days; extra milk spoils when the pasture is full, Shepherd Osman puts it in the chest). The dairy also makes cheese from chest milk while you are away. With a dairy built, cheese made at the pasture now counts for the \"Make 60 cheese at the dairy\" quest (up to 15 per day)."
+ },
+ {
   "v": 265,
   "d": "2026-10-25",
   "tr": "Panelde artık haftanın günü ve saat yazar (ör. Pazartesi · 14:30); gün herkeste aynıdır. Pazar günü pazar kurulur, fiyatlar yüksektir. Görev ve sipariş son tarihleri \"yarın\" ya da \"Salı (2 gün sonra)\" şeklinde yazar. Mesajlarda hayvanların adı yerine türü yazar (ör. \"bir inek kurtların saldırısına uğradı\").",
@@ -357,53 +363,5 @@
   "d": "2026-10-23",
   "tr": "Çalışanlar düzeltildi: Pazarlamacı Burak artık sandıktaki yem, tohum, buğday ve görev malzemelerini satmıyor (Murat ve Ayşe bu yüzden çalışamıyordu). Bir çalışan işini yapamazsa nedenini mesajla bildiriyor (sandıkta yem/tohum yok, sandık dolu).",
   "en": "Workers fixed: salesman Burak no longer sells feed, seeds, wheat or quest materials from the chest (that stopped Murat and Ayşe from working). If a worker can't do a job, they now message you why (no feed/seeds in chest, chest full)."
- },
- {
-  "v": 205,
-  "d": "2026-10-23",
-  "tr": "Harita 2 kat büyüdü: dağların ardında Kuzey Diyarı (Çamlıbel, Akpınar, Karaçam ormanı, taş ocağı, değirmen, Kartal Tepesi). 26 yeni görev (toplam 52, Perde 3 ve 4). Köylerde ve şehirde yüzlerce yeni insan; kadın karakterler daha çok ve daha gerçekçi. Kuzeye otobüs hattı. Telsiz artık bölge kanalında. Görevler takılmasın diye güvenlik ağı; turistle durakta konuşma ve köy ismi değiştirme düzeltildi.",
-  "en": "The map doubled: the Northern Lands beyond the mountains (Çamlıbel, Akpınar, Black Pine forest, quarry, mill, Eagle Hill). 26 new quests (52 total, Acts 3 and 4). Hundreds of new people in villages and the city; more and more realistic female characters. Bus line to the north. Walkie-talkie now uses regional channels. Quest safety net; fixed talking to tourists at the bus stop and renaming the village."
- },
- {
-  "v": 204,
-  "d": "2026-10-23",
-  "tr": "v2.04: 👷 Çalışanlar ne yaptığını anlık bildiriyor, her sabah dünün iş raporu geliyor; geliştirme önerilerini onayına sunuyorlar. ☰ Alt menü sadeleşti (Köylüler, Harita, Ye artık 'Diğer' içinde). Turistlere çantandaki her ürünü satabilirsin. Sesli aramada doğrudan bağlantı kurulamazsa yedek hatla konuşmaya devam edilir. Misafirler de telsizle konuşabilir. Yoldaki ev kenara alındı.",
-  "en": "v2.04: 👷 Workers report what they do, a daily work report arrives every morning and they propose upgrades for your approval. ☰ Simpler bottom bar (Villagers, Map, Eat moved to 'More'). Sell any product to tourists. Voice calls fall back to a backup line if a direct connection fails. Guests can use the walkie-talkie. A house on the road was moved."
- },
- {
-  "v": 203,
-  "d": "2026-10-23",
-  "tr": "v2.03: 🏙️ Şehir merkezi artık daha uzakta. Ovadaki tarlalar araziye oturuyor, ekin sıraları var. Köylüler artık evlerin ve anıtın içinden geçmiyor. 🎙️ Telsiz ve durum paneli ayarlardan (Butonları düzenle) istediğin yere taşınabiliyor. Yeni taş çeşme, çiçekli pencereler, şehir binalarında kat silmeleri ve klimalar. Temel malzemeler (tohum, yem, odun, taş) her sabah yenileniyor.",
-  "en": "v2.03: 🏙️ The city centre is now farther away. Plain fields follow the terrain with crop rows. Villagers no longer walk through houses and the monument. 🎙️ Walkie-talkie and the status panel can be moved via Settings › Edit buttons. New stone fountain, flower boxes, city building details. Basic supplies restock every morning."
- },
- {
-  "v": 202,
-  "d": "2026-10-23",
-  "tr": "v2.02 büyük güncelleme: 🏘️ Klan artık Kooperatif. Köy meydanı genişledi; bölge ve yer adları her oyuncuya rastgele. Kaplıca, bağ, çay ocağı, kale ve ovanın sahipleri, daha çok insan, ağaç ve turist var. Otobüse inip binenler, turist haberleri. Kamp ateşini yak/söndür; kuzu çevirme ve tepsi yemekleri. Satıcıların stoğu biter, haftaya gelir. Sandık geliştirme, görünür sulama kanalı ve otomatik suluk. Köpekli çiftlikte hırsız önce köpeği yemle oyalamalı; köylüler hırsızlığı haber verir. Joystick'i sonuna kadar itince koşarsın; panel gizlenebilir. Misafirler için kurtarma kodu. Namaz için abdest gerekir, 2 rekât. Birçok hata düzeltildi.",
-  "en": "v2.02 big update: 🏘️ Clans are now Co-ops. Bigger village square; random region and place names for every player. Spa, vineyard, tea house, castle and plain have owners; more people, trees and tourists. Bus passengers, tourist news. Light/put out the campfire; roast lamb and tray dishes. Vendors can sell out and restock weekly. Chest upgrades, visible irrigation and auto waterer. Guard dogs must be distracted with food before a raid; villagers report thefts. Push the joystick fully to run; the status panel can be hidden. Recovery code for guests. Many bug fixes."
- },
- {
-  "v": 201,
-  "d": "2026-10-23",
-  "tr": "v2.01: 🌍 Yeni Dünya sekmesi: harita, sıralama (arkadaşlar/genel/klanlar), çevrimiçi arkadaşlar, sohbet, klan ve pazar tek yerde. Mesajlar artık sadece köy ve oyuncu mesajları. Birinin köyüne gidince ev sahibi çevrimiçiyse ok seni yanına götürür. Telsizde oyun sesi kesilmiyor; Bas konuş / Dokun / Hep açık seçenekleri. Hedeflerde perdenin tüm görevleri. Ana menü butonu Ayarlar'ın en üstünde. Kamp ateşi evden uzaklaştı.",
-  "en": "v2.01: 🌍 New World tab: map, rankings (friends/overall/clans), online friends, chat, clan and market in one place. Messages now only village and player messages. When you visit a village and the host is online, an arrow guides you to them. Walkie-talkie no longer mutes game sound; Push to talk / Tap / Always on modes. All quests of the act in Goals. Main menu button at the top of Settings. Campfire moved away from the house."
- },
- {
-  "v": 200,
-  "d": "2026-10-22",
-  "tr": "Toprağın Mirası v2.00! Oyun baştan sona hızlandırıldı: daha az takılma, daha az ısınma, daha uzun pil. Uzaktaki ağaçlar ve binalar daha hafif çiziliyor, grafik telefonuna göre ayarlanıyor.",
-  "en": "Toprağın Mirası v2.00! The whole game is faster: less stutter, less heat, longer battery. Distant trees and buildings are lighter to draw and graphics adapt to your phone."
- },
- {
-  "v": 103,
-  "d": "2026-10-22",
-  "tr": "Yeni: 🎙️ Telsiz! Soldaki mikrofona basılı tut, konuş; herkes ya da sadece arkadaşların duysun (Ayarlar). Grafik artık telefonuna göre otomatik ayarlanır; 30/60/90/120/165 FPS seçenekleri eklendi. Bölgene göre mescit, kilise ya da sinagog. Köydeki cami küçük bir mescide dönüştü. Ahır ve kümes evden uzaklaştırıldı. Dünya haritası bölgelere ayrıldı. Sesli arama ve sandık hataları düzeltildi.",
-  "en": "New: 🎙️ Walkie-talkie! Hold the mic on the left and talk to everyone or just friends. Graphics now auto-tune to your phone; 30/60/90/120/165 FPS modes. Masjid, church or synagogue depending on your region. Stable and coop moved away from the house. World map shows regions. Voice call and chest bugs fixed."
- },
- {
-  "v": 102,
-  "d": "2026-10-22",
-  "tr": "Yeni: Yurdunu kur! Oyun artık senin memleketinde geçebilir. Karadeniz, Ege, İç Anadolu, Akdeniz ya da Doğu'yu seç veya köyüne, şehrine, gölüne, dağına kendin ad koy. Tabelalar, görevler ve konuşmalar bu adları kullanır; doğanın rengi de bölgene göre değişir. Mesaj › Profilim › Yurdunu düzenle.",
-  "en": "New: Build your homeland! Pick a region or name your own village, city, lake and mountain. Signs, quests and dialogue use your names, and nature's colours match your region. Messages › My profile › Edit your homeland."
  }
 ]
