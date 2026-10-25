@@ -1,5 +1,11 @@
 [
  {
+  "v": 275,
+  "d": "2026-10-25",
+  "tr": "Yemekler artık kullanılan malzemeye göre doyurur ve enerji verir (omlet haşlanmış yumurtadan fazla doyurur); mutfakta açlık ve enerji birlikte yazar. Pişmiş yemeklerin satış fiyatı malzemesine göre düzeltildi.",
+  "en": "Meals now fill you up and give energy in proportion to their ingredients (an omelette fills more than a boiled egg); the kitchen shows both hunger and energy. Cooked food sell prices now match their ingredients."
+ },
+ {
   "v": 274,
   "d": "2026-10-25",
   "tr": "Peynirde günlük 15 sınırı kalktı: merada elindeki sütün hepsini peynir yapabilirsin (yeni \"Hepsini peynir yap\" düğmesi) ve hepsi \"Mandırada 60 peynir üret\" görevine sayılır. Mandıranın her sabah kendiliğinden yaptığı peynir artık mandıra seviyesine bağlı: 15, 30, 60, 120 (🏗️ Çiftlik › Mandıra'dan geliştir).",
