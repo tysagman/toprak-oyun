@@ -1,5 +1,16 @@
 [
  {
+  "v": 264,
+  "d": "2026-10-25",
+  "tr": "Pazarlamacı Burak artık her sabah satış için sormaz. Ne zaman istersen Çalışanlar ekranında Burak'ın «💰 Sat» düğmesine bas ya da Burak'la konuş; her üründen kaç tane satılacağını sen yazarsın (Yarısı/Hepsi düğmeleri kalktı). Burak yine sen onaylamadan hiçbir şey satmaz; komisyon ve günlük satış sınırı aynı.",
+  "en": "Salesman Burak no longer asks every morning. Whenever you like, tap Burak's «💰 Sell» button in the Workers screen or talk to him; you type how many of each item to sell (the Half/All buttons are gone). Burak still never sells without your approval; commission and daily limit are unchanged.",
+  "de": "Verkäufer Burak fragt nicht mehr jeden Morgen. Wann immer du willst, tippe im Arbeiter-Bildschirm auf Buraks «💰 Verkaufen» oder sprich mit ihm; du gibst ein, wie viele von jeder Ware verkauft werden (die Knöpfe Hälfte/Alle sind weg). Burak verkauft weiterhin nichts ohne deine Zustimmung; Provision und Tageslimit bleiben gleich.",
+  "fr": "Le vendeur Burak ne demande plus chaque matin. Quand tu veux, touche le bouton «💰 Vendre» de Burak dans l'écran Employés ou parle-lui ; tu saisis combien de chaque produit vendre (les boutons Moitié/Tout ont disparu). Burak ne vend toujours rien sans ton accord ; commission et limite du jour inchangées.",
+  "es": "El vendedor Burak ya no pregunta cada mañana. Cuando quieras, toca el botón «💰 Vender» de Burak en la pantalla de Trabajadores o habla con él; tú escribes cuántas unidades de cada producto vender (ya no hay botones Mitad/Todo). Burak sigue sin vender nada sin tu permiso; la comisión y el límite diario no cambian.",
+  "ru": "Продавец Бурак больше не спрашивает каждое утро. Когда захочешь, нажми кнопку «💰 Продать» у Бурака на экране работников или поговори с ним; ты сам вписываешь, сколько каждого товара продать (кнопок «Половина/Всё» больше нет). Бурак по-прежнему ничего не продаёт без твоего согласия; комиссия и дневной лимит те же.",
+  "ku": "Firoşkar Burak êdî her sibe napirse. Kengî tu bixwazî, li ekrana Karkeran bişkoka «💰 Bifiroşe» ya Burak bitikîne an bi wî re biaxive; ji her berhemê çend heb bê firotin tu dinivîsî (bişkokên Nîv/Hemû rabûn). Burak dîsa bê erêya te tiştekî nafiroşe; komîsyon û sînorê rojane wek berê ne."
+ },
+ {
   "v": 263,
   "d": "2026-10-25",
   "tr": "Paneldeki tarih kalktı; artık sadece gün ve saat görünür (ör. Gün 12 · 14:30). Gün sayısı oyuna başladığın günden sayılır, sen yokken de ilerler (gerçek her saat bir oyun günü). Görev son tarihleri, siparişler, banka ödemeleri ve mesajlar da Gün olarak yazar.",
