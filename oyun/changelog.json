@@ -1,5 +1,16 @@
 [
  {
+  "v": 269,
+  "d": "2026-10-25",
+  "tr": "Köy ineklerinin ve atlarının akşam ahıra giderken binanın içinden geçmesi düzeldi: artık ahırın etrafından dolaşıp kapıdan giriyorlar, gündüz de evlerin içine girmiyorlar. Banklarda oturunca «😴 Dinlen» düğmesi çıkıyor; evdeki Dinlen kuralları aynen geçerli (8 saatte bir tam dinlenme, arada kısa mola).",
+  "en": "Fixed village cows and horses walking through buildings on their way to the barn in the evening: they now go around the barn and enter through the door, and they no longer wander into houses during the day. When you sit on a bench a «😴 Rest» button appears; the same Rest rules as at home apply (a full rest every 8 hours, a short break in between).",
+  "de": "Behoben: Kühe und Pferde des Dorfes liefen abends auf dem Weg zum Stall durch Gebäude. Jetzt gehen sie um den Stall herum und durch die Tür hinein, und tagsüber laufen sie nicht mehr in Häuser. Wenn du dich auf eine Bank setzt, erscheint der Knopf «😴 Ausruhen»; es gelten dieselben Regeln wie zu Hause (alle 8 Stunden volle Erholung, dazwischen eine kurze Pause).",
+  "fr": "Corrigé : les vaches et les chevaux du village traversaient les bâtiments en allant à l'étable le soir. Ils contournent maintenant l'étable et entrent par la porte, et ne rentrent plus dans les maisons la journée. Quand tu t'assois sur un banc, un bouton «😴 Se reposer» apparaît ; les mêmes règles qu'à la maison s'appliquent (repos complet toutes les 8 heures, courte pause entre les deux).",
+  "es": "Arreglado: las vacas y los caballos del pueblo atravesaban los edificios al ir al establo por la tarde. Ahora rodean el establo y entran por la puerta, y de día ya no se meten en las casas. Al sentarte en un banco aparece el botón «😴 Descansar»; se aplican las mismas reglas que en casa (descanso completo cada 8 horas, una pausa corta entre medias).",
+  "ru": "Исправлено: деревенские коровы и лошади вечером по пути в хлев проходили сквозь здания. Теперь они обходят хлев и заходят через дверь, а днём больше не забредают в дома. Когда садишься на скамейку, появляется кнопка «😴 Отдохнуть»; действуют те же правила, что и дома (полный отдых раз в 8 часов, между ними короткий перерыв).",
+  "ku": "Hate sererastkirin: çêlek û hespên gund êvarê dema diçûn axurê di nav avahiyan re derbas dibûn. Êdî ew li dora axurê dizivirin û ji derî dikevin hundir, bi roj jî nakevin nav xaniyan. Dema tu li ser textê rûdinî bişkoka «😴 Bêhna xwe veke» derdikeve; heman qaîdeyên malê derbasdar in (her 8 saetan bêhnvedanek tam, di navberê de bêhnvedanek kurt)."
+ },
+ {
   "v": 268,
   "d": "2026-10-25",
   "tr": "Çalışanlar: kadrolu ve günlükçü artık farklı. Günlükçünün yevmiyesi yalnız çalıştığı gün ödenir, para yetmezse hemen ayrılır. Kadrolu %20 daha ucuzdur ama maaşı iş olmasa da her gün işler ve 7 günde bir toplu ödenir; daha sadıktır, para yetmezse 2 hafta bekler. Çalışanlar ekranında maaş gününe kaç gün kaldığı ve biriken maaş yazıyor. Çalışana öğrettiğin yeni iş artık gerçekten yapılıyor ve bugün yapılanlar listesinde görünüyor. Öğrettiğin her iş açıkken maaşa günde küçük bir ek gelir, işi durdurunca ek düşer; ek ücret iş öğretirken yazıyor.",
