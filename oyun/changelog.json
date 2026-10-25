@@ -1,5 +1,11 @@
 [
  {
+  "v": 273,
+  "d": "2026-10-25",
+  "tr": "Süt artık litre ile gösteriliyor: ineklerin verdiği süt, sandık, mandıra, kooperatif ve satış ekranlarında \"12 L süt\" gibi yazar. Miktarlar ve fiyatlar değişmedi (1 süt = 1 L, 3 L süt = 1 peynir).",
+  "en": "Milk is now shown in liters: cows, chest, dairy, cooperative and sale screens show e.g. \"12 L milk\". Amounts and prices are unchanged (1 milk = 1 L, 3 L milk = 1 cheese)."
+ },
+ {
   "v": 272,
   "d": "2026-10-25",
   "tr": "Onarılan değirmende Yakup günde 40 buğdayı una çevirir; Murat'ın yevmiyesi ve hayvan fiyatları bölümle artar (satış alış fiyatını geçmez).",
