@@ -1,5 +1,11 @@
 [
  {
+  "v": 270,
+  "d": "2026-10-25",
+  "tr": "Kuzey ve doğu bölgelerinde yeni bir yere varınca 'Yeni yer keşfedildi' bildirimi artık bir kez çıkıyor.",
+  "en": "Arriving at a new place in the north and east now shows the 'New place discovered' notice only once."
+ },
+ {
   "v": 269,
   "d": "2026-10-25",
   "tr": "Köy ineklerinin ve atlarının akşam ahıra giderken binanın içinden geçmesi düzeldi: artık ahırın etrafından dolaşıp kapıdan giriyorlar, gündüz de evlerin içine girmiyorlar. Banklarda oturunca «😴 Dinlen» düğmesi çıkıyor; evdeki Dinlen kuralları aynen geçerli (8 saatte bir tam dinlenme, arada kısa mola).",
