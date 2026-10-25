@@ -1,5 +1,11 @@
 [
 {
+"v": 277,
+"d": "2026-10-25",
+"tr": "Sayılar artık düzgün yazılıyor: itibar ekranındaki \"1.6000000000000014\" gibi uzun ondalıklar kalktı (1,6 itibar). Altın, itibar ve diğer sayılar oyunun diline göre biçimlenir (Türkçe 1.234,5 · İngilizce 1,234.5).",
+"en": "Numbers now display cleanly: long decimals like \"1.6000000000000014\" on the reputation screen are gone (1.6 reputation). Gold, reputation and other numbers follow your language's format (English 1,234.5)."
+},
+{
 "v": 276,
 "d": "2026-10-25",
 "tr": "Sebze bahçesi ekranı netleşti: bahçeyi büyütürken eksik malzemede çantanda ve sandığında kaç tane olduğu yazıyor, sandık doluysa uyarıyor. Fide yoksa boş yatakta \"📱 Fide al\" düğmesi Tarım Market'i açıyor. Bahçe büyüyünce yatak sayısı doğru yazıyor.",
@@ -362,11 +368,5 @@
 "d": "2026-10-23",
 "tr": "Günlük hediye çarpanı düzeltildi.",
 "en": "Daily gift multiplier fixed."
-},
-{
-"v": 216,
-"d": "2026-10-23",
-"tr": "Ayarlar › Hesap'a 'Hesabımı sil' eklendi; gizlilik politikası sayfası yayında.",
-"en": "Added 'Delete my account' to Settings › Account; privacy policy page is live."
 }
 ]
