@@ -1,5 +1,11 @@
 [
  {
+  "v": 262,
+  "d": "2026-10-25",
+  "tr": "Oyun takvimi artık herkes için ortak: tarih, saat, mevsim ve hava bütün oyuncularda aynı ve sunucu saatinden gelir (gerçek her saat bir oyun günü). Sen yokken geçen süre takvime de işlenir; çalışanlar yine en fazla 7 gün çalışır, krediler ve görev süreleri bir anda kesilmez. Hava artık aya göre değişir (Mart'ta geç kar, Temmuz kurak, Kasım sisli), mevsim değişince haber gelir. Kışın ekinler durmaz, 3 kat yavaş büyür. Uyku artık saati ileri sarmaz, enerjini doldurur.",
+  "en": "The game calendar is now shared: date, time, season and weather are the same for every player and come from the server clock (each real hour is one game day). Time you spend away now moves the calendar too; workers still work at most 7 days and loans and quest deadlines don't hit all at once. Weather now follows the month (late snow in March, dry July, foggy November) and you get a message when the season changes. In winter crops grow 3× slower instead of stopping. Sleeping no longer skips time; it restores your energy."
+ },
+ {
   "v": 261,
   "d": "2026-10-25",
   "tr": "Taksi listesinde yolu olmayan yerler (kıyılar, orman, vadi, yayla) için taksiden indikten sonra kaç metre yürüyeceğin yazar.",
