@@ -1,5 +1,11 @@
 [
  {
+  "v": 261,
+  "d": "2026-10-25",
+  "tr": "Taksi listesinde yolu olmayan yerler (kıyılar, orman, vadi, yayla) için taksiden indikten sonra kaç metre yürüyeceğin yazar.",
+  "en": "The taxi list now shows how many metres you walk after the taxi drops you at places without a road (shores, forest, valley, plateau)."
+ },
+ {
   "v": 260,
   "d": "2026-10-25",
   "tr": "Yeni çalışan Çoban Osman: her sabah inekleri sağar, sütü sandığa koyar; sonbahar ve kışın yemliği ot ve buğdayla doldurur, meraya kapıdan girip çıkar. Mera geliştirme görevinde Yol göster doğrudan Mera geliştirme satırını açar. Mandıra görevi 60 peynire indi. Elde peynir de 3 sütten yapılır.",
