@@ -1,5 +1,11 @@
 [
  {
+  "v": 267,
+  "d": "2026-10-25",
+  "tr": "Oyuncu testinden düzeltmeler: taksi ve otobüs ücreti ekranda yazıyor; köy projesi süresi doğru anlatılıyor; Murat'ın maaşı listede doğru; çalışanların pazardan aldığı yem ekranda yazıyor; turist görevlerinde ok turistleri gösteriyor; turiste satışta yuvarlama hatası düzeldi; Dalgıç Deniz anıtın yanında da konuşuluyor; yeni oyunda sebze bahçesi Bölüm 2'de kuruluyor; dolu sandıkta eşya eksiye düşmüyor; dolu çantada fırın ekmek pişiriyor; günlük hediye ve görüş penceresi yürürken açılmıyor; tavuk çalının dibindeyse önce tavuk yakalanıyor.",
+  "en": "Fixes from player testing: taxi and bus fares shown; village project time described correctly; Murat's wage correct in list; feed bought by workers shown; tourist quests point to tourists; tourist sale rounding fixed; Diver Deniz can be talked to next to the monument; vegetable garden is built in Chapter 2 in new games; full chest no longer goes negative; oven bakes with a full bag; daily gift and feedback windows don't open while walking; a chicken next to a bush is caught first."
+ },
+ {
   "v": 266,
   "d": "2026-10-25",
   "tr": "İnekler artık sen oyunda yokken de süt veriyor (en fazla 7 gün; mera dolunca fazlası bozulur, Çoban Osman varsa sandığa koyar). Mandıra da sen yokken sandıktaki sütten peynir yapıyor. Mandıra kuruluysa merada \"3 sütten peynir yap\" ile yaptığın peynir de \"Mandırada 60 peynir üret\" görevine sayılıyor (günde en çok 15).",
