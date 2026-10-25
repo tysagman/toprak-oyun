@@ -1,5 +1,11 @@
 [
  {
+  "v": 268,
+  "d": "2026-10-25",
+  "tr": "Çalışanlar: kadrolu ve günlükçü artık farklı. Günlükçünün yevmiyesi yalnız çalıştığı gün ödenir, para yetmezse hemen ayrılır. Kadrolu %20 daha ucuzdur ama maaşı iş olmasa da her gün işler ve 7 günde bir toplu ödenir; daha sadıktır, para yetmezse 2 hafta bekler. Çalışanlar ekranında maaş gününe kaç gün kaldığı ve biriken maaş yazıyor. Çalışana öğrettiğin yeni iş artık gerçekten yapılıyor ve bugün yapılanlar listesinde görünüyor. Öğrettiğin her iş açıkken maaşa günde küçük bir ek gelir, işi durdurunca ek düşer; ek ücret iş öğretirken yazıyor.",
+  "en": "Workers: salaried and day laborers now differ. A day laborer is paid only for days worked and leaves at once if unpaid. Salaried workers are 20% cheaper, but their salary accrues daily even without work and is paid every 7 days; they are more loyal and wait 2 weeks if unpaid. The Workers screen shows days until payday and accrued salary. Jobs you teach a worker are now actually done and appear in today's log. Each taught job adds a small daily amount to the salary while it's on; stopping it removes the extra, and the fee is shown when teaching."
+ },
+ {
   "v": 267,
   "d": "2026-10-25",
   "tr": "Oyuncu testinden düzeltmeler: taksi ve otobüs ücreti ekranda yazıyor; köy projesi süresi doğru anlatılıyor; Murat'ın maaşı listede doğru; çalışanların pazardan aldığı yem ekranda yazıyor; turist görevlerinde ok turistleri gösteriyor; turiste satışta yuvarlama hatası düzeldi; Dalgıç Deniz anıtın yanında da konuşuluyor; yeni oyunda sebze bahçesi Bölüm 2'de kuruluyor; dolu sandıkta eşya eksiye düşmüyor; dolu çantada fırın ekmek pişiriyor; günlük hediye ve görüş penceresi yürürken açılmıyor; tavuk çalının dibindeyse önce tavuk yakalanıyor.",
@@ -357,17 +363,5 @@
   "d": "2026-10-23",
   "tr": "Köy-şehir ve kuzey yolu üstüne 12 otobüs durağı eklendi; yol üstünden otobüse binebilirsin (06:00-22:00). Gece ya da otobüs yokken Araç sahibi Kadir ücret karşılığı seni köye, şehre veya istediğin yere götürüyor (☰ Diğer › Araç çağır, gece fiyatı 1,5 kat).",
   "en": "12 bus stops added along the village-city and northern roads; you can board the bus on the way (06:00-22:00). At night or when there's no bus, Kadir the driver takes you to the village, the city or anywhere you like for a fare (☰ More › Call a ride, night fare ×1.5)."
- },
- {
-  "v": 207,
-  "d": "2026-10-23",
-  "tr": "Çalışanlar artık oyun kapalıyken de çalışıyor: Murat tavukları yemliyor ve yumurta topluyor, Ayşe tarlayı biçip yeniden ekiyor, Hamit odun-ot-taş topluyor, Burak fazlaları satıyor (en fazla 7 iş günü). Oyuna girince 'Sen yokken çiftlikte neler oldu' raporu çıkıyor.",
-  "en": "Workers now work while the game is closed: Murat feeds the hens and collects eggs, Ayşe harvests and replants, Hamit gathers wood, grass and stone, Burak sells surplus (up to 7 work days). When you return you get a 'While you were away' report."
- },
- {
-  "v": 206,
-  "d": "2026-10-23",
-  "tr": "Çalışanlar düzeltildi: Pazarlamacı Burak artık sandıktaki yem, tohum, buğday ve görev malzemelerini satmıyor (Murat ve Ayşe bu yüzden çalışamıyordu). Bir çalışan işini yapamazsa nedenini mesajla bildiriyor (sandıkta yem/tohum yok, sandık dolu).",
-  "en": "Workers fixed: salesman Burak no longer sells feed, seeds, wheat or quest materials from the chest (that stopped Murat and Ayşe from working). If a worker can't do a job, they now message you why (no feed/seeds in chest, chest full)."
  }
 ]
