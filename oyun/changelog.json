@@ -1,5 +1,11 @@
 [
  {
+  "v": 263,
+  "d": "2026-10-25",
+  "tr": "Paneldeki tarih kalktı; artık sadece gün ve saat görünür (ör. Gün 12 · 14:30). Gün sayısı oyuna başladığın günden sayılır, sen yokken de ilerler (gerçek her saat bir oyun günü). Görev son tarihleri, siparişler, banka ödemeleri ve mesajlar da Gün olarak yazar.",
+  "en": "The date is gone from the panel; you now see just the day and time (e.g. Day 12 · 14:30). Days count from when you started and keep going while you're away (each real hour is one game day). Quest deadlines, orders, bank payments and messages also show the day number."
+ },
+ {
   "v": 262,
   "d": "2026-10-25",
   "tr": "Oyun takvimi artık herkes için ortak: tarih, saat, mevsim ve hava bütün oyuncularda aynı ve sunucu saatinden gelir (gerçek her saat bir oyun günü). Sen yokken geçen süre takvime de işlenir; çalışanlar yine en fazla 7 gün çalışır, krediler ve görev süreleri bir anda kesilmez. Hava artık aya göre değişir (Mart'ta geç kar, Temmuz kurak, Kasım sisli), mevsim değişince haber gelir. Kışın ekinler durmaz, 3 kat yavaş büyür. Uyku artık saati ileri sarmaz, enerjini doldurur.",
