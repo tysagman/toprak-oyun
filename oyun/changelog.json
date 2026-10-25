@@ -1,5 +1,11 @@
 [
  {
+  "v": 265,
+  "d": "2026-10-25",
+  "tr": "Panelde artık haftanın günü ve saat yazar (ör. Pazartesi · 14:30); gün herkeste aynıdır. Pazar günü pazar kurulur, fiyatlar yüksektir. Görev ve sipariş son tarihleri \"yarın\" ya da \"Salı (2 gün sonra)\" şeklinde yazar. Mesajlarda hayvanların adı yerine türü yazar (ör. \"bir inek kurtların saldırısına uğradı\").",
+  "en": "The panel now shows the weekday and time (e.g. Monday · 14:30); the day is the same for everyone. On Sundays the market is set up and prices are higher. Quest and order deadlines read \"tomorrow\" or \"Tuesday (2 days from now)\". Messages name the kind of animal instead of its name (e.g. \"a cow was attacked by wolves\")."
+ },
+ {
   "v": 264,
   "d": "2026-10-25",
   "tr": "Pazarlamacı Burak artık her sabah satış için sormaz. Ne zaman istersen Çalışanlar ekranında Burak'ın «💰 Sat» düğmesine bas ya da Burak'la konuş; her üründen kaç tane satılacağını sen yazarsın (Yarısı/Hepsi düğmeleri kalktı). Burak yine sen onaylamadan hiçbir şey satmaz; komisyon ve günlük satış sınırı aynı.",
