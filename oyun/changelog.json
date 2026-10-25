@@ -1,5 +1,11 @@
 [
 {
+"v": 280,
+"d": "2026-10-25",
+"tr": "Oduncu Hamit: sandık doluyken teslimatı artık kaybolmuyor, yer açılınca getiriyor; \"Sandık dolu, odun getiremedim\" uyarısı ve Çalışanlar ekranında açık not var. Uzun süre oyunda yokken Hamit, Zehra, Cemil ve Osman artık her gün için ayrı çalışıyor (önceden sadece ilk günü yapıyorlardı) ve dönünce o günkü işleri yarım kalmıyor.",
+"en": "Woodcutter Hamit: deliveries are no longer lost while the chest is full, he brings them once there is room; clear \"chest is full, couldn't bring wood\" warning and note on the Workers screen. While you are away for a long time Hamit, Zehra, Cemil and Osman now work every day (before only the first day counted), and today's work is no longer cut short when you return."
+},
+{
 "v": 279,
 "d": "2026-10-25",
 "tr": "Muhtarın \"yeni aile yerleşti\" mesajları artık bütün dillerde tam çevrilir (eski mesajlar dahil).",
@@ -362,11 +368,5 @@
 "d": "2026-10-24",
 "tr": "Eve kapı açılarak giriliyor; köy meydanı genişledi; telsiz düğmesi yürümeyi engellemiyor; araç çağırınca farklı şoförler geliyor; içinden geçilen nesneler düzeltildi; binalar daha net.",
 "en": "Enter your house through the door; wider village square; radio button no longer blocks walking; different drivers answer your call; fixed walking through objects; sharper buildings."
-},
-{
-"v": 219,
-"d": "2026-10-24",
-"tr": "Haritalarda yakınlaştırma; köylüler 23:00'e kadar çalışıyor; Kartal Tepesi kulesine çıkılıyor; yatakta her yandan uyunuyor; görev yönlendirmesi ve portreler yenilendi.",
-"en": "Map zoom; villagers work until 23:00; you can climb the Eagle Hill tower; sleep from any side of the bed; quest guidance and portraits updated."
 }
 ]
