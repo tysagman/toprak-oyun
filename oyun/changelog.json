@@ -1,5 +1,11 @@
 [
  {
+  "v": 289,
+  "d": "2026-10-26",
+  "tr": "Yürürken karakterin ve çevresinin gölgeleri artık titremiyor. Camiye sadece revaktaki kapının önünden girilir (şadırvan arasından girilmiyor). Kıyafetini her an değiştirebilirsin: ☰ Diğer › 👕 Gardırop. Kadın karakterlerde sakal/bıyık görünmesi düzeldi.",
+  "en": "Shadows no longer flicker around your character while walking. The mosque can only be entered from the door on its porch. Change your clothes any time: ☰ More › 👕 Wardrobe. Female characters no longer show a beard or moustache."
+ },
+ {
   "v": 288,
   "d": "2026-10-25",
   "tr": "Muhtardaki Ticaret Ofisi artık toptancı ekranını açıyor (Bölüm 3'te açılır yazıyor ama hiç açılmıyordu); av tüfeği ve budama makası 'yakında' yazıyor; muhtar tarla geri alındıktan sonra 'Demirkol topraklarını kaptı' demiyor, bölüme göre konuşuyor.",
