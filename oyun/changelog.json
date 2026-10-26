@@ -1,5 +1,11 @@
 [
  {
+  "v": 320,
+  "d": "2026-10-26",
+  "tr": "Pazarlamacı Burak artık günde maaşının 6 katı satabilir. Burak'ın satış ekranına \"Burak neye göre satar?\" açıklaması eklendi: sadece sandıktan, köy fiyatıyla, %25 komisyonla satar; sınır dolunca kalan ürün ertesi güne kalır.",
+  "en": "Burak the salesman can now sell up to 6× his wage per day. His sell screen now explains how he sells: only from the chest, at village prices, for a 25% commission; anything over the limit waits for the next day."
+ },
+ {
   "v": 319,
   "d": "2026-10-26",
   "tr": "Şifremi unuttum düzeltildi: şifre yenileme e-postası artık oyunun dilinde gelir, gönderen adı Toprağın Mirası. Ekranda net mesaj: kullanıcı adı yazınca e-posta istenir, gönderilince Spam klasörünü kontrol et uyarısı çıkar, çok deneme ve geçersiz e-posta ayrı ayrı yazılır.",
