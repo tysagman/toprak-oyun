@@ -1,5 +1,11 @@
 [
 {
+"v": 355,
+"d": "2026-10-27",
+"tr": "Uzaktaki karakter kopyaları daha az bellek kullanıyor (yaklaşık üçte bir az).",
+"en": "Distant character copies use less memory (about a third less)."
+},
+{
 "v": 354,
 "d": "2026-10-27",
 "tr": "Yakındaki köylü ve hayvanlar da tek parça çiziliyor (hareketleri aynı): merada ekran kartı çizimi yarıdan fazla azaldı, telefon daha az ısınır.",
