@@ -1,5 +1,11 @@
 [
 {
+"v": 352,
+"d": "2026-10-26",
+"tr": "Ayarlar'a Gölgeler açık/kapalı seçeneği eklendi: kapatınca telefon daha az ısınır ve pil daha uzun gider. Uzaktaki köylülerin hesapları seyreltildi, oyun işlemciyi daha az yoruyor.",
+"en": "Settings now has a Shadows on/off option: turning them off keeps the phone cooler and saves battery. Distant villagers are updated less often, so the game uses less CPU."
+},
+{
 "v": 351,
 "d": "2026-10-26",
 "tr": "Telefon daha az ısınsın diye: uzaktaki köylü ve hayvanlar tek parça çiziliyor (köyde ekran kartı işi yaklaşık üçte bir azaldı), uzaktakilerin bacak/kol gölgesi çizilmiyor. Görüntü aynı.",
