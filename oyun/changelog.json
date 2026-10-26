@@ -1,5 +1,11 @@
 [
 {
+"v": 328,
+"d": "2026-10-26",
+"tr": "Giriş, kayıt ve hesap ekranlarında artık her zaman ← Geri ve ✕ düğmesi var; klavye açıkken de görünür. Telefonun geri tuşu, pencerenin dışına dokunmak ve bilgisayarda Esc pencereyi bir adım geri götürür ya da kapatır. Kayıt seçme ekranına da Geri eklendi. Eski uygulama sürümünde Google ile giriş düğmesi yerine 'yeni sürümle gelecek' notu çıkar.",
+"en": "Login, sign-up and account screens now always show ← Back and ✕, even while the keyboard is open. The phone's back button, tapping outside the window and Esc on a computer go one step back or close it. The save-slot screen also got a Back button. In the old app version a note says Google sign-in is coming with the new version."
+},
+{
 "v": 327,
 "d": "2026-10-26",
 "tr": "Artık oyundaki her banka oturabilirsin: yol kenarındaki 12 otobüs durağı, köy ve şehir otobüs durakları, şehirdeki otogarın bekleme bankları da (meydan ve ev önü banklarına ek olarak). Oturunca enerjin yavaşça dolar, 😴 Dinlen ile tam dinlenirsin. Durakta otururken otobüs ve araç çağırma da açık.",
