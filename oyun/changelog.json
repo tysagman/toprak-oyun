@@ -1,5 +1,11 @@
 [
 {
+"v": 304,
+"d": "2026-10-26",
+"tr": "Otobüs, taksi ve şehirdeki arabalar artık köylülerin ve senin içinden geçmiyor: önlerinde biri varsa yavaşlayıp duruyorlar, yoldaki köylüler de araç yaklaşınca kenara çekiliyor.",
+"en": "Buses, taxis and city cars no longer drive through villagers or you: they slow down and stop for people ahead, and villagers step aside when a vehicle approaches."
+},
+{
 "v": 303,
 "d": "2026-10-26",
 "tr": "Yollar artık araziye oturuyor: tepelerde toprağa gömülüp parça parça görünmüyor. Mera geliştirildikçe çit de büyüyor (çiftlik merası 17×10,5 m), inekler sıkışmıyor ve meraya dağılıyor.",
@@ -392,11 +398,5 @@
 "d": "2026-10-24",
 "tr": "Görsel düzeltmeler: evlerin ve binaların içine düşen taş ve ağaçlar yakındaki boş yere taşındı. Çamlıbel'de üst üste çıkan evler, fabrikaların cami ve köy evleriyle çakışması ve mandıranın yola taşması düzeltildi. Eğimli yerdeki evlerin taş temeli artık yere kadar iner, havada görünmez. Yukarı Yayla yolu çoban çadırının içinde bitmiyor.",
 "en": "Visual fixes: rocks and trees that were inside houses and buildings were moved to nearby free spots. Overlapping houses in Çamlıbel, factories overlapping the mosque and village houses, and the dairy sitting on the road were fixed. Houses on slopes now have stone foundations reaching the ground instead of floating. The Upper Plateau road no longer ends inside the shepherd's tent."
-},
-{
-"v": 244,
-"d": "2026-10-24",
-"tr": "Karakter artık ineğin ve atın içinden geçmez; inekler camiye ya da binalara takılmaz. Çağrılan araç yolu kullanır, yanına gelince durur ve hemen binebilirsin; araç kartı görev kartının altına yerleşti. Çamlıbel ve Akpınar'da yol artık meydanın içinden değil kenarından geçer. Köylülerin bir işi var: çiftçi, pazarcı, bahçıvan, marangoz; sadece turistler ve yolcular dolaşır. Meyve bahçesi silonun içinden alınıp boş bir yere taşındı. Sandıkta seçilen miktar (1, 5, 10, 25, hepsi) artık doğru uygulanır.",
-"en": "Your character no longer walks through cows and horses; cows no longer get stuck on the mosque or buildings. Called cars use the road, stop next to you and you can board right away; the car card now sits below the quest card. In Çamlıbel and Akpınar the road now passes beside the square, not through it. Villagers have jobs (farmer, market seller, gardener, carpenter); only tourists and travellers wander. The orchard was moved away from the silo. The chosen chest amount (1, 5, 10, 25, all) now works correctly."
 }
 ]
