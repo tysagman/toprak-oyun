@@ -1,5 +1,11 @@
 [
 {
+"v": 331,
+"d": "2026-10-26",
+"tr": "Google ile girişte 'bu e-posta zaten var' hatası düzeltildi: aynı e-postayla hesabın varsa Google seni doğrudan o hesaba sokar, kaydın aynı kalır. Gmail dışı bir adreste şifren bir kez sorulur ve Google hesabın o hesaba bağlanır.",
+"en": "Fixed the 'this email already exists' error when signing in with Google: if you already have an account with the same email, Google signs you straight into it and your save stays the same. For non-Gmail addresses your password is asked once and your Google account is linked to it."
+},
+{
 "v": 330,
 "d": "2026-10-26",
 "tr": "Kümesin LED aydınlatması artık bütün kümes avlusunu ve çevresindeki çitleri gece eşit şekilde aydınlatır: çitlerin üst kenarında ve tavan çıtalarında LED şeritler var. Pil dostu: ek ışık kaynağı yok.",
