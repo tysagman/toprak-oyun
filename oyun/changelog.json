@@ -1,5 +1,11 @@
 [
  {
+  "v": 310,
+  "d": "2026-10-26",
+  "tr": "Hayvan ürünleri yenilendi: tavuk günde 1–3 yumurta (yumurta 6 A, yem 5'te 1), peynir artık kg (7 L süt → 1 kg, 10 A), yeni ürünler: yoğurt, ayran, kaşar, tereyağı, dana eti, sucuk, et kavurma. Mandıra ürünü seçilir (günde 50–400 L süt). ABD bölgesinde pound/galon (Ayarlar › Ölçü birimi). Eski peynirler kg'ye çevrildi.",
+  "en": "Animal products reworked: hens lay 1–3 eggs a day (eggs 6 G, feed use cut to a fifth), cheese is now sold by weight (7 L milk → 1 kg), new products: yogurt, ayran, kashar, butter, beef, sujuk, kavurma. Choose what the dairy makes (50–400 L milk a day). US units (lb/gal) in the US region (Settings › Units). Old cheese was converted."
+ },
+ {
   "v": 309,
   "d": "2026-10-25",
   "tr": "Mera çitinin yanında «🐄 Mera» düğmesi «🤸 Çitten atla» düğmesinin önüne geçiyordu. Artık çite dönünce atlama düğmesi çıkıyor; mera menüsü çite bakmadığında yine açılıyor.",
@@ -397,17 +403,5 @@
   "d": "2026-10-24",
   "tr": "Görev kartı artık her şeyi gösteriyor: görevin için gereken altın ve malzemeler canlı listede, elindeki miktarla birlikte (çanta ve sandık birlikte sayılır). Eksik malzemenin nereden bulunacağı ve 📍 ile yeri, nasıl yapılacağı ve ilgili ekrana giden düğme (Çiftlik, Çalışanlar, Banka…), görevin neden önemli olduğu ve sonra neyin açılacağı da yazıyor. Fiyatlar bölüme göre otomatik güncellenir. Hedefler ekranındaki hikâye görevine 📋 ile de açılır.",
   "en": "The quest card now shows everything: the gold and materials you need in a live list with how many you have (bag and chest count together), where to find missing materials with a 📍 button, how to do it with a button to the right screen (Farm, Workers, Bank…), why the quest matters and what it unlocks next. Prices update automatically with the chapter. Also opens from the story quest in Goals via 📋."
- },
- {
-  "v": 250,
-  "d": "2026-10-24",
-  "tr": "Silo, ambar ve diğer çiftlik yapıları artık bahçedeki meyve fidanlarının üstüne kurulmaz; bahçe büyüyünce de çakışmaz. Bir yapı kurulunca içine düşen taş ve ağaçlar hemen dışarı alınır. Taksi artık bütün bölgelere gider (kıyı, orman, çayır, vadi, yayla, geçit, değirmen dahil); yolu olmayan yerde en yakın yol kenarına bırakır ve ok hedefi gösterir. Şehir görevlerinde 'vardın' bildiriminin art arda gelmesi düzeltildi. Evlerin yan odunluğu ya da çardağı başka bir yapıya değmez.",
-  "en": "Silos, barns and other farm buildings no longer sit on garden fruit saplings, even when the garden grows. Rocks and trees inside a new building are moved out right away. Taxis now go to every region (shore, forest, meadow, valley, plateau, pass, mill); where there is no road you are dropped at the nearest roadside and the arrow points the way. Fixed the repeating 'you arrived' notification on city quests. House woodsheds and arbors no longer overlap other buildings."
- },
- {
-  "v": 249,
-  "d": "2026-10-24",
-  "tr": "Samsung telefonlarda çökme koruması güçlendirildi: araç motor sesleri daha az bellek kullanıyor, çökme sonrası oyun kendini hafifletiyor.",
-  "en": "Stronger crash protection on Samsung phones: vehicle engine sounds use less memory, and the game lightens itself after a crash."
  }
 ]
