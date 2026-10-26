@@ -1,5 +1,11 @@
 [
 {
+"v": 349,
+"d": "2026-10-26",
+"tr": "Köyde iç içe geçen yapılar düzeltildi: sağlık ocağı kahvehanenin içindeydi, artık meydanın doğusunda kendi yerinde. Ev bahçelerinin garajı ve arabası okulun, kahvehanenin ve kooperatifin yerine taşmıyor (bina henüz yapılmamış olsa da yeri ayrılmış sayılır).",
+"en": "Fixed overlapping buildings in the village: the health center was inside the coffee house; it now has its own spot east of the square. House yards' garages and cars no longer spill into the school, coffee house and cooperative sites (the site is reserved even before the building is built)."
+},
+{
 "v": 348,
 "d": "2026-10-26",
 "tr": "Koyun ve keçi işlerini artık yalnız kendi çobanı yapar: Çoban Hasan (koyun) ya da Keçi çobanı Gülsüm yoksa hiçbir şey kendiliğinden olmaz; sütü sen sağarsın, peyniri merada elle yaparsın, koyunları sen kırkarsın. Çoban Osman yalnız ineklere bakar. Mandıra koyun/keçi sütünü yalnız o hayvanın çobanı varken işler. Mera ekranı sandıktaki sütü ve kimin sağdığını gösterir; çobanlar sandık doluysa kalan sütün merada kaldığını söyler.",
