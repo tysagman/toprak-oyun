@@ -1,5 +1,11 @@
 [
 {
+"v": 350,
+"d": "2026-10-26",
+"tr": "Taş topladıktan sonra o noktada görünmez bir engel kalıyor, karakter geçemiyordu; düzeltildi. Kesilen süs ağaçlarının yerinde kalan küçük engel de kaldırıldı.",
+"en": "After picking up a stone, an invisible obstacle stayed in its place and blocked the character; fixed. The small leftover obstacle where decorative trees were cut is also gone."
+},
+{
 "v": 349,
 "d": "2026-10-26",
 "tr": "Köyde iç içe geçen yapılar düzeltildi: sağlık ocağı kahvehanenin içindeydi, artık meydanın doğusunda kendi yerinde. Ev bahçelerinin garajı ve arabası okulun, kahvehanenin ve kooperatifin yerine taşmıyor (bina henüz yapılmamış olsa da yeri ayrılmış sayılır).",
