@@ -1,5 +1,11 @@
 [
 {
+"v": 343,
+"d": "2026-10-26",
+"tr": "Koyun ve keçi sütü düzeldi: çoban inekleri sağdıktan sonra koyun ve keçileri sağmıyordu, artık hepsini sağıp sandığa koyuyor. Mandıra koyun ve keçi sütünü artık kendiliğinden peynire çevirmez; Çiftlik › Mandıra'dan ürün seçersen çevirir, \"Yapma, süt sandıkta kalsın\" seçeneği de var. Çoban Ali her gün ne kadar süt geldiğini yazar, mera sayfası sütü kimin sağdığını gösterir. Koyunlar artık haftada bir kırkılır.",
+"en": "Sheep and goat milk fixed: the shepherd stopped after milking the cows; now he milks all of them into the chest. The dairy no longer turns sheep and goat milk into cheese on its own; pick a product under Farm › Dairy, or choose \"Don't, keep the milk in the chest\". Shepherd Ali reports the daily milk and the pasture page shows who milks. Sheep are now sheared once a week."
+},
+{
 "v": 342,
 "d": "2026-10-26",
 "tr": "Dünya haritası: köyler artık her bölgede düzenli sıralarla diziliyor, noktalar üst üste binmiyor ve bütün adlar büyütmeden okunuyor. Kalabalık bölge olursa harita kendiliğinden uzuyor.",
