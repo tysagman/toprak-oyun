@@ -1,5 +1,11 @@
 [
 {
+"v": 344,
+"d": "2026-10-26",
+"tr": "Ormandaki süs ağaçları da artık kesilebiliyor, 5 günde geri büyüyor. Sulama kanalı yokuşta basamak basamak görünmüyor, toprağa gömülmüyor.",
+"en": "Decorative trees can now be chopped and regrow in 5 days. The irrigation canal now follows slopes smoothly."
+},
+{
 "v": 343,
 "d": "2026-10-26",
 "tr": "Koyun ve keçi sütü düzeldi: çoban inekleri sağdıktan sonra koyun ve keçileri sağmıyordu, artık hepsini sağıp sandığa koyuyor. Mandıra koyun ve keçi sütünü artık kendiliğinden peynire çevirmez; Çiftlik › Mandıra'dan ürün seçersen çevirir, \"Yapma, süt sandıkta kalsın\" seçeneği de var. Çoban Ali her gün ne kadar süt geldiğini yazar, mera sayfası sütü kimin sağdığını gösterir. Koyunlar artık haftada bir kırkılır.",
@@ -377,27 +383,5 @@
 "d": "2026-10-25",
 "tr": "Çiftlik menüsünde kilitli geliştirmeler ve yapılar artık açılmak için ne gerektiğini yazıyor (önceki seviye, bölüm, ön yapı, teknoloji şartları).",
 "en": "Locked farm upgrades and buildings now show what they need to unlock (previous level, chapter, required building, technology)."
-},
-{
-"v": 283,
-"d": "2026-10-25",
-"tr": "Köy fırını, köy ofisiyle (taş bina) aynı yere kurulmuştu; fırın binanın içinde kalıyor, yalnızca beyaz duvarı ve kırmızı çatısı taş duvardan dışarı taşıyordu. Fırın ofisin yanındaki boş yere, meydanın kenarına taşındı.",
-"en": "The village bakery had been built in the same spot as the village office (the stone building): the bakery sat inside it, with only its white wall and red roof sticking out of the stone wall. The bakery has moved to the free spot next to the office, at the edge of the square.",
-"de": "Die Dorfbäckerei stand an derselben Stelle wie das Dorfbüro (das Steingebäude): Sie steckte darin, nur ihre weiße Wand und das rote Dach ragten aus der Steinmauer. Die Bäckerei steht jetzt auf dem freien Platz neben dem Büro, am Rand des Dorfplatzes.",
-"fr": "Le four du village avait été construit au même endroit que le bureau du village (le bâtiment en pierre) : il se trouvait à l'intérieur, seuls son mur blanc et son toit rouge dépassaient du mur de pierre. Le four est maintenant sur l'emplacement libre à côté du bureau, au bord de la place.",
-"es": "El horno del pueblo estaba construido en el mismo sitio que la oficina del pueblo (el edificio de piedra): quedaba dentro de ella y solo su pared blanca y su tejado rojo asomaban por el muro de piedra. El horno se ha trasladado al hueco libre junto a la oficina, al borde de la plaza.",
-"ru": "Деревенская пекарня стояла на том же месте, что и деревенская контора (каменное здание): она оказывалась внутри, и из каменной стены торчали только её белая стена и красная крыша. Пекарня перенесена на свободное место рядом с конторой, на краю площади.",
-"ku": "Firna gund li heman cihê nivîsgeha gund (avahiya kevirî) hatibû avakirin: firin di hundirê wê de dima, tenê dîwarê wê yê spî û banê wê yê sor ji dîwarê kevirî derdiket. Firin hate birin cihê vala yê li kêleka nivîsgehê, li qiraxa meydanê."
-},
-{
-"v": 282,
-"d": "2026-10-25",
-"tr": "Gece köy ahırına giren ineklerin adı, ahırın kapısında dururken eylem düğmesinde çıkıyordu; artık ahırdaki hayvanlar düğmede görünmüyor. Çoban Ali'nin ağılı yenilendi: direkler yere oturuyor, çit tahtaları ve kapı boşluğu var, gölgelik eğimli çatılı ve altında yemlik var (eskiden tablasız masa gibi duruyordu). Gece hava durumunda güneş yerine 🌙 «Açık hava» yazıyor.",
-"en": "The names of cows sleeping in the village barn showed up on the action button when you stood at the barn door; animals inside the barn no longer appear there. Shepherd Ali's sheepfold was rebuilt: the posts stand on the ground, it has fence rails and a gate gap, and the shelter has a sloped roof with a feed trough under it (it used to look like a table without a top). At night the weather shows 🌙 «Clear sky» instead of the sun.",
-"de": "Die Namen der Kühe, die nachts im Dorfstall schlafen, erschienen auf dem Aktionsknopf, wenn man an der Stalltür stand; Tiere im Stall werden dort nicht mehr angezeigt. Hirte Alis Schafpferch wurde neu gebaut: Die Pfosten stehen auf dem Boden, es gibt Zaunlatten und eine Toröffnung, und der Unterstand hat ein schräges Dach mit einem Futtertrog darunter (früher sah er wie ein Tisch ohne Platte aus). Nachts zeigt das Wetter 🌙 «Klarer Himmel» statt der Sonne.",
-"fr": "Le nom des vaches qui dorment dans l'étable du village apparaissait sur le bouton d'action quand on se tenait à la porte ; les animaux dans l'étable n'y apparaissent plus. La bergerie du berger Ali a été refaite : les poteaux touchent le sol, il y a des lattes de clôture et une ouverture de porte, et l'abri a un toit en pente avec une mangeoire dessous (avant, il ressemblait à une table sans plateau). La nuit, la météo affiche 🌙 «Ciel dégagé» au lieu du soleil.",
-"es": "El nombre de las vacas que duermen en el establo del pueblo salía en el botón de acción al estar en la puerta; los animales dentro del establo ya no aparecen ahí. El redil del pastor Ali se rehízo: los postes llegan al suelo, tiene tablas de cerca y un hueco de entrada, y el cobertizo tiene un techo inclinado con un comedero debajo (antes parecía una mesa sin tablero). De noche el tiempo muestra 🌙 «Cielo despejado» en lugar del sol.",
-"ru": "Имена коров, ночующих в деревенском хлеву, показывались на кнопке действия, когда ты стоял у двери хлева; теперь животные внутри хлева там не появляются. Загон пастуха Али перестроен: столбы стоят на земле, есть жерди забора и проём для входа, а навес с наклонной крышей и кормушкой под ним (раньше он был похож на стол без столешницы). Ночью в погоде вместо солнца показывается 🌙 «Ясно».",
-"ku": "Navên çêlekên ku bi şev di axura gund de radizên, dema tu li ber deriyê axurê disekinî, li ser bişkoka kiryarê derdiketin; êdî heywanên di axurê de li wir nayên xuyakirin. Pêgeha şivan Elî ji nû ve hate çêkirin: stûn li erdê ne, darên çeperê û valahiya derî hene, sîwan banê xwe yê xwar heye û di binê wê de afir heye (berê wek maseyeke bê text xuya dikir). Bi şev di hewayê de li şûna rojê 🌙 «Hewa sayî» tê nîşandan."
 }
 ]
