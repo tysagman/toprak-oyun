@@ -1,5 +1,11 @@
 [
 {
+"v": 336,
+"d": "2026-10-26",
+"tr": "Köyün inek ahırı çiftliğinin yanından köye taşındı. Gece ormanda ya da yaylada gezenler artık temiz hava, yürüyüş ve mantar için orada olduklarını söylüyor.",
+"en": "The village cow barn moved from next to your farm to the village. People out in the forest or highlands at night now say they're there for fresh air, a walk or mushrooms."
+},
+{
 "v": 335,
 "d": "2026-10-26",
 "tr": "Düzeltme: yeni görevler eklendiğinde devam eden görevin ilerlemesi (ör. kooperatife süt teslimi) sıfırlanıyordu. Artık korunuyor; sıfırlanan süt görevi geri getirildi.",
@@ -387,11 +393,5 @@
 "d": "2026-10-25",
 "tr": "Sebze bahçesi ekranı netleşti: bahçeyi büyütürken eksik malzemede çantanda ve sandığında kaç tane olduğu yazıyor, sandık doluysa uyarıyor. Fide yoksa boş yatakta \"📱 Fide al\" düğmesi Tarım Market'i açıyor. Bahçe büyüyünce yatak sayısı doğru yazıyor.",
 "en": "The vegetable garden screen is clearer: when expanding, it shows how many of each missing material you have in your bag and chest, and warns if the chest is full. With no seedlings, a \"📱 Buy seedlings\" button on the empty bed opens the Farm Store. The bed count is now correct after expanding."
-},
-{
-"v": 275,
-"d": "2026-10-25",
-"tr": "Yemekler artık kullanılan malzemeye göre doyurur ve enerji verir (omlet haşlanmış yumurtadan fazla doyurur); mutfakta açlık ve enerji birlikte yazar. Pişmiş yemeklerin satış fiyatı malzemesine göre düzeltildi.",
-"en": "Meals now fill you up and give energy in proportion to their ingredients (an omelette fills more than a boiled egg); the kitchen shows both hunger and energy. Cooked food sell prices now match their ingredients."
 }
 ]
