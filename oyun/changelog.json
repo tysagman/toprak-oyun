@@ -1,5 +1,11 @@
 [
 {
+"v": 333,
+"d": "2026-10-26",
+"tr": "Köy meydanının ortasından geçen yol kaldırıldı. Çiftlikten gelen yol artık meydanın güney girişinde biter, şehir yolu meydanın doğu kenarından başlar. Araçlar ve otobüs meydana girmez, çevre yolundan dolaşır.",
+"en": "The road that ran through the middle of the village square is gone. The road from the farm now ends at the square's south entrance and the city road starts at its east edge. Cars and the bus stay out of the square and use the ring road."
+},
+{
 "v": 332,
 "d": "2026-10-26",
 "tr": "Gece geç saatte köyde ve yollarda dolaşan kişilere 🌙 'Bu saatte neden dışarıdasın?' diye sorabilirsin: bekçi devriye geziyor, fırıncı hamur yoğuruyor, çiftçinin su sırası gelmiş, sütçü doğum yapacak ineği bekliyor, yolcu son otobüsü kaçırmış… Herkesin kendi gece rutini var. Şafakta işe çıkan Balıkçı Yusuf, Fırıncı Leyla, çobanlar da neden erken çıktıklarını anlatıyor.",
@@ -387,52 +393,5 @@
 "d": "2026-10-25",
 "tr": "Süt artık litre ile gösteriliyor: ineklerin verdiği süt, sandık, mandıra, kooperatif ve satış ekranlarında \"12 L süt\" gibi yazar. Miktarlar ve fiyatlar değişmedi (1 süt = 1 L, 3 L süt = 1 peynir).",
 "en": "Milk is now shown in liters: cows, chest, dairy, cooperative and sale screens show e.g. \"12 L milk\". Amounts and prices are unchanged (1 milk = 1 L, 3 L milk = 1 cheese)."
-},
-{
-"v": 272,
-"d": "2026-10-25",
-"tr": "Onarılan değirmende Yakup günde 40 buğdayı una çevirir; Murat'ın yevmiyesi ve hayvan fiyatları bölümle artar (satış alış fiyatını geçmez).",
-"en": "Repaired mill: Yakup grinds 40 wheat into flour a day; Murat's wage and animal prices now rise with each chapter (resale never exceeds what you paid)."
-},
-{
-"v": 271,
-"d": "2026-10-25",
-"tr": "Çalışan işe alma görevlerinin kartında gereken altın artık gerçek günlük maaşı gösteriyor.",
-"en": "Hiring quest cards now show the real daily wage as the gold needed."
-},
-{
-"v": 270,
-"d": "2026-10-25",
-"tr": "Kuzey ve doğu bölgelerinde yeni bir yere varınca 'Yeni yer keşfedildi' bildirimi artık bir kez çıkıyor.",
-"en": "Arriving at a new place in the north and east now shows the 'New place discovered' notice only once."
-},
-{
-"v": 269,
-"d": "2026-10-25",
-"tr": "Köy ineklerinin ve atlarının akşam ahıra giderken binanın içinden geçmesi düzeldi: artık ahırın etrafından dolaşıp kapıdan giriyorlar, gündüz de evlerin içine girmiyorlar. Banklarda oturunca «😴 Dinlen» düğmesi çıkıyor; evdeki Dinlen kuralları aynen geçerli (8 saatte bir tam dinlenme, arada kısa mola).",
-"en": "Fixed village cows and horses walking through buildings on their way to the barn in the evening: they now go around the barn and enter through the door, and they no longer wander into houses during the day. When you sit on a bench a «😴 Rest» button appears; the same Rest rules as at home apply (a full rest every 8 hours, a short break in between).",
-"de": "Behoben: Kühe und Pferde des Dorfes liefen abends auf dem Weg zum Stall durch Gebäude. Jetzt gehen sie um den Stall herum und durch die Tür hinein, und tagsüber laufen sie nicht mehr in Häuser. Wenn du dich auf eine Bank setzt, erscheint der Knopf «😴 Ausruhen»; es gelten dieselben Regeln wie zu Hause (alle 8 Stunden volle Erholung, dazwischen eine kurze Pause).",
-"fr": "Corrigé : les vaches et les chevaux du village traversaient les bâtiments en allant à l'étable le soir. Ils contournent maintenant l'étable et entrent par la porte, et ne rentrent plus dans les maisons la journée. Quand tu t'assois sur un banc, un bouton «😴 Se reposer» apparaît ; les mêmes règles qu'à la maison s'appliquent (repos complet toutes les 8 heures, courte pause entre les deux).",
-"es": "Arreglado: las vacas y los caballos del pueblo atravesaban los edificios al ir al establo por la tarde. Ahora rodean el establo y entran por la puerta, y de día ya no se meten en las casas. Al sentarte en un banco aparece el botón «😴 Descansar»; se aplican las mismas reglas que en casa (descanso completo cada 8 horas, una pausa corta entre medias).",
-"ru": "Исправлено: деревенские коровы и лошади вечером по пути в хлев проходили сквозь здания. Теперь они обходят хлев и заходят через дверь, а днём больше не забредают в дома. Когда садишься на скамейку, появляется кнопка «😴 Отдохнуть»; действуют те же правила, что и дома (полный отдых раз в 8 часов, между ними короткий перерыв).",
-"ku": "Hate sererastkirin: çêlek û hespên gund êvarê dema diçûn axurê di nav avahiyan re derbas dibûn. Êdî ew li dora axurê dizivirin û ji derî dikevin hundir, bi roj jî nakevin nav xaniyan. Dema tu li ser textê rûdinî bişkoka «😴 Bêhna xwe veke» derdikeve; heman qaîdeyên malê derbasdar in (her 8 saetan bêhnvedanek tam, di navberê de bêhnvedanek kurt)."
-},
-{
-"v": 268,
-"d": "2026-10-25",
-"tr": "Çalışanlar: kadrolu ve günlükçü artık farklı. Günlükçünün yevmiyesi yalnız çalıştığı gün ödenir, para yetmezse hemen ayrılır. Kadrolu %20 daha ucuzdur ama maaşı iş olmasa da her gün işler ve 7 günde bir toplu ödenir; daha sadıktır, para yetmezse 2 hafta bekler. Çalışanlar ekranında maaş gününe kaç gün kaldığı ve biriken maaş yazıyor. Çalışana öğrettiğin yeni iş artık gerçekten yapılıyor ve bugün yapılanlar listesinde görünüyor. Öğrettiğin her iş açıkken maaşa günde küçük bir ek gelir, işi durdurunca ek düşer; ek ücret iş öğretirken yazıyor.",
-"en": "Workers: salaried and day laborers now differ. A day laborer is paid only for days worked and leaves at once if unpaid. Salaried workers are 20% cheaper, but their salary accrues daily even without work and is paid every 7 days; they are more loyal and wait 2 weeks if unpaid. The Workers screen shows days until payday and accrued salary. Jobs you teach a worker are now actually done and appear in today's log. Each taught job adds a small daily amount to the salary while it's on; stopping it removes the extra, and the fee is shown when teaching."
-},
-{
-"v": 267,
-"d": "2026-10-25",
-"tr": "Oyuncu testinden düzeltmeler: taksi ve otobüs ücreti ekranda yazıyor; köy projesi süresi doğru anlatılıyor; Murat'ın maaşı listede doğru; çalışanların pazardan aldığı yem ekranda yazıyor; turist görevlerinde ok turistleri gösteriyor; turiste satışta yuvarlama hatası düzeldi; Dalgıç Deniz anıtın yanında da konuşuluyor; yeni oyunda sebze bahçesi Bölüm 2'de kuruluyor; dolu sandıkta eşya eksiye düşmüyor; dolu çantada fırın ekmek pişiriyor; günlük hediye ve görüş penceresi yürürken açılmıyor; tavuk çalının dibindeyse önce tavuk yakalanıyor.",
-"en": "Fixes from player testing: taxi and bus fares shown; village project time described correctly; Murat's wage correct in list; feed bought by workers shown; tourist quests point to tourists; tourist sale rounding fixed; Diver Deniz can be talked to next to the monument; vegetable garden is built in Chapter 2 in new games; full chest no longer goes negative; oven bakes with a full bag; daily gift and feedback windows don't open while walking; a chicken next to a bush is caught first."
-},
-{
-"v": 266,
-"d": "2026-10-25",
-"tr": "İnekler artık sen oyunda yokken de süt veriyor (en fazla 7 gün; mera dolunca fazlası bozulur, Çoban Osman varsa sandığa koyar). Mandıra da sen yokken sandıktaki sütten peynir yapıyor. Mandıra kuruluysa merada \"3 sütten peynir yap\" ile yaptığın peynir de \"Mandırada 60 peynir üret\" görevine sayılıyor (günde en çok 15).",
-"en": "Cows now give milk while you are away (up to 7 days; extra milk spoils when the pasture is full, Shepherd Osman puts it in the chest). The dairy also makes cheese from chest milk while you are away. With a dairy built, cheese made at the pasture now counts for the \"Make 60 cheese at the dairy\" quest (up to 15 per day)."
 }
 ]
