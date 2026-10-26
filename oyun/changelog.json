@@ -1,5 +1,11 @@
 [
 {
+"v": 342,
+"d": "2026-10-26",
+"tr": "Dünya haritası: köyler artık her bölgede düzenli sıralarla diziliyor, noktalar üst üste binmiyor ve bütün adlar büyütmeden okunuyor. Kalabalık bölge olursa harita kendiliğinden uzuyor.",
+"en": "World map: villages are now laid out in neat rows in each region, dots no longer overlap and every name is readable without zooming. The map grows taller when a region is crowded."
+},
+{
 "v": 341,
 "d": "2026-10-26",
 "tr": "Dünya haritası: artık bütün köylerin üstünde oyuncunun adı yazıyor. Çevrimiçi oyuncular 🟢 ile işaretli ve listede en üstte; adına dokunup köyünü ziyaret edebilirsin.",
@@ -387,11 +393,5 @@
 "es": "El nombre de las vacas que duermen en el establo del pueblo salía en el botón de acción al estar en la puerta; los animales dentro del establo ya no aparecen ahí. El redil del pastor Ali se rehízo: los postes llegan al suelo, tiene tablas de cerca y un hueco de entrada, y el cobertizo tiene un techo inclinado con un comedero debajo (antes parecía una mesa sin tablero). De noche el tiempo muestra 🌙 «Cielo despejado» en lugar del sol.",
 "ru": "Имена коров, ночующих в деревенском хлеву, показывались на кнопке действия, когда ты стоял у двери хлева; теперь животные внутри хлева там не появляются. Загон пастуха Али перестроен: столбы стоят на земле, есть жерди забора и проём для входа, а навес с наклонной крышей и кормушкой под ним (раньше он был похож на стол без столешницы). Ночью в погоде вместо солнца показывается 🌙 «Ясно».",
 "ku": "Navên çêlekên ku bi şev di axura gund de radizên, dema tu li ber deriyê axurê disekinî, li ser bişkoka kiryarê derdiketin; êdî heywanên di axurê de li wir nayên xuyakirin. Pêgeha şivan Elî ji nû ve hate çêkirin: stûn li erdê ne, darên çeperê û valahiya derî hene, sîwan banê xwe yê xwar heye û di binê wê de afir heye (berê wek maseyeke bê text xuya dikir). Bi şev di hewayê de li şûna rojê 🌙 «Hewa sayî» tê nîşandan."
-},
-{
-"v": 281,
-"d": "2026-10-25",
-"tr": "Kasabalar büyürken yeni evlerin mevcut evlerin içine kurulması düzeltildi.",
-"en": "Fixed new houses being built inside existing houses as towns grow."
 }
 ]
