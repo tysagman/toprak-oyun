@@ -1,5 +1,11 @@
 [
  {
+  "v": 286,
+  "d": "2026-10-25",
+  "tr": "Toptancıya/ihracata/kooperatife sandıktan teslim edince çanta sayacı NaN oluyordu (çanta sınırı da bozuluyordu); düzeldi, bozuk kayıtlar kendiliğinden onarılır.",
+  "en": "After delivering from the chest to the wholesaler/export/co-op, the bag counter showed NaN (and the bag limit broke); fixed, and broken saves repair themselves."
+ },
+ {
   "v": 285,
   "d": "2026-10-26",
   "tr": "İnekler artık günde 4–20 L süt veriyor: cinsine, beslenmesine ve sağlığına göre. Yazın sadece mera otuyla orta, yemlikte ot ya da buğday varsa en yüksek süt gelir; kışın yemlik dolu olmalı. Hasta ya da aç inek 4 L verir, gebe inek daha az, sevdiğin inek 1 L fazla verir. Merada her ineğin günlük sütü yazıyor. Süt çoğaldığı için süt 2 A, peynir 7 A oldu (3 L süt = 1 peynir aynı); çantada ve sandıkta 4 L süt 1 yer kaplar.",
