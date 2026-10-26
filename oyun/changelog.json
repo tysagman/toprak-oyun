@@ -1,5 +1,11 @@
 [
 {
+"v": 316,
+"d": "2026-10-26",
+"tr": "Köylüler artık tezgâhın, çeşmenin ya da dükkânın içinde sıkışıp kalmıyor: Fadime Fatma Teyze'nin tezgâhında, Nazlı çeşmenin ortasında kalıyordu; Cemal Dayı, Dalgıç Deniz, iskeledeki Hüseyin Amca ve birkaç köylünün yeri de düzeltildi. Durduğu yer doluysa köylü en yakın boş yere geçer.",
+"en": "Villagers no longer get stuck inside stalls, the fountain or shops: Fadime stood inside Aunt Fatma's stall and Nazlı inside the fountain; a few other villagers' spots were fixed too. If a spot is blocked, the villager moves to the nearest free place."
+},
+{
 "v": 315,
 "d": "2026-10-26",
 "tr": "Köy meydanında duyulan takılma sesi düzeltildi: meydan uğultusu her saniye kendini tekrar ediyordu, artık uzaktan gelen doğal bir kalabalık mırıltısı. Rüzgâr, göl, yağmur ve araç sesleri de tekrar etmiyor.",
@@ -397,11 +403,5 @@
 "d": "2026-10-24",
 "tr": "Taksi listede yazan ücreti keser, mesafeler doğru gösterilir. İki köylü yan yanayken düğme en yakınını açar. '8 odun topla' ve '1.600 altın biriktir' kartları doğru sayar. Bölüm 1 sonunda tarla bedeli doğru (50.000 A) yazar. Gizli keşif ödülü ekranda görünür. Ormanda 'Yol gösteriliyor' bildirimi tekrar tekrar çıkmaz.",
 "en": "The taxi charges the fare shown in the list and distances are correct. When two villagers stand together the button opens the nearest one. The '8 wood' and '1,600 gold' quest cards count correctly. The end of Chapter 1 shows the correct field price (50,000 G). Secret discovery rewards are shown on screen. The 'Showing the way' notice no longer repeats in the forest."
-},
-{
-"v": 256,
-"d": "2026-10-24",
-"tr": "Görev kartındaki ve kişinin yanındaki düğme artık doğrudan doğru menüyü açar ve yapılacak satırı yanıp sönerek gösterir (ör. Merayı genişlet). Mera çiti Çiftlik menüsünden de kurulabilir.",
-"en": "The button on the quest card and next to the quest person now opens the right menu directly and highlights the row to use (e.g. Expand the pasture). The pasture fence can also be built from the Farm menu."
 }
 ]
