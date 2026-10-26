@@ -1,5 +1,11 @@
 [
  {
+  "v": 312,
+  "d": "2026-10-26",
+  "tr": "Veteriner Elif'te yeni hizmetler: Hepsini tedavi et, Hepsini aşıla, vitamin kürü (10 A), kümes salgını tedavisi (20 A). Tedavi her zaman tutmaz (erken tedavi %95), uzun hastalık hayvanı 10 gün halsiz bırakır (süt ve iş %30 az), çok uzun hasta kalan hayvan ölebilir (oyunda değilken ölmez). Yeni çalışan: Sağlık bakıcısı Derya (25 A/gün). Hayvan ağır hastalanınca ekranda 🚨 uyarı çıkar.",
+  "en": "New services at Vet Elif: Treat all, Vaccinate all, vitamin course (10 G), coop outbreak treatment (20 G). Treatment doesn't always work (95% when early), a long illness leaves the animal weak for 10 days (30% less milk and work), an animal sick for too long can die (never while you're away). New worker: Animal carer Derya (25 G/day). A 🚨 alert appears when an animal is seriously ill."
+ },
+ {
   "v": 311,
   "d": "2026-10-26",
   "tr": "Google ile giriş eklendi: Giriş ve Kayıt ekranlarında «Google ile giriş yap» düğmesi var. Misafir olarak oynuyorsan ilerlemen Google hesabına bağlanır, kaybolmaz. E-postayla hesabı olanlar Hesap ekranından «Google hesabını bağla» ile Google'ı ekleyebilir. Android uygulamasında bir sonraki uygulama güncellemesiyle açılır.",
@@ -397,17 +403,5 @@
   "d": "2026-10-24",
   "tr": "Pil tasarrufu güçlendi: uygulama arka plandayken oyun tamamen durur. Beklerken (8 saniye dokunulmazsa) 15 FPS, menüler açıkken 8 FPS. Gölgeler daha seyrek hesaplanıyor, uzaktaki kalabalık ve çimen azaltıldı. Pil %20 altındayken ve şarjda değilken en hafif moda geçer. Kare hızı sınırına 45 FPS seçeneği eklendi.",
   "en": "Stronger battery saver: the game fully pauses in the background, runs at 15 FPS when idle (8 s without touch) and 8 FPS in menus, updates shadows less often and trims far crowds and grass. Below 20% battery (not charging) it switches to the lightest mode. Added a 45 FPS option."
- },
- {
-  "v": 252,
-  "d": "2026-10-24",
-  "tr": "Banka: kredi çektikten hemen sonra yanlışlıkla \"Kapat\"a basınca kredi faiziyle kapanıyordu. Artık erken kapatma onay istiyor ve kalan günlerin faizi alınmıyor (aynı gün kapatırsan sadece aldığın parayı geri ödersin). Bu yüzden faiz kesilen oyunculara faiz hesaplarına iade edildi. Mera: \"Merayı genişlet\" gibi yapı görevlerinde görev kutusunda artık \"Çiftlikte aç\" düğmesi var, doğrudan ilgili geliştirmeyi açar.",
-  "en": "Bank: tapping \"Close\" right after taking a loan closed it with full interest. Early payoff now asks for confirmation and skips the interest for the remaining days (closing on the same day repays only what you borrowed). Players who were charged this interest got it refunded to their account. Pasture: building quests like \"Expand the pasture\" now have an \"Open in Farm\" button in the quest box that opens the right upgrade."
- },
- {
-  "v": 251,
-  "d": "2026-10-24",
-  "tr": "Görev kartı artık her şeyi gösteriyor: görevin için gereken altın ve malzemeler canlı listede, elindeki miktarla birlikte (çanta ve sandık birlikte sayılır). Eksik malzemenin nereden bulunacağı ve 📍 ile yeri, nasıl yapılacağı ve ilgili ekrana giden düğme (Çiftlik, Çalışanlar, Banka…), görevin neden önemli olduğu ve sonra neyin açılacağı da yazıyor. Fiyatlar bölüme göre otomatik güncellenir. Hedefler ekranındaki hikâye görevine 📋 ile de açılır.",
-  "en": "The quest card now shows everything: the gold and materials you need in a live list with how many you have (bag and chest count together), where to find missing materials with a 📍 button, how to do it with a button to the right screen (Farm, Workers, Bank…), why the quest matters and what it unlocks next. Prices update automatically with the chapter. Also opens from the story quest in Goals via 📋."
  }
 ]
