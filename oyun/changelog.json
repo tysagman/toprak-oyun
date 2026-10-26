@@ -1,5 +1,16 @@
 [
  {
+  "v": 294,
+  "d": "2026-10-25",
+  "tr": "Oyunun adı artık her dilde o dilin kendi adıyla görünüyor: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê. Açılış ekranında, ana menüde, sekme başlığında, mektupta ve bütün mesajlarda.",
+  "en": "The game's name now shows in each language's own form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, on the splash screen, main menu, tab title, the letter and all messages.",
+  "de": "Der Name des Spiels erscheint jetzt in jeder Sprache in eigener Form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê – auf dem Startbildschirm, im Hauptmenü, im Tab-Titel, im Brief und in allen Nachrichten.",
+  "fr": "Le nom du jeu s'affiche maintenant dans la forme propre à chaque langue : Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, sur l'écran d'accueil, le menu principal, le titre de l'onglet, la lettre et tous les messages.",
+  "es": "El nombre del juego ahora aparece en la forma propia de cada idioma: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, en la pantalla de inicio, el menú principal, el título de la pestaña, la carta y todos los mensajes.",
+  "ru": "Название игры теперь показывается на каждом языке по-своему: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê — на заставке, в главном меню, в заголовке вкладки, в письме и во всех сообщениях.",
+  "ku": "Navê lîstikê êdî bi her zimanî bi navê wî zimanî xuya dibe: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê; li ekrana destpêkê, menuya sereke, sernavê tabê, nameyê û hemû peyaman."
+ },
+ {
   "v": 293,
   "d": "2026-10-25",
   "tr": "Başka oyuncunun köyündeyken kendiliğinden görev kontrolü yapılmaz (ev sahibinin görevi senin hesabına işlemesin).",
