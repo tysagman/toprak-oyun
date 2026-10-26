@@ -1,5 +1,11 @@
 [
 {
+"v": 338,
+"d": "2026-10-26",
+"tr": "Isınma ve pil: oyun telefonu çok daha az yoruyor. Bazı telefonlarda 30 FPS sınırı çalışmıyor, oyun gereksiz yere 60–120 FPS çiziyordu; düzeltildi. Uzaktaki insan ve hayvanların ekranda görünmeyecek kadar küçük parçaları çizilmiyor, küçük parçaların gölgesi sadece yakında düşüyor. Çarpışma hesabı 4 kat hızlandı, uzaktaki hayvanlar daha seyrek hesaplanıyor. Görüntü aynı.",
+"en": "Heat and battery: the game is much lighter on your phone. On some phones the 30 FPS limit did not work and the game drew 60–120 FPS for nothing; fixed. Tiny parts of far-away people and animals are no longer drawn, and small parts cast shadows only up close. Collision checks are 4x faster and distant animals update less often. Visuals are unchanged."
+},
+{
 "v": 337,
 "d": "2026-10-26",
 "tr": "Meralar yan yana: inek, koyun ve keçi merası artık çiftliğin önünde tek sırada duruyor. Çoban Ali'nin ağılı ve otlağı doğuya taşındı, çayır meraların güneyinde. Koyun merasına Çoban Hasan, keçi merasına Keçi çobanı Gülsüm işe alınabilir (Çalışanlar); gündüz merada çalışır, sağar, yemler, kırkar. Mera kurmak için malzeme eksikse Kur düğmesinin yanında neyin eksik olduğu yazar.",
@@ -387,17 +393,5 @@
 "d": "2026-10-25",
 "tr": "Türkçe dışındaki dillerde yarım kalan çeviriler tamamlandı: itibar ekranı, çanta, sandık geliştirme, mutfak yemekleri, çalışan bildirimleri, uzaktan sipariş ve turist ekranı.",
 "en": "Missing translations filled in: reputation screen, bag, chest upgrades, kitchen dishes, worker notifications, remote ordering and the tourist screen."
-},
-{
-"v": 277,
-"d": "2026-10-25",
-"tr": "Sayılar artık düzgün yazılıyor: itibar ekranındaki \"1.6000000000000014\" gibi uzun ondalıklar kalktı (1,6 itibar). Altın, itibar ve diğer sayılar oyunun diline göre biçimlenir (Türkçe 1.234,5 · İngilizce 1,234.5).",
-"en": "Numbers now display cleanly: long decimals like \"1.6000000000000014\" on the reputation screen are gone (1.6 reputation). Gold, reputation and other numbers follow your language's format (English 1,234.5)."
-},
-{
-"v": 276,
-"d": "2026-10-25",
-"tr": "Sebze bahçesi ekranı netleşti: bahçeyi büyütürken eksik malzemede çantanda ve sandığında kaç tane olduğu yazıyor, sandık doluysa uyarıyor. Fide yoksa boş yatakta \"📱 Fide al\" düğmesi Tarım Market'i açıyor. Bahçe büyüyünce yatak sayısı doğru yazıyor.",
-"en": "The vegetable garden screen is clearer: when expanding, it shows how many of each missing material you have in your bag and chest, and warns if the chest is full. With no seedlings, a \"📱 Buy seedlings\" button on the empty bed opens the Farm Store. The bed count is now correct after expanding."
 }
 ]
