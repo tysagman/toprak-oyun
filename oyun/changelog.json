@@ -1,5 +1,11 @@
 [
  {
+  "v": 318,
+  "d": "2026-10-26",
+  "tr": "Balıkçılık güncellemesi: günlük balık sınırı kalktı (çok tutunca balık daha geç vurur). Balığın boyu artık önemli: küçük balık kolay çekilir ve ucuz satılır, iri balık zor çekilir ama %30'a kadar pahalı satılır. Uzağa atış ve Balık Şenliği iri balık getirir. Yayın balığı artık çekilebiliyor. Pazarlamacı Burak günde maaşının 4 katı satabilir.",
+  "en": "Fishing update: the daily fish limit is gone (after many catches, bites come slower). Fish size now matters: small fish reel in easily and sell cheap, big fish fight harder but sell for up to 30% more. Long casts and the Fishing Festival bring bigger fish. Catfish can now actually be landed. Burak the salesman can sell up to 4× his wage per day."
+ },
+ {
   "v": 317,
   "d": "2026-10-26",
   "tr": "Veteriner güncellemesi: aşı artık 5 A ve 30 gün korur (süre bitmeden tekrar aşılanmaz, kalan gün yazar). Hasta hayvanın tedavisi ilaç + aşı birlikte. Hastalıklar sebebe göre değişir: soğuk algınlığı (hafif), sindirim bozukluğu ve ahır hastalığı (orta), bulaşıcı hastalık (ağır, 2 gün tedavi, aşısız hayvana bulaşır). Risk mevsime, beslenmeye, ahır temizliğine, kalabalığa ve yaşa göre değişir, Elif ekranında görünür. Yeni: Hepsine vitamin ver.",
