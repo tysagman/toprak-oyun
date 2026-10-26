@@ -1,5 +1,11 @@
 [
 {
+"v": 347,
+"d": "2026-10-26",
+"tr": "Telefon ısınması azaltıldı: 30 FPS sınırı 90/120 Hz ekranlarda artık doğru çalışıyor. Telefonda yüksek grafik uzun süre zorlanırsa grafik kendiliğinden bir kademe düşer. Ayarlar'da yüksek grafiğin telefonu ısıttığı uyarısı var.",
+"en": "Less phone heating: the 30 FPS cap now works correctly on 90/120 Hz screens. On phones, if high graphics struggle for a long time, graphics drop one level automatically. Settings now warn that high graphics heat the phone."
+},
+{
 "v": 346,
 "d": "2026-10-26",
 "tr": "Taş süs havuzu artık su pompasının üstüne kurulmuyor. Bayrak direğinde ülkenin bayrağı dalgalanıyor, direk evin yanına taşındı. Ormanda gezen köylüler yürüyüşe, mantar toplamaya ya da hava almaya çıktığını söylüyor.",
