@@ -1,413 +1,407 @@
 [
-{
-"v": 323,
-"d": "2026-10-26",
-"tr": "Güneş panelleri artık köy ahırının içinde görünmüyor: oyun açılırken paneller ahır kurulmadan yerleştiriliyordu, artık ahır, cami ve köy yapıları kurulduktan sonra boş bir yere taşınıyor.",
-"en": "Solar panels no longer appear inside the village barn: they were placed before the barn was built on load; now they move to a free spot after the barn, mosque and village buildings are built."
-},
-{
-"v": 321,
-"d": "2026-10-26",
-"tr": "Yevmiyeli çalışanlar artık yalnız çalıştığı gün için tek yevmiye alır: sen yokken ödenen gün ertesi sabah tekrar ödenmiyordu, düzeldi. Günlükçülerde ekranda ve raporlarda \"maaş\" yerine \"yevmiye\" yazar; kadrolu maaşı ayrı gösterilir.",
-"en": "Day laborers now get a single daily wage only for days they worked: a day already paid while you were away was paid again the next morning, fixed. Day laborers now show \"daily wage\" instead of \"salary\"; salaried pay is shown separately."
-},
-{
-"v": 320,
-"d": "2026-10-26",
-"tr": "Pazarlamacı Burak artık günde maaşının 6 katı satabilir. Burak'ın satış ekranına \"Burak neye göre satar?\" açıklaması eklendi: sadece sandıktan, köy fiyatıyla, %25 komisyonla satar; sınır dolunca kalan ürün ertesi güne kalır.",
-"en": "Burak the salesman can now sell up to 6× his wage per day. His sell screen now explains how he sells: only from the chest, at village prices, for a 25% commission; anything over the limit waits for the next day."
-},
-{
-"v": 319,
-"d": "2026-10-26",
-"tr": "Şifremi unuttum düzeltildi: şifre yenileme e-postası artık oyunun dilinde gelir, gönderen adı Toprağın Mirası. Ekranda net mesaj: kullanıcı adı yazınca e-posta istenir, gönderilince Spam klasörünü kontrol et uyarısı çıkar, çok deneme ve geçersiz e-posta ayrı ayrı yazılır.",
-"en": "Forgot password fixed: the reset email now arrives in the game's language from Legacy of the Land. Clear messages on screen: entering a username asks for your email, after sending you're reminded to check Spam, too many attempts and invalid email are shown separately."
-},
-{
-"v": 318,
-"d": "2026-10-26",
-"tr": "Balıkçılık güncellemesi: günlük balık sınırı kalktı (çok tutunca balık daha geç vurur). Balığın boyu artık önemli: küçük balık kolay çekilir ve ucuz satılır, iri balık zor çekilir ama %30'a kadar pahalı satılır. Uzağa atış ve Balık Şenliği iri balık getirir. Yayın balığı artık çekilebiliyor. Pazarlamacı Burak günde maaşının 4 katı satabilir.",
-"en": "Fishing update: the daily fish limit is gone (after many catches, bites come slower). Fish size now matters: small fish reel in easily and sell cheap, big fish fight harder but sell for up to 30% more. Long casts and the Fishing Festival bring bigger fish. Catfish can now actually be landed. Burak the salesman can sell up to 4× his wage per day."
-},
-{
-"v": 317,
-"d": "2026-10-26",
-"tr": "Veteriner güncellemesi: aşı artık 5 A ve 30 gün korur (süre bitmeden tekrar aşılanmaz, kalan gün yazar). Hasta hayvanın tedavisi ilaç + aşı birlikte. Hastalıklar sebebe göre değişir: soğuk algınlığı (hafif), sindirim bozukluğu ve ahır hastalığı (orta), bulaşıcı hastalık (ağır, 2 gün tedavi, aşısız hayvana bulaşır). Risk mevsime, beslenmeye, ahır temizliğine, kalabalığa ve yaşa göre değişir, Elif ekranında görünür. Yeni: Hepsine vitamin ver.",
-"en": "Vet update: vaccines now cost 5 G and protect for 30 days (no re-vaccination before then, days left shown). Treating a sick animal now gives medicine + vaccine. Illnesses depend on the cause: cold (mild), digestive upset and barn disease (moderate), contagious disease (severe, 2 days of treatment, spreads to unvaccinated animals). Risk depends on season, feeding, barn cleanliness, crowding and age, shown at Elif's. New: Give vitamins to all."
-},
-{
-"v": 316,
-"d": "2026-10-26",
-"tr": "Köylüler artık tezgâhın, çeşmenin ya da dükkânın içinde sıkışıp kalmıyor: Fadime Fatma Teyze'nin tezgâhında, Nazlı çeşmenin ortasında kalıyordu; Cemal Dayı, Dalgıç Deniz, iskeledeki Hüseyin Amca ve birkaç köylünün yeri de düzeltildi. Durduğu yer doluysa köylü en yakın boş yere geçer.",
-"en": "Villagers no longer get stuck inside stalls, the fountain or shops: Fadime stood inside Aunt Fatma's stall and Nazlı inside the fountain; a few other villagers' spots were fixed too. If a spot is blocked, the villager moves to the nearest free place."
-},
-{
-"v": 315,
-"d": "2026-10-26",
-"tr": "Köy meydanında duyulan takılma sesi düzeltildi: meydan uğultusu her saniye kendini tekrar ediyordu, artık uzaktan gelen doğal bir kalabalık mırıltısı. Rüzgâr, göl, yağmur ve araç sesleri de tekrar etmiyor.",
-"en": "Fixed the stuttering sound in the village square: the square murmur repeated itself every second; it is now a natural distant crowd murmur. Wind, lake, rain and vehicle sounds no longer repeat either."
-},
-{
-"v": 314,
-"d": "2026-10-26",
-"tr": "Güneş panelleri artık meranın içinde kalmıyor: mera sonradan kurulunca ya da büyüyünce paneller boş yere taşınıyor. Panellerin yanına gidip 🔆 düğmesine dokununca ne işe yaradıkları, havaya göre günlük kazanç, bu sabah gelen ve toplam kazanç yazıyor.",
-"en": "Solar panels no longer end up inside the pasture: they move to a free spot when the pasture is built or enlarged. Walk to the panels and tap 🔆 to see what they do, daily income by weather, this morning's income and the total."
-},
-{
-"v": 313,
-"d": "2026-10-26",
-"tr": "Toptancı ve ihracat sözleşmesi artık günde bir kez alınır, yeni teklif ertesi gün gelir. Sen yokken Erkan işteyse fabrikalar en çok 3 gün üretir, maaşı ödenir.",
-"en": "Wholesale and export contracts can now be taken once a day; a new offer comes the next day. While you're away, factories produce for up to 3 days if Erkan is hired, and his wage is paid."
-},
-{
-"v": 312,
-"d": "2026-10-26",
-"tr": "Veteriner Elif'te yeni hizmetler: Hepsini tedavi et, Hepsini aşıla, vitamin kürü (10 A), kümes salgını tedavisi (20 A). Tedavi her zaman tutmaz (erken tedavi %95), uzun hastalık hayvanı 10 gün halsiz bırakır (süt ve iş %30 az), çok uzun hasta kalan hayvan ölebilir (oyunda değilken ölmez). Yeni çalışan: Sağlık bakıcısı Derya (25 A/gün). Hayvan ağır hastalanınca ekranda 🚨 uyarı çıkar.",
-"en": "New services at Vet Elif: Treat all, Vaccinate all, vitamin course (10 G), coop outbreak treatment (20 G). Treatment doesn't always work (95% when early), a long illness leaves the animal weak for 10 days (30% less milk and work), an animal sick for too long can die (never while you're away). New worker: Animal carer Derya (25 G/day). A 🚨 alert appears when an animal is seriously ill."
-},
-{
-"v": 311,
-"d": "2026-10-26",
-"tr": "Google ile giriş eklendi: Giriş ve Kayıt ekranlarında «Google ile giriş yap» düğmesi var. Misafir olarak oynuyorsan ilerlemen Google hesabına bağlanır, kaybolmaz. E-postayla hesabı olanlar Hesap ekranından «Google hesabını bağla» ile Google'ı ekleyebilir. Android uygulamasında bir sonraki uygulama güncellemesiyle açılır.",
-"en": "Sign in with Google added: the Sign in and Sign up screens now have a «Sign in with Google» button. If you play as a guest, your progress is linked to your Google account and isn't lost. Players with an email account can add Google from the Account screen with «Link your Google account». On the Android app it arrives with the next app update."
-},
-{
-"v": 310,
-"d": "2026-10-26",
-"tr": "Hayvan ürünleri yenilendi: tavuk günde 1–3 yumurta (yumurta 6 A, yem 5'te 1), peynir artık kg (7 L süt → 1 kg, 10 A), yeni ürünler: yoğurt, ayran, kaşar, tereyağı, dana eti, sucuk, et kavurma. Mandıra ürünü seçilir (günde 50–400 L süt). ABD bölgesinde pound/galon (Ayarlar › Ölçü birimi). Eski peynirler kg'ye çevrildi.",
-"en": "Animal products reworked: hens lay 1–3 eggs a day (eggs 6 G, feed use cut to a fifth), cheese is now sold by weight (7 L milk → 1 kg), new products: yogurt, ayran, kashar, butter, beef, sujuk, kavurma. Choose what the dairy makes (50–400 L milk a day). US units (lb/gal) in the US region (Settings › Units). Old cheese was converted."
-},
-{
-"v": 309,
-"d": "2026-10-25",
-"tr": "Mera çitinin yanında «🐄 Mera» düğmesi «🤸 Çitten atla» düğmesinin önüne geçiyordu. Artık çite dönünce atlama düğmesi çıkıyor; mera menüsü çite bakmadığında yine açılıyor.",
-"en": "Next to the pasture fence the «🐄 Pasture» button took the place of «🤸 Jump the fence». Now the jump button appears when you face the fence; the pasture menu still opens when you aren't facing it.",
-"de": "Am Weidezaun verdeckte der Knopf «🐄 Weide» den Knopf «🤸 Über den Zaun springen». Jetzt erscheint der Sprungknopf, wenn du zum Zaun schaust; das Weidemenü öffnet sich weiterhin, wenn du nicht zum Zaun schaust.",
-"fr": "Près de la clôture du pâturage, le bouton «🐄 Pâturage» remplaçait «🤸 Sauter la clôture». Désormais, le bouton de saut apparaît quand tu fais face à la clôture ; le menu du pâturage s'ouvre toujours quand tu ne la regardes pas.",
-"es": "Junto a la cerca del pasto, el botón «🐄 Pasto» tapaba «🤸 Saltar la cerca». Ahora el botón de salto aparece cuando miras a la cerca; el menú del pasto sigue abriéndose cuando no la miras.",
-"ru": "У забора пастбища кнопка «🐄 Пастбище» заменяла кнопку «🤸 Перепрыгнуть забор». Теперь кнопка прыжка появляется, когда смотришь на забор; меню пастбища по-прежнему открывается, если не смотреть на него.",
-"ku": "Li kêleka çeperê mêrgê bişkoka «🐄 Mêrg» dikete şûna «🤸 Ji ser çeperê baz bide». Êdî dema tu rûyê xwe didî çeperê bişkoka bazdanê derdikeve; menuya mêrgê dema tu li çeperê nanêrî dîsa vedibe."
-},
-{
-"v": 308,
-"d": "2026-10-26",
-"tr": "Aç dinlenince enerji yarıda kalıyordu; artık yemek yiyip yeniden dinlenince enerjin tam dolar. Uzun süre aç kalınca (açlık %100) sağlığın yavaşça düşer, uyarı gelir; yemek yiyince düşüş durur.",
-"en": "Resting while hungry left your energy half full; now eat and rest again to refill it fully. Staying hungry for long (100% hunger) slowly lowers your health with a warning; eating stops it."
-},
-{
-"v": 307,
-"d": "2026-10-26",
-"tr": "Turistlere satış: bir turist alışveriş yapınca ok ve \"Turistle konuş\" artık alışveriş yapmamış başka bir turisti gösteriyor; köydeki kalabalık turisti örtmüyor. Satış yaptığın turistte kaç turist kaldığı ve en yakınının uzaklığı yazıyor.",
-"en": "Selling to tourists: after a tourist buys, the arrow and \"Talk to tourist\" now point to another tourist who hasn't bought yet; villagers nearby no longer block them. The tourist you sold to shows how many tourists are left and how far the nearest one is."
-},
-{
-"v": 306,
-"d": "2026-10-26",
-"tr": "Araçlar artık hiçbir durumda köylülerin içinden geçmiyor: yolda duran biri varsa araç durup bekliyor, köylü de kenara çekilip yol veriyor.",
-"en": "Vehicles never drive through villagers anymore: if someone is standing on the road, the vehicle stops and the villager steps aside to let it pass."
-},
-{
-"v": 305,
-"d": "2026-10-26",
-"tr": "Üye olurken kullanıcı adında Türkçe harfler (ç ğ ı İ ö ş ü), büyük/küçük harf ve _ . - kullanılabiliyor. Girişte büyük/küçük harf fark etmez; adın yazdığın gibi görünür.",
-"en": "Usernames can now use Turkish and other letters, upper/lower case and _ . - when signing up. Login is case-insensitive; your name is shown as you typed it."
-},
-{
-"v": 304,
-"d": "2026-10-26",
-"tr": "Otobüs, taksi ve şehirdeki arabalar artık köylülerin ve senin içinden geçmiyor: önlerinde biri varsa yavaşlayıp duruyorlar, yoldaki köylüler de araç yaklaşınca kenara çekiliyor.",
-"en": "Buses, taxis and city cars no longer drive through villagers or you: they slow down and stop for people ahead, and villagers step aside when a vehicle approaches."
-},
-{
-"v": 303,
-"d": "2026-10-26",
-"tr": "Yollar artık araziye oturuyor: tepelerde toprağa gömülüp parça parça görünmüyor. Mera geliştirildikçe çit de büyüyor (çiftlik merası 17×10,5 m), inekler sıkışmıyor ve meraya dağılıyor.",
-"en": "Roads now follow the terrain instead of sinking into hills and looking broken. The pasture fence grows with each upgrade (farm pasture 17×10.5 m), so cows are no longer crammed together."
-},
-{
-"v": 302,
-"d": "2026-10-26",
-"tr": "Bölüm 4'ün 'altın biriktir' görevi 600.000 yerine 150.000 altın (Bölüm 5: 400.000, Bölüm 6: 500.000).",
-"en": "Chapter 4's 'save gold' quest now asks for 150,000 instead of 600,000."
-},
-{
-"v": 301,
-"d": "2026-10-25",
-"tr": "Köyden gelen toprak yol şehrin asfalt caddelerinin üstüne çiziliyordu; artık şehir girişinde bitiyor.",
-"en": "The dirt road from the village no longer paints over the city's asphalt streets."
-},
-{
-"v": 300,
-"d": "2026-10-25",
-"tr": "Şehrin adı -şehir ile bitince (Gökşehir, Altınşehir) 'Gökşehir şehri' yerine 'Gökşehir', 'şehrine' yerine 'Gökşehir'e' yazılıyor.",
-"en": "City names ending in -şehir no longer get a doubled 'şehri' in Turkish."
-},
-{
-"v": 299,
-"d": "2026-10-26",
-"tr": "Çevre yolu artık meranın içinden geçmiyor: mera yolun güneyine taşındı (inekler yeni yerde). Köylüler de meranın içinden yürümüyor.",
-"en": "The bypass road no longer runs through the pasture: the pasture moved south of the road (cows are in the new spot). Villagers no longer walk through it either."
-},
-{
-"v": 298,
-"d": "2026-10-25",
-"tr": "Çoban Ali'nin ağılına artık kapısından girebilirsin; çitler ve gölgelik yine engel, köylüler etrafından dolaşıyor. Bir çite yaklaşıp ona dönünce «🤸 Çitten atla» düğmesi çıkıyor ve karakterin çitin üstünden atlıyor (ağıl, mera ve çiftlik çitleri; 1 enerji).",
-"en": "You can now enter Shepherd Ali's sheepfold through its gate; the fences and shelter still block, and villagers walk around. Walk up to a fence and face it, and a «🤸 Jump the fence» button appears: your character jumps over it (sheepfold, pasture and farm fences; 1 energy).",
-"de": "Du kannst Hirte Alis Schafpferch jetzt durch das Tor betreten; Zaun und Unterstand blockieren weiterhin, Dorfbewohner gehen außen herum. Geh an einen Zaun und schau ihn an, dann erscheint «🤸 Über den Zaun springen» und deine Figur springt darüber (Pferch-, Weide- und Hofzäune; 1 Energie).",
-"fr": "Tu peux maintenant entrer dans la bergerie du berger Ali par sa porte ; les clôtures et l'abri bloquent toujours, et les villageois la contournent. Approche-toi d'une clôture face à elle : un bouton «🤸 Sauter la clôture» apparaît et ton personnage saute par-dessus (clôtures de la bergerie, du pâturage et de la ferme ; 1 énergie).",
-"es": "Ahora puedes entrar en el redil del pastor Ali por su puerta; las cercas y el cobertizo siguen bloqueando y los aldeanos lo rodean. Acércate a una cerca mirándola y aparece el botón «🤸 Saltar la cerca»: tu personaje salta por encima (cercas del redil, del pasto y de la granja; 1 de energía).",
-"ru": "Теперь в загон пастуха Али можно войти через калитку; забор и навес по-прежнему мешают пройти, а жители обходят его. Подойди к забору лицом к нему — появится кнопка «🤸 Перепрыгнуть забор», и персонаж перепрыгнет через него (заборы загона, пастбища и фермы; 1 энергия).",
-"ku": "Êdî tu dikarî ji deriyê pêgeha şivan Elî bikevî hundir; çeper û sîwan dîsa asteng in, gundî li dora wê dizivirin. Here ber çeperekê û rûyê xwe bide wê, bişkoka «🤸 Ji ser çeperê baz bide» derdikeve û karakterê te ji ser wê baz dide (çeperên pêgehê, mêrgê û çandiniyê; 1 enerjî)."
-},
-{
-"v": 297,
-"d": "2026-10-25",
-"tr": "Bankanın en fazla verdiği kredi bölüm fiyatlarıyla büyür (Bölüm 4'te yaklaşık 3,4 katı); fabrika kredisi artık fabrikaya yetecek düzeye yaklaşır.",
-"en": "The bank's maximum loan now grows with chapter prices (about 3.4x in Chapter 4), so the factory loan actually helps fund a factory."
-},
-{
-"v": 296,
-"d": "2026-10-26",
-"tr": "Köy meydanı sadeleşti: aynı anda en çok 2 konuşma balonu görünür (en yakındakiler), balonlar düğmelerin ve panellerin üstüne binmez. Köylüler daha seyrek konuşur, isim etiketleri sadece yakındaki birkaç kişide çıkar, meydandaki kalabalık azaldı. Oyun daha akıcı, pil daha az harcanır.",
-"en": "The village square is calmer: at most 2 speech bubbles at a time (the nearest ones), and they no longer cover buttons or panels. Villagers chat less often, name tags show only on a few nearby people, and the square is less crowded. Smoother play and less battery use."
-},
-{
-"v": 295,
-"d": "2026-10-25",
-"tr": "Kamyon sefere çıkınca gün boyu park yerinde görünmez (yolda), akşam 19:00'da geri döner.",
-"en": "A truck sent on a trip leaves its parking spot for the day and returns at 19:00."
-},
-{
-"v": 294,
-"d": "2026-10-25",
-"tr": "Oyunun adı artık her dilde o dilin kendi adıyla görünüyor: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê. Açılış ekranında, ana menüde, sekme başlığında, mektupta ve bütün mesajlarda.",
-"en": "The game's name now shows in each language's own form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, on the splash screen, main menu, tab title, the letter and all messages.",
-"de": "Der Name des Spiels erscheint jetzt in jeder Sprache in eigener Form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê – auf dem Startbildschirm, im Hauptmenü, im Tab-Titel, im Brief und in allen Nachrichten.",
-"fr": "Le nom du jeu s'affiche maintenant dans la forme propre à chaque langue : Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, sur l'écran d'accueil, le menu principal, le titre de l'onglet, la lettre et tous les messages.",
-"es": "El nombre del juego ahora aparece en la forma propia de cada idioma: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, en la pantalla de inicio, el menú principal, el título de la pestaña, la carta y todos los mensajes.",
-"ru": "Название игры теперь показывается на каждом языке по-своему: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê — на заставке, в главном меню, в заголовке вкладки, в письме и во всех сообщениях.",
-"ku": "Navê lîstikê êdî bi her zimanî bi navê wî zimanî xuya dibe: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê; li ekrana destpêkê, menuya sereke, sernavê tabê, nameyê û hemû peyaman."
-},
-{
-"v": 293,
-"d": "2026-10-25",
-"tr": "Başka oyuncunun köyündeyken kendiliğinden görev kontrolü yapılmaz (ev sahibinin görevi senin hesabına işlemesin).",
-"en": "Automatic quest checks are skipped while visiting another player's village."
-},
-{
-"v": 292,
-"d": "2026-10-25",
-"tr": "Çoban Ali'nin ağılında köylüler ve oyuncu çitin ve gölgeliğin içinden geçebiliyordu. Artık ağıl bir engel: insanlar etrafından dolaşıyor, koyunlar akşam yine ağıla giriyor.",
-"en": "Villagers and the player could walk through the fence and shelter of Shepherd Ali's sheepfold. The fold is now solid: people walk around it, and the sheep still go in at night.",
-"de": "Dorfbewohner und Spieler konnten durch Zaun und Unterstand von Hirte Alis Schafpferch laufen. Der Pferch ist jetzt fest: Menschen gehen außen herum, die Schafe gehen abends weiterhin hinein.",
-"fr": "Les villageois et le joueur pouvaient traverser la clôture et l'abri de la bergerie du berger Ali. La bergerie est maintenant solide : les gens la contournent, et les moutons y entrent toujours le soir.",
-"es": "Los aldeanos y el jugador podían atravesar la cerca y el cobertizo del redil del pastor Ali. Ahora el redil es sólido: la gente lo rodea y las ovejas siguen entrando por la noche.",
-"ru": "Жители и игрок могли проходить сквозь забор и навес загона пастуха Али. Теперь загон твёрдый: люди обходят его, а овцы по-прежнему заходят туда вечером.",
-"ku": "Gundî û lîstikvan dikarîbûn di nav çeper û sîwana pêgeha şivan Elî re derbas bibin. Êdî pêgeh asteng e: mirov li dora wê dizivirin, pez êvarê dîsa dikevin hundir."
-},
-{
-"v": 291,
-"d": "2026-10-26",
-"tr": "Camide cemaatle namazda karakterin artık cemaatle aynı anda kıyam, rükû ve secdeye gidiyor (telefon takılsa da geri kalmıyor). İmam sarık ve cübbe giydi, cemaatte fötr şapka yerine takke var. Emeği Geçenler: Sponsor bölümü sponsor davetine dönüştü, \"Manevi Destek\" artık \"Tester\", yeni \"Destek Olanlar\" bölümü eklendi.",
-"en": "In congregational prayer at the mosque your character now moves together with the congregation (no lag on slow phones). The imam now wears a turban and robe; worshippers wear prayer caps. Credits: the Sponsor section is now an invitation, \"Spiritual support\" is now \"Tester\", and a new \"Supporters\" section was added."
-},
-{
-"v": 290,
-"d": "2026-10-26",
-"tr": "Çalışanların \"İşimi yapamadım\" bildirimi (ör. Oduncu Hamit \"Sandık dolu\") artık her saat değil, en çok 12 saatte bir gelir; çalışan raporunda yine görünür. Çalışan raporu kayıtta gereksiz büyümüyor.",
-"en": "Workers' \"I couldn't do my job\" notice (e.g. Woodcutter Hamit \"chest is full\") now comes at most once every 12 hours instead of every hour; it still shows in the worker report. The worker report no longer bloats your save."
-},
-{
-"v": 289,
-"d": "2026-10-26",
-"tr": "Yürürken karakterin ve çevresinin gölgeleri artık titremiyor. Camiye sadece revaktaki kapının önünden girilir (şadırvan arasından girilmiyor). Kıyafetini her an değiştirebilirsin: ☰ Diğer › 👕 Gardırop. Kadın karakterlerde sakal/bıyık görünmesi düzeldi.",
-"en": "Shadows no longer flicker around your character while walking. The mosque can only be entered from the door on its porch. Change your clothes any time: ☰ More › 👕 Wardrobe. Female characters no longer show a beard or moustache."
-},
-{
-"v": 288,
-"d": "2026-10-25",
-"tr": "Muhtardaki Ticaret Ofisi artık toptancı ekranını açıyor (Bölüm 3'te açılır yazıyor ama hiç açılmıyordu); av tüfeği ve budama makası 'yakında' yazıyor; muhtar tarla geri alındıktan sonra 'Demirkol topraklarını kaptı' demiyor, bölüme göre konuşuyor.",
-"en": "The Trade Office at the headman now opens the wholesale screen; hunting rifle and pruning shears say 'coming soon'; the headman's line now fits the current chapter."
-},
-{
-"v": 287,
-"d": "2026-10-25",
-"tr": "Çalışanı işe alınca (Selin, Erkan…) ya da altın/itibar gibi şartlar başka yoldan dolunca görev bir sonraki olaya kadar takılı kalıyordu; artık birkaç saniyede kendiliğinden ilerler.",
-"en": "Quests now advance on their own within seconds when their condition is met another way (hiring Selin/Erkan, reaching a gold or reputation target)."
-},
-{
-"v": 286,
-"d": "2026-10-25",
-"tr": "Toptancıya/ihracata/kooperatife sandıktan teslim edince çanta sayacı NaN oluyordu (çanta sınırı da bozuluyordu); düzeldi, bozuk kayıtlar kendiliğinden onarılır.",
-"en": "After delivering from the chest to the wholesaler/export/co-op, the bag counter showed NaN (and the bag limit broke); fixed, and broken saves repair themselves."
-},
-{
-"v": 285,
-"d": "2026-10-26",
-"tr": "İnekler artık günde 4–20 L süt veriyor: cinsine, beslenmesine ve sağlığına göre. Yazın sadece mera otuyla orta, yemlikte ot ya da buğday varsa en yüksek süt gelir; kışın yemlik dolu olmalı. Hasta ya da aç inek 4 L verir, gebe inek daha az, sevdiğin inek 1 L fazla verir. Merada her ineğin günlük sütü yazıyor. Süt çoğaldığı için süt 2 A, peynir 7 A oldu (3 L süt = 1 peynir aynı); çantada ve sandıkta 4 L süt 1 yer kaplar.",
-"en": "Cows now give 4–20 L of milk a day, depending on breed, feeding and health. On pasture grass alone they give a medium amount; with hay or wheat in the feeder they give the most; in winter the feeder must be full. A sick or hungry cow gives 4 L, a pregnant cow less, and a cow you pet gives 1 L more. The pasture shows each cow's daily milk. Since there is more milk, milk is now 2 G and cheese 7 G (still 3 L milk = 1 cheese); 4 L of milk takes 1 slot in the bag and chest.",
-"de": "Kühe geben jetzt 4–20 L Milch am Tag, je nach Rasse, Futter und Gesundheit. Nur mit Weidegras mittel, mit Heu oder Weizen in der Krippe am meisten; im Winter muss die Krippe voll sein. Eine kranke oder hungrige Kuh gibt 4 L, eine trächtige weniger, eine gestreichelte 1 L mehr. Auf der Weide steht die Tagesmilch jeder Kuh. Weil es mehr Milch gibt, kostet Milch jetzt 2 G und Käse 7 G (weiter 3 L Milch = 1 Käse); 4 L Milch belegen 1 Platz in Tasche und Truhe.",
-"fr": "Les vaches donnent maintenant 4 à 20 L de lait par jour selon la race, l'alimentation et la santé. Avec l'herbe du pâturage seule, c'est moyen ; avec du foin ou du blé dans la mangeoire, c'est le maximum ; en hiver la mangeoire doit être pleine. Une vache malade ou affamée donne 4 L, une vache pleine moins, une vache caressée 1 L de plus. Le pâturage affiche le lait quotidien de chaque vache. Comme il y a plus de lait, le lait vaut 2 O et le fromage 7 O (toujours 3 L de lait = 1 fromage) ; 4 L de lait prennent 1 place dans le sac et le coffre.",
-"es": "Las vacas ahora dan 4–20 L de leche al día según raza, alimentación y salud. Solo con hierba del pasto dan una cantidad media; con heno o trigo en el comedero, la máxima; en invierno el comedero debe estar lleno. Una vaca enferma o hambrienta da 4 L, una preñada menos y una que acaricias 1 L más. El pasto muestra la leche diaria de cada vaca. Como hay más leche, la leche vale 2 O y el queso 7 O (sigue siendo 3 L de leche = 1 queso); 4 L de leche ocupan 1 hueco en la bolsa y el baúl.",
-"ru": "Коровы теперь дают 4–20 л молока в день — в зависимости от породы, кормления и здоровья. На одной пастбищной траве — средне, с сеном или пшеницей в кормушке — больше всего; зимой кормушка должна быть полной. Больная или голодная корова даёт 4 л, стельная — меньше, а та, которую ты погладил, — на 1 л больше. На пастбище видно дневной удой каждой коровы. Молока стало больше, поэтому молоко теперь 2 З, сыр 7 З (по-прежнему 3 л молока = 1 сыр); 4 л молока занимают 1 место в сумке и сундуке.",
-"ku": "Çêlek niha rojê 4–20 L şîr didin, li gorî cure, xwarin û tenduristiyê. Tenê bi giyayê mêrgê navîn, bi giya an genimê di axorê de herî zêde; zivistanê divê axor tije be. Çêleka nexweş an birçî 4 L dide, çêleka ducanî kêmtir, çêleka ku tu jê hez dikî 1 L zêdetir. Li mêrgê şîrê rojane yê her çêlekê xuya dike. Ji ber ku şîr zêde bû, şîr niha 2 Z û penîr 7 Z ye (hîn jî 3 L şîr = 1 penîr); 4 L şîr di çente û sindoqê de 1 cih digire."
-},
-{
-"v": 284,
-"d": "2026-10-25",
-"tr": "Çiftlik menüsünde kilitli geliştirmeler ve yapılar artık açılmak için ne gerektiğini yazıyor (önceki seviye, bölüm, ön yapı, teknoloji şartları).",
-"en": "Locked farm upgrades and buildings now show what they need to unlock (previous level, chapter, required building, technology)."
-},
-{
-"v": 283,
-"d": "2026-10-25",
-"tr": "Köy fırını, köy ofisiyle (taş bina) aynı yere kurulmuştu; fırın binanın içinde kalıyor, yalnızca beyaz duvarı ve kırmızı çatısı taş duvardan dışarı taşıyordu. Fırın ofisin yanındaki boş yere, meydanın kenarına taşındı.",
-"en": "The village bakery had been built in the same spot as the village office (the stone building): the bakery sat inside it, with only its white wall and red roof sticking out of the stone wall. The bakery has moved to the free spot next to the office, at the edge of the square.",
-"de": "Die Dorfbäckerei stand an derselben Stelle wie das Dorfbüro (das Steingebäude): Sie steckte darin, nur ihre weiße Wand und das rote Dach ragten aus der Steinmauer. Die Bäckerei steht jetzt auf dem freien Platz neben dem Büro, am Rand des Dorfplatzes.",
-"fr": "Le four du village avait été construit au même endroit que le bureau du village (le bâtiment en pierre) : il se trouvait à l'intérieur, seuls son mur blanc et son toit rouge dépassaient du mur de pierre. Le four est maintenant sur l'emplacement libre à côté du bureau, au bord de la place.",
-"es": "El horno del pueblo estaba construido en el mismo sitio que la oficina del pueblo (el edificio de piedra): quedaba dentro de ella y solo su pared blanca y su tejado rojo asomaban por el muro de piedra. El horno se ha trasladado al hueco libre junto a la oficina, al borde de la plaza.",
-"ru": "Деревенская пекарня стояла на том же месте, что и деревенская контора (каменное здание): она оказывалась внутри, и из каменной стены торчали только её белая стена и красная крыша. Пекарня перенесена на свободное место рядом с конторой, на краю площади.",
-"ku": "Firna gund li heman cihê nivîsgeha gund (avahiya kevirî) hatibû avakirin: firin di hundirê wê de dima, tenê dîwarê wê yê spî û banê wê yê sor ji dîwarê kevirî derdiket. Firin hate birin cihê vala yê li kêleka nivîsgehê, li qiraxa meydanê."
-},
-{
-"v": 282,
-"d": "2026-10-25",
-"tr": "Gece köy ahırına giren ineklerin adı, ahırın kapısında dururken eylem düğmesinde çıkıyordu; artık ahırdaki hayvanlar düğmede görünmüyor. Çoban Ali'nin ağılı yenilendi: direkler yere oturuyor, çit tahtaları ve kapı boşluğu var, gölgelik eğimli çatılı ve altında yemlik var (eskiden tablasız masa gibi duruyordu). Gece hava durumunda güneş yerine 🌙 «Açık hava» yazıyor.",
-"en": "The names of cows sleeping in the village barn showed up on the action button when you stood at the barn door; animals inside the barn no longer appear there. Shepherd Ali's sheepfold was rebuilt: the posts stand on the ground, it has fence rails and a gate gap, and the shelter has a sloped roof with a feed trough under it (it used to look like a table without a top). At night the weather shows 🌙 «Clear sky» instead of the sun.",
-"de": "Die Namen der Kühe, die nachts im Dorfstall schlafen, erschienen auf dem Aktionsknopf, wenn man an der Stalltür stand; Tiere im Stall werden dort nicht mehr angezeigt. Hirte Alis Schafpferch wurde neu gebaut: Die Pfosten stehen auf dem Boden, es gibt Zaunlatten und eine Toröffnung, und der Unterstand hat ein schräges Dach mit einem Futtertrog darunter (früher sah er wie ein Tisch ohne Platte aus). Nachts zeigt das Wetter 🌙 «Klarer Himmel» statt der Sonne.",
-"fr": "Le nom des vaches qui dorment dans l'étable du village apparaissait sur le bouton d'action quand on se tenait à la porte ; les animaux dans l'étable n'y apparaissent plus. La bergerie du berger Ali a été refaite : les poteaux touchent le sol, il y a des lattes de clôture et une ouverture de porte, et l'abri a un toit en pente avec une mangeoire dessous (avant, il ressemblait à une table sans plateau). La nuit, la météo affiche 🌙 «Ciel dégagé» au lieu du soleil.",
-"es": "El nombre de las vacas que duermen en el establo del pueblo salía en el botón de acción al estar en la puerta; los animales dentro del establo ya no aparecen ahí. El redil del pastor Ali se rehízo: los postes llegan al suelo, tiene tablas de cerca y un hueco de entrada, y el cobertizo tiene un techo inclinado con un comedero debajo (antes parecía una mesa sin tablero). De noche el tiempo muestra 🌙 «Cielo despejado» en lugar del sol.",
-"ru": "Имена коров, ночующих в деревенском хлеву, показывались на кнопке действия, когда ты стоял у двери хлева; теперь животные внутри хлева там не появляются. Загон пастуха Али перестроен: столбы стоят на земле, есть жерди забора и проём для входа, а навес с наклонной крышей и кормушкой под ним (раньше он был похож на стол без столешницы). Ночью в погоде вместо солнца показывается 🌙 «Ясно».",
-"ku": "Navên çêlekên ku bi şev di axura gund de radizên, dema tu li ber deriyê axurê disekinî, li ser bişkoka kiryarê derdiketin; êdî heywanên di axurê de li wir nayên xuyakirin. Pêgeha şivan Elî ji nû ve hate çêkirin: stûn li erdê ne, darên çeperê û valahiya derî hene, sîwan banê xwe yê xwar heye û di binê wê de afir heye (berê wek maseyeke bê text xuya dikir). Bi şev di hewayê de li şûna rojê 🌙 «Hewa sayî» tê nîşandan."
-},
-{
-"v": 281,
-"d": "2026-10-25",
-"tr": "Kasabalar büyürken yeni evlerin mevcut evlerin içine kurulması düzeltildi.",
-"en": "Fixed new houses being built inside existing houses as towns grow."
-},
-{
-"v": 280,
-"d": "2026-10-25",
-"tr": "Oduncu Hamit: sandık doluyken teslimatı artık kaybolmuyor, yer açılınca getiriyor; \"Sandık dolu, odun getiremedim\" uyarısı ve Çalışanlar ekranında açık not var. Uzun süre oyunda yokken Hamit, Zehra, Cemil ve Osman artık her gün için ayrı çalışıyor (önceden sadece ilk günü yapıyorlardı) ve dönünce o günkü işleri yarım kalmıyor.",
-"en": "Woodcutter Hamit: deliveries are no longer lost while the chest is full, he brings them once there is room; clear \"chest is full, couldn't bring wood\" warning and note on the Workers screen. While you are away for a long time Hamit, Zehra, Cemil and Osman now work every day (before only the first day counted), and today's work is no longer cut short when you return."
-},
-{
-"v": 279,
-"d": "2026-10-25",
-"tr": "Muhtarın \"yeni aile yerleşti\" mesajları artık bütün dillerde tam çevrilir (eski mesajlar dahil).",
-"en": "The headman's \"a new family settled\" messages are now fully translated in every language (older messages too)."
-},
-{
-"v": 278,
-"d": "2026-10-25",
-"tr": "Türkçe dışındaki dillerde yarım kalan çeviriler tamamlandı: itibar ekranı, çanta, sandık geliştirme, mutfak yemekleri, çalışan bildirimleri, uzaktan sipariş ve turist ekranı.",
-"en": "Missing translations filled in: reputation screen, bag, chest upgrades, kitchen dishes, worker notifications, remote ordering and the tourist screen."
-},
-{
-"v": 277,
-"d": "2026-10-25",
-"tr": "Sayılar artık düzgün yazılıyor: itibar ekranındaki \"1.6000000000000014\" gibi uzun ondalıklar kalktı (1,6 itibar). Altın, itibar ve diğer sayılar oyunun diline göre biçimlenir (Türkçe 1.234,5 · İngilizce 1,234.5).",
-"en": "Numbers now display cleanly: long decimals like \"1.6000000000000014\" on the reputation screen are gone (1.6 reputation). Gold, reputation and other numbers follow your language's format (English 1,234.5)."
-},
-{
-"v": 276,
-"d": "2026-10-25",
-"tr": "Sebze bahçesi ekranı netleşti: bahçeyi büyütürken eksik malzemede çantanda ve sandığında kaç tane olduğu yazıyor, sandık doluysa uyarıyor. Fide yoksa boş yatakta \"📱 Fide al\" düğmesi Tarım Market'i açıyor. Bahçe büyüyünce yatak sayısı doğru yazıyor.",
-"en": "The vegetable garden screen is clearer: when expanding, it shows how many of each missing material you have in your bag and chest, and warns if the chest is full. With no seedlings, a \"📱 Buy seedlings\" button on the empty bed opens the Farm Store. The bed count is now correct after expanding."
-},
-{
-"v": 275,
-"d": "2026-10-25",
-"tr": "Yemekler artık kullanılan malzemeye göre doyurur ve enerji verir (omlet haşlanmış yumurtadan fazla doyurur); mutfakta açlık ve enerji birlikte yazar. Pişmiş yemeklerin satış fiyatı malzemesine göre düzeltildi.",
-"en": "Meals now fill you up and give energy in proportion to their ingredients (an omelette fills more than a boiled egg); the kitchen shows both hunger and energy. Cooked food sell prices now match their ingredients."
-},
-{
-"v": 274,
-"d": "2026-10-25",
-"tr": "Peynirde günlük 15 sınırı kalktı: merada elindeki sütün hepsini peynir yapabilirsin (yeni \"Hepsini peynir yap\" düğmesi) ve hepsi \"Mandırada 60 peynir üret\" görevine sayılır. Mandıranın her sabah kendiliğinden yaptığı peynir artık mandıra seviyesine bağlı: 15, 30, 60, 120 (🏗️ Çiftlik › Mandıra'dan geliştir).",
-"en": "The 15-a-day cheese limit is gone: at the pasture you can turn all your milk into cheese (new \"Make all into cheese\" button) and all of it counts for the \"Make 60 cheese at the dairy\" quest. The dairy's automatic morning cheese now depends on its level: 15, 30, 60, 120 (upgrade in 🏗️ Farm › Dairy)."
-},
-{
-"v": 273,
-"d": "2026-10-25",
-"tr": "Süt artık litre ile gösteriliyor: ineklerin verdiği süt, sandık, mandıra, kooperatif ve satış ekranlarında \"12 L süt\" gibi yazar. Miktarlar ve fiyatlar değişmedi (1 süt = 1 L, 3 L süt = 1 peynir).",
-"en": "Milk is now shown in liters: cows, chest, dairy, cooperative and sale screens show e.g. \"12 L milk\". Amounts and prices are unchanged (1 milk = 1 L, 3 L milk = 1 cheese)."
-},
-{
-"v": 272,
-"d": "2026-10-25",
-"tr": "Onarılan değirmende Yakup günde 40 buğdayı una çevirir; Murat'ın yevmiyesi ve hayvan fiyatları bölümle artar (satış alış fiyatını geçmez).",
-"en": "Repaired mill: Yakup grinds 40 wheat into flour a day; Murat's wage and animal prices now rise with each chapter (resale never exceeds what you paid)."
-},
-{
-"v": 271,
-"d": "2026-10-25",
-"tr": "Çalışan işe alma görevlerinin kartında gereken altın artık gerçek günlük maaşı gösteriyor.",
-"en": "Hiring quest cards now show the real daily wage as the gold needed."
-},
-{
-"v": 270,
-"d": "2026-10-25",
-"tr": "Kuzey ve doğu bölgelerinde yeni bir yere varınca 'Yeni yer keşfedildi' bildirimi artık bir kez çıkıyor.",
-"en": "Arriving at a new place in the north and east now shows the 'New place discovered' notice only once."
-},
-{
-"v": 269,
-"d": "2026-10-25",
-"tr": "Köy ineklerinin ve atlarının akşam ahıra giderken binanın içinden geçmesi düzeldi: artık ahırın etrafından dolaşıp kapıdan giriyorlar, gündüz de evlerin içine girmiyorlar. Banklarda oturunca «😴 Dinlen» düğmesi çıkıyor; evdeki Dinlen kuralları aynen geçerli (8 saatte bir tam dinlenme, arada kısa mola).",
-"en": "Fixed village cows and horses walking through buildings on their way to the barn in the evening: they now go around the barn and enter through the door, and they no longer wander into houses during the day. When you sit on a bench a «😴 Rest» button appears; the same Rest rules as at home apply (a full rest every 8 hours, a short break in between).",
-"de": "Behoben: Kühe und Pferde des Dorfes liefen abends auf dem Weg zum Stall durch Gebäude. Jetzt gehen sie um den Stall herum und durch die Tür hinein, und tagsüber laufen sie nicht mehr in Häuser. Wenn du dich auf eine Bank setzt, erscheint der Knopf «😴 Ausruhen»; es gelten dieselben Regeln wie zu Hause (alle 8 Stunden volle Erholung, dazwischen eine kurze Pause).",
-"fr": "Corrigé : les vaches et les chevaux du village traversaient les bâtiments en allant à l'étable le soir. Ils contournent maintenant l'étable et entrent par la porte, et ne rentrent plus dans les maisons la journée. Quand tu t'assois sur un banc, un bouton «😴 Se reposer» apparaît ; les mêmes règles qu'à la maison s'appliquent (repos complet toutes les 8 heures, courte pause entre les deux).",
-"es": "Arreglado: las vacas y los caballos del pueblo atravesaban los edificios al ir al establo por la tarde. Ahora rodean el establo y entran por la puerta, y de día ya no se meten en las casas. Al sentarte en un banco aparece el botón «😴 Descansar»; se aplican las mismas reglas que en casa (descanso completo cada 8 horas, una pausa corta entre medias).",
-"ru": "Исправлено: деревенские коровы и лошади вечером по пути в хлев проходили сквозь здания. Теперь они обходят хлев и заходят через дверь, а днём больше не забредают в дома. Когда садишься на скамейку, появляется кнопка «😴 Отдохнуть»; действуют те же правила, что и дома (полный отдых раз в 8 часов, между ними короткий перерыв).",
-"ku": "Hate sererastkirin: çêlek û hespên gund êvarê dema diçûn axurê di nav avahiyan re derbas dibûn. Êdî ew li dora axurê dizivirin û ji derî dikevin hundir, bi roj jî nakevin nav xaniyan. Dema tu li ser textê rûdinî bişkoka «😴 Bêhna xwe veke» derdikeve; heman qaîdeyên malê derbasdar in (her 8 saetan bêhnvedanek tam, di navberê de bêhnvedanek kurt)."
-},
-{
-"v": 268,
-"d": "2026-10-25",
-"tr": "Çalışanlar: kadrolu ve günlükçü artık farklı. Günlükçünün yevmiyesi yalnız çalıştığı gün ödenir, para yetmezse hemen ayrılır. Kadrolu %20 daha ucuzdur ama maaşı iş olmasa da her gün işler ve 7 günde bir toplu ödenir; daha sadıktır, para yetmezse 2 hafta bekler. Çalışanlar ekranında maaş gününe kaç gün kaldığı ve biriken maaş yazıyor. Çalışana öğrettiğin yeni iş artık gerçekten yapılıyor ve bugün yapılanlar listesinde görünüyor. Öğrettiğin her iş açıkken maaşa günde küçük bir ek gelir, işi durdurunca ek düşer; ek ücret iş öğretirken yazıyor.",
-"en": "Workers: salaried and day laborers now differ. A day laborer is paid only for days worked and leaves at once if unpaid. Salaried workers are 20% cheaper, but their salary accrues daily even without work and is paid every 7 days; they are more loyal and wait 2 weeks if unpaid. The Workers screen shows days until payday and accrued salary. Jobs you teach a worker are now actually done and appear in today's log. Each taught job adds a small daily amount to the salary while it's on; stopping it removes the extra, and the fee is shown when teaching."
-},
-{
-"v": 267,
-"d": "2026-10-25",
-"tr": "Oyuncu testinden düzeltmeler: taksi ve otobüs ücreti ekranda yazıyor; köy projesi süresi doğru anlatılıyor; Murat'ın maaşı listede doğru; çalışanların pazardan aldığı yem ekranda yazıyor; turist görevlerinde ok turistleri gösteriyor; turiste satışta yuvarlama hatası düzeldi; Dalgıç Deniz anıtın yanında da konuşuluyor; yeni oyunda sebze bahçesi Bölüm 2'de kuruluyor; dolu sandıkta eşya eksiye düşmüyor; dolu çantada fırın ekmek pişiriyor; günlük hediye ve görüş penceresi yürürken açılmıyor; tavuk çalının dibindeyse önce tavuk yakalanıyor.",
-"en": "Fixes from player testing: taxi and bus fares shown; village project time described correctly; Murat's wage correct in list; feed bought by workers shown; tourist quests point to tourists; tourist sale rounding fixed; Diver Deniz can be talked to next to the monument; vegetable garden is built in Chapter 2 in new games; full chest no longer goes negative; oven bakes with a full bag; daily gift and feedback windows don't open while walking; a chicken next to a bush is caught first."
-},
-{
-"v": 266,
-"d": "2026-10-25",
-"tr": "İnekler artık sen oyunda yokken de süt veriyor (en fazla 7 gün; mera dolunca fazlası bozulur, Çoban Osman varsa sandığa koyar). Mandıra da sen yokken sandıktaki sütten peynir yapıyor. Mandıra kuruluysa merada \"3 sütten peynir yap\" ile yaptığın peynir de \"Mandırada 60 peynir üret\" görevine sayılıyor (günde en çok 15).",
-"en": "Cows now give milk while you are away (up to 7 days; extra milk spoils when the pasture is full, Shepherd Osman puts it in the chest). The dairy also makes cheese from chest milk while you are away. With a dairy built, cheese made at the pasture now counts for the \"Make 60 cheese at the dairy\" quest (up to 15 per day)."
-},
-{
-"v": 265,
-"d": "2026-10-25",
-"tr": "Panelde artık haftanın günü ve saat yazar (ör. Pazartesi · 14:30); gün herkeste aynıdır. Pazar günü pazar kurulur, fiyatlar yüksektir. Görev ve sipariş son tarihleri \"yarın\" ya da \"Salı (2 gün sonra)\" şeklinde yazar. Mesajlarda hayvanların adı yerine türü yazar (ör. \"bir inek kurtların saldırısına uğradı\").",
-"en": "The panel now shows the weekday and time (e.g. Monday · 14:30); the day is the same for everyone. On Sundays the market is set up and prices are higher. Quest and order deadlines read \"tomorrow\" or \"Tuesday (2 days from now)\". Messages name the kind of animal instead of its name (e.g. \"a cow was attacked by wolves\")."
-},
-{
-"v": 264,
-"d": "2026-10-25",
-"tr": "Pazarlamacı Burak artık her sabah satış için sormaz. Ne zaman istersen Çalışanlar ekranında Burak'ın «💰 Sat» düğmesine bas ya da Burak'la konuş; her üründen kaç tane satılacağını sen yazarsın (Yarısı/Hepsi düğmeleri kalktı). Burak yine sen onaylamadan hiçbir şey satmaz; komisyon ve günlük satış sınırı aynı.",
-"en": "Salesman Burak no longer asks every morning. Whenever you like, tap Burak's «💰 Sell» button in the Workers screen or talk to him; you type how many of each item to sell (the Half/All buttons are gone). Burak still never sells without your approval; commission and daily limit are unchanged.",
-"de": "Verkäufer Burak fragt nicht mehr jeden Morgen. Wann immer du willst, tippe im Arbeiter-Bildschirm auf Buraks «💰 Verkaufen» oder sprich mit ihm; du gibst ein, wie viele von jeder Ware verkauft werden (die Knöpfe Hälfte/Alle sind weg). Burak verkauft weiterhin nichts ohne deine Zustimmung; Provision und Tageslimit bleiben gleich.",
-"fr": "Le vendeur Burak ne demande plus chaque matin. Quand tu veux, touche le bouton «💰 Vendre» de Burak dans l'écran Employés ou parle-lui ; tu saisis combien de chaque produit vendre (les boutons Moitié/Tout ont disparu). Burak ne vend toujours rien sans ton accord ; commission et limite du jour inchangées.",
-"es": "El vendedor Burak ya no pregunta cada mañana. Cuando quieras, toca el botón «💰 Vender» de Burak en la pantalla de Trabajadores o habla con él; tú escribes cuántas unidades de cada producto vender (ya no hay botones Mitad/Todo). Burak sigue sin vender nada sin tu permiso; la comisión y el límite diario no cambian.",
-"ru": "Продавец Бурак больше не спрашивает каждое утро. Когда захочешь, нажми кнопку «💰 Продать» у Бурака на экране работников или поговори с ним; ты сам вписываешь, сколько каждого товара продать (кнопок «Половина/Всё» больше нет). Бурак по-прежнему ничего не продаёт без твоего согласия; комиссия и дневной лимит те же.",
-"ku": "Firoşkar Burak êdî her sibe napirse. Kengî tu bixwazî, li ekrana Karkeran bişkoka «💰 Bifiroşe» ya Burak bitikîne an bi wî re biaxive; ji her berhemê çend heb bê firotin tu dinivîsî (bişkokên Nîv/Hemû rabûn). Burak dîsa bê erêya te tiştekî nafiroşe; komîsyon û sînorê rojane wek berê ne."
-},
-{
-"v": 263,
-"d": "2026-10-25",
-"tr": "Paneldeki tarih kalktı; artık sadece gün ve saat görünür (ör. Gün 12 · 14:30). Gün sayısı oyuna başladığın günden sayılır, sen yokken de ilerler (gerçek her saat bir oyun günü). Görev son tarihleri, siparişler, banka ödemeleri ve mesajlar da Gün olarak yazar.",
-"en": "The date is gone from the panel; you now see just the day and time (e.g. Day 12 · 14:30). Days count from when you started and keep going while you're away (each real hour is one game day). Quest deadlines, orders, bank payments and messages also show the day number."
-},
-{
-"v": 262,
-"d": "2026-10-25",
-"tr": "Oyun takvimi artık herkes için ortak: tarih, saat, mevsim ve hava bütün oyuncularda aynı ve sunucu saatinden gelir (gerçek her saat bir oyun günü). Sen yokken geçen süre takvime de işlenir; çalışanlar yine en fazla 7 gün çalışır, krediler ve görev süreleri bir anda kesilmez. Hava artık aya göre değişir (Mart'ta geç kar, Temmuz kurak, Kasım sisli), mevsim değişince haber gelir. Kışın ekinler durmaz, 3 kat yavaş büyür. Uyku artık saati ileri sarmaz, enerjini doldurur.",
-"en": "The game calendar is now shared: date, time, season and weather are the same for every player and come from the server clock (each real hour is one game day). Time you spend away now moves the calendar too; workers still work at most 7 days and loans and quest deadlines don't hit all at once. Weather now follows the month (late snow in March, dry July, foggy November) and you get a message when the season changes. In winter crops grow 3× slower instead of stopping. Sleeping no longer skips time; it restores your energy."
-}
+ {
+  "v": 324,
+  "d": "2026-10-26",
+  "tr": "İtibar artık daha zor kazanılır: tekrarlanan işlerden gelen itibar %40 azaldı, seviye eşikleri yaklaşık 1,5 katına çıktı. İtibar düşebilir: maaş ödenmezse, toptancı/ihracat sözleşmesi kaçarsa, hayvan bakımsızlıktan ölürse, kredi taksiti gecikirse (sebebi ekranda yazar, sen oyunda yokken düşmez). Kazandığın seviye hiç düşmez; eski kayıtlarda seviyen korunur.",
+  "en": "Reputation is now harder to earn: repeatable sources give 40% less and level thresholds are about 1.5× higher. Reputation can drop when wages go unpaid, a wholesale/export contract is missed, an animal dies of neglect or a loan payment is late (the reason is shown; it never drops while you are away). Levels you have earned are never lost; existing saves keep their level."
+ },
+ {
+  "v": 323,
+  "d": "2026-10-26",
+  "tr": "Güneş panelleri artık köy ahırının içinde görünmüyor: oyun açılırken paneller ahır kurulmadan yerleştiriliyordu, artık ahır, cami ve köy yapıları kurulduktan sonra boş bir yere taşınıyor.",
+  "en": "Solar panels no longer appear inside the village barn: they were placed before the barn was built on load; now they move to a free spot after the barn, mosque and village buildings are built."
+ },
+ {
+  "v": 321,
+  "d": "2026-10-26",
+  "tr": "Yevmiyeli çalışanlar artık yalnız çalıştığı gün için tek yevmiye alır: sen yokken ödenen gün ertesi sabah tekrar ödenmiyordu, düzeldi. Günlükçülerde ekranda ve raporlarda \"maaş\" yerine \"yevmiye\" yazar; kadrolu maaşı ayrı gösterilir.",
+  "en": "Day laborers now get a single daily wage only for days they worked: a day already paid while you were away was paid again the next morning, fixed. Day laborers now show \"daily wage\" instead of \"salary\"; salaried pay is shown separately."
+ },
+ {
+  "v": 320,
+  "d": "2026-10-26",
+  "tr": "Pazarlamacı Burak artık günde maaşının 6 katı satabilir. Burak'ın satış ekranına \"Burak neye göre satar?\" açıklaması eklendi: sadece sandıktan, köy fiyatıyla, %25 komisyonla satar; sınır dolunca kalan ürün ertesi güne kalır.",
+  "en": "Burak the salesman can now sell up to 6× his wage per day. His sell screen now explains how he sells: only from the chest, at village prices, for a 25% commission; anything over the limit waits for the next day."
+ },
+ {
+  "v": 319,
+  "d": "2026-10-26",
+  "tr": "Şifremi unuttum düzeltildi: şifre yenileme e-postası artık oyunun dilinde gelir, gönderen adı Toprağın Mirası. Ekranda net mesaj: kullanıcı adı yazınca e-posta istenir, gönderilince Spam klasörünü kontrol et uyarısı çıkar, çok deneme ve geçersiz e-posta ayrı ayrı yazılır.",
+  "en": "Forgot password fixed: the reset email now arrives in the game's language from Legacy of the Land. Clear messages on screen: entering a username asks for your email, after sending you're reminded to check Spam, too many attempts and invalid email are shown separately."
+ },
+ {
+  "v": 318,
+  "d": "2026-10-26",
+  "tr": "Balıkçılık güncellemesi: günlük balık sınırı kalktı (çok tutunca balık daha geç vurur). Balığın boyu artık önemli: küçük balık kolay çekilir ve ucuz satılır, iri balık zor çekilir ama %30'a kadar pahalı satılır. Uzağa atış ve Balık Şenliği iri balık getirir. Yayın balığı artık çekilebiliyor. Pazarlamacı Burak günde maaşının 4 katı satabilir.",
+  "en": "Fishing update: the daily fish limit is gone (after many catches, bites come slower). Fish size now matters: small fish reel in easily and sell cheap, big fish fight harder but sell for up to 30% more. Long casts and the Fishing Festival bring bigger fish. Catfish can now actually be landed. Burak the salesman can sell up to 4× his wage per day."
+ },
+ {
+  "v": 317,
+  "d": "2026-10-26",
+  "tr": "Veteriner güncellemesi: aşı artık 5 A ve 30 gün korur (süre bitmeden tekrar aşılanmaz, kalan gün yazar). Hasta hayvanın tedavisi ilaç + aşı birlikte. Hastalıklar sebebe göre değişir: soğuk algınlığı (hafif), sindirim bozukluğu ve ahır hastalığı (orta), bulaşıcı hastalık (ağır, 2 gün tedavi, aşısız hayvana bulaşır). Risk mevsime, beslenmeye, ahır temizliğine, kalabalığa ve yaşa göre değişir, Elif ekranında görünür. Yeni: Hepsine vitamin ver.",
+  "en": "Vet update: vaccines now cost 5 G and protect for 30 days (no re-vaccination before then, days left shown). Treating a sick animal now gives medicine + vaccine. Illnesses depend on the cause: cold (mild), digestive upset and barn disease (moderate), contagious disease (severe, 2 days of treatment, spreads to unvaccinated animals). Risk depends on season, feeding, barn cleanliness, crowding and age, shown at Elif's. New: Give vitamins to all."
+ },
+ {
+  "v": 316,
+  "d": "2026-10-26",
+  "tr": "Köylüler artık tezgâhın, çeşmenin ya da dükkânın içinde sıkışıp kalmıyor: Fadime Fatma Teyze'nin tezgâhında, Nazlı çeşmenin ortasında kalıyordu; Cemal Dayı, Dalgıç Deniz, iskeledeki Hüseyin Amca ve birkaç köylünün yeri de düzeltildi. Durduğu yer doluysa köylü en yakın boş yere geçer.",
+  "en": "Villagers no longer get stuck inside stalls, the fountain or shops: Fadime stood inside Aunt Fatma's stall and Nazlı inside the fountain; a few other villagers' spots were fixed too. If a spot is blocked, the villager moves to the nearest free place."
+ },
+ {
+  "v": 315,
+  "d": "2026-10-26",
+  "tr": "Köy meydanında duyulan takılma sesi düzeltildi: meydan uğultusu her saniye kendini tekrar ediyordu, artık uzaktan gelen doğal bir kalabalık mırıltısı. Rüzgâr, göl, yağmur ve araç sesleri de tekrar etmiyor.",
+  "en": "Fixed the stuttering sound in the village square: the square murmur repeated itself every second; it is now a natural distant crowd murmur. Wind, lake, rain and vehicle sounds no longer repeat either."
+ },
+ {
+  "v": 314,
+  "d": "2026-10-26",
+  "tr": "Güneş panelleri artık meranın içinde kalmıyor: mera sonradan kurulunca ya da büyüyünce paneller boş yere taşınıyor. Panellerin yanına gidip 🔆 düğmesine dokununca ne işe yaradıkları, havaya göre günlük kazanç, bu sabah gelen ve toplam kazanç yazıyor.",
+  "en": "Solar panels no longer end up inside the pasture: they move to a free spot when the pasture is built or enlarged. Walk to the panels and tap 🔆 to see what they do, daily income by weather, this morning's income and the total."
+ },
+ {
+  "v": 313,
+  "d": "2026-10-26",
+  "tr": "Toptancı ve ihracat sözleşmesi artık günde bir kez alınır, yeni teklif ertesi gün gelir. Sen yokken Erkan işteyse fabrikalar en çok 3 gün üretir, maaşı ödenir.",
+  "en": "Wholesale and export contracts can now be taken once a day; a new offer comes the next day. While you're away, factories produce for up to 3 days if Erkan is hired, and his wage is paid."
+ },
+ {
+  "v": 312,
+  "d": "2026-10-26",
+  "tr": "Veteriner Elif'te yeni hizmetler: Hepsini tedavi et, Hepsini aşıla, vitamin kürü (10 A), kümes salgını tedavisi (20 A). Tedavi her zaman tutmaz (erken tedavi %95), uzun hastalık hayvanı 10 gün halsiz bırakır (süt ve iş %30 az), çok uzun hasta kalan hayvan ölebilir (oyunda değilken ölmez). Yeni çalışan: Sağlık bakıcısı Derya (25 A/gün). Hayvan ağır hastalanınca ekranda 🚨 uyarı çıkar.",
+  "en": "New services at Vet Elif: Treat all, Vaccinate all, vitamin course (10 G), coop outbreak treatment (20 G). Treatment doesn't always work (95% when early), a long illness leaves the animal weak for 10 days (30% less milk and work), an animal sick for too long can die (never while you're away). New worker: Animal carer Derya (25 G/day). A 🚨 alert appears when an animal is seriously ill."
+ },
+ {
+  "v": 311,
+  "d": "2026-10-26",
+  "tr": "Google ile giriş eklendi: Giriş ve Kayıt ekranlarında «Google ile giriş yap» düğmesi var. Misafir olarak oynuyorsan ilerlemen Google hesabına bağlanır, kaybolmaz. E-postayla hesabı olanlar Hesap ekranından «Google hesabını bağla» ile Google'ı ekleyebilir. Android uygulamasında bir sonraki uygulama güncellemesiyle açılır.",
+  "en": "Sign in with Google added: the Sign in and Sign up screens now have a «Sign in with Google» button. If you play as a guest, your progress is linked to your Google account and isn't lost. Players with an email account can add Google from the Account screen with «Link your Google account». On the Android app it arrives with the next app update."
+ },
+ {
+  "v": 310,
+  "d": "2026-10-26",
+  "tr": "Hayvan ürünleri yenilendi: tavuk günde 1–3 yumurta (yumurta 6 A, yem 5'te 1), peynir artık kg (7 L süt → 1 kg, 10 A), yeni ürünler: yoğurt, ayran, kaşar, tereyağı, dana eti, sucuk, et kavurma. Mandıra ürünü seçilir (günde 50–400 L süt). ABD bölgesinde pound/galon (Ayarlar › Ölçü birimi). Eski peynirler kg'ye çevrildi.",
+  "en": "Animal products reworked: hens lay 1–3 eggs a day (eggs 6 G, feed use cut to a fifth), cheese is now sold by weight (7 L milk → 1 kg), new products: yogurt, ayran, kashar, butter, beef, sujuk, kavurma. Choose what the dairy makes (50–400 L milk a day). US units (lb/gal) in the US region (Settings › Units). Old cheese was converted."
+ },
+ {
+  "v": 309,
+  "d": "2026-10-25",
+  "tr": "Mera çitinin yanında «🐄 Mera» düğmesi «🤸 Çitten atla» düğmesinin önüne geçiyordu. Artık çite dönünce atlama düğmesi çıkıyor; mera menüsü çite bakmadığında yine açılıyor.",
+  "en": "Next to the pasture fence the «🐄 Pasture» button took the place of «🤸 Jump the fence». Now the jump button appears when you face the fence; the pasture menu still opens when you aren't facing it.",
+  "de": "Am Weidezaun verdeckte der Knopf «🐄 Weide» den Knopf «🤸 Über den Zaun springen». Jetzt erscheint der Sprungknopf, wenn du zum Zaun schaust; das Weidemenü öffnet sich weiterhin, wenn du nicht zum Zaun schaust.",
+  "fr": "Près de la clôture du pâturage, le bouton «🐄 Pâturage» remplaçait «🤸 Sauter la clôture». Désormais, le bouton de saut apparaît quand tu fais face à la clôture ; le menu du pâturage s'ouvre toujours quand tu ne la regardes pas.",
+  "es": "Junto a la cerca del pasto, el botón «🐄 Pasto» tapaba «🤸 Saltar la cerca». Ahora el botón de salto aparece cuando miras a la cerca; el menú del pasto sigue abriéndose cuando no la miras.",
+  "ru": "У забора пастбища кнопка «🐄 Пастбище» заменяла кнопку «🤸 Перепрыгнуть забор». Теперь кнопка прыжка появляется, когда смотришь на забор; меню пастбища по-прежнему открывается, если не смотреть на него.",
+  "ku": "Li kêleka çeperê mêrgê bişkoka «🐄 Mêrg» dikete şûna «🤸 Ji ser çeperê baz bide». Êdî dema tu rûyê xwe didî çeperê bişkoka bazdanê derdikeve; menuya mêrgê dema tu li çeperê nanêrî dîsa vedibe."
+ },
+ {
+  "v": 308,
+  "d": "2026-10-26",
+  "tr": "Aç dinlenince enerji yarıda kalıyordu; artık yemek yiyip yeniden dinlenince enerjin tam dolar. Uzun süre aç kalınca (açlık %100) sağlığın yavaşça düşer, uyarı gelir; yemek yiyince düşüş durur.",
+  "en": "Resting while hungry left your energy half full; now eat and rest again to refill it fully. Staying hungry for long (100% hunger) slowly lowers your health with a warning; eating stops it."
+ },
+ {
+  "v": 307,
+  "d": "2026-10-26",
+  "tr": "Turistlere satış: bir turist alışveriş yapınca ok ve \"Turistle konuş\" artık alışveriş yapmamış başka bir turisti gösteriyor; köydeki kalabalık turisti örtmüyor. Satış yaptığın turistte kaç turist kaldığı ve en yakınının uzaklığı yazıyor.",
+  "en": "Selling to tourists: after a tourist buys, the arrow and \"Talk to tourist\" now point to another tourist who hasn't bought yet; villagers nearby no longer block them. The tourist you sold to shows how many tourists are left and how far the nearest one is."
+ },
+ {
+  "v": 306,
+  "d": "2026-10-26",
+  "tr": "Araçlar artık hiçbir durumda köylülerin içinden geçmiyor: yolda duran biri varsa araç durup bekliyor, köylü de kenara çekilip yol veriyor.",
+  "en": "Vehicles never drive through villagers anymore: if someone is standing on the road, the vehicle stops and the villager steps aside to let it pass."
+ },
+ {
+  "v": 305,
+  "d": "2026-10-26",
+  "tr": "Üye olurken kullanıcı adında Türkçe harfler (ç ğ ı İ ö ş ü), büyük/küçük harf ve _ . - kullanılabiliyor. Girişte büyük/küçük harf fark etmez; adın yazdığın gibi görünür.",
+  "en": "Usernames can now use Turkish and other letters, upper/lower case and _ . - when signing up. Login is case-insensitive; your name is shown as you typed it."
+ },
+ {
+  "v": 304,
+  "d": "2026-10-26",
+  "tr": "Otobüs, taksi ve şehirdeki arabalar artık köylülerin ve senin içinden geçmiyor: önlerinde biri varsa yavaşlayıp duruyorlar, yoldaki köylüler de araç yaklaşınca kenara çekiliyor.",
+  "en": "Buses, taxis and city cars no longer drive through villagers or you: they slow down and stop for people ahead, and villagers step aside when a vehicle approaches."
+ },
+ {
+  "v": 303,
+  "d": "2026-10-26",
+  "tr": "Yollar artık araziye oturuyor: tepelerde toprağa gömülüp parça parça görünmüyor. Mera geliştirildikçe çit de büyüyor (çiftlik merası 17×10,5 m), inekler sıkışmıyor ve meraya dağılıyor.",
+  "en": "Roads now follow the terrain instead of sinking into hills and looking broken. The pasture fence grows with each upgrade (farm pasture 17×10.5 m), so cows are no longer crammed together."
+ },
+ {
+  "v": 302,
+  "d": "2026-10-26",
+  "tr": "Bölüm 4'ün 'altın biriktir' görevi 600.000 yerine 150.000 altın (Bölüm 5: 400.000, Bölüm 6: 500.000).",
+  "en": "Chapter 4's 'save gold' quest now asks for 150,000 instead of 600,000."
+ },
+ {
+  "v": 301,
+  "d": "2026-10-25",
+  "tr": "Köyden gelen toprak yol şehrin asfalt caddelerinin üstüne çiziliyordu; artık şehir girişinde bitiyor.",
+  "en": "The dirt road from the village no longer paints over the city's asphalt streets."
+ },
+ {
+  "v": 300,
+  "d": "2026-10-25",
+  "tr": "Şehrin adı -şehir ile bitince (Gökşehir, Altınşehir) 'Gökşehir şehri' yerine 'Gökşehir', 'şehrine' yerine 'Gökşehir'e' yazılıyor.",
+  "en": "City names ending in -şehir no longer get a doubled 'şehri' in Turkish."
+ },
+ {
+  "v": 299,
+  "d": "2026-10-26",
+  "tr": "Çevre yolu artık meranın içinden geçmiyor: mera yolun güneyine taşındı (inekler yeni yerde). Köylüler de meranın içinden yürümüyor.",
+  "en": "The bypass road no longer runs through the pasture: the pasture moved south of the road (cows are in the new spot). Villagers no longer walk through it either."
+ },
+ {
+  "v": 298,
+  "d": "2026-10-25",
+  "tr": "Çoban Ali'nin ağılına artık kapısından girebilirsin; çitler ve gölgelik yine engel, köylüler etrafından dolaşıyor. Bir çite yaklaşıp ona dönünce «🤸 Çitten atla» düğmesi çıkıyor ve karakterin çitin üstünden atlıyor (ağıl, mera ve çiftlik çitleri; 1 enerji).",
+  "en": "You can now enter Shepherd Ali's sheepfold through its gate; the fences and shelter still block, and villagers walk around. Walk up to a fence and face it, and a «🤸 Jump the fence» button appears: your character jumps over it (sheepfold, pasture and farm fences; 1 energy).",
+  "de": "Du kannst Hirte Alis Schafpferch jetzt durch das Tor betreten; Zaun und Unterstand blockieren weiterhin, Dorfbewohner gehen außen herum. Geh an einen Zaun und schau ihn an, dann erscheint «🤸 Über den Zaun springen» und deine Figur springt darüber (Pferch-, Weide- und Hofzäune; 1 Energie).",
+  "fr": "Tu peux maintenant entrer dans la bergerie du berger Ali par sa porte ; les clôtures et l'abri bloquent toujours, et les villageois la contournent. Approche-toi d'une clôture face à elle : un bouton «🤸 Sauter la clôture» apparaît et ton personnage saute par-dessus (clôtures de la bergerie, du pâturage et de la ferme ; 1 énergie).",
+  "es": "Ahora puedes entrar en el redil del pastor Ali por su puerta; las cercas y el cobertizo siguen bloqueando y los aldeanos lo rodean. Acércate a una cerca mirándola y aparece el botón «🤸 Saltar la cerca»: tu personaje salta por encima (cercas del redil, del pasto y de la granja; 1 de energía).",
+  "ru": "Теперь в загон пастуха Али можно войти через калитку; забор и навес по-прежнему мешают пройти, а жители обходят его. Подойди к забору лицом к нему — появится кнопка «🤸 Перепрыгнуть забор», и персонаж перепрыгнет через него (заборы загона, пастбища и фермы; 1 энергия).",
+  "ku": "Êdî tu dikarî ji deriyê pêgeha şivan Elî bikevî hundir; çeper û sîwan dîsa asteng in, gundî li dora wê dizivirin. Here ber çeperekê û rûyê xwe bide wê, bişkoka «🤸 Ji ser çeperê baz bide» derdikeve û karakterê te ji ser wê baz dide (çeperên pêgehê, mêrgê û çandiniyê; 1 enerjî)."
+ },
+ {
+  "v": 297,
+  "d": "2026-10-25",
+  "tr": "Bankanın en fazla verdiği kredi bölüm fiyatlarıyla büyür (Bölüm 4'te yaklaşık 3,4 katı); fabrika kredisi artık fabrikaya yetecek düzeye yaklaşır.",
+  "en": "The bank's maximum loan now grows with chapter prices (about 3.4x in Chapter 4), so the factory loan actually helps fund a factory."
+ },
+ {
+  "v": 296,
+  "d": "2026-10-26",
+  "tr": "Köy meydanı sadeleşti: aynı anda en çok 2 konuşma balonu görünür (en yakındakiler), balonlar düğmelerin ve panellerin üstüne binmez. Köylüler daha seyrek konuşur, isim etiketleri sadece yakındaki birkaç kişide çıkar, meydandaki kalabalık azaldı. Oyun daha akıcı, pil daha az harcanır.",
+  "en": "The village square is calmer: at most 2 speech bubbles at a time (the nearest ones), and they no longer cover buttons or panels. Villagers chat less often, name tags show only on a few nearby people, and the square is less crowded. Smoother play and less battery use."
+ },
+ {
+  "v": 295,
+  "d": "2026-10-25",
+  "tr": "Kamyon sefere çıkınca gün boyu park yerinde görünmez (yolda), akşam 19:00'da geri döner.",
+  "en": "A truck sent on a trip leaves its parking spot for the day and returns at 19:00."
+ },
+ {
+  "v": 294,
+  "d": "2026-10-25",
+  "tr": "Oyunun adı artık her dilde o dilin kendi adıyla görünüyor: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê. Açılış ekranında, ana menüde, sekme başlığında, mektupta ve bütün mesajlarda.",
+  "en": "The game's name now shows in each language's own form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, on the splash screen, main menu, tab title, the letter and all messages.",
+  "de": "Der Name des Spiels erscheint jetzt in jeder Sprache in eigener Form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê – auf dem Startbildschirm, im Hauptmenü, im Tab-Titel, im Brief und in allen Nachrichten.",
+  "fr": "Le nom du jeu s'affiche maintenant dans la forme propre à chaque langue : Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, sur l'écran d'accueil, le menu principal, le titre de l'onglet, la lettre et tous les messages.",
+  "es": "El nombre del juego ahora aparece en la forma propia de cada idioma: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, en la pantalla de inicio, el menú principal, el título de la pestaña, la carta y todos los mensajes.",
+  "ru": "Название игры теперь показывается на каждом языке по-своему: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê — на заставке, в главном меню, в заголовке вкладки, в письме и во всех сообщениях.",
+  "ku": "Navê lîstikê êdî bi her zimanî bi navê wî zimanî xuya dibe: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê; li ekrana destpêkê, menuya sereke, sernavê tabê, nameyê û hemû peyaman."
+ },
+ {
+  "v": 293,
+  "d": "2026-10-25",
+  "tr": "Başka oyuncunun köyündeyken kendiliğinden görev kontrolü yapılmaz (ev sahibinin görevi senin hesabına işlemesin).",
+  "en": "Automatic quest checks are skipped while visiting another player's village."
+ },
+ {
+  "v": 292,
+  "d": "2026-10-25",
+  "tr": "Çoban Ali'nin ağılında köylüler ve oyuncu çitin ve gölgeliğin içinden geçebiliyordu. Artık ağıl bir engel: insanlar etrafından dolaşıyor, koyunlar akşam yine ağıla giriyor.",
+  "en": "Villagers and the player could walk through the fence and shelter of Shepherd Ali's sheepfold. The fold is now solid: people walk around it, and the sheep still go in at night.",
+  "de": "Dorfbewohner und Spieler konnten durch Zaun und Unterstand von Hirte Alis Schafpferch laufen. Der Pferch ist jetzt fest: Menschen gehen außen herum, die Schafe gehen abends weiterhin hinein.",
+  "fr": "Les villageois et le joueur pouvaient traverser la clôture et l'abri de la bergerie du berger Ali. La bergerie est maintenant solide : les gens la contournent, et les moutons y entrent toujours le soir.",
+  "es": "Los aldeanos y el jugador podían atravesar la cerca y el cobertizo del redil del pastor Ali. Ahora el redil es sólido: la gente lo rodea y las ovejas siguen entrando por la noche.",
+  "ru": "Жители и игрок могли проходить сквозь забор и навес загона пастуха Али. Теперь загон твёрдый: люди обходят его, а овцы по-прежнему заходят туда вечером.",
+  "ku": "Gundî û lîstikvan dikarîbûn di nav çeper û sîwana pêgeha şivan Elî re derbas bibin. Êdî pêgeh asteng e: mirov li dora wê dizivirin, pez êvarê dîsa dikevin hundir."
+ },
+ {
+  "v": 291,
+  "d": "2026-10-26",
+  "tr": "Camide cemaatle namazda karakterin artık cemaatle aynı anda kıyam, rükû ve secdeye gidiyor (telefon takılsa da geri kalmıyor). İmam sarık ve cübbe giydi, cemaatte fötr şapka yerine takke var. Emeği Geçenler: Sponsor bölümü sponsor davetine dönüştü, \"Manevi Destek\" artık \"Tester\", yeni \"Destek Olanlar\" bölümü eklendi.",
+  "en": "In congregational prayer at the mosque your character now moves together with the congregation (no lag on slow phones). The imam now wears a turban and robe; worshippers wear prayer caps. Credits: the Sponsor section is now an invitation, \"Spiritual support\" is now \"Tester\", and a new \"Supporters\" section was added."
+ },
+ {
+  "v": 290,
+  "d": "2026-10-26",
+  "tr": "Çalışanların \"İşimi yapamadım\" bildirimi (ör. Oduncu Hamit \"Sandık dolu\") artık her saat değil, en çok 12 saatte bir gelir; çalışan raporunda yine görünür. Çalışan raporu kayıtta gereksiz büyümüyor.",
+  "en": "Workers' \"I couldn't do my job\" notice (e.g. Woodcutter Hamit \"chest is full\") now comes at most once every 12 hours instead of every hour; it still shows in the worker report. The worker report no longer bloats your save."
+ },
+ {
+  "v": 289,
+  "d": "2026-10-26",
+  "tr": "Yürürken karakterin ve çevresinin gölgeleri artık titremiyor. Camiye sadece revaktaki kapının önünden girilir (şadırvan arasından girilmiyor). Kıyafetini her an değiştirebilirsin: ☰ Diğer › 👕 Gardırop. Kadın karakterlerde sakal/bıyık görünmesi düzeldi.",
+  "en": "Shadows no longer flicker around your character while walking. The mosque can only be entered from the door on its porch. Change your clothes any time: ☰ More › 👕 Wardrobe. Female characters no longer show a beard or moustache."
+ },
+ {
+  "v": 288,
+  "d": "2026-10-25",
+  "tr": "Muhtardaki Ticaret Ofisi artık toptancı ekranını açıyor (Bölüm 3'te açılır yazıyor ama hiç açılmıyordu); av tüfeği ve budama makası 'yakında' yazıyor; muhtar tarla geri alındıktan sonra 'Demirkol topraklarını kaptı' demiyor, bölüme göre konuşuyor.",
+  "en": "The Trade Office at the headman now opens the wholesale screen; hunting rifle and pruning shears say 'coming soon'; the headman's line now fits the current chapter."
+ },
+ {
+  "v": 287,
+  "d": "2026-10-25",
+  "tr": "Çalışanı işe alınca (Selin, Erkan…) ya da altın/itibar gibi şartlar başka yoldan dolunca görev bir sonraki olaya kadar takılı kalıyordu; artık birkaç saniyede kendiliğinden ilerler.",
+  "en": "Quests now advance on their own within seconds when their condition is met another way (hiring Selin/Erkan, reaching a gold or reputation target)."
+ },
+ {
+  "v": 286,
+  "d": "2026-10-25",
+  "tr": "Toptancıya/ihracata/kooperatife sandıktan teslim edince çanta sayacı NaN oluyordu (çanta sınırı da bozuluyordu); düzeldi, bozuk kayıtlar kendiliğinden onarılır.",
+  "en": "After delivering from the chest to the wholesaler/export/co-op, the bag counter showed NaN (and the bag limit broke); fixed, and broken saves repair themselves."
+ },
+ {
+  "v": 285,
+  "d": "2026-10-26",
+  "tr": "İnekler artık günde 4–20 L süt veriyor: cinsine, beslenmesine ve sağlığına göre. Yazın sadece mera otuyla orta, yemlikte ot ya da buğday varsa en yüksek süt gelir; kışın yemlik dolu olmalı. Hasta ya da aç inek 4 L verir, gebe inek daha az, sevdiğin inek 1 L fazla verir. Merada her ineğin günlük sütü yazıyor. Süt çoğaldığı için süt 2 A, peynir 7 A oldu (3 L süt = 1 peynir aynı); çantada ve sandıkta 4 L süt 1 yer kaplar.",
+  "en": "Cows now give 4–20 L of milk a day, depending on breed, feeding and health. On pasture grass alone they give a medium amount; with hay or wheat in the feeder they give the most; in winter the feeder must be full. A sick or hungry cow gives 4 L, a pregnant cow less, and a cow you pet gives 1 L more. The pasture shows each cow's daily milk. Since there is more milk, milk is now 2 G and cheese 7 G (still 3 L milk = 1 cheese); 4 L of milk takes 1 slot in the bag and chest.",
+  "de": "Kühe geben jetzt 4–20 L Milch am Tag, je nach Rasse, Futter und Gesundheit. Nur mit Weidegras mittel, mit Heu oder Weizen in der Krippe am meisten; im Winter muss die Krippe voll sein. Eine kranke oder hungrige Kuh gibt 4 L, eine trächtige weniger, eine gestreichelte 1 L mehr. Auf der Weide steht die Tagesmilch jeder Kuh. Weil es mehr Milch gibt, kostet Milch jetzt 2 G und Käse 7 G (weiter 3 L Milch = 1 Käse); 4 L Milch belegen 1 Platz in Tasche und Truhe.",
+  "fr": "Les vaches donnent maintenant 4 à 20 L de lait par jour selon la race, l'alimentation et la santé. Avec l'herbe du pâturage seule, c'est moyen ; avec du foin ou du blé dans la mangeoire, c'est le maximum ; en hiver la mangeoire doit être pleine. Une vache malade ou affamée donne 4 L, une vache pleine moins, une vache caressée 1 L de plus. Le pâturage affiche le lait quotidien de chaque vache. Comme il y a plus de lait, le lait vaut 2 O et le fromage 7 O (toujours 3 L de lait = 1 fromage) ; 4 L de lait prennent 1 place dans le sac et le coffre.",
+  "es": "Las vacas ahora dan 4–20 L de leche al día según raza, alimentación y salud. Solo con hierba del pasto dan una cantidad media; con heno o trigo en el comedero, la máxima; en invierno el comedero debe estar lleno. Una vaca enferma o hambrienta da 4 L, una preñada menos y una que acaricias 1 L más. El pasto muestra la leche diaria de cada vaca. Como hay más leche, la leche vale 2 O y el queso 7 O (sigue siendo 3 L de leche = 1 queso); 4 L de leche ocupan 1 hueco en la bolsa y el baúl.",
+  "ru": "Коровы теперь дают 4–20 л молока в день — в зависимости от породы, кормления и здоровья. На одной пастбищной траве — средне, с сеном или пшеницей в кормушке — больше всего; зимой кормушка должна быть полной. Больная или голодная корова даёт 4 л, стельная — меньше, а та, которую ты погладил, — на 1 л больше. На пастбище видно дневной удой каждой коровы. Молока стало больше, поэтому молоко теперь 2 З, сыр 7 З (по-прежнему 3 л молока = 1 сыр); 4 л молока занимают 1 место в сумке и сундуке.",
+  "ku": "Çêlek niha rojê 4–20 L şîr didin, li gorî cure, xwarin û tenduristiyê. Tenê bi giyayê mêrgê navîn, bi giya an genimê di axorê de herî zêde; zivistanê divê axor tije be. Çêleka nexweş an birçî 4 L dide, çêleka ducanî kêmtir, çêleka ku tu jê hez dikî 1 L zêdetir. Li mêrgê şîrê rojane yê her çêlekê xuya dike. Ji ber ku şîr zêde bû, şîr niha 2 Z û penîr 7 Z ye (hîn jî 3 L şîr = 1 penîr); 4 L şîr di çente û sindoqê de 1 cih digire."
+ },
+ {
+  "v": 284,
+  "d": "2026-10-25",
+  "tr": "Çiftlik menüsünde kilitli geliştirmeler ve yapılar artık açılmak için ne gerektiğini yazıyor (önceki seviye, bölüm, ön yapı, teknoloji şartları).",
+  "en": "Locked farm upgrades and buildings now show what they need to unlock (previous level, chapter, required building, technology)."
+ },
+ {
+  "v": 283,
+  "d": "2026-10-25",
+  "tr": "Köy fırını, köy ofisiyle (taş bina) aynı yere kurulmuştu; fırın binanın içinde kalıyor, yalnızca beyaz duvarı ve kırmızı çatısı taş duvardan dışarı taşıyordu. Fırın ofisin yanındaki boş yere, meydanın kenarına taşındı.",
+  "en": "The village bakery had been built in the same spot as the village office (the stone building): the bakery sat inside it, with only its white wall and red roof sticking out of the stone wall. The bakery has moved to the free spot next to the office, at the edge of the square.",
+  "de": "Die Dorfbäckerei stand an derselben Stelle wie das Dorfbüro (das Steingebäude): Sie steckte darin, nur ihre weiße Wand und das rote Dach ragten aus der Steinmauer. Die Bäckerei steht jetzt auf dem freien Platz neben dem Büro, am Rand des Dorfplatzes.",
+  "fr": "Le four du village avait été construit au même endroit que le bureau du village (le bâtiment en pierre) : il se trouvait à l'intérieur, seuls son mur blanc et son toit rouge dépassaient du mur de pierre. Le four est maintenant sur l'emplacement libre à côté du bureau, au bord de la place.",
+  "es": "El horno del pueblo estaba construido en el mismo sitio que la oficina del pueblo (el edificio de piedra): quedaba dentro de ella y solo su pared blanca y su tejado rojo asomaban por el muro de piedra. El horno se ha trasladado al hueco libre junto a la oficina, al borde de la plaza.",
+  "ru": "Деревенская пекарня стояла на том же месте, что и деревенская контора (каменное здание): она оказывалась внутри, и из каменной стены торчали только её белая стена и красная крыша. Пекарня перенесена на свободное место рядом с конторой, на краю площади.",
+  "ku": "Firna gund li heman cihê nivîsgeha gund (avahiya kevirî) hatibû avakirin: firin di hundirê wê de dima, tenê dîwarê wê yê spî û banê wê yê sor ji dîwarê kevirî derdiket. Firin hate birin cihê vala yê li kêleka nivîsgehê, li qiraxa meydanê."
+ },
+ {
+  "v": 282,
+  "d": "2026-10-25",
+  "tr": "Gece köy ahırına giren ineklerin adı, ahırın kapısında dururken eylem düğmesinde çıkıyordu; artık ahırdaki hayvanlar düğmede görünmüyor. Çoban Ali'nin ağılı yenilendi: direkler yere oturuyor, çit tahtaları ve kapı boşluğu var, gölgelik eğimli çatılı ve altında yemlik var (eskiden tablasız masa gibi duruyordu). Gece hava durumunda güneş yerine 🌙 «Açık hava» yazıyor.",
+  "en": "The names of cows sleeping in the village barn showed up on the action button when you stood at the barn door; animals inside the barn no longer appear there. Shepherd Ali's sheepfold was rebuilt: the posts stand on the ground, it has fence rails and a gate gap, and the shelter has a sloped roof with a feed trough under it (it used to look like a table without a top). At night the weather shows 🌙 «Clear sky» instead of the sun.",
+  "de": "Die Namen der Kühe, die nachts im Dorfstall schlafen, erschienen auf dem Aktionsknopf, wenn man an der Stalltür stand; Tiere im Stall werden dort nicht mehr angezeigt. Hirte Alis Schafpferch wurde neu gebaut: Die Pfosten stehen auf dem Boden, es gibt Zaunlatten und eine Toröffnung, und der Unterstand hat ein schräges Dach mit einem Futtertrog darunter (früher sah er wie ein Tisch ohne Platte aus). Nachts zeigt das Wetter 🌙 «Klarer Himmel» statt der Sonne.",
+  "fr": "Le nom des vaches qui dorment dans l'étable du village apparaissait sur le bouton d'action quand on se tenait à la porte ; les animaux dans l'étable n'y apparaissent plus. La bergerie du berger Ali a été refaite : les poteaux touchent le sol, il y a des lattes de clôture et une ouverture de porte, et l'abri a un toit en pente avec une mangeoire dessous (avant, il ressemblait à une table sans plateau). La nuit, la météo affiche 🌙 «Ciel dégagé» au lieu du soleil.",
+  "es": "El nombre de las vacas que duermen en el establo del pueblo salía en el botón de acción al estar en la puerta; los animales dentro del establo ya no aparecen ahí. El redil del pastor Ali se rehízo: los postes llegan al suelo, tiene tablas de cerca y un hueco de entrada, y el cobertizo tiene un techo inclinado con un comedero debajo (antes parecía una mesa sin tablero). De noche el tiempo muestra 🌙 «Cielo despejado» en lugar del sol.",
+  "ru": "Имена коров, ночующих в деревенском хлеву, показывались на кнопке действия, когда ты стоял у двери хлева; теперь животные внутри хлева там не появляются. Загон пастуха Али перестроен: столбы стоят на земле, есть жерди забора и проём для входа, а навес с наклонной крышей и кормушкой под ним (раньше он был похож на стол без столешницы). Ночью в погоде вместо солнца показывается 🌙 «Ясно».",
+  "ku": "Navên çêlekên ku bi şev di axura gund de radizên, dema tu li ber deriyê axurê disekinî, li ser bişkoka kiryarê derdiketin; êdî heywanên di axurê de li wir nayên xuyakirin. Pêgeha şivan Elî ji nû ve hate çêkirin: stûn li erdê ne, darên çeperê û valahiya derî hene, sîwan banê xwe yê xwar heye û di binê wê de afir heye (berê wek maseyeke bê text xuya dikir). Bi şev di hewayê de li şûna rojê 🌙 «Hewa sayî» tê nîşandan."
+ },
+ {
+  "v": 281,
+  "d": "2026-10-25",
+  "tr": "Kasabalar büyürken yeni evlerin mevcut evlerin içine kurulması düzeltildi.",
+  "en": "Fixed new houses being built inside existing houses as towns grow."
+ },
+ {
+  "v": 280,
+  "d": "2026-10-25",
+  "tr": "Oduncu Hamit: sandık doluyken teslimatı artık kaybolmuyor, yer açılınca getiriyor; \"Sandık dolu, odun getiremedim\" uyarısı ve Çalışanlar ekranında açık not var. Uzun süre oyunda yokken Hamit, Zehra, Cemil ve Osman artık her gün için ayrı çalışıyor (önceden sadece ilk günü yapıyorlardı) ve dönünce o günkü işleri yarım kalmıyor.",
+  "en": "Woodcutter Hamit: deliveries are no longer lost while the chest is full, he brings them once there is room; clear \"chest is full, couldn't bring wood\" warning and note on the Workers screen. While you are away for a long time Hamit, Zehra, Cemil and Osman now work every day (before only the first day counted), and today's work is no longer cut short when you return."
+ },
+ {
+  "v": 279,
+  "d": "2026-10-25",
+  "tr": "Muhtarın \"yeni aile yerleşti\" mesajları artık bütün dillerde tam çevrilir (eski mesajlar dahil).",
+  "en": "The headman's \"a new family settled\" messages are now fully translated in every language (older messages too)."
+ },
+ {
+  "v": 278,
+  "d": "2026-10-25",
+  "tr": "Türkçe dışındaki dillerde yarım kalan çeviriler tamamlandı: itibar ekranı, çanta, sandık geliştirme, mutfak yemekleri, çalışan bildirimleri, uzaktan sipariş ve turist ekranı.",
+  "en": "Missing translations filled in: reputation screen, bag, chest upgrades, kitchen dishes, worker notifications, remote ordering and the tourist screen."
+ },
+ {
+  "v": 277,
+  "d": "2026-10-25",
+  "tr": "Sayılar artık düzgün yazılıyor: itibar ekranındaki \"1.6000000000000014\" gibi uzun ondalıklar kalktı (1,6 itibar). Altın, itibar ve diğer sayılar oyunun diline göre biçimlenir (Türkçe 1.234,5 · İngilizce 1,234.5).",
+  "en": "Numbers now display cleanly: long decimals like \"1.6000000000000014\" on the reputation screen are gone (1.6 reputation). Gold, reputation and other numbers follow your language's format (English 1,234.5)."
+ },
+ {
+  "v": 276,
+  "d": "2026-10-25",
+  "tr": "Sebze bahçesi ekranı netleşti: bahçeyi büyütürken eksik malzemede çantanda ve sandığında kaç tane olduğu yazıyor, sandık doluysa uyarıyor. Fide yoksa boş yatakta \"📱 Fide al\" düğmesi Tarım Market'i açıyor. Bahçe büyüyünce yatak sayısı doğru yazıyor.",
+  "en": "The vegetable garden screen is clearer: when expanding, it shows how many of each missing material you have in your bag and chest, and warns if the chest is full. With no seedlings, a \"📱 Buy seedlings\" button on the empty bed opens the Farm Store. The bed count is now correct after expanding."
+ },
+ {
+  "v": 275,
+  "d": "2026-10-25",
+  "tr": "Yemekler artık kullanılan malzemeye göre doyurur ve enerji verir (omlet haşlanmış yumurtadan fazla doyurur); mutfakta açlık ve enerji birlikte yazar. Pişmiş yemeklerin satış fiyatı malzemesine göre düzeltildi.",
+  "en": "Meals now fill you up and give energy in proportion to their ingredients (an omelette fills more than a boiled egg); the kitchen shows both hunger and energy. Cooked food sell prices now match their ingredients."
+ },
+ {
+  "v": 274,
+  "d": "2026-10-25",
+  "tr": "Peynirde günlük 15 sınırı kalktı: merada elindeki sütün hepsini peynir yapabilirsin (yeni \"Hepsini peynir yap\" düğmesi) ve hepsi \"Mandırada 60 peynir üret\" görevine sayılır. Mandıranın her sabah kendiliğinden yaptığı peynir artık mandıra seviyesine bağlı: 15, 30, 60, 120 (🏗️ Çiftlik › Mandıra'dan geliştir).",
+  "en": "The 15-a-day cheese limit is gone: at the pasture you can turn all your milk into cheese (new \"Make all into cheese\" button) and all of it counts for the \"Make 60 cheese at the dairy\" quest. The dairy's automatic morning cheese now depends on its level: 15, 30, 60, 120 (upgrade in 🏗️ Farm › Dairy)."
+ },
+ {
+  "v": 273,
+  "d": "2026-10-25",
+  "tr": "Süt artık litre ile gösteriliyor: ineklerin verdiği süt, sandık, mandıra, kooperatif ve satış ekranlarında \"12 L süt\" gibi yazar. Miktarlar ve fiyatlar değişmedi (1 süt = 1 L, 3 L süt = 1 peynir).",
+  "en": "Milk is now shown in liters: cows, chest, dairy, cooperative and sale screens show e.g. \"12 L milk\". Amounts and prices are unchanged (1 milk = 1 L, 3 L milk = 1 cheese)."
+ },
+ {
+  "v": 272,
+  "d": "2026-10-25",
+  "tr": "Onarılan değirmende Yakup günde 40 buğdayı una çevirir; Murat'ın yevmiyesi ve hayvan fiyatları bölümle artar (satış alış fiyatını geçmez).",
+  "en": "Repaired mill: Yakup grinds 40 wheat into flour a day; Murat's wage and animal prices now rise with each chapter (resale never exceeds what you paid)."
+ },
+ {
+  "v": 271,
+  "d": "2026-10-25",
+  "tr": "Çalışan işe alma görevlerinin kartında gereken altın artık gerçek günlük maaşı gösteriyor.",
+  "en": "Hiring quest cards now show the real daily wage as the gold needed."
+ },
+ {
+  "v": 270,
+  "d": "2026-10-25",
+  "tr": "Kuzey ve doğu bölgelerinde yeni bir yere varınca 'Yeni yer keşfedildi' bildirimi artık bir kez çıkıyor.",
+  "en": "Arriving at a new place in the north and east now shows the 'New place discovered' notice only once."
+ },
+ {
+  "v": 269,
+  "d": "2026-10-25",
+  "tr": "Köy ineklerinin ve atlarının akşam ahıra giderken binanın içinden geçmesi düzeldi: artık ahırın etrafından dolaşıp kapıdan giriyorlar, gündüz de evlerin içine girmiyorlar. Banklarda oturunca «😴 Dinlen» düğmesi çıkıyor; evdeki Dinlen kuralları aynen geçerli (8 saatte bir tam dinlenme, arada kısa mola).",
+  "en": "Fixed village cows and horses walking through buildings on their way to the barn in the evening: they now go around the barn and enter through the door, and they no longer wander into houses during the day. When you sit on a bench a «😴 Rest» button appears; the same Rest rules as at home apply (a full rest every 8 hours, a short break in between).",
+  "de": "Behoben: Kühe und Pferde des Dorfes liefen abends auf dem Weg zum Stall durch Gebäude. Jetzt gehen sie um den Stall herum und durch die Tür hinein, und tagsüber laufen sie nicht mehr in Häuser. Wenn du dich auf eine Bank setzt, erscheint der Knopf «😴 Ausruhen»; es gelten dieselben Regeln wie zu Hause (alle 8 Stunden volle Erholung, dazwischen eine kurze Pause).",
+  "fr": "Corrigé : les vaches et les chevaux du village traversaient les bâtiments en allant à l'étable le soir. Ils contournent maintenant l'étable et entrent par la porte, et ne rentrent plus dans les maisons la journée. Quand tu t'assois sur un banc, un bouton «😴 Se reposer» apparaît ; les mêmes règles qu'à la maison s'appliquent (repos complet toutes les 8 heures, courte pause entre les deux).",
+  "es": "Arreglado: las vacas y los caballos del pueblo atravesaban los edificios al ir al establo por la tarde. Ahora rodean el establo y entran por la puerta, y de día ya no se meten en las casas. Al sentarte en un banco aparece el botón «😴 Descansar»; se aplican las mismas reglas que en casa (descanso completo cada 8 horas, una pausa corta entre medias).",
+  "ru": "Исправлено: деревенские коровы и лошади вечером по пути в хлев проходили сквозь здания. Теперь они обходят хлев и заходят через дверь, а днём больше не забредают в дома. Когда садишься на скамейку, появляется кнопка «😴 Отдохнуть»; действуют те же правила, что и дома (полный отдых раз в 8 часов, между ними короткий перерыв).",
+  "ku": "Hate sererastkirin: çêlek û hespên gund êvarê dema diçûn axurê di nav avahiyan re derbas dibûn. Êdî ew li dora axurê dizivirin û ji derî dikevin hundir, bi roj jî nakevin nav xaniyan. Dema tu li ser textê rûdinî bişkoka «😴 Bêhna xwe veke» derdikeve; heman qaîdeyên malê derbasdar in (her 8 saetan bêhnvedanek tam, di navberê de bêhnvedanek kurt)."
+ },
+ {
+  "v": 268,
+  "d": "2026-10-25",
+  "tr": "Çalışanlar: kadrolu ve günlükçü artık farklı. Günlükçünün yevmiyesi yalnız çalıştığı gün ödenir, para yetmezse hemen ayrılır. Kadrolu %20 daha ucuzdur ama maaşı iş olmasa da her gün işler ve 7 günde bir toplu ödenir; daha sadıktır, para yetmezse 2 hafta bekler. Çalışanlar ekranında maaş gününe kaç gün kaldığı ve biriken maaş yazıyor. Çalışana öğrettiğin yeni iş artık gerçekten yapılıyor ve bugün yapılanlar listesinde görünüyor. Öğrettiğin her iş açıkken maaşa günde küçük bir ek gelir, işi durdurunca ek düşer; ek ücret iş öğretirken yazıyor.",
+  "en": "Workers: salaried and day laborers now differ. A day laborer is paid only for days worked and leaves at once if unpaid. Salaried workers are 20% cheaper, but their salary accrues daily even without work and is paid every 7 days; they are more loyal and wait 2 weeks if unpaid. The Workers screen shows days until payday and accrued salary. Jobs you teach a worker are now actually done and appear in today's log. Each taught job adds a small daily amount to the salary while it's on; stopping it removes the extra, and the fee is shown when teaching."
+ },
+ {
+  "v": 267,
+  "d": "2026-10-25",
+  "tr": "Oyuncu testinden düzeltmeler: taksi ve otobüs ücreti ekranda yazıyor; köy projesi süresi doğru anlatılıyor; Murat'ın maaşı listede doğru; çalışanların pazardan aldığı yem ekranda yazıyor; turist görevlerinde ok turistleri gösteriyor; turiste satışta yuvarlama hatası düzeldi; Dalgıç Deniz anıtın yanında da konuşuluyor; yeni oyunda sebze bahçesi Bölüm 2'de kuruluyor; dolu sandıkta eşya eksiye düşmüyor; dolu çantada fırın ekmek pişiriyor; günlük hediye ve görüş penceresi yürürken açılmıyor; tavuk çalının dibindeyse önce tavuk yakalanıyor.",
+  "en": "Fixes from player testing: taxi and bus fares shown; village project time described correctly; Murat's wage correct in list; feed bought by workers shown; tourist quests point to tourists; tourist sale rounding fixed; Diver Deniz can be talked to next to the monument; vegetable garden is built in Chapter 2 in new games; full chest no longer goes negative; oven bakes with a full bag; daily gift and feedback windows don't open while walking; a chicken next to a bush is caught first."
+ },
+ {
+  "v": 266,
+  "d": "2026-10-25",
+  "tr": "İnekler artık sen oyunda yokken de süt veriyor (en fazla 7 gün; mera dolunca fazlası bozulur, Çoban Osman varsa sandığa koyar). Mandıra da sen yokken sandıktaki sütten peynir yapıyor. Mandıra kuruluysa merada \"3 sütten peynir yap\" ile yaptığın peynir de \"Mandırada 60 peynir üret\" görevine sayılıyor (günde en çok 15).",
+  "en": "Cows now give milk while you are away (up to 7 days; extra milk spoils when the pasture is full, Shepherd Osman puts it in the chest). The dairy also makes cheese from chest milk while you are away. With a dairy built, cheese made at the pasture now counts for the \"Make 60 cheese at the dairy\" quest (up to 15 per day)."
+ },
+ {
+  "v": 265,
+  "d": "2026-10-25",
+  "tr": "Panelde artık haftanın günü ve saat yazar (ör. Pazartesi · 14:30); gün herkeste aynıdır. Pazar günü pazar kurulur, fiyatlar yüksektir. Görev ve sipariş son tarihleri \"yarın\" ya da \"Salı (2 gün sonra)\" şeklinde yazar. Mesajlarda hayvanların adı yerine türü yazar (ör. \"bir inek kurtların saldırısına uğradı\").",
+  "en": "The panel now shows the weekday and time (e.g. Monday · 14:30); the day is the same for everyone. On Sundays the market is set up and prices are higher. Quest and order deadlines read \"tomorrow\" or \"Tuesday (2 days from now)\". Messages name the kind of animal instead of its name (e.g. \"a cow was attacked by wolves\")."
+ },
+ {
+  "v": 264,
+  "d": "2026-10-25",
+  "tr": "Pazarlamacı Burak artık her sabah satış için sormaz. Ne zaman istersen Çalışanlar ekranında Burak'ın «💰 Sat» düğmesine bas ya da Burak'la konuş; her üründen kaç tane satılacağını sen yazarsın (Yarısı/Hepsi düğmeleri kalktı). Burak yine sen onaylamadan hiçbir şey satmaz; komisyon ve günlük satış sınırı aynı.",
+  "en": "Salesman Burak no longer asks every morning. Whenever you like, tap Burak's «💰 Sell» button in the Workers screen or talk to him; you type how many of each item to sell (the Half/All buttons are gone). Burak still never sells without your approval; commission and daily limit are unchanged.",
+  "de": "Verkäufer Burak fragt nicht mehr jeden Morgen. Wann immer du willst, tippe im Arbeiter-Bildschirm auf Buraks «💰 Verkaufen» oder sprich mit ihm; du gibst ein, wie viele von jeder Ware verkauft werden (die Knöpfe Hälfte/Alle sind weg). Burak verkauft weiterhin nichts ohne deine Zustimmung; Provision und Tageslimit bleiben gleich.",
+  "fr": "Le vendeur Burak ne demande plus chaque matin. Quand tu veux, touche le bouton «💰 Vendre» de Burak dans l'écran Employés ou parle-lui ; tu saisis combien de chaque produit vendre (les boutons Moitié/Tout ont disparu). Burak ne vend toujours rien sans ton accord ; commission et limite du jour inchangées.",
+  "es": "El vendedor Burak ya no pregunta cada mañana. Cuando quieras, toca el botón «💰 Vender» de Burak en la pantalla de Trabajadores o habla con él; tú escribes cuántas unidades de cada producto vender (ya no hay botones Mitad/Todo). Burak sigue sin vender nada sin tu permiso; la comisión y el límite diario no cambian.",
+  "ru": "Продавец Бурак больше не спрашивает каждое утро. Когда захочешь, нажми кнопку «💰 Продать» у Бурака на экране работников или поговори с ним; ты сам вписываешь, сколько каждого товара продать (кнопок «Половина/Всё» больше нет). Бурак по-прежнему ничего не продаёт без твоего согласия; комиссия и дневной лимит те же.",
+  "ku": "Firoşkar Burak êdî her sibe napirse. Kengî tu bixwazî, li ekrana Karkeran bişkoka «💰 Bifiroşe» ya Burak bitikîne an bi wî re biaxive; ji her berhemê çend heb bê firotin tu dinivîsî (bişkokên Nîv/Hemû rabûn). Burak dîsa bê erêya te tiştekî nafiroşe; komîsyon û sînorê rojane wek berê ne."
+ }
 ]
