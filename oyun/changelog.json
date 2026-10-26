@@ -1,5 +1,11 @@
 [
 {
+"v": 348,
+"d": "2026-10-26",
+"tr": "Koyun ve keçi işlerini artık yalnız kendi çobanı yapar: Çoban Hasan (koyun) ya da Keçi çobanı Gülsüm yoksa hiçbir şey kendiliğinden olmaz; sütü sen sağarsın, peyniri merada elle yaparsın, koyunları sen kırkarsın. Çoban Osman yalnız ineklere bakar. Mandıra koyun/keçi sütünü yalnız o hayvanın çobanı varken işler. Mera ekranı sandıktaki sütü ve kimin sağdığını gösterir; çobanlar sandık doluysa kalan sütün merada kaldığını söyler.",
+"en": "Sheep and goat work is now done only by their own herder: without Shepherd Hasan (sheep) or Goat herder Gülsüm nothing happens by itself; you milk, make cheese by hand in the pasture and shear the sheep yourself. Shepherd Osman only looks after cows. The dairy only processes sheep/goat milk while that animal's herder is hired. The pasture screen shows the milk in the chest and who milked it; herders tell you when milk stays in the pasture because the chest is full."
+},
+{
 "v": 347,
 "d": "2026-10-26",
 "tr": "Telefon ısınması azaltıldı: 30 FPS sınırı 90/120 Hz ekranlarda artık doğru çalışıyor. Telefonda yüksek grafik uzun süre zorlanırsa grafik kendiliğinden bir kademe düşer. Ayarlar'da yüksek grafiğin telefonu ısıttığı uyarısı var.",
