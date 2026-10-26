@@ -1,5 +1,11 @@
 [
 {
+"v": 341,
+"d": "2026-10-26",
+"tr": "Dünya haritası: artık bütün köylerin üstünde oyuncunun adı yazıyor. Çevrimiçi oyuncular 🟢 ile işaretli ve listede en üstte; adına dokunup köyünü ziyaret edebilirsin.",
+"en": "World map: every village now shows its player's name. Online players are marked with 🟢 and listed first; tap one to visit their village."
+},
+{
 "v": 340,
 "d": "2026-10-26",
 "tr": "Kurt kaçarken artık çite, kümese ya da duvara takılıp kalmıyor: engelin yanından dolaşıyor, sıkışırsa çitten atlıyor; sopayla ya da sapanla kovaladığın kurt ormana gidip kayboluyor. Karakterin artık park etmiş arabaların, traktörlerin, otobüsün ve taksilerin içinden geçmiyor.",
@@ -387,17 +393,5 @@
 "d": "2026-10-25",
 "tr": "Kasabalar büyürken yeni evlerin mevcut evlerin içine kurulması düzeltildi.",
 "en": "Fixed new houses being built inside existing houses as towns grow."
-},
-{
-"v": 280,
-"d": "2026-10-25",
-"tr": "Oduncu Hamit: sandık doluyken teslimatı artık kaybolmuyor, yer açılınca getiriyor; \"Sandık dolu, odun getiremedim\" uyarısı ve Çalışanlar ekranında açık not var. Uzun süre oyunda yokken Hamit, Zehra, Cemil ve Osman artık her gün için ayrı çalışıyor (önceden sadece ilk günü yapıyorlardı) ve dönünce o günkü işleri yarım kalmıyor.",
-"en": "Woodcutter Hamit: deliveries are no longer lost while the chest is full, he brings them once there is room; clear \"chest is full, couldn't bring wood\" warning and note on the Workers screen. While you are away for a long time Hamit, Zehra, Cemil and Osman now work every day (before only the first day counted), and today's work is no longer cut short when you return."
-},
-{
-"v": 279,
-"d": "2026-10-25",
-"tr": "Muhtarın \"yeni aile yerleşti\" mesajları artık bütün dillerde tam çevrilir (eski mesajlar dahil).",
-"en": "The headman's \"a new family settled\" messages are now fully translated in every language (older messages too)."
 }
 ]
