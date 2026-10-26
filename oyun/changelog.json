@@ -1,5 +1,16 @@
 [
  {
+  "v": 298,
+  "d": "2026-10-25",
+  "tr": "Çoban Ali'nin ağılına artık kapısından girebilirsin; çitler ve gölgelik yine engel, köylüler etrafından dolaşıyor. Bir çite yaklaşıp ona dönünce «🤸 Çitten atla» düğmesi çıkıyor ve karakterin çitin üstünden atlıyor (ağıl, mera ve çiftlik çitleri; 1 enerji).",
+  "en": "You can now enter Shepherd Ali's sheepfold through its gate; the fences and shelter still block, and villagers walk around. Walk up to a fence and face it, and a «🤸 Jump the fence» button appears: your character jumps over it (sheepfold, pasture and farm fences; 1 energy).",
+  "de": "Du kannst Hirte Alis Schafpferch jetzt durch das Tor betreten; Zaun und Unterstand blockieren weiterhin, Dorfbewohner gehen außen herum. Geh an einen Zaun und schau ihn an, dann erscheint «🤸 Über den Zaun springen» und deine Figur springt darüber (Pferch-, Weide- und Hofzäune; 1 Energie).",
+  "fr": "Tu peux maintenant entrer dans la bergerie du berger Ali par sa porte ; les clôtures et l'abri bloquent toujours, et les villageois la contournent. Approche-toi d'une clôture face à elle : un bouton «🤸 Sauter la clôture» apparaît et ton personnage saute par-dessus (clôtures de la bergerie, du pâturage et de la ferme ; 1 énergie).",
+  "es": "Ahora puedes entrar en el redil del pastor Ali por su puerta; las cercas y el cobertizo siguen bloqueando y los aldeanos lo rodean. Acércate a una cerca mirándola y aparece el botón «🤸 Saltar la cerca»: tu personaje salta por encima (cercas del redil, del pasto y de la granja; 1 de energía).",
+  "ru": "Теперь в загон пастуха Али можно войти через калитку; забор и навес по-прежнему мешают пройти, а жители обходят его. Подойди к забору лицом к нему — появится кнопка «🤸 Перепрыгнуть забор», и персонаж перепрыгнет через него (заборы загона, пастбища и фермы; 1 энергия).",
+  "ku": "Êdî tu dikarî ji deriyê pêgeha şivan Elî bikevî hundir; çeper û sîwan dîsa asteng in, gundî li dora wê dizivirin. Here ber çeperekê û rûyê xwe bide wê, bişkoka «🤸 Ji ser çeperê baz bide» derdikeve û karakterê te ji ser wê baz dide (çeperên pêgehê, mêrgê û çandiniyê; 1 enerjî)."
+ },
+ {
   "v": 297,
   "d": "2026-10-25",
   "tr": "Bankanın en fazla verdiği kredi bölüm fiyatlarıyla büyür (Bölüm 4'te yaklaşık 3,4 katı); fabrika kredisi artık fabrikaya yetecek düzeye yaklaşır.",
