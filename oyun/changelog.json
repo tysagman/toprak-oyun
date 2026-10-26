@@ -1,5 +1,11 @@
 [
  {
+  "v": 319,
+  "d": "2026-10-26",
+  "tr": "Şifremi unuttum düzeltildi: şifre yenileme e-postası artık oyunun dilinde gelir, gönderen adı Toprağın Mirası. Ekranda net mesaj: kullanıcı adı yazınca e-posta istenir, gönderilince Spam klasörünü kontrol et uyarısı çıkar, çok deneme ve geçersiz e-posta ayrı ayrı yazılır.",
+  "en": "Forgot password fixed: the reset email now arrives in the game's language from Legacy of the Land. Clear messages on screen: entering a username asks for your email, after sending you're reminded to check Spam, too many attempts and invalid email are shown separately."
+ },
+ {
   "v": 318,
   "d": "2026-10-26",
   "tr": "Balıkçılık güncellemesi: günlük balık sınırı kalktı (çok tutunca balık daha geç vurur). Balığın boyu artık önemli: küçük balık kolay çekilir ve ucuz satılır, iri balık zor çekilir ama %30'a kadar pahalı satılır. Uzağa atış ve Balık Şenliği iri balık getirir. Yayın balığı artık çekilebiliyor. Pazarlamacı Burak günde maaşının 4 katı satabilir.",
