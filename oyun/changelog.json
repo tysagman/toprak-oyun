@@ -1,5 +1,11 @@
 [
 {
+"v": 351,
+"d": "2026-10-26",
+"tr": "Telefon daha az ısınsın diye: uzaktaki köylü ve hayvanlar tek parça çiziliyor (köyde ekran kartı işi yaklaşık üçte bir azaldı), uzaktakilerin bacak/kol gölgesi çizilmiyor. Görüntü aynı.",
+"en": "Less phone heating: distant villagers and animals are drawn as a single piece (about a third less GPU work in the village), and distant leg/arm shadows are skipped. Looks the same."
+},
+{
 "v": 350,
 "d": "2026-10-26",
 "tr": "Taş topladıktan sonra o noktada görünmez bir engel kalıyor, karakter geçemiyordu; düzeltildi. Kesilen süs ağaçlarının yerinde kalan küçük engel de kaldırıldı.",
