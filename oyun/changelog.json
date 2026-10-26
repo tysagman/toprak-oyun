@@ -1,5 +1,11 @@
 [
  {
+  "v": 313,
+  "d": "2026-10-26",
+  "tr": "Toptancı ve ihracat sözleşmesi artık günde bir kez alınır, yeni teklif ertesi gün gelir. Sen yokken Erkan işteyse fabrikalar en çok 3 gün üretir, maaşı ödenir.",
+  "en": "Wholesale and export contracts can now be taken once a day; a new offer comes the next day. While you're away, factories produce for up to 3 days if Erkan is hired, and his wage is paid."
+ },
+ {
   "v": 312,
   "d": "2026-10-26",
   "tr": "Veteriner Elif'te yeni hizmetler: Hepsini tedavi et, Hepsini aşıla, vitamin kürü (10 A), kümes salgını tedavisi (20 A). Tedavi her zaman tutmaz (erken tedavi %95), uzun hastalık hayvanı 10 gün halsiz bırakır (süt ve iş %30 az), çok uzun hasta kalan hayvan ölebilir (oyunda değilken ölmez). Yeni çalışan: Sağlık bakıcısı Derya (25 A/gün). Hayvan ağır hastalanınca ekranda 🚨 uyarı çıkar.",
