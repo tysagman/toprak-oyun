@@ -1,5 +1,11 @@
 [
 {
+"v": 335,
+"d": "2026-10-26",
+"tr": "Düzeltme: yeni görevler eklendiğinde devam eden görevin ilerlemesi (ör. kooperatife süt teslimi) sıfırlanıyordu. Artık korunuyor; sıfırlanan süt görevi geri getirildi.",
+"en": "Fix: when new quests were added, the progress of the current quest (e.g. milk deliveries to the cooperative) was reset. It is now kept, and the reset milk quest progress is restored."
+},
+{
 "v": 334,
 "d": "2026-10-26",
 "tr": "Koyun ve keçi geldi! Çiftliğin doğusunda inekten ayrı bir koyun merası ve keçi merası kurabilirsin (Akkaraman, Morkaraman, İvesi koyunları; Kıl keçisi ve Saanen). Koyun ve keçiler yavrular (kuzu, oğlak), hastalanır, veteriner bakar. Sütleri ve etleri ayrı: koyun sütünden koyun peyniri, koyun yoğurdu ve tulum peyniri; keçi sütünden keçi peyniri, lor ve keçi tereyağı yapılır. Koyunlar 180 günde bir kırkılır, yün verir. Çoban Osman yemler, sağar ve kırkar. Bölüm 2–5'e 9 yeni görev eklendi.",
@@ -387,17 +393,5 @@
 "d": "2026-10-25",
 "tr": "Yemekler artık kullanılan malzemeye göre doyurur ve enerji verir (omlet haşlanmış yumurtadan fazla doyurur); mutfakta açlık ve enerji birlikte yazar. Pişmiş yemeklerin satış fiyatı malzemesine göre düzeltildi.",
 "en": "Meals now fill you up and give energy in proportion to their ingredients (an omelette fills more than a boiled egg); the kitchen shows both hunger and energy. Cooked food sell prices now match their ingredients."
-},
-{
-"v": 274,
-"d": "2026-10-25",
-"tr": "Peynirde günlük 15 sınırı kalktı: merada elindeki sütün hepsini peynir yapabilirsin (yeni \"Hepsini peynir yap\" düğmesi) ve hepsi \"Mandırada 60 peynir üret\" görevine sayılır. Mandıranın her sabah kendiliğinden yaptığı peynir artık mandıra seviyesine bağlı: 15, 30, 60, 120 (🏗️ Çiftlik › Mandıra'dan geliştir).",
-"en": "The 15-a-day cheese limit is gone: at the pasture you can turn all your milk into cheese (new \"Make all into cheese\" button) and all of it counts for the \"Make 60 cheese at the dairy\" quest. The dairy's automatic morning cheese now depends on its level: 15, 30, 60, 120 (upgrade in 🏗️ Farm › Dairy)."
-},
-{
-"v": 273,
-"d": "2026-10-25",
-"tr": "Süt artık litre ile gösteriliyor: ineklerin verdiği süt, sandık, mandıra, kooperatif ve satış ekranlarında \"12 L süt\" gibi yazar. Miktarlar ve fiyatlar değişmedi (1 süt = 1 L, 3 L süt = 1 peynir).",
-"en": "Milk is now shown in liters: cows, chest, dairy, cooperative and sale screens show e.g. \"12 L milk\". Amounts and prices are unchanged (1 milk = 1 L, 3 L milk = 1 cheese)."
 }
 ]
