@@ -1,5 +1,11 @@
 [
 {
+"v": 326,
+"d": "2026-10-26",
+"tr": "Meraya başka inekler girmiyor: köyün inekleri, atları ve Çoban Ali'nin koyunları artık senin merana girmez; akşam ahıra giderken meranın etrafından dolaşır. Kendi ineklerin merada kalır.",
+"en": "Other cows no longer enter your pasture: the village's cows, horses and Shepherd Ali's sheep stay out and walk around it on their way to the barn. Your own cows stay in the pasture."
+},
+{
 "v": 325,
 "d": "2026-10-26",
 "tr": "Köyün batı ve doğu ucuna hafif bir yamaç eklendi: kenardaki köylü evleri artık tepe eteğinde duruyor. Evler, avlular, yollar ve göl kıyısı yerinde ve düz kaldı.",
@@ -392,22 +398,5 @@
 "d": "2026-10-25",
 "tr": "İnekler artık sen oyunda yokken de süt veriyor (en fazla 7 gün; mera dolunca fazlası bozulur, Çoban Osman varsa sandığa koyar). Mandıra da sen yokken sandıktaki sütten peynir yapıyor. Mandıra kuruluysa merada \"3 sütten peynir yap\" ile yaptığın peynir de \"Mandırada 60 peynir üret\" görevine sayılıyor (günde en çok 15).",
 "en": "Cows now give milk while you are away (up to 7 days; extra milk spoils when the pasture is full, Shepherd Osman puts it in the chest). The dairy also makes cheese from chest milk while you are away. With a dairy built, cheese made at the pasture now counts for the \"Make 60 cheese at the dairy\" quest (up to 15 per day)."
-},
-{
-"v": 265,
-"d": "2026-10-25",
-"tr": "Panelde artık haftanın günü ve saat yazar (ör. Pazartesi · 14:30); gün herkeste aynıdır. Pazar günü pazar kurulur, fiyatlar yüksektir. Görev ve sipariş son tarihleri \"yarın\" ya da \"Salı (2 gün sonra)\" şeklinde yazar. Mesajlarda hayvanların adı yerine türü yazar (ör. \"bir inek kurtların saldırısına uğradı\").",
-"en": "The panel now shows the weekday and time (e.g. Monday · 14:30); the day is the same for everyone. On Sundays the market is set up and prices are higher. Quest and order deadlines read \"tomorrow\" or \"Tuesday (2 days from now)\". Messages name the kind of animal instead of its name (e.g. \"a cow was attacked by wolves\")."
-},
-{
-"v": 264,
-"d": "2026-10-25",
-"tr": "Pazarlamacı Burak artık her sabah satış için sormaz. Ne zaman istersen Çalışanlar ekranında Burak'ın «💰 Sat» düğmesine bas ya da Burak'la konuş; her üründen kaç tane satılacağını sen yazarsın (Yarısı/Hepsi düğmeleri kalktı). Burak yine sen onaylamadan hiçbir şey satmaz; komisyon ve günlük satış sınırı aynı.",
-"en": "Salesman Burak no longer asks every morning. Whenever you like, tap Burak's «💰 Sell» button in the Workers screen or talk to him; you type how many of each item to sell (the Half/All buttons are gone). Burak still never sells without your approval; commission and daily limit are unchanged.",
-"de": "Verkäufer Burak fragt nicht mehr jeden Morgen. Wann immer du willst, tippe im Arbeiter-Bildschirm auf Buraks «💰 Verkaufen» oder sprich mit ihm; du gibst ein, wie viele von jeder Ware verkauft werden (die Knöpfe Hälfte/Alle sind weg). Burak verkauft weiterhin nichts ohne deine Zustimmung; Provision und Tageslimit bleiben gleich.",
-"fr": "Le vendeur Burak ne demande plus chaque matin. Quand tu veux, touche le bouton «💰 Vendre» de Burak dans l'écran Employés ou parle-lui ; tu saisis combien de chaque produit vendre (les boutons Moitié/Tout ont disparu). Burak ne vend toujours rien sans ton accord ; commission et limite du jour inchangées.",
-"es": "El vendedor Burak ya no pregunta cada mañana. Cuando quieras, toca el botón «💰 Vender» de Burak en la pantalla de Trabajadores o habla con él; tú escribes cuántas unidades de cada producto vender (ya no hay botones Mitad/Todo). Burak sigue sin vender nada sin tu permiso; la comisión y el límite diario no cambian.",
-"ru": "Продавец Бурак больше не спрашивает каждое утро. Когда захочешь, нажми кнопку «💰 Продать» у Бурака на экране работников или поговори с ним; ты сам вписываешь, сколько каждого товара продать (кнопок «Половина/Всё» больше нет). Бурак по-прежнему ничего не продаёт без твоего согласия; комиссия и дневной лимит те же.",
-"ku": "Firoşkar Burak êdî her sibe napirse. Kengî tu bixwazî, li ekrana Karkeran bişkoka «💰 Bifiroşe» ya Burak bitikîne an bi wî re biaxive; ji her berhemê çend heb bê firotin tu dinivîsî (bişkokên Nîv/Hemû rabûn). Burak dîsa bê erêya te tiştekî nafiroşe; komîsyon û sînorê rojane wek berê ne."
 }
 ]
