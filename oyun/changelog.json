@@ -1,5 +1,11 @@
 [
 {
+"v": 356,
+"d": "2026-10-27",
+"tr": "Köylü, hayvan ve oyuncunun evlere/engellere çarpma hesabı yaklaşık %30 hızlandı (davranış aynı).",
+"en": "Collision checks for villagers, animals and the player against houses and obstacles are about 30% faster (same behaviour)."
+},
+{
 "v": 355,
 "d": "2026-10-27",
 "tr": "Uzaktaki karakter kopyaları daha az bellek kullanıyor (yaklaşık üçte bir az).",
