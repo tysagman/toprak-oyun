@@ -1,5 +1,11 @@
 [
 {
+"v": 339,
+"d": "2026-10-26",
+"tr": "Isınma ve pil (2. adım): arazi ve uzaktaki ağaçlar bölgelere ayrıldı; ekranda görünmeyen kısımlar artık çizilmiyor. Ekran kartı her karede %17–24 daha az üçgen çiziyor. Görüntü aynı.",
+"en": "Heat and battery (step 2): terrain and distant trees are split into regions; parts not on screen are no longer drawn. The GPU draws 17–24% fewer triangles per frame. Visuals unchanged."
+},
+{
 "v": 338,
 "d": "2026-10-26",
 "tr": "Isınma ve pil: oyun telefonu çok daha az yoruyor. Bazı telefonlarda 30 FPS sınırı çalışmıyor, oyun gereksiz yere 60–120 FPS çiziyordu; düzeltildi. Uzaktaki insan ve hayvanların ekranda görünmeyecek kadar küçük parçaları çizilmiyor, küçük parçaların gölgesi sadece yakında düşüyor. Çarpışma hesabı 4 kat hızlandı, uzaktaki hayvanlar daha seyrek hesaplanıyor. Görüntü aynı.",
@@ -387,11 +393,5 @@
 "d": "2026-10-25",
 "tr": "Muhtarın \"yeni aile yerleşti\" mesajları artık bütün dillerde tam çevrilir (eski mesajlar dahil).",
 "en": "The headman's \"a new family settled\" messages are now fully translated in every language (older messages too)."
-},
-{
-"v": 278,
-"d": "2026-10-25",
-"tr": "Türkçe dışındaki dillerde yarım kalan çeviriler tamamlandı: itibar ekranı, çanta, sandık geliştirme, mutfak yemekleri, çalışan bildirimleri, uzaktan sipariş ve turist ekranı.",
-"en": "Missing translations filled in: reputation screen, bag, chest upgrades, kitchen dishes, worker notifications, remote ordering and the tourist screen."
 }
 ]
