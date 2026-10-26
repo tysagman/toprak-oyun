@@ -1,5 +1,11 @@
 [
 {
+"v": 330,
+"d": "2026-10-26",
+"tr": "Kümesin LED aydınlatması artık bütün kümes avlusunu ve çevresindeki çitleri gece eşit şekilde aydınlatır: çitlerin üst kenarında ve tavan çıtalarında LED şeritler var. Pil dostu: ek ışık kaynağı yok.",
+"en": "The coop's LED lighting now evenly lights the whole coop yard and the fences around it at night, with LED strips along the fence tops and roof bars. Battery friendly: no extra light sources."
+},
+{
 "v": 328,
 "d": "2026-10-26",
 "tr": "Giriş, kayıt ve hesap ekranlarında artık her zaman ← Geri ve ✕ düğmesi var; klavye açıkken de görünür. Telefonun geri tuşu, pencerenin dışına dokunmak ve bilgisayarda Esc pencereyi bir adım geri götürür ya da kapatır. Kayıt seçme ekranına da Geri eklendi. Eski uygulama sürümünde Google ile giriş düğmesi yerine 'yeni sürümle gelecek' notu çıkar.",
