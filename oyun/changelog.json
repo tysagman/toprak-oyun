@@ -1,5 +1,11 @@
 [
 {
+"v": 315,
+"d": "2026-10-26",
+"tr": "Köy meydanında duyulan takılma sesi düzeltildi: meydan uğultusu her saniye kendini tekrar ediyordu, artık uzaktan gelen doğal bir kalabalık mırıltısı. Rüzgâr, göl, yağmur ve araç sesleri de tekrar etmiyor.",
+"en": "Fixed the stuttering sound in the village square: the square murmur repeated itself every second; it is now a natural distant crowd murmur. Wind, lake, rain and vehicle sounds no longer repeat either."
+},
+{
 "v": 314,
 "d": "2026-10-26",
 "tr": "Güneş panelleri artık meranın içinde kalmıyor: mera sonradan kurulunca ya da büyüyünce paneller boş yere taşınıyor. Panellerin yanına gidip 🔆 düğmesine dokununca ne işe yaradıkları, havaya göre günlük kazanç, bu sabah gelen ve toplam kazanç yazıyor.",
@@ -397,11 +403,5 @@
 "d": "2026-10-24",
 "tr": "Görev kartındaki ve kişinin yanındaki düğme artık doğrudan doğru menüyü açar ve yapılacak satırı yanıp sönerek gösterir (ör. Merayı genişlet). Mera çiti Çiftlik menüsünden de kurulabilir.",
 "en": "The button on the quest card and next to the quest person now opens the right menu directly and highlights the row to use (e.g. Expand the pasture). The pasture fence can also be built from the Farm menu."
-},
-{
-"v": 255,
-"d": "2026-10-24",
-"tr": "Banka: kredi taksiti ve sigorta primi kesilince mesaj gelir; hesapta para yoksa cepten ödendiği söylenir. Şubede gişe bankolarının arasından geçilemez.",
-"en": "Bank: you get a message when a loan installment or insurance premium is charged, and you are told when it is paid from your pocket. You can no longer walk between the bank counters."
 }
 ]
