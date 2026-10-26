@@ -1,5 +1,11 @@
 [
  {
+  "v": 284,
+  "d": "2026-10-25",
+  "tr": "Çiftlik menüsünde kilitli geliştirmeler ve yapılar artık açılmak için ne gerektiğini yazıyor (önceki seviye, bölüm, ön yapı, teknoloji şartları).",
+  "en": "Locked farm upgrades and buildings now show what they need to unlock (previous level, chapter, required building, technology)."
+ },
+ {
   "v": 283,
   "d": "2026-10-25",
   "tr": "Köy fırını, köy ofisiyle (taş bina) aynı yere kurulmuştu; fırın binanın içinde kalıyor, yalnızca beyaz duvarı ve kırmızı çatısı taş duvardan dışarı taşıyordu. Fırın ofisin yanındaki boş yere, meydanın kenarına taşındı.",
