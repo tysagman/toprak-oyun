@@ -6,6 +6,12 @@
 "en": "Vehicles never drive through villagers anymore: if someone is standing on the road, the vehicle stops and the villager steps aside to let it pass."
 },
 {
+"v": 305,
+"d": "2026-10-26",
+"tr": "Üye olurken kullanıcı adında Türkçe harfler (ç ğ ı İ ö ş ü), büyük/küçük harf ve _ . - kullanılabiliyor. Girişte büyük/küçük harf fark etmez; adın yazdığın gibi görünür.",
+"en": "Usernames can now use Turkish and other letters, upper/lower case and _ . - when signing up. Login is case-insensitive; your name is shown as you typed it."
+},
+{
 "v": 304,
 "d": "2026-10-26",
 "tr": "Otobüs, taksi ve şehirdeki arabalar artık köylülerin ve senin içinden geçmiyor: önlerinde biri varsa yavaşlayıp duruyorlar, yoldaki köylüler de araç yaklaşınca kenara çekiliyor.",
