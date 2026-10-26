@@ -1,5 +1,11 @@
 [
  {
+  "v": 296,
+  "d": "2026-10-26",
+  "tr": "Köy meydanı sadeleşti: aynı anda en çok 2 konuşma balonu görünür (en yakındakiler), balonlar düğmelerin ve panellerin üstüne binmez. Köylüler daha seyrek konuşur, isim etiketleri sadece yakındaki birkaç kişide çıkar, meydandaki kalabalık azaldı. Oyun daha akıcı, pil daha az harcanır.",
+  "en": "The village square is calmer: at most 2 speech bubbles at a time (the nearest ones), and they no longer cover buttons or panels. Villagers chat less often, name tags show only on a few nearby people, and the square is less crowded. Smoother play and less battery use."
+ },
+ {
   "v": 295,
   "d": "2026-10-25",
   "tr": "Kamyon sefere çıkınca gün boyu park yerinde görünmez (yolda), akşam 19:00'da geri döner.",
