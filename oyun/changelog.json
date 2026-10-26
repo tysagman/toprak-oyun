@@ -1,5 +1,11 @@
 [
 {
+"v": 345,
+"d": "2026-10-26",
+"tr": "Başka bir oyuncunun köyünü ziyaret ederken artık sadece gezebiliyorsun: sandığı, merası, hayvanları, satış ve kasa ziyarette kapalı.",
+"en": "When visiting another player's village you can now only look around: their chest, pasture, animals, selling and the safe are closed during visits."
+},
+{
 "v": 344,
 "d": "2026-10-26",
 "tr": "Ormandaki süs ağaçları da artık kesilebiliyor, 5 günde geri büyüyor. Sulama kanalı yokuşta basamak basamak görünmüyor, toprağa gömülmüyor.",
@@ -377,11 +383,5 @@
 "es": "Las vacas ahora dan 4–20 L de leche al día según raza, alimentación y salud. Solo con hierba del pasto dan una cantidad media; con heno o trigo en el comedero, la máxima; en invierno el comedero debe estar lleno. Una vaca enferma o hambrienta da 4 L, una preñada menos y una que acaricias 1 L más. El pasto muestra la leche diaria de cada vaca. Como hay más leche, la leche vale 2 O y el queso 7 O (sigue siendo 3 L de leche = 1 queso); 4 L de leche ocupan 1 hueco en la bolsa y el baúl.",
 "ru": "Коровы теперь дают 4–20 л молока в день — в зависимости от породы, кормления и здоровья. На одной пастбищной траве — средне, с сеном или пшеницей в кормушке — больше всего; зимой кормушка должна быть полной. Больная или голодная корова даёт 4 л, стельная — меньше, а та, которую ты погладил, — на 1 л больше. На пастбище видно дневной удой каждой коровы. Молока стало больше, поэтому молоко теперь 2 З, сыр 7 З (по-прежнему 3 л молока = 1 сыр); 4 л молока занимают 1 место в сумке и сундуке.",
 "ku": "Çêlek niha rojê 4–20 L şîr didin, li gorî cure, xwarin û tenduristiyê. Tenê bi giyayê mêrgê navîn, bi giya an genimê di axorê de herî zêde; zivistanê divê axor tije be. Çêleka nexweş an birçî 4 L dide, çêleka ducanî kêmtir, çêleka ku tu jê hez dikî 1 L zêdetir. Li mêrgê şîrê rojane yê her çêlekê xuya dike. Ji ber ku şîr zêde bû, şîr niha 2 Z û penîr 7 Z ye (hîn jî 3 L şîr = 1 penîr); 4 L şîr di çente û sindoqê de 1 cih digire."
-},
-{
-"v": 284,
-"d": "2026-10-25",
-"tr": "Çiftlik menüsünde kilitli geliştirmeler ve yapılar artık açılmak için ne gerektiğini yazıyor (önceki seviye, bölüm, ön yapı, teknoloji şartları).",
-"en": "Locked farm upgrades and buildings now show what they need to unlock (previous level, chapter, required building, technology)."
 }
 ]
