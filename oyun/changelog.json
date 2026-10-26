@@ -1,5 +1,11 @@
 [
 {
+"v": 354,
+"d": "2026-10-27",
+"tr": "Yakındaki köylü ve hayvanlar da tek parça çiziliyor (hareketleri aynı): merada ekran kartı çizimi yarıdan fazla azaldı, telefon daha az ısınır.",
+"en": "Nearby villagers and animals are now drawn as one piece too (same movement): more than half fewer draw calls at the pasture, so the phone heats less."
+},
+{
 "v": 353,
 "d": "2026-10-27",
 "tr": "Tarla arkı, su pompası ve kümes LED'leri tek parça çiziliyor (çiftlikte ~60 çizim az). Uzaktaki karakterlerin hazırlanması küçük parçalara bölündü, ani takılma olmaz.",
