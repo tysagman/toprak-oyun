@@ -1,5 +1,11 @@
 [
 {
+"v": 308,
+"d": "2026-10-26",
+"tr": "Aç dinlenince enerji yarıda kalıyordu; artık yemek yiyip yeniden dinlenince enerjin tam dolar. Uzun süre aç kalınca (açlık %100) sağlığın yavaşça düşer, uyarı gelir; yemek yiyince düşüş durur.",
+"en": "Resting while hungry left your energy half full; now eat and rest again to refill it fully. Staying hungry for long (100% hunger) slowly lowers your health with a warning; eating stops it."
+},
+{
 "v": 307,
 "d": "2026-10-26",
 "tr": "Turistlere satış: bir turist alışveriş yapınca ok ve \"Turistle konuş\" artık alışveriş yapmamış başka bir turisti gösteriyor; köydeki kalabalık turisti örtmüyor. Satış yaptığın turistte kaç turist kaldığı ve en yakınının uzaklığı yazıyor.",
@@ -392,23 +398,5 @@
 "d": "2026-10-24",
 "tr": "Samsung telefonlarda çökme koruması güçlendirildi: araç motor sesleri daha az bellek kullanıyor, çökme sonrası oyun kendini hafifletiyor.",
 "en": "Stronger crash protection on Samsung phones: vehicle engine sounds use less memory, and the game lightens itself after a crash."
-},
-{
-"v": 248,
-"d": "2026-10-24",
-"tr": "Bölüm 3'teki \"Nevzat Bey ile tanış\" görevi düzeldi: bankada hesabın olmasa da Elazığ'daki Hazar Bank şubesine girince Nevzat Bey seni karşılıyor. Banka görevlerinde ok artık şehir merkezini değil, doğrudan banka kapısını gösteriyor.",
-"en": "The Chapter 3 quest \"Meet Mr. Nevzat\" is fixed: even without a bank account, Mr. Nevzat greets you when you enter the Hazar Bank branch in Elazığ. For bank quests the arrow now points straight to the bank door instead of the city center."
-},
-{
-"v": 247,
-"d": "2026-10-24",
-"tr": "Görsel yenilik: güneş sabah ve akşam sıcak renkte, gün doğumu ve batımı daha güzel, gökyüzünde havaya göre bulutlar var. Göl kıyısında köpük ve su parıltısı, bacalardan duman, kelebekler ve rüzgârda sallanan ağaçlar eklendi. Evlerde farklı panjur renkleri, odunluk ve asma çardağı; fabrikalarda pencere ve kapı var. Kalabalıktaki insanlar daha düzgün görünüyor. Düşük grafik ayarında ek yük yok.",
-"en": "Visual refresh: warm morning and evening sunlight, nicer sunrise and sunset, weather-based clouds. Lake shore foam and sparkles, chimney smoke, butterflies and trees swaying in the wind. Houses get different shutter colors, woodsheds and grape arbors; factories get windows and doors. Crowd characters look better. No extra load on Low graphics."
-},
-{
-"v": 246,
-"d": "2026-10-24",
-"tr": "Oyun komple değişti! Bölüm 5 (Yollar ve Limanlar) ve Bölüm 6 (Miras) geldi: meslek okulunda akşam kursları ve diplomalar, burslu mühendis yetiştirme, Mühendis Kerem, Muhasebeci Nur ve Lojistikçi Mert, üç kamyon ve seferler, soğuk hava deposu, Mersin limanından ihracat, holding merkezi ve üç şirket, hastane, kütüphane ve Hasan Dede Vakfı. Satışta ekranda yazan fiyat artık hesaba yatan parayla aynı: her üründen günde ilk 40 tane tam fiyat, sonra fiyat yavaşça düşer ve önceden gösterilir. Odun, taş, ot ve meyve toplarken artık şansına göre 1 ile 5 arası ürün çıkar.",
-"en": "The game has completely changed! Chapter 5 (Roads and Ports) and Chapter 6 (Legacy) are here: evening courses and diplomas at the vocational school, training scholarship engineers, Engineer Kerem, Accountant Nur and Logistics Manager Mert, three trucks and trips, a cold storage, exports from the port of Mersin, a holding headquarters with three companies, a hospital, a library and the Hasan Dede Foundation. When selling, the price on screen now matches the gold you get: the first 40 of each item per day sell at full price, then the price drops slowly and is shown in advance. Gathering wood, stone, grass and fruit now gives 1 to 5 items depending on your luck."
 }
 ]
