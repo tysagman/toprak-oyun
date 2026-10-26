@@ -6,6 +6,12 @@
 "en": "The coop's LED lighting now evenly lights the whole coop yard and the fences around it at night, with LED strips along the fence tops and roof bars. Battery friendly: no extra light sources."
 },
 {
+"v": 329,
+"d": "2026-10-26",
+"tr": "Turistler artık uzaktan belli: hepsinde geniş hasır şapka, renkli sırt çantası ve boyunda fotoğraf makinesi var. Bugün henüz alışveriş yapmamış turistin başında 📸 simgesi görünür, alışveriş yapınca kaybolur.",
+"en": "Tourists now stand out from afar: they all wear wide straw hats, colorful backpacks and a camera around the neck. A 📸 icon floats above every tourist who hasn't shopped with you today and disappears once they buy."
+},
+{
 "v": 328,
 "d": "2026-10-26",
 "tr": "Giriş, kayıt ve hesap ekranlarında artık her zaman ← Geri ve ✕ düğmesi var; klavye açıkken de görünür. Telefonun geri tuşu, pencerenin dışına dokunmak ve bilgisayarda Esc pencereyi bir adım geri götürür ya da kapatır. Kayıt seçme ekranına da Geri eklendi. Eski uygulama sürümünde Google ile giriş düğmesi yerine 'yeni sürümle gelecek' notu çıkar.",
