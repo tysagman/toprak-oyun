@@ -1,5 +1,11 @@
 [
 {
+"v": 364,
+"d": "2026-10-27",
+"tr": "Play Store uygulamasında telefon bildirimleri artık çalışıyor (kayıt bir izin hatası yüzünden hiç yapılmıyordu).",
+"en": "Phone notifications now work in the Play Store app (registration was blocked by a permission error)."
+},
+{
 "v": 363,
 "d": "2026-10-27",
 "tr": "Telefon bildirimi kaydı daha sağlam: uygulama açılınca kayıt takılmadan tamamlanır.",
