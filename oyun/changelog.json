@@ -1,5 +1,11 @@
 [
 {
+"v": 368,
+"d": "2026-10-27",
+"tr": "Köyün inek ahırı artık bir köy evinin içine girmiyor. Göl kenarındaki müze, köy evleriyle aynı taş duvarlı, kiremit çatılı ve ahşap sundurmalı bir binaya dönüştü.",
+"en": "The village cow barn no longer overlaps a house. The lakeside museum now matches the village style with stone walls, a tiled roof and a wooden porch."
+},
+{
 "v": 367,
 "d": "2026-10-27",
 "tr": "Gebe hayvanlarda doğuma kalan süre artık görünüyor: inek, koyun, keçi, at ve eşek listelerinde 'doğuma 3 oyun günü (oyun açıkken ≈2 saat 50 dakika)' yazar. Doğum o gece yarısı olacaksa 'bu gece' yazar. Hayvan adları artık 'Pamuk 51' gibi saçmalamıyor: ad listeleri büyütüldü, gerekirse 'Bulut 2' gibi kısa ek alır, eski garip adlar kendiliğinden düzelir.",
@@ -357,17 +363,5 @@
 "d": "2026-10-26",
 "tr": "Aç dinlenince enerji yarıda kalıyordu; artık yemek yiyip yeniden dinlenince enerjin tam dolar. Uzun süre aç kalınca (açlık %100) sağlığın yavaşça düşer, uyarı gelir; yemek yiyince düşüş durur.",
 "en": "Resting while hungry left your energy half full; now eat and rest again to refill it fully. Staying hungry for long (100% hunger) slowly lowers your health with a warning; eating stops it."
-},
-{
-"v": 307,
-"d": "2026-10-26",
-"tr": "Turistlere satış: bir turist alışveriş yapınca ok ve \"Turistle konuş\" artık alışveriş yapmamış başka bir turisti gösteriyor; köydeki kalabalık turisti örtmüyor. Satış yaptığın turistte kaç turist kaldığı ve en yakınının uzaklığı yazıyor.",
-"en": "Selling to tourists: after a tourist buys, the arrow and \"Talk to tourist\" now point to another tourist who hasn't bought yet; villagers nearby no longer block them. The tourist you sold to shows how many tourists are left and how far the nearest one is."
-},
-{
-"v": 306,
-"d": "2026-10-26",
-"tr": "Araçlar artık hiçbir durumda köylülerin içinden geçmiyor: yolda duran biri varsa araç durup bekliyor, köylü de kenara çekilip yol veriyor.",
-"en": "Vehicles never drive through villagers anymore: if someone is standing on the road, the vehicle stops and the villager steps aside to let it pass."
 }
 ]
