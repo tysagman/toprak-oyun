@@ -1,5 +1,11 @@
 [
 {
+"v": 369,
+"d": "2026-10-27",
+"tr": "Sağlık artık kendiliğinden yavaşça doluyor: tokken (açlık %50'nin altında), hasta değilken ve üşümüyorken sağlık yavaş yavaş artar, durup beklerken 3 kat hızlı. Sargı bezi, kekik, evde dinlenme ve muayene hâlâ hemen iyileştirir. Durum ekranında sağlığın nasıl dolduğu yazıyor.",
+"en": "Health now refills slowly on its own: while you're fed (hunger below 50%), not sick and not cold, health rises little by little, 3 times faster while standing still. Bandages, thyme, resting at home and check-ups still heal right away. The status screen explains how health refills."
+},
+{
 "v": 368,
 "d": "2026-10-27",
 "tr": "Köyün inek ahırı artık bir köy evinin içine girmiyor. Göl kenarındaki müze, köy evleriyle aynı taş duvarlı, kiremit çatılı ve ahşap sundurmalı bir binaya dönüştü.",
