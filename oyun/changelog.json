@@ -1,5 +1,11 @@
 [
 {
+"v": 374,
+"d": "2026-10-27",
+"tr": "Hazar Gölü kuzeye doğru genişledi (köy tarafındaki kıyı ve iskele aynı yerde). Gölün kuzey yamacından kayaların arasından dökülen bir şelale ve göle akan bir dere eklendi. Yüzme yenilendi: ilerlerken serbest stil kulaç atılıyor, nefes için baş yana dönüyor; dururken suda dik durulup kollar ve bacaklarla su tutuluyor.",
+"en": "Lake Hazar is now wider to the north (the village shore and pier stay where they were). A waterfall now pours down the northern slope between the rocks, with a stream flowing into the lake. Swimming is new: front crawl strokes with side breathing while moving, treading water when standing still."
+},
+{
 "v": 373,
 "d": "2026-10-27",
 "tr": "Ses motoru daha az çalışıyor: yankı efekti hafifletildi, duyulmayan ortam sesleri (rüzgâr, su, ateş, yaprak) sessizken tamamen duruyor. Telefon daha az ısınır, ses aynı kalır.",
@@ -352,17 +358,5 @@
 "d": "2026-10-26",
 "tr": "Güneş panelleri artık meranın içinde kalmıyor: mera sonradan kurulunca ya da büyüyünce paneller boş yere taşınıyor. Panellerin yanına gidip 🔆 düğmesine dokununca ne işe yaradıkları, havaya göre günlük kazanç, bu sabah gelen ve toplam kazanç yazıyor.",
 "en": "Solar panels no longer end up inside the pasture: they move to a free spot when the pasture is built or enlarged. Walk to the panels and tap 🔆 to see what they do, daily income by weather, this morning's income and the total."
-},
-{
-"v": 313,
-"d": "2026-10-26",
-"tr": "Toptancı ve ihracat sözleşmesi artık günde bir kez alınır, yeni teklif ertesi gün gelir. Sen yokken Erkan işteyse fabrikalar en çok 3 gün üretir, maaşı ödenir.",
-"en": "Wholesale and export contracts can now be taken once a day; a new offer comes the next day. While you're away, factories produce for up to 3 days if Erkan is hired, and his wage is paid."
-},
-{
-"v": 312,
-"d": "2026-10-26",
-"tr": "Veteriner Elif'te yeni hizmetler: Hepsini tedavi et, Hepsini aşıla, vitamin kürü (10 A), kümes salgını tedavisi (20 A). Tedavi her zaman tutmaz (erken tedavi %95), uzun hastalık hayvanı 10 gün halsiz bırakır (süt ve iş %30 az), çok uzun hasta kalan hayvan ölebilir (oyunda değilken ölmez). Yeni çalışan: Sağlık bakıcısı Derya (25 A/gün). Hayvan ağır hastalanınca ekranda 🚨 uyarı çıkar.",
-"en": "New services at Vet Elif: Treat all, Vaccinate all, vitamin course (10 G), coop outbreak treatment (20 G). Treatment doesn't always work (95% when early), a long illness leaves the animal weak for 10 days (30% less milk and work), an animal sick for too long can die (never while you're away). New worker: Animal carer Derya (25 G/day). A 🚨 alert appears when an animal is seriously ill."
 }
 ]
