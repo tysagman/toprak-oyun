@@ -1,5 +1,11 @@
 [
 {
+"v": 365,
+"d": "2026-10-27",
+"tr": "Karakterin üstündeki bordo-mavi çizgili görünüm düzeltildi: kışlık mont artık gövdeye oturuyor ve senin seçtiğin üst rengini alıyor. Karakter görünümüne Üst rengi seçimi eklendi.",
+"en": "Fixed the striped look on your character's top: the winter coat now fits the body and takes the colour of the top you chose. Added Top colour to character appearance."
+},
+{
 "v": 364,
 "d": "2026-10-27",
 "tr": "Play Store uygulamasında telefon bildirimleri artık çalışıyor (kayıt bir izin hatası yüzünden hiç yapılmıyordu).",
