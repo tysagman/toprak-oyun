@@ -1,5 +1,11 @@
 [
 {
+"v": 379,
+"d": "2026-10-27",
+"tr": "Ot ve çalıların üstüne yapı kurabilirsin; yapı kurulunca altındaki bitkiler kalkar (ağaç ve taş yine engel). Yapı taşırken eski yerindeki bütün parçaları (yemlik, direk, suluk, işaret) gizlenir, böylece yeşil alanda engel varmış gibi görünmez. Ahır penceresindeki çift \"Ahırı geliştir\" düğmesi teke indi.",
+"en": "You can now build over grass and bushes; the plants under a new building are cleared (trees and rocks still block). While moving a building, all of its parts at the old spot (troughs, posts, water trough, sign) are hidden so the green area no longer looks blocked. The stable window no longer shows \"Upgrade stable\" twice."
+},
+{
 "v": 378,
 "d": "2026-10-27",
 "tr": "Yapı yeri seçerken çakışma kontrolü düzeldi: artık başka bir evin, köylü evinin, avlu duvarının, çitin, çatının ya da ağacın üstü kırmızı görünür ve oraya yapı kurulmaz. Taşıdığın yapının eski hâli yer seçerken gizlenir, böylece yeşil alanın altında başka bir yapı varmış gibi görünmez; vazgeçince geri gelir.",
