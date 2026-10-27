@@ -1,5 +1,11 @@
 [
 {
+"v": 376,
+"d": "2026-10-27",
+"tr": "Yapılarını istediğin yere kur: Çiftliği geliştir → 📍 Yapıların yerini değiştir. Ev, tarla, kümes, ahır, meralar, bahçe, kulübe, tulumba, kovan, silo, depo, ambar, güneş paneli, mandıra, fabrikalar ve kamyonlar parmakla sürüklenip taşınır. Yeşil yer uygun, kırmızı yer uygun değil (başka yapı, yol, göl, köy meydanı, ağaç, taş, dik yamaç). Yeni yapı alınca yerini sen seçersin. Taşımayanların çiftliği olduğu gibi kalır.",
+"en": "Build wherever you like: Upgrade farm → 📍 Change building locations. House, field, coop, stable, pastures, gardens, kennel, pump, hives, silo, tank, barn, solar panels, dairy, factories and trucks can be dragged to a new spot. Green means fine, red means not (another building, road, lake, village square, tree, rock, steep slope). When you buy a new building you choose where it goes. Farms you don't move stay exactly as they are."
+},
+{
 "v": 375,
 "d": "2026-10-27",
 "tr": "Köyden uzaklaşınca yollar artık kaybolmuyor; otobüs ve araç yolculuğunda toprak yol görünüyor.",
