@@ -1,5 +1,11 @@
 [
 {
+"v": 370,
+"d": "2026-10-27",
+"tr": "Geri bildirimlerin hepsi artık kaydediliyor. Araç yolsuz yerden geçince arkasında toprak yol izi kalır. Mera çitlerinin tahtaları artık havada kalmıyor.",
+"en": "All feedback is now saved. Vehicles leave a dirt track when driving off-road. Pasture fence rails now follow the ground."
+},
+{
 "v": 369,
 "d": "2026-10-27",
 "tr": "Sağlık artık kendiliğinden yavaşça doluyor: tokken (açlık %50'nin altında), hasta değilken ve üşümüyorken sağlık yavaş yavaş artar, durup beklerken 3 kat hızlı. Sargı bezi, kekik, evde dinlenme ve muayene hâlâ hemen iyileştirir. Durum ekranında sağlığın nasıl dolduğu yazıyor.",
@@ -352,22 +358,5 @@
 "d": "2026-10-26",
 "tr": "Hayvan ürünleri yenilendi: tavuk günde 1–3 yumurta (yumurta 6 A, yem 5'te 1), peynir artık kg (7 L süt → 1 kg, 10 A), yeni ürünler: yoğurt, ayran, kaşar, tereyağı, dana eti, sucuk, et kavurma. Mandıra ürünü seçilir (günde 50–400 L süt). ABD bölgesinde pound/galon (Ayarlar › Ölçü birimi). Eski peynirler kg'ye çevrildi.",
 "en": "Animal products reworked: hens lay 1–3 eggs a day (eggs 6 G, feed use cut to a fifth), cheese is now sold by weight (7 L milk → 1 kg), new products: yogurt, ayran, kashar, butter, beef, sujuk, kavurma. Choose what the dairy makes (50–400 L milk a day). US units (lb/gal) in the US region (Settings › Units). Old cheese was converted."
-},
-{
-"v": 309,
-"d": "2026-10-25",
-"tr": "Mera çitinin yanında «🐄 Mera» düğmesi «🤸 Çitten atla» düğmesinin önüne geçiyordu. Artık çite dönünce atlama düğmesi çıkıyor; mera menüsü çite bakmadığında yine açılıyor.",
-"en": "Next to the pasture fence the «🐄 Pasture» button took the place of «🤸 Jump the fence». Now the jump button appears when you face the fence; the pasture menu still opens when you aren't facing it.",
-"de": "Am Weidezaun verdeckte der Knopf «🐄 Weide» den Knopf «🤸 Über den Zaun springen». Jetzt erscheint der Sprungknopf, wenn du zum Zaun schaust; das Weidemenü öffnet sich weiterhin, wenn du nicht zum Zaun schaust.",
-"fr": "Près de la clôture du pâturage, le bouton «🐄 Pâturage» remplaçait «🤸 Sauter la clôture». Désormais, le bouton de saut apparaît quand tu fais face à la clôture ; le menu du pâturage s'ouvre toujours quand tu ne la regardes pas.",
-"es": "Junto a la cerca del pasto, el botón «🐄 Pasto» tapaba «🤸 Saltar la cerca». Ahora el botón de salto aparece cuando miras a la cerca; el menú del pasto sigue abriéndose cuando no la miras.",
-"ru": "У забора пастбища кнопка «🐄 Пастбище» заменяла кнопку «🤸 Перепрыгнуть забор». Теперь кнопка прыжка появляется, когда смотришь на забор; меню пастбища по-прежнему открывается, если не смотреть на него.",
-"ku": "Li kêleka çeperê mêrgê bişkoka «🐄 Mêrg» dikete şûna «🤸 Ji ser çeperê baz bide». Êdî dema tu rûyê xwe didî çeperê bişkoka bazdanê derdikeve; menuya mêrgê dema tu li çeperê nanêrî dîsa vedibe."
-},
-{
-"v": 308,
-"d": "2026-10-26",
-"tr": "Aç dinlenince enerji yarıda kalıyordu; artık yemek yiyip yeniden dinlenince enerjin tam dolar. Uzun süre aç kalınca (açlık %100) sağlığın yavaşça düşer, uyarı gelir; yemek yiyince düşüş durur.",
-"en": "Resting while hungry left your energy half full; now eat and rest again to refill it fully. Staying hungry for long (100% hunger) slowly lowers your health with a warning; eating stops it."
 }
 ]
