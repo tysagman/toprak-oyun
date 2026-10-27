@@ -1,5 +1,11 @@
 [
 {
+"v": 371,
+"d": "2026-10-27",
+"tr": "Otogar gişesinden (bina içinden) bilet alınca otobüs artık seni gerçekten hedefe götürüyor.",
+"en": "Buying a bus ticket inside the bus terminal now takes you to your destination."
+},
+{
 "v": 370,
 "d": "2026-10-27",
 "tr": "Geri bildirimlerin hepsi artık kaydediliyor. Araç yolsuz yerden geçince arkasında toprak yol izi kalır. Mera çitlerinin tahtaları artık havada kalmıyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Google ile giriş eklendi: Giriş ve Kayıt ekranlarında «Google ile giriş yap» düğmesi var. Misafir olarak oynuyorsan ilerlemen Google hesabına bağlanır, kaybolmaz. E-postayla hesabı olanlar Hesap ekranından «Google hesabını bağla» ile Google'ı ekleyebilir. Android uygulamasında bir sonraki uygulama güncellemesiyle açılır.",
 "en": "Sign in with Google added: the Sign in and Sign up screens now have a «Sign in with Google» button. If you play as a guest, your progress is linked to your Google account and isn't lost. Players with an email account can add Google from the Account screen with «Link your Google account». On the Android app it arrives with the next app update."
-},
-{
-"v": 310,
-"d": "2026-10-26",
-"tr": "Hayvan ürünleri yenilendi: tavuk günde 1–3 yumurta (yumurta 6 A, yem 5'te 1), peynir artık kg (7 L süt → 1 kg, 10 A), yeni ürünler: yoğurt, ayran, kaşar, tereyağı, dana eti, sucuk, et kavurma. Mandıra ürünü seçilir (günde 50–400 L süt). ABD bölgesinde pound/galon (Ayarlar › Ölçü birimi). Eski peynirler kg'ye çevrildi.",
-"en": "Animal products reworked: hens lay 1–3 eggs a day (eggs 6 G, feed use cut to a fifth), cheese is now sold by weight (7 L milk → 1 kg), new products: yogurt, ayran, kashar, butter, beef, sujuk, kavurma. Choose what the dairy makes (50–400 L milk a day). US units (lb/gal) in the US region (Settings › Units). Old cheese was converted."
 }
 ]
