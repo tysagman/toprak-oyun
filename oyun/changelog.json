@@ -1,5 +1,11 @@
 [
 {
+"v": 363,
+"d": "2026-10-27",
+"tr": "Telefon bildirimi kaydı daha sağlam: uygulama açılınca kayıt takılmadan tamamlanır.",
+"en": "Phone notification registration is more robust when the app opens."
+},
+{
 "v": 362,
 "d": "2026-10-27",
 "tr": "Araç çağır artık seni seçtiğin yere götürüyor: yolu olmayan yerlere (göl kıyısı, batık şehir, orman, çayır, vadi…) araç son kısmı yol dışından gidip hedefin dibinde bırakıyor; köy kenarında bırakmıyor.",
