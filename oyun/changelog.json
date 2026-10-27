@@ -1,5 +1,11 @@
 [
 {
+"v": 366,
+"d": "2026-10-27",
+"tr": "Ev ekranı, Taş konak ve Çiftlik malikânesi aşamasında artık hata vermeden açılıyor.",
+"en": "The house screen no longer crashes at the Stone mansion and Farm manor stages."
+},
+{
 "v": 365,
 "d": "2026-10-27",
 "tr": "Karakterin üstündeki bordo-mavi çizgili görünüm düzeltildi: kışlık mont artık gövdeye oturuyor ve senin seçtiğin üst rengini alıyor. Karakter görünümüne Üst rengi seçimi eklendi.",
@@ -357,140 +363,5 @@
 "d": "2026-10-26",
 "tr": "Araçlar artık hiçbir durumda köylülerin içinden geçmiyor: yolda duran biri varsa araç durup bekliyor, köylü de kenara çekilip yol veriyor.",
 "en": "Vehicles never drive through villagers anymore: if someone is standing on the road, the vehicle stops and the villager steps aside to let it pass."
-},
-{
-"v": 305,
-"d": "2026-10-26",
-"tr": "Üye olurken kullanıcı adında Türkçe harfler (ç ğ ı İ ö ş ü), büyük/küçük harf ve _ . - kullanılabiliyor. Girişte büyük/küçük harf fark etmez; adın yazdığın gibi görünür.",
-"en": "Usernames can now use Turkish and other letters, upper/lower case and _ . - when signing up. Login is case-insensitive; your name is shown as you typed it."
-},
-{
-"v": 304,
-"d": "2026-10-26",
-"tr": "Otobüs, taksi ve şehirdeki arabalar artık köylülerin ve senin içinden geçmiyor: önlerinde biri varsa yavaşlayıp duruyorlar, yoldaki köylüler de araç yaklaşınca kenara çekiliyor.",
-"en": "Buses, taxis and city cars no longer drive through villagers or you: they slow down and stop for people ahead, and villagers step aside when a vehicle approaches."
-},
-{
-"v": 303,
-"d": "2026-10-26",
-"tr": "Yollar artık araziye oturuyor: tepelerde toprağa gömülüp parça parça görünmüyor. Mera geliştirildikçe çit de büyüyor (çiftlik merası 17×10,5 m), inekler sıkışmıyor ve meraya dağılıyor.",
-"en": "Roads now follow the terrain instead of sinking into hills and looking broken. The pasture fence grows with each upgrade (farm pasture 17×10.5 m), so cows are no longer crammed together."
-},
-{
-"v": 302,
-"d": "2026-10-26",
-"tr": "Bölüm 4'ün 'altın biriktir' görevi 600.000 yerine 150.000 altın (Bölüm 5: 400.000, Bölüm 6: 500.000).",
-"en": "Chapter 4's 'save gold' quest now asks for 150,000 instead of 600,000."
-},
-{
-"v": 301,
-"d": "2026-10-25",
-"tr": "Köyden gelen toprak yol şehrin asfalt caddelerinin üstüne çiziliyordu; artık şehir girişinde bitiyor.",
-"en": "The dirt road from the village no longer paints over the city's asphalt streets."
-},
-{
-"v": 300,
-"d": "2026-10-25",
-"tr": "Şehrin adı -şehir ile bitince (Gökşehir, Altınşehir) 'Gökşehir şehri' yerine 'Gökşehir', 'şehrine' yerine 'Gökşehir'e' yazılıyor.",
-"en": "City names ending in -şehir no longer get a doubled 'şehri' in Turkish."
-},
-{
-"v": 299,
-"d": "2026-10-26",
-"tr": "Çevre yolu artık meranın içinden geçmiyor: mera yolun güneyine taşındı (inekler yeni yerde). Köylüler de meranın içinden yürümüyor.",
-"en": "The bypass road no longer runs through the pasture: the pasture moved south of the road (cows are in the new spot). Villagers no longer walk through it either."
-},
-{
-"v": 298,
-"d": "2026-10-25",
-"tr": "Çoban Ali'nin ağılına artık kapısından girebilirsin; çitler ve gölgelik yine engel, köylüler etrafından dolaşıyor. Bir çite yaklaşıp ona dönünce «🤸 Çitten atla» düğmesi çıkıyor ve karakterin çitin üstünden atlıyor (ağıl, mera ve çiftlik çitleri; 1 enerji).",
-"en": "You can now enter Shepherd Ali's sheepfold through its gate; the fences and shelter still block, and villagers walk around. Walk up to a fence and face it, and a «🤸 Jump the fence» button appears: your character jumps over it (sheepfold, pasture and farm fences; 1 energy).",
-"de": "Du kannst Hirte Alis Schafpferch jetzt durch das Tor betreten; Zaun und Unterstand blockieren weiterhin, Dorfbewohner gehen außen herum. Geh an einen Zaun und schau ihn an, dann erscheint «🤸 Über den Zaun springen» und deine Figur springt darüber (Pferch-, Weide- und Hofzäune; 1 Energie).",
-"fr": "Tu peux maintenant entrer dans la bergerie du berger Ali par sa porte ; les clôtures et l'abri bloquent toujours, et les villageois la contournent. Approche-toi d'une clôture face à elle : un bouton «🤸 Sauter la clôture» apparaît et ton personnage saute par-dessus (clôtures de la bergerie, du pâturage et de la ferme ; 1 énergie).",
-"es": "Ahora puedes entrar en el redil del pastor Ali por su puerta; las cercas y el cobertizo siguen bloqueando y los aldeanos lo rodean. Acércate a una cerca mirándola y aparece el botón «🤸 Saltar la cerca»: tu personaje salta por encima (cercas del redil, del pasto y de la granja; 1 de energía).",
-"ru": "Теперь в загон пастуха Али можно войти через калитку; забор и навес по-прежнему мешают пройти, а жители обходят его. Подойди к забору лицом к нему — появится кнопка «🤸 Перепрыгнуть забор», и персонаж перепрыгнет через него (заборы загона, пастбища и фермы; 1 энергия).",
-"ku": "Êdî tu dikarî ji deriyê pêgeha şivan Elî bikevî hundir; çeper û sîwan dîsa asteng in, gundî li dora wê dizivirin. Here ber çeperekê û rûyê xwe bide wê, bişkoka «🤸 Ji ser çeperê baz bide» derdikeve û karakterê te ji ser wê baz dide (çeperên pêgehê, mêrgê û çandiniyê; 1 enerjî)."
-},
-{
-"v": 297,
-"d": "2026-10-25",
-"tr": "Bankanın en fazla verdiği kredi bölüm fiyatlarıyla büyür (Bölüm 4'te yaklaşık 3,4 katı); fabrika kredisi artık fabrikaya yetecek düzeye yaklaşır.",
-"en": "The bank's maximum loan now grows with chapter prices (about 3.4x in Chapter 4), so the factory loan actually helps fund a factory."
-},
-{
-"v": 296,
-"d": "2026-10-26",
-"tr": "Köy meydanı sadeleşti: aynı anda en çok 2 konuşma balonu görünür (en yakındakiler), balonlar düğmelerin ve panellerin üstüne binmez. Köylüler daha seyrek konuşur, isim etiketleri sadece yakındaki birkaç kişide çıkar, meydandaki kalabalık azaldı. Oyun daha akıcı, pil daha az harcanır.",
-"en": "The village square is calmer: at most 2 speech bubbles at a time (the nearest ones), and they no longer cover buttons or panels. Villagers chat less often, name tags show only on a few nearby people, and the square is less crowded. Smoother play and less battery use."
-},
-{
-"v": 295,
-"d": "2026-10-25",
-"tr": "Kamyon sefere çıkınca gün boyu park yerinde görünmez (yolda), akşam 19:00'da geri döner.",
-"en": "A truck sent on a trip leaves its parking spot for the day and returns at 19:00."
-},
-{
-"v": 294,
-"d": "2026-10-25",
-"tr": "Oyunun adı artık her dilde o dilin kendi adıyla görünüyor: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê. Açılış ekranında, ana menüde, sekme başlığında, mektupta ve bütün mesajlarda.",
-"en": "The game's name now shows in each language's own form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, on the splash screen, main menu, tab title, the letter and all messages.",
-"de": "Der Name des Spiels erscheint jetzt in jeder Sprache in eigener Form: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê – auf dem Startbildschirm, im Hauptmenü, im Tab-Titel, im Brief und in allen Nachrichten.",
-"fr": "Le nom du jeu s'affiche maintenant dans la forme propre à chaque langue : Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, sur l'écran d'accueil, le menu principal, le titre de l'onglet, la lettre et tous les messages.",
-"es": "El nombre del juego ahora aparece en la forma propia de cada idioma: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê, en la pantalla de inicio, el menú principal, el título de la pestaña, la carta y todos los mensajes.",
-"ru": "Название игры теперь показывается на каждом языке по-своему: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê — на заставке, в главном меню, в заголовке вкладки, в письме и во всех сообщениях.",
-"ku": "Navê lîstikê êdî bi her zimanî bi navê wî zimanî xuya dibe: Legacy of the Land, Das Erbe des Landes, L'Héritage de la Terre, El Legado de la Tierra, Наследие земли, Mîrasa Axê; li ekrana destpêkê, menuya sereke, sernavê tabê, nameyê û hemû peyaman."
-},
-{
-"v": 293,
-"d": "2026-10-25",
-"tr": "Başka oyuncunun köyündeyken kendiliğinden görev kontrolü yapılmaz (ev sahibinin görevi senin hesabına işlemesin).",
-"en": "Automatic quest checks are skipped while visiting another player's village."
-},
-{
-"v": 292,
-"d": "2026-10-25",
-"tr": "Çoban Ali'nin ağılında köylüler ve oyuncu çitin ve gölgeliğin içinden geçebiliyordu. Artık ağıl bir engel: insanlar etrafından dolaşıyor, koyunlar akşam yine ağıla giriyor.",
-"en": "Villagers and the player could walk through the fence and shelter of Shepherd Ali's sheepfold. The fold is now solid: people walk around it, and the sheep still go in at night.",
-"de": "Dorfbewohner und Spieler konnten durch Zaun und Unterstand von Hirte Alis Schafpferch laufen. Der Pferch ist jetzt fest: Menschen gehen außen herum, die Schafe gehen abends weiterhin hinein.",
-"fr": "Les villageois et le joueur pouvaient traverser la clôture et l'abri de la bergerie du berger Ali. La bergerie est maintenant solide : les gens la contournent, et les moutons y entrent toujours le soir.",
-"es": "Los aldeanos y el jugador podían atravesar la cerca y el cobertizo del redil del pastor Ali. Ahora el redil es sólido: la gente lo rodea y las ovejas siguen entrando por la noche.",
-"ru": "Жители и игрок могли проходить сквозь забор и навес загона пастуха Али. Теперь загон твёрдый: люди обходят его, а овцы по-прежнему заходят туда вечером.",
-"ku": "Gundî û lîstikvan dikarîbûn di nav çeper û sîwana pêgeha şivan Elî re derbas bibin. Êdî pêgeh asteng e: mirov li dora wê dizivirin, pez êvarê dîsa dikevin hundir."
-},
-{
-"v": 291,
-"d": "2026-10-26",
-"tr": "Camide cemaatle namazda karakterin artık cemaatle aynı anda kıyam, rükû ve secdeye gidiyor (telefon takılsa da geri kalmıyor). İmam sarık ve cübbe giydi, cemaatte fötr şapka yerine takke var. Emeği Geçenler: Sponsor bölümü sponsor davetine dönüştü, \"Manevi Destek\" artık \"Tester\", yeni \"Destek Olanlar\" bölümü eklendi.",
-"en": "In congregational prayer at the mosque your character now moves together with the congregation (no lag on slow phones). The imam now wears a turban and robe; worshippers wear prayer caps. Credits: the Sponsor section is now an invitation, \"Spiritual support\" is now \"Tester\", and a new \"Supporters\" section was added."
-},
-{
-"v": 290,
-"d": "2026-10-26",
-"tr": "Çalışanların \"İşimi yapamadım\" bildirimi (ör. Oduncu Hamit \"Sandık dolu\") artık her saat değil, en çok 12 saatte bir gelir; çalışan raporunda yine görünür. Çalışan raporu kayıtta gereksiz büyümüyor.",
-"en": "Workers' \"I couldn't do my job\" notice (e.g. Woodcutter Hamit \"chest is full\") now comes at most once every 12 hours instead of every hour; it still shows in the worker report. The worker report no longer bloats your save."
-},
-{
-"v": 289,
-"d": "2026-10-26",
-"tr": "Yürürken karakterin ve çevresinin gölgeleri artık titremiyor. Camiye sadece revaktaki kapının önünden girilir (şadırvan arasından girilmiyor). Kıyafetini her an değiştirebilirsin: ☰ Diğer › 👕 Gardırop. Kadın karakterlerde sakal/bıyık görünmesi düzeldi.",
-"en": "Shadows no longer flicker around your character while walking. The mosque can only be entered from the door on its porch. Change your clothes any time: ☰ More › 👕 Wardrobe. Female characters no longer show a beard or moustache."
-},
-{
-"v": 288,
-"d": "2026-10-25",
-"tr": "Muhtardaki Ticaret Ofisi artık toptancı ekranını açıyor (Bölüm 3'te açılır yazıyor ama hiç açılmıyordu); av tüfeği ve budama makası 'yakında' yazıyor; muhtar tarla geri alındıktan sonra 'Demirkol topraklarını kaptı' demiyor, bölüme göre konuşuyor.",
-"en": "The Trade Office at the headman now opens the wholesale screen; hunting rifle and pruning shears say 'coming soon'; the headman's line now fits the current chapter."
-},
-{
-"v": 287,
-"d": "2026-10-25",
-"tr": "Çalışanı işe alınca (Selin, Erkan…) ya da altın/itibar gibi şartlar başka yoldan dolunca görev bir sonraki olaya kadar takılı kalıyordu; artık birkaç saniyede kendiliğinden ilerler.",
-"en": "Quests now advance on their own within seconds when their condition is met another way (hiring Selin/Erkan, reaching a gold or reputation target)."
-},
-{
-"v": 286,
-"d": "2026-10-25",
-"tr": "Toptancıya/ihracata/kooperatife sandıktan teslim edince çanta sayacı NaN oluyordu (çanta sınırı da bozuluyordu); düzeldi, bozuk kayıtlar kendiliğinden onarılır.",
-"en": "After delivering from the chest to the wholesaler/export/co-op, the bag counter showed NaN (and the bag limit broke); fixed, and broken saves repair themselves."
 }
 ]
