@@ -1,5 +1,11 @@
 [
 {
+"v": 361,
+"d": "2026-10-27",
+"tr": "Telefon bildirimleri düzeltildi: bildirim kaydı artık her cihaz için ayrı tutuluyor; uygulamayı açtığında telefonun kendiliğinden kaydolur.",
+"en": "Phone notifications fixed: each device now registers on its own when you open the app."
+},
+{
 "v": 360,
 "d": "2026-10-27",
 "tr": "Turistler artık bulunuyor: gece pansiyondalar, 📍 ok pansiyon kapısını gösterir, kapıyı çalınca bir turist çıkar; gündüz ok turisti canlı izler. Yem fabrikası buğdayı un fabrikasıyla paylaşır (önceden hiç üretmiyordu). Altın görevlerinde bankadaki paranın sayılmadığı yazıyor; 24 görev açıklaması menü yoluyla netleşti.",
