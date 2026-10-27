@@ -1,5 +1,11 @@
 [
 {
+"v": 373,
+"d": "2026-10-27",
+"tr": "Ses motoru daha az çalışıyor: yankı efekti hafifletildi, duyulmayan ortam sesleri (rüzgâr, su, ateş, yaprak) sessizken tamamen duruyor. Telefon daha az ısınır, ses aynı kalır.",
+"en": "Lighter sound engine: reverb made cheaper and inaudible ambient loops (wind, water, fire, leaves) fully stop while silent. Phones heat less; sound stays the same."
+},
+{
 "v": 372,
 "d": "2026-10-27",
 "tr": "Namazda kıyamda eller artık göbek üzerinde bağlanıyor. Camide Kur'an-ı Kerim duvardaki rafta duruyor, okumak istediğinde rahleye alınıyor.",
