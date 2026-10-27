@@ -1,5 +1,11 @@
 [
 {
+"v": 377,
+"d": "2026-10-27",
+"tr": "Şehirde yerin alçaldığı kenarlarda binaların altı artık havada görünmüyor.",
+"en": "City buildings no longer appear to float where the ground dips at the city edge."
+},
+{
 "v": 376,
 "d": "2026-10-27",
 "tr": "Yapılarını istediğin yere kur: Çiftliği geliştir → 📍 Yapıların yerini değiştir. Ev, tarla, kümes, ahır, meralar, bahçe, kulübe, tulumba, kovan, silo, depo, ambar, güneş paneli, mandıra, fabrikalar ve kamyonlar parmakla sürüklenip taşınır. Yeşil yer uygun, kırmızı yer uygun değil (başka yapı, yol, göl, köy meydanı, ağaç, taş, dik yamaç). Yeni yapı alınca yerini sen seçersin. Taşımayanların çiftliği olduğu gibi kalır.",
@@ -352,17 +358,5 @@
 "d": "2026-10-26",
 "tr": "Veteriner güncellemesi: aşı artık 5 A ve 30 gün korur (süre bitmeden tekrar aşılanmaz, kalan gün yazar). Hasta hayvanın tedavisi ilaç + aşı birlikte. Hastalıklar sebebe göre değişir: soğuk algınlığı (hafif), sindirim bozukluğu ve ahır hastalığı (orta), bulaşıcı hastalık (ağır, 2 gün tedavi, aşısız hayvana bulaşır). Risk mevsime, beslenmeye, ahır temizliğine, kalabalığa ve yaşa göre değişir, Elif ekranında görünür. Yeni: Hepsine vitamin ver.",
 "en": "Vet update: vaccines now cost 5 G and protect for 30 days (no re-vaccination before then, days left shown). Treating a sick animal now gives medicine + vaccine. Illnesses depend on the cause: cold (mild), digestive upset and barn disease (moderate), contagious disease (severe, 2 days of treatment, spreads to unvaccinated animals). Risk depends on season, feeding, barn cleanliness, crowding and age, shown at Elif's. New: Give vitamins to all."
-},
-{
-"v": 316,
-"d": "2026-10-26",
-"tr": "Köylüler artık tezgâhın, çeşmenin ya da dükkânın içinde sıkışıp kalmıyor: Fadime Fatma Teyze'nin tezgâhında, Nazlı çeşmenin ortasında kalıyordu; Cemal Dayı, Dalgıç Deniz, iskeledeki Hüseyin Amca ve birkaç köylünün yeri de düzeltildi. Durduğu yer doluysa köylü en yakın boş yere geçer.",
-"en": "Villagers no longer get stuck inside stalls, the fountain or shops: Fadime stood inside Aunt Fatma's stall and Nazlı inside the fountain; a few other villagers' spots were fixed too. If a spot is blocked, the villager moves to the nearest free place."
-},
-{
-"v": 315,
-"d": "2026-10-26",
-"tr": "Köy meydanında duyulan takılma sesi düzeltildi: meydan uğultusu her saniye kendini tekrar ediyordu, artık uzaktan gelen doğal bir kalabalık mırıltısı. Rüzgâr, göl, yağmur ve araç sesleri de tekrar etmiyor.",
-"en": "Fixed the stuttering sound in the village square: the square murmur repeated itself every second; it is now a natural distant crowd murmur. Wind, lake, rain and vehicle sounds no longer repeat either."
 }
 ]
