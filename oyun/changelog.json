@@ -1,5 +1,11 @@
 [
 {
+"v": 362,
+"d": "2026-10-27",
+"tr": "Araç çağır artık seni seçtiğin yere götürüyor: yolu olmayan yerlere (göl kıyısı, batık şehir, orman, çayır, vadi…) araç son kısmı yol dışından gidip hedefin dibinde bırakıyor; köy kenarında bırakmıyor.",
+"en": "Calling a car now takes you where you chose: for places without a road (lake shore, sunken city, forest, meadow, valley…) the car drives the last part off-road and drops you right at the destination instead of at the village edge."
+},
+{
 "v": 361,
 "d": "2026-10-27",
 "tr": "Telefon bildirimleri düzeltildi: bildirim kaydı artık her cihaz için ayrı tutuluyor; uygulamayı açtığında telefonun kendiliğinden kaydolur.",
