@@ -1,5 +1,11 @@
 [
 {
+"v": 395,
+"d": "2026-10-28",
+"tr": "Başka köye baskında köpekleri nasıl atlatacağın artık yazıyor: köpekler 02:00–05:00 arası uyur, uyanıkken et, balık ya da yem atıp oyalayabilirsin. SSS'ye «Baskın ve koruma» bölümü eklendi.",
+"en": "Raid screens now explain how to get past dogs: they sleep 02:00–05:00, and when awake you can distract them with meat, fish or feed. New FAQ section «Raids and protection»."
+},
+{
 "v": 394,
 "d": "2026-10-28",
 "tr": "Yayla taşındaki yazı yenilendi: artık oyunu birlikte yoğuranların adları yazıyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Köyün inek ahırı çiftliğinin yanından köye taşındı. Gece ormanda ya da yaylada gezenler artık temiz hava, yürüyüş ve mantar için orada olduklarını söylüyor.",
 "en": "The village cow barn moved from next to your farm to the village. People out in the forest or highlands at night now say they're there for fresh air, a walk or mushrooms."
-},
-{
-"v": 335,
-"d": "2026-10-26",
-"tr": "Düzeltme: yeni görevler eklendiğinde devam eden görevin ilerlemesi (ör. kooperatife süt teslimi) sıfırlanıyordu. Artık korunuyor; sıfırlanan süt görevi geri getirildi.",
-"en": "Fix: when new quests were added, the progress of the current quest (e.g. milk deliveries to the cooperative) was reset. It is now kept, and the reset milk quest progress is restored."
 }
 ]
