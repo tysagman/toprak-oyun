@@ -1,5 +1,11 @@
 [
 {
+"v": 383,
+"d": "2026-10-28",
+"tr": "Geliştirilen yapılar (ahır, meralar, sebze bahçesi, tarla, kümes) büyürken artık başka yapıya girmiyor. Yer yoksa büyüme boş yöne (ör. doğu yerine batıya, güney yerine kuzeye) çevriliyor; yapı yerinden kopmuyor.",
+"en": "Upgraded buildings (barn, pastures, garden, field, coop) no longer grow into other buildings. If there is no room, they grow toward free space instead of jumping elsewhere."
+},
+{
 "v": 382,
 "d": "2026-10-28",
 "tr": "Kümes gelişince artık bahçeye taşmıyor; yalnızca boş yöne (kuzey/doğu) büyüyor. Tavşan tuzağa düşünce yön oku tuzağı gösteriyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "İtibar artık daha zor kazanılır: tekrarlanan işlerden gelen itibar %40 azaldı, seviye eşikleri yaklaşık 1,5 katına çıktı. İtibar düşebilir: maaş ödenmezse, toptancı/ihracat sözleşmesi kaçarsa, hayvan bakımsızlıktan ölürse, kredi taksiti gecikirse (sebebi ekranda yazar, sen oyunda yokken düşmez). Kazandığın seviye hiç düşmez; eski kayıtlarda seviyen korunur.",
 "en": "Reputation is now harder to earn: repeatable sources give 40% less and level thresholds are about 1.5× higher. Reputation can drop when wages go unpaid, a wholesale/export contract is missed, an animal dies of neglect or a loan payment is late (the reason is shown; it never drops while you are away). Levels you have earned are never lost; existing saves keep their level."
-},
-{
-"v": 323,
-"d": "2026-10-26",
-"tr": "Güneş panelleri artık köy ahırının içinde görünmüyor: oyun açılırken paneller ahır kurulmadan yerleştiriliyordu, artık ahır, cami ve köy yapıları kurulduktan sonra boş bir yere taşınıyor.",
-"en": "Solar panels no longer appear inside the village barn: they were placed before the barn was built on load; now they move to a free spot after the barn, mosque and village buildings are built."
 }
 ]
