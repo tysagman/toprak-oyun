@@ -1,5 +1,11 @@
 [
 {
+"v": 402,
+"d": "2026-10-28",
+"tr": "Yüksek yenileme hızlı ekranlarda (120 Hz) oyun çizimler arasında boşta bekliyor, saniyede 120 kez uyanmıyor: telefon daha az ısınır, görüntü aynı. Isınma şikayetlerinin teşhisi için geri bildirime cihaz bilgisi eklendi.",
+"en": "On high refresh rate screens (120 Hz) the game now idles between frames instead of waking 120 times a second: phones heat less, visuals unchanged. Device details added to feedback to diagnose heating."
+},
+{
 "v": 401,
 "d": "2026-10-28",
 "tr": "Sebze ve meyve bahçesinde 🧺 Hepsini topla: olgun bütün sebze ve meyveler tek seferde toplanır (bahçe penceresinde ve eylem tuşunda); çanta dolarsa kalanı bahçede bekler. Yayladaki Çoban Veli artık ağılın çit direklerine takılmıyor.",
