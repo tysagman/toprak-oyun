@@ -1,5 +1,11 @@
 [
 {
+"v": 400,
+"d": "2026-10-28",
+"tr": "Oyun açılışında Tasami logo animasyonu oynuyor (sessiz, ekrana dokununca geçilir; aynı oturumda yeniden yüklemede tekrar oynamaz).",
+"en": "The game now opens with the Tasami logo animation (silent, tap to skip; it doesn't replay on reload in the same session)."
+},
+{
 "v": 399,
 "d": "2026-10-28",
 "tr": "Islık 90 m'ye kadar duyulur; daha uzaktaysan at 'çok uzakta' der. Çağrılan at artık binaların, çitlerin içinden geçmiyor, etrafından dolaşıp geliyor. Işık zinciri süsünün ampulleri havada değil, iki direk arasındaki sarkık telde asılı.",
