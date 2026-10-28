@@ -1,5 +1,11 @@
 [
 {
+"v": 404,
+"d": "2026-10-28",
+"tr": "Destek ekibi artık bir yere sıkışan oyuncuyu uzaktan en yakın boş alana taşıyabiliyor.",
+"en": "The support team can now remotely move a stuck player to the nearest free spot."
+},
+{
 "v": 403,
 "d": "2026-10-28",
 "tr": "Otobüsle Elazığ'a inince karakterin Otogar binasının içine düşüp çıkamaması düzeltildi. Bir binanın içinde kalırsan artık yürümeye başlayınca ya da Ayarlar › «Takıldım, kurtar» ile hemen dışarı alınırsın.",
