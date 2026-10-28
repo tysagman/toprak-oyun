@@ -1,5 +1,11 @@
 [
 {
+"v": 397,
+"d": "2026-10-28",
+"tr": "Oyundaki anlık takılmalar azaldı: arka planda 8 saniyede bir tek seferde yapılan sahne düzenlemesi küçük parçalara bölündü, açılıştaki kalabalık kurulumu donmadan yapılıyor, telefona dosya yedeği 10 dakikada bir yazılıyor.",
+"en": "Fewer brief stutters: a background scene task that ran all at once every 8 seconds is now split into small pieces, the crowd is set up at startup without freezing, and the on-device backup file is written every 10 minutes."
+},
+{
 "v": 396,
 "d": "2026-10-28",
 "tr": "Telefon daha az ısınır: ekrandaki düğme ve panellerin arkasındaki bulanık cam efekti telefonda kaldırıldı (her karede yeniden hesaplanıyordu), görünüm aynı. Otomatik grafik, dururken veya menü açıkken grafiği yanlışlıkla Düşük'e indirmiyor.",
