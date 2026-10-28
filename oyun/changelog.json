@@ -1,5 +1,11 @@
 [
 {
+"v": 403,
+"d": "2026-10-28",
+"tr": "Otobüsle Elazığ'a inince karakterin Otogar binasının içine düşüp çıkamaması düzeltildi. Bir binanın içinde kalırsan artık yürümeye başlayınca ya da Ayarlar › «Takıldım, kurtar» ile hemen dışarı alınırsın.",
+"en": "Fixed the character getting stuck inside the bus station after arriving in Elazığ. If you end up inside a building, you are now moved out as soon as you walk or press Settings › \"I'm stuck\"."
+},
+{
 "v": 402,
 "d": "2026-10-28",
 "tr": "Yüksek yenileme hızlı ekranlarda (120 Hz) oyun çizimler arasında boşta bekliyor, saniyede 120 kez uyanmıyor: telefon daha az ısınır, görüntü aynı. Isınma şikayetlerinin teşhisi için geri bildirime cihaz bilgisi eklendi.",
