@@ -1,4 +1,4 @@
-const C="miras-v393",F=["./","./index.html","./three.min.js","./manifest.webmanifest","./icons/icon-192.png","./icons/icon-512.png"];
+const C="miras-v394",F=["./","./index.html","./three.min.js","./manifest.webmanifest","./icons/icon-192.png","./icons/icon-512.png"];
 self.addEventListener("install",e=>e.waitUntil(caches.open(C).then(c=>c.addAll(F)).then(()=>self.skipWaiting())));
 self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==C).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
 // Oyun sayfası: önce internetten en yenisi (güncelleme hemen gelir), internet yoksa telefondaki kopya

@@ -1,5 +1,11 @@
 [
 {
+"v": 394,
+"d": "2026-10-28",
+"tr": "Yayla taşındaki yazı yenilendi: artık oyunu birlikte yoğuranların adları yazıyor.",
+"en": "The plateau stone inscription was updated: it now names the people who shaped the game together."
+},
+{
 "v": 393,
 "d": "2026-10-28",
 "tr": "Merada (inek, koyun, keçi) yemliğe kaç tane ot ya da buğday koyacağını −10/−1/+1/+10 düğmeleriyle seçersin; kutu son girdiğin sayıyla gelir, hepsini koymak için ayrı Hepsi düğmesi var.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Düzeltme: yeni görevler eklendiğinde devam eden görevin ilerlemesi (ör. kooperatife süt teslimi) sıfırlanıyordu. Artık korunuyor; sıfırlanan süt görevi geri getirildi.",
 "en": "Fix: when new quests were added, the progress of the current quest (e.g. milk deliveries to the cooperative) was reset. It is now kept, and the reset milk quest progress is restored."
-},
-{
-"v": 334,
-"d": "2026-10-26",
-"tr": "Koyun ve keçi geldi! Çiftliğin doğusunda inekten ayrı bir koyun merası ve keçi merası kurabilirsin (Akkaraman, Morkaraman, İvesi koyunları; Kıl keçisi ve Saanen). Koyun ve keçiler yavrular (kuzu, oğlak), hastalanır, veteriner bakar. Sütleri ve etleri ayrı: koyun sütünden koyun peyniri, koyun yoğurdu ve tulum peyniri; keçi sütünden keçi peyniri, lor ve keçi tereyağı yapılır. Koyunlar 180 günde bir kırkılır, yün verir. Çoban Osman yemler, sağar ve kırkar. Bölüm 2–5'e 9 yeni görev eklendi.",
-"en": "Sheep and goats are here! East of the farm you can build a sheep pasture and a goat pasture, separate from the cows (Akkaraman, Morkaraman and Awassi sheep; hair goats and Saanen). They have lambs and kids, get sick and the vet treats them. Their milk and meat are separate: sheep milk makes sheep cheese, sheep yogurt and tulum cheese; goat milk makes goat cheese, lor and goat butter. Sheep are sheared every 180 days for wool. Shepherd Osman feeds, milks and shears them. 9 new quests in Chapters 2–5."
 }
 ]
