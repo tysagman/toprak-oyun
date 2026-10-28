@@ -1,5 +1,11 @@
 [
 {
+"v": 385,
+"d": "2026-10-28",
+"tr": "Köy köpekleri artık meydan kuyusuna ve yapıların içine girmiyor. Çoban Ali'nin ağılındaki gölgeliğin ve diğer kasabalardaki evlerin içinden artık geçilmiyor (her yeni günde engelleri kayboluyordu). Köy evlerinin bahçelerindeki banklara oturulabiliyor, bankın ucunda dururken de. Evinin önündeki bankı 🏗️ Çiftlik › 📍 Yapıların yeri ile istediğin yere taşıyabilirsin.",
+"en": "Village dogs no longer walk into the square's well or into buildings. You can no longer walk through Shepherd Ali's fold shelter or houses in other towns (their collision vanished every new day). You can sit on the benches in village house gardens, even from the bench's end. You can move the bench in front of your house anywhere with 🏗️ Farm › 📍 Building places."
+},
+{
 "v": 384,
 "d": "2026-10-28",
 "tr": "Gece olunca dışarıdaki hayvanlar uyuyor: yabani tavuk ve horozlar ağaç ya da çalı dibinde birbirine sokulup tünüyor, tavşanlar yuvalarının dibinde, sürüler bir arada yatarak, atlar ayakta, sokak kedileri kıvrılarak uyuyor. Gece etrafta gezmiyorlar. Hayvanlar nerede? ekranındaki 📍 seni uyudukları yere götürüyor; yavaş yaklaşırsan yakalayabilirsin, koşarsan uyanıp kaçarlar, yem atarsan kalkıp gelirler.",
@@ -352,17 +358,5 @@
 "d": "2026-10-26",
 "tr": "Meraya başka inekler girmiyor: köyün inekleri, atları ve Çoban Ali'nin koyunları artık senin merana girmez; akşam ahıra giderken meranın etrafından dolaşır. Kendi ineklerin merada kalır.",
 "en": "Other cows no longer enter your pasture: the village's cows, horses and Shepherd Ali's sheep stay out and walk around it on their way to the barn. Your own cows stay in the pasture."
-},
-{
-"v": 325,
-"d": "2026-10-26",
-"tr": "Köyün batı ve doğu ucuna hafif bir yamaç eklendi: kenardaki köylü evleri artık tepe eteğinde duruyor. Evler, avlular, yollar ve göl kıyısı yerinde ve düz kaldı.",
-"en": "A gentle hillside was added at the west and east ends of the village: the villagers' houses on the edge now sit at the foot of the hill. Houses, yards, roads and the lakeshore stay where they were."
-},
-{
-"v": 324,
-"d": "2026-10-26",
-"tr": "İtibar artık daha zor kazanılır: tekrarlanan işlerden gelen itibar %40 azaldı, seviye eşikleri yaklaşık 1,5 katına çıktı. İtibar düşebilir: maaş ödenmezse, toptancı/ihracat sözleşmesi kaçarsa, hayvan bakımsızlıktan ölürse, kredi taksiti gecikirse (sebebi ekranda yazar, sen oyunda yokken düşmez). Kazandığın seviye hiç düşmez; eski kayıtlarda seviyen korunur.",
-"en": "Reputation is now harder to earn: repeatable sources give 40% less and level thresholds are about 1.5× higher. Reputation can drop when wages go unpaid, a wholesale/export contract is missed, an animal dies of neglect or a loan payment is late (the reason is shown; it never drops while you are away). Levels you have earned are never lost; existing saves keep their level."
 }
 ]
