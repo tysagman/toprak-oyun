@@ -1,5 +1,11 @@
 [
 {
+"v": 398,
+"d": "2026-10-28",
+"tr": "Yabani tavuklar gece tek yığın olmak yerine 2–3'lü gruplar halinde farklı ağaç diplerine dağılıp tüner. Kooperatif yarışı: bir kooperatife üye değilsen yarışa neden giremediğin yazıyor ve 'Kooperatife katıl ya da kur' düğmesi var; kendi kooperatifin 0 puandayken de listede görünür.",
+"en": "Wild chickens now roost at night in small groups of 2–3 under different trees instead of one big pile. Cooperative race: if you aren't in a cooperative, it explains why and offers a 'Join or found a cooperative' button; your own cooperative shows even with 0 points."
+},
+{
 "v": 397,
 "d": "2026-10-28",
 "tr": "Oyundaki anlık takılmalar azaldı: arka planda 8 saniyede bir tek seferde yapılan sahne düzenlemesi küçük parçalara bölündü, açılıştaki kalabalık kurulumu donmadan yapılıyor, telefona dosya yedeği 10 dakikada bir yazılıyor.",
@@ -352,23 +358,5 @@
 "d": "2026-10-26",
 "tr": "Isınma ve pil (2. adım): arazi ve uzaktaki ağaçlar bölgelere ayrıldı; ekranda görünmeyen kısımlar artık çizilmiyor. Ekran kartı her karede %17–24 daha az üçgen çiziyor. Görüntü aynı.",
 "en": "Heat and battery (step 2): terrain and distant trees are split into regions; parts not on screen are no longer drawn. The GPU draws 17–24% fewer triangles per frame. Visuals unchanged."
-},
-{
-"v": 338,
-"d": "2026-10-26",
-"tr": "Isınma ve pil: oyun telefonu çok daha az yoruyor. Bazı telefonlarda 30 FPS sınırı çalışmıyor, oyun gereksiz yere 60–120 FPS çiziyordu; düzeltildi. Uzaktaki insan ve hayvanların ekranda görünmeyecek kadar küçük parçaları çizilmiyor, küçük parçaların gölgesi sadece yakında düşüyor. Çarpışma hesabı 4 kat hızlandı, uzaktaki hayvanlar daha seyrek hesaplanıyor. Görüntü aynı.",
-"en": "Heat and battery: the game is much lighter on your phone. On some phones the 30 FPS limit did not work and the game drew 60–120 FPS for nothing; fixed. Tiny parts of far-away people and animals are no longer drawn, and small parts cast shadows only up close. Collision checks are 4x faster and distant animals update less often. Visuals are unchanged."
-},
-{
-"v": 337,
-"d": "2026-10-26",
-"tr": "Meralar yan yana: inek, koyun ve keçi merası artık çiftliğin önünde tek sırada duruyor. Çoban Ali'nin ağılı ve otlağı doğuya taşındı, çayır meraların güneyinde. Koyun merasına Çoban Hasan, keçi merasına Keçi çobanı Gülsüm işe alınabilir (Çalışanlar); gündüz merada çalışır, sağar, yemler, kırkar. Mera kurmak için malzeme eksikse Kur düğmesinin yanında neyin eksik olduğu yazar.",
-"en": "Pastures side by side: the cow, sheep and goat pastures now stand in one row in front of the farm. Shepherd Ali's fold and grazing land moved east, the meadow is south of the pastures. You can hire Shepherd Hasan for the sheep and Goatherd Gülsüm for the goats (Workers); they work in the pasture by day, milking, feeding and shearing. If you lack materials for a pasture, the Build button shows what is missing."
-},
-{
-"v": 336,
-"d": "2026-10-26",
-"tr": "Köyün inek ahırı çiftliğinin yanından köye taşındı. Gece ormanda ya da yaylada gezenler artık temiz hava, yürüyüş ve mantar için orada olduklarını söylüyor.",
-"en": "The village cow barn moved from next to your farm to the village. People out in the forest or highlands at night now say they're there for fresh air, a walk or mushrooms."
 }
 ]
