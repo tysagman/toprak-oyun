@@ -1,5 +1,11 @@
 [
 {
+"v": 382,
+"d": "2026-10-28",
+"tr": "Kümes gelişince artık bahçeye taşmıyor; yalnızca boş yöne (kuzey/doğu) büyüyor. Tavşan tuzağa düşünce yön oku tuzağı gösteriyor.",
+"en": "The coop now grows only toward free space and no longer overlaps the garden. A guide arrow points to a trap when a rabbit is caught."
+},
+{
 "v": 381,
 "d": "2026-10-28",
 "tr": "Kümesi geliştirdikçe tel örgülü avlusu da büyüyor. Yakalanan tavuk artık kümese gidiyor; tavuklarla ilgili yazılarda ağıl yerine kümes yazıyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Güneş panelleri artık köy ahırının içinde görünmüyor: oyun açılırken paneller ahır kurulmadan yerleştiriliyordu, artık ahır, cami ve köy yapıları kurulduktan sonra boş bir yere taşınıyor.",
 "en": "Solar panels no longer appear inside the village barn: they were placed before the barn was built on load; now they move to a free spot after the barn, mosque and village buildings are built."
-},
-{
-"v": 321,
-"d": "2026-10-26",
-"tr": "Yevmiyeli çalışanlar artık yalnız çalıştığı gün için tek yevmiye alır: sen yokken ödenen gün ertesi sabah tekrar ödenmiyordu, düzeldi. Günlükçülerde ekranda ve raporlarda \"maaş\" yerine \"yevmiye\" yazar; kadrolu maaşı ayrı gösterilir.",
-"en": "Day laborers now get a single daily wage only for days they worked: a day already paid while you were away was paid again the next morning, fixed. Day laborers now show \"daily wage\" instead of \"salary\"; salaried pay is shown separately."
 }
 ]
