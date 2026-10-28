@@ -1,5 +1,11 @@
 [
 {
+"v": 387,
+"d": "2026-10-28",
+"tr": "Evini başka yere taşıdığında köylüler artık sundurmanın köşesi ile çiftlik tabelası arasına sıkışmıyor.",
+"en": "Villagers no longer get stuck between the porch corner and the farm sign after you move your house."
+},
+{
 "v": 386,
 "d": "2026-10-28",
 "tr": "Güneş paneli sırası artık engel, içinde taş kalmıyor. Şehir kenarındaki apartmanların zemin katı yeniden görünüyor (bina havada durmuyor). Meralarda yemliğe istediğin kadar yem koyabilirsin (boş bırakırsan hepsi).",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Giriş, kayıt ve hesap ekranlarında artık her zaman ← Geri ve ✕ düğmesi var; klavye açıkken de görünür. Telefonun geri tuşu, pencerenin dışına dokunmak ve bilgisayarda Esc pencereyi bir adım geri götürür ya da kapatır. Kayıt seçme ekranına da Geri eklendi. Eski uygulama sürümünde Google ile giriş düğmesi yerine 'yeni sürümle gelecek' notu çıkar.",
 "en": "Login, sign-up and account screens now always show ← Back and ✕, even while the keyboard is open. The phone's back button, tapping outside the window and Esc on a computer go one step back or close it. The save-slot screen also got a Back button. In the old app version a note says Google sign-in is coming with the new version."
-},
-{
-"v": 327,
-"d": "2026-10-26",
-"tr": "Artık oyundaki her banka oturabilirsin: yol kenarındaki 12 otobüs durağı, köy ve şehir otobüs durakları, şehirdeki otogarın bekleme bankları da (meydan ve ev önü banklarına ek olarak). Oturunca enerjin yavaşça dolar, 😴 Dinlen ile tam dinlenirsin. Durakta otururken otobüs ve araç çağırma da açık.",
-"en": "You can now sit on every bench in the game: the 12 roadside bus stops, the village and city bus stops, and the waiting benches in the city bus terminal (in addition to the square and porch benches). Sitting slowly restores energy; tap 😴 Rest for a full rest. While sitting at a stop you can still take the bus or call a ride."
 }
 ]
