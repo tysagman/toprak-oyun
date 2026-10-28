@@ -1,5 +1,11 @@
 [
 {
+"v": 409,
+"d": "2026-10-28",
+"tr": "Harita büyüdü: Mastar Dağı'nın batısında geniş Batı ormanları, dağdaki geçitten inen yeni yol ve güneyde Güney ovası açıldı. Yeni topraklarda ağaç, taş, mantar, meyve ağacı ve çalı var. Çiftlik yapılarını kurabileceğin alan genişledi (batıda sırt eteğine, doğuda Uluova'ya kadar). Keşif haritası büyüdü, eski keşiflerin korunur.",
+"en": "The map grew: wide Western forests west of Mastar Mountain, a new road down through the mountain pass, and the Southern plain. The new lands have trees, stones, mushrooms, fruit trees and bushes. The area where you can place farm buildings is larger. The exploration map grew; your old discoveries are kept."
+},
+{
 "v": 408,
 "d": "2026-10-28",
 "tr": "Telefon daha az ısınır, oyun daha akıcı: her karede sahnedeki binlerce kıpırdamayan nesnenin konumu artık baştan hesaplanmıyor, uzaktaki görünmeyen nesneler atlanıyor. Görüntü aynı.",
@@ -352,23 +358,5 @@
 "d": "2026-10-26",
 "tr": "Taş topladıktan sonra o noktada görünmez bir engel kalıyor, karakter geçemiyordu; düzeltildi. Kesilen süs ağaçlarının yerinde kalan küçük engel de kaldırıldı.",
 "en": "After picking up a stone, an invisible obstacle stayed in its place and blocked the character; fixed. The small leftover obstacle where decorative trees were cut is also gone."
-},
-{
-"v": 349,
-"d": "2026-10-26",
-"tr": "Köyde iç içe geçen yapılar düzeltildi: sağlık ocağı kahvehanenin içindeydi, artık meydanın doğusunda kendi yerinde. Ev bahçelerinin garajı ve arabası okulun, kahvehanenin ve kooperatifin yerine taşmıyor (bina henüz yapılmamış olsa da yeri ayrılmış sayılır).",
-"en": "Fixed overlapping buildings in the village: the health center was inside the coffee house; it now has its own spot east of the square. House yards' garages and cars no longer spill into the school, coffee house and cooperative sites (the site is reserved even before the building is built)."
-},
-{
-"v": 348,
-"d": "2026-10-26",
-"tr": "Koyun ve keçi işlerini artık yalnız kendi çobanı yapar: Çoban Hasan (koyun) ya da Keçi çobanı Gülsüm yoksa hiçbir şey kendiliğinden olmaz; sütü sen sağarsın, peyniri merada elle yaparsın, koyunları sen kırkarsın. Çoban Osman yalnız ineklere bakar. Mandıra koyun/keçi sütünü yalnız o hayvanın çobanı varken işler. Mera ekranı sandıktaki sütü ve kimin sağdığını gösterir; çobanlar sandık doluysa kalan sütün merada kaldığını söyler.",
-"en": "Sheep and goat work is now done only by their own herder: without Shepherd Hasan (sheep) or Goat herder Gülsüm nothing happens by itself; you milk, make cheese by hand in the pasture and shear the sheep yourself. Shepherd Osman only looks after cows. The dairy only processes sheep/goat milk while that animal's herder is hired. The pasture screen shows the milk in the chest and who milked it; herders tell you when milk stays in the pasture because the chest is full."
-},
-{
-"v": 347,
-"d": "2026-10-26",
-"tr": "Telefon ısınması azaltıldı: 30 FPS sınırı 90/120 Hz ekranlarda artık doğru çalışıyor. Telefonda yüksek grafik uzun süre zorlanırsa grafik kendiliğinden bir kademe düşer. Ayarlar'da yüksek grafiğin telefonu ısıttığı uyarısı var.",
-"en": "Less phone heating: the 30 FPS cap now works correctly on 90/120 Hz screens. On phones, if high graphics struggle for a long time, graphics drop one level automatically. Settings now warn that high graphics heat the phone."
 }
 ]
