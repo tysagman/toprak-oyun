@@ -1,5 +1,11 @@
 [
 {
+"v": 389,
+"d": "2026-10-28",
+"tr": "Yan görevlerde \"ot/meyve/mantar/taş/odun topla\" sayacı artık kaç kez topladığını değil, toplanan miktarı sayıyor (bir seferde +2 ot toplarsan 2 sayılır). Süs ağacından odun ve taş ocağı vardiyası da sayılır.",
+"en": "Side quests that ask you to gather grass, fruit, mushrooms, stone or wood now count the amount you collect, not how many times you collect (picking +2 grass counts as 2). Wood from decorative trees and quarry shifts count too."
+},
+{
 "v": 388,
 "d": "2026-10-28",
 "tr": "Yönetim paneli için arka plan iyileştirmeleri (oyunda görünen bir değişiklik yok).",
