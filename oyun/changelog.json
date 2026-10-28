@@ -1,5 +1,11 @@
 [
 {
+"v": 388,
+"d": "2026-10-28",
+"tr": "Yönetim paneli için arka plan iyileştirmeleri (oyunda görünen bir değişiklik yok).",
+"en": "Background improvements for the admin panel (no visible change in the game)."
+},
+{
 "v": 387,
 "d": "2026-10-28",
 "tr": "Evini başka yere taşıdığında köylüler artık sundurmanın köşesi ile çiftlik tabelası arasına sıkışmıyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Turistler artık uzaktan belli: hepsinde geniş hasır şapka, renkli sırt çantası ve boyunda fotoğraf makinesi var. Bugün henüz alışveriş yapmamış turistin başında 📸 simgesi görünür, alışveriş yapınca kaybolur.",
 "en": "Tourists now stand out from afar: they all wear wide straw hats, colorful backpacks and a camera around the neck. A 📸 icon floats above every tourist who hasn't shopped with you today and disappears once they buy."
-},
-{
-"v": 328,
-"d": "2026-10-26",
-"tr": "Giriş, kayıt ve hesap ekranlarında artık her zaman ← Geri ve ✕ düğmesi var; klavye açıkken de görünür. Telefonun geri tuşu, pencerenin dışına dokunmak ve bilgisayarda Esc pencereyi bir adım geri götürür ya da kapatır. Kayıt seçme ekranına da Geri eklendi. Eski uygulama sürümünde Google ile giriş düğmesi yerine 'yeni sürümle gelecek' notu çıkar.",
-"en": "Login, sign-up and account screens now always show ← Back and ✕, even while the keyboard is open. The phone's back button, tapping outside the window and Esc on a computer go one step back or close it. The save-slot screen also got a Back button. In the old app version a note says Google sign-in is coming with the new version."
 }
 ]
