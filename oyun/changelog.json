@@ -1,5 +1,11 @@
 [
 {
+"v": 405,
+"d": "2026-10-28",
+"tr": "Yol tarifi artık en kısa yürüme yolunu gösteriyor. Kooperatif yarışında üyeler görünüyor, kooperatiften ayrılabilirsin. Kafede taburelere oturup dinlenebilirsin. Bahçede tek düğmeyle hepsini sula ve istediğin sayıda yatağa tek seferde ek. Rehber gezisinde turistler artık suya girmiyor.",
+"en": "Directions now show the shortest walking route. The cooperative race shows members and you can leave a cooperative. Sit on café stools to rest. In the garden, water all beds with one button and plant as many beds as you want at once. Tourists on guided tours no longer walk into the lake."
+},
+{
 "v": 404,
 "d": "2026-10-28",
 "tr": "Destek ekibi artık bir yere sıkışan oyuncuyu uzaktan en yakın boş alana taşıyabiliyor.",
@@ -352,29 +358,5 @@
 "d": "2026-10-26",
 "tr": "Taş süs havuzu artık su pompasının üstüne kurulmuyor. Bayrak direğinde ülkenin bayrağı dalgalanıyor, direk evin yanına taşındı. Ormanda gezen köylüler yürüyüşe, mantar toplamaya ya da hava almaya çıktığını söylüyor.",
 "en": "The stone pond no longer overlaps the water pump. The flagpole shows your country's flag and stands next to your house. Villagers in the forest now say they're out walking, picking mushrooms or getting fresh air."
-},
-{
-"v": 345,
-"d": "2026-10-26",
-"tr": "Başka bir oyuncunun köyünü ziyaret ederken artık sadece gezebiliyorsun: sandığı, merası, hayvanları, satış ve kasa ziyarette kapalı.",
-"en": "When visiting another player's village you can now only look around: their chest, pasture, animals, selling and the safe are closed during visits."
-},
-{
-"v": 344,
-"d": "2026-10-26",
-"tr": "Ormandaki süs ağaçları da artık kesilebiliyor, 5 günde geri büyüyor. Sulama kanalı yokuşta basamak basamak görünmüyor, toprağa gömülmüyor.",
-"en": "Decorative trees can now be chopped and regrow in 5 days. The irrigation canal now follows slopes smoothly."
-},
-{
-"v": 343,
-"d": "2026-10-26",
-"tr": "Koyun ve keçi sütü düzeldi: çoban inekleri sağdıktan sonra koyun ve keçileri sağmıyordu, artık hepsini sağıp sandığa koyuyor. Mandıra koyun ve keçi sütünü artık kendiliğinden peynire çevirmez; Çiftlik › Mandıra'dan ürün seçersen çevirir, \"Yapma, süt sandıkta kalsın\" seçeneği de var. Çoban Ali her gün ne kadar süt geldiğini yazar, mera sayfası sütü kimin sağdığını gösterir. Koyunlar artık haftada bir kırkılır.",
-"en": "Sheep and goat milk fixed: the shepherd stopped after milking the cows; now he milks all of them into the chest. The dairy no longer turns sheep and goat milk into cheese on its own; pick a product under Farm › Dairy, or choose \"Don't, keep the milk in the chest\". Shepherd Ali reports the daily milk and the pasture page shows who milks. Sheep are now sheared once a week."
-},
-{
-"v": 342,
-"d": "2026-10-26",
-"tr": "Dünya haritası: köyler artık her bölgede düzenli sıralarla diziliyor, noktalar üst üste binmiyor ve bütün adlar büyütmeden okunuyor. Kalabalık bölge olursa harita kendiliğinden uzuyor.",
-"en": "World map: villages are now laid out in neat rows in each region, dots no longer overlap and every name is readable without zooming. The map grows taller when a region is crowded."
 }
 ]
