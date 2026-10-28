@@ -1,5 +1,11 @@
 [
 {
+"v": 386,
+"d": "2026-10-28",
+"tr": "Güneş paneli sırası artık engel, içinde taş kalmıyor. Şehir kenarındaki apartmanların zemin katı yeniden görünüyor (bina havada durmuyor). Meralarda yemliğe istediğin kadar yem koyabilirsin (boş bırakırsan hepsi).",
+"en": "Solar panels now block animals and no rocks remain inside them. Ground floors of city apartments are visible again (no floating buildings). You can choose how much feed to put in pasture troughs (empty = all)."
+},
+{
 "v": 385,
 "d": "2026-10-28",
 "tr": "Köy köpekleri artık meydan kuyusuna ve yapıların içine girmiyor. Çoban Ali'nin ağılındaki gölgeliğin ve diğer kasabalardaki evlerin içinden artık geçilmiyor (her yeni günde engelleri kayboluyordu). Köy evlerinin bahçelerindeki banklara oturulabiliyor, bankın ucunda dururken de. Evinin önündeki bankı 🏗️ Çiftlik › 📍 Yapıların yeri ile istediğin yere taşıyabilirsin.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Artık oyundaki her banka oturabilirsin: yol kenarındaki 12 otobüs durağı, köy ve şehir otobüs durakları, şehirdeki otogarın bekleme bankları da (meydan ve ev önü banklarına ek olarak). Oturunca enerjin yavaşça dolar, 😴 Dinlen ile tam dinlenirsin. Durakta otururken otobüs ve araç çağırma da açık.",
 "en": "You can now sit on every bench in the game: the 12 roadside bus stops, the village and city bus stops, and the waiting benches in the city bus terminal (in addition to the square and porch benches). Sitting slowly restores energy; tap 😴 Rest for a full rest. While sitting at a stop you can still take the bus or call a ride."
-},
-{
-"v": 326,
-"d": "2026-10-26",
-"tr": "Meraya başka inekler girmiyor: köyün inekleri, atları ve Çoban Ali'nin koyunları artık senin merana girmez; akşam ahıra giderken meranın etrafından dolaşır. Kendi ineklerin merada kalır.",
-"en": "Other cows no longer enter your pasture: the village's cows, horses and Shepherd Ali's sheep stay out and walk around it on their way to the barn. Your own cows stay in the pasture."
 }
 ]
