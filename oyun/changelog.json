@@ -1,5 +1,11 @@
 [
 {
+"v": 399,
+"d": "2026-10-28",
+"tr": "Islık 90 m'ye kadar duyulur; daha uzaktaysan at 'çok uzakta' der. Çağrılan at artık binaların, çitlerin içinden geçmiyor, etrafından dolaşıp geliyor. Işık zinciri süsünün ampulleri havada değil, iki direk arasındaki sarkık telde asılı.",
+"en": "Your whistle carries up to 90 m; farther away the horse can't hear it. A called horse no longer walks through buildings or fences, it goes around them. The string-light decoration now hangs on a wire between two poles instead of floating."
+},
+{
 "v": 398,
 "d": "2026-10-28",
 "tr": "Yabani tavuklar gece tek yığın olmak yerine 2–3'lü gruplar halinde farklı ağaç diplerine dağılıp tüner. Kooperatif yarışı: bir kooperatife üye değilsen yarışa neden giremediğin yazıyor ve 'Kooperatife katıl ya da kur' düğmesi var; kendi kooperatifin 0 puandayken de listede görünür.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Kurt kaçarken artık çite, kümese ya da duvara takılıp kalmıyor: engelin yanından dolaşıyor, sıkışırsa çitten atlıyor; sopayla ya da sapanla kovaladığın kurt ormana gidip kayboluyor. Karakterin artık park etmiş arabaların, traktörlerin, otobüsün ve taksilerin içinden geçmiyor.",
 "en": "Wolves no longer get stuck on fences, coops or walls while fleeing: they go around, jump the fence if trapped, and a wolf you chase off with a stick or slingshot runs back to the forest. Your character no longer walks through parked cars, tractors, the bus or taxis."
-},
-{
-"v": 339,
-"d": "2026-10-26",
-"tr": "Isınma ve pil (2. adım): arazi ve uzaktaki ağaçlar bölgelere ayrıldı; ekranda görünmeyen kısımlar artık çizilmiyor. Ekran kartı her karede %17–24 daha az üçgen çiziyor. Görüntü aynı.",
-"en": "Heat and battery (step 2): terrain and distant trees are split into regions; parts not on screen are no longer drawn. The GPU draws 17–24% fewer triangles per frame. Visuals unchanged."
 }
 ]
