@@ -1,5 +1,11 @@
 [
 {
+"v": 392,
+"d": "2026-10-28",
+"tr": "Geri bildirim gönderirken çıkan \"Gönderilemedi\" hatası düzeldi; eklenen görseller de artık bize ulaşıyor.",
+"en": "Fixed the \"Could not send\" error when sending feedback; attached images now reach us too."
+},
+{
 "v": 391,
 "d": "2026-10-28",
 "tr": "Köy inekleri artık bahçeye, tarlaya ve kümese girmiyor; dağ yamacında karakterin yere gömülmesi düzeldi.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Köy meydanının ortasından geçen yol kaldırıldı. Çiftlikten gelen yol artık meydanın güney girişinde biter, şehir yolu meydanın doğu kenarından başlar. Araçlar ve otobüs meydana girmez, çevre yolundan dolaşır.",
 "en": "The road that ran through the middle of the village square is gone. The road from the farm now ends at the square's south entrance and the city road starts at its east edge. Cars and the bus stay out of the square and use the ring road."
-},
-{
-"v": 332,
-"d": "2026-10-26",
-"tr": "Gece geç saatte köyde ve yollarda dolaşan kişilere 🌙 'Bu saatte neden dışarıdasın?' diye sorabilirsin: bekçi devriye geziyor, fırıncı hamur yoğuruyor, çiftçinin su sırası gelmiş, sütçü doğum yapacak ineği bekliyor, yolcu son otobüsü kaçırmış… Herkesin kendi gece rutini var. Şafakta işe çıkan Balıkçı Yusuf, Fırıncı Leyla, çobanlar da neden erken çıktıklarını anlatıyor.",
-"en": "You can now ask people out late at night \"Why are you out at this hour?\" 🌙: the watchman is on patrol, the baker is kneading dough, a farmer has his turn for irrigation water, a dairy farmer waits for a calving cow, a traveler missed the last bus… Everyone has their own night routine. Fisherman Yusuf, Baker Leyla and the shepherds also explain why they start before dawn."
 }
 ]
