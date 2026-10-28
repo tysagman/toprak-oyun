@@ -1,5 +1,11 @@
 [
 {
+"v": 396,
+"d": "2026-10-28",
+"tr": "Telefon daha az ısınır: ekrandaki düğme ve panellerin arkasındaki bulanık cam efekti telefonda kaldırıldı (her karede yeniden hesaplanıyordu), görünüm aynı. Otomatik grafik, dururken veya menü açıkken grafiği yanlışlıkla Düşük'e indirmiyor.",
+"en": "Phones heat less: the blurred-glass effect behind on-screen buttons and panels is removed on phones (it was recomputed every frame); looks the same. Automatic graphics no longer wrongly drops to Low while standing still or in menus."
+},
+{
 "v": 395,
 "d": "2026-10-28",
 "tr": "Başka köye baskında köpekleri nasıl atlatacağın artık yazıyor: köpekler 02:00–05:00 arası uyur, uyanıkken et, balık ya da yem atıp oyalayabilirsin. SSS'ye «Baskın ve koruma» bölümü eklendi.",
