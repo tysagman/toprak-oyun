@@ -1,5 +1,11 @@
 [
 {
+"v": 412,
+"d": "2026-10-29",
+"tr": "Şehirde kamera uzaktayken binalar artık karakteri kapatmıyor; kamera binanın önüne yaklaşıyor. Merkez Camii'nde minber önünde karakterin görünmez bir engele takılması düzeltildi.",
+"en": "In the city, buildings no longer hide your character when the camera is zoomed out; the camera moves in front of them. Fixed the character getting stuck on an invisible obstacle in front of the minbar in the central mosque."
+},
+{
 "v": 411,
 "d": "2026-10-28",
 "tr": "Köy meydanı: pazar günü kurulan tezgâhların içinden artık köylü geçmiyor, demirci ve tezgâhçının içine başka köylü girmiyor. Köy çeşmesi yenilendi: kesme taş gövde, kurşun kaplı çatı, gerçek kemerli niş; köylüler artık çeşmenin ve yalağın içine girmiyor. Cami, kilise ve bankadaki kemerli kapı/pencereler duvardan yana taşmıyor. Köy projesi inşaatında beyaz kutu yerine taş temel, kereste ve 🏗️ tabelası; inşaat alanına girilmiyor. Köylü konuşma balonları sağdaki yakınlaştır/döndür düğmelerinin ve haritanın üstüne binmiyor.",
