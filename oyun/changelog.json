@@ -1,5 +1,11 @@
 [
 {
+"v": 414,
+"d": "2026-10-29",
+"tr": "Araçla ya da otobüsle bir yere varınca karakterin yoldaki taşın veya çalının içine inip takılması düzeltildi.",
+"en": "Fixed the character landing inside a rock or bush and getting stuck when arriving somewhere by car or bus."
+},
+{
 "v": 413,
 "d": "2026-10-29",
 "tr": "Köyden çiftliğe giden toprak yol artık taşıdığın evin yeni yerine gidiyor. Yol tarlanın, kümesin ya da başka bir yapının içinden geçecekse çiftlik kısmı çizilmiyor, yol köyün kenarında bitiyor.",
