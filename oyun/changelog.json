@@ -1,5 +1,11 @@
 [
 {
+"v": 432,
+"d": "2026-10-29",
+"tr": "Evin yanındaki kamp ateşine artık odun koyabilirsin: her odun ateşi 3 saat yakar (en çok 24 saat). Odun bitince ateş söner, yeniden yakmak için 1 odun gerekir.",
+"en": "You can now add wood to the campfire by your house: each log burns for 3 hours (up to 24 hours). When the wood runs out the fire goes out; relighting it takes 1 wood."
+},
+{
 "v": 431,
 "d": "2026-10-29",
 "tr": "Başka bir oyuncunun köyünü ziyaret ederken artık köpeğini ve kedisini sevebilir, çantana bakabilir ve çantadan köpeğe yemek verebilirsin. Köpeğine çantadan yemek vermek kendi çiftliğinde de çalışır.",
