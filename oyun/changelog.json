@@ -1,5 +1,11 @@
 [
 {
+"v": 413,
+"d": "2026-10-29",
+"tr": "Köyden çiftliğe giden toprak yol artık taşıdığın evin yeni yerine gidiyor. Yol tarlanın, kümesin ya da başka bir yapının içinden geçecekse çiftlik kısmı çizilmiyor, yol köyün kenarında bitiyor.",
+"en": "The dirt road from the village to your farm now leads to your house's new spot. If it would cross your field, coop or another building, the farm part is left out and the road ends at the village edge."
+},
+{
 "v": 412,
 "d": "2026-10-29",
 "tr": "Şehirde kamera uzaktayken binalar artık karakteri kapatmıyor; kamera binanın önüne yaklaşıyor. Merkez Camii'nde minber önünde karakterin görünmez bir engele takılması düzeltildi.",
@@ -352,29 +358,5 @@
 "d": "2026-10-27",
 "tr": "Yakındaki köylü ve hayvanlar da tek parça çiziliyor (hareketleri aynı): merada ekran kartı çizimi yarıdan fazla azaldı, telefon daha az ısınır.",
 "en": "Nearby villagers and animals are now drawn as one piece too (same movement): more than half fewer draw calls at the pasture, so the phone heats less."
-},
-{
-"v": 353,
-"d": "2026-10-27",
-"tr": "Tarla arkı, su pompası ve kümes LED'leri tek parça çiziliyor (çiftlikte ~60 çizim az). Uzaktaki karakterlerin hazırlanması küçük parçalara bölündü, ani takılma olmaz.",
-"en": "Field irrigation, water pump and coop LEDs are drawn as one piece (~60 fewer draws on the farm). Preparing distant characters is spread out, so there are no sudden stutters."
-},
-{
-"v": 352,
-"d": "2026-10-26",
-"tr": "Ayarlar'a Gölgeler açık/kapalı seçeneği eklendi: kapatınca telefon daha az ısınır ve pil daha uzun gider. Uzaktaki köylülerin hesapları seyreltildi, oyun işlemciyi daha az yoruyor.",
-"en": "Settings now has a Shadows on/off option: turning them off keeps the phone cooler and saves battery. Distant villagers are updated less often, so the game uses less CPU."
-},
-{
-"v": 351,
-"d": "2026-10-26",
-"tr": "Telefon daha az ısınsın diye: uzaktaki köylü ve hayvanlar tek parça çiziliyor (köyde ekran kartı işi yaklaşık üçte bir azaldı), uzaktakilerin bacak/kol gölgesi çizilmiyor. Görüntü aynı.",
-"en": "Less phone heating: distant villagers and animals are drawn as a single piece (about a third less GPU work in the village), and distant leg/arm shadows are skipped. Looks the same."
-},
-{
-"v": 350,
-"d": "2026-10-26",
-"tr": "Taş topladıktan sonra o noktada görünmez bir engel kalıyor, karakter geçemiyordu; düzeltildi. Kesilen süs ağaçlarının yerinde kalan küçük engel de kaldırıldı.",
-"en": "After picking up a stone, an invisible obstacle stayed in its place and blocked the character; fixed. The small leftover obstacle where decorative trees were cut is also gone."
 }
 ]
