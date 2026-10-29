@@ -1,5 +1,11 @@
 [
 {
+"v": 434,
+"d": "2026-10-29",
+"tr": "Gece köy meydanının ortasında \"Kapıyı çal\" düğmesi çıkıyordu. Köylüler artık gece gerçek bir evin kapısına gidiyor; kapıyı çalma yalnız o evin kapısının önündeyken çıkıyor.",
+"en": "At night a \"Knock on the door\" button appeared in the middle of the village square. Villagers now go to the door of a real house at night, and knocking only appears when you stand at that door."
+},
+{
 "v": 432,
 "d": "2026-10-29",
 "tr": "Evin yanındaki kamp ateşine artık odun koyabilirsin: her odun ateşi 3 saat yakar (en çok 24 saat). Odun bitince ateş söner, yeniden yakmak için 1 odun gerekir.",
