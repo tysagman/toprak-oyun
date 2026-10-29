@@ -1,5 +1,11 @@
 [
 {
+"v": 416,
+"d": "2026-10-29",
+"tr": "Yatakta karakter artık yatağın içine gömülmüyor, yorganın ve yastığın üstünde yatıyor. Evde ya da otelde uyuyunca saat ileri gider: akşam ya da gece uyursan sabah 07:00'de, gündüz uyursan akşam 19:00'da uyanırsın. Uzun süre uyumazsan uyarı gelir; uyumamaya devam edersen sağlığın düşer, %20'nin altında son uyarıdan sonra olduğun yerde uyuyakalırsın.",
+"en": "Your character no longer sinks into the bed and lies on top of the blanket and pillow. Sleeping at home or in a hotel moves the clock forward: sleep in the evening or at night and you wake at 07:00, sleep during the day and you wake at 19:00. If you stay awake too long you get a warning; keep going and your health drops, and below 20% you fall asleep where you are after a final warning."
+},
+{
 "v": 415,
 "d": "2026-10-29",
 "tr": "Sağlık bakıcısı Derya taşınan veya büyüyen meranın içinde kalmıyor, meranın önünde duruyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-26",
 "tr": "Köy ferahladı: meydan iki katına çıktı (30 m), göl kıyısı geriye çekildi, evlerin, dükkânların ve köy binalarının arası epey açıldı. Hiçbir yapı iç içe değil; banklar yol ağızlarından alındı, köylüler camiyi içinden geçmeden dolaşıyor, Balıkçı Yusuf göle girmiyor. Eski kayıtla köyde açılırsan aynı binanın önünde başlarsın.",
 "en": "The village is roomier: the square doubled (30 m), the lake shore moved back, and houses, shops and village buildings are spread out. Nothing overlaps; benches moved away from road entrances, villagers walk around the mosque and Fisherman Yusuf stays out of the lake. Old saves in the village start in front of the same building."
-},
-{
-"v": 356,
-"d": "2026-10-27",
-"tr": "Köylü, hayvan ve oyuncunun evlere/engellere çarpma hesabı yaklaşık %30 hızlandı (davranış aynı).",
-"en": "Collision checks for villagers, animals and the player against houses and obstacles are about 30% faster (same behaviour)."
 }
 ]
