@@ -1,5 +1,11 @@
 [
 {
+"v": 443,
+"d": "2026-10-29",
+"tr": "Ortaklık teklifi ✓ ile onaylanmıyordu (iki taraf da teklif edince kalan teklif takılıyordu); düzeldi, eski teklif kendiliğinden silinir. Ortaklık ekranında artık ortakların neler yapabildiği yazıyor: ortak kasaya altın koyma/çekme ve sınırlar.",
+"en": "Partnership offers could not be accepted with ✓ (when both players had sent an offer, the leftover one got stuck); fixed, the old offer is removed automatically. The partnership screen now explains what partners can do: putting gold into and taking it out of the shared vault, and the limits."
+},
+{
 "v": 442,
 "d": "2026-10-29",
 "tr": "Mera, koyun ve keçi merası, silo, depo, fabrika gibi yapıları kurunca ya da yerini değiştirince oyun artık baştan yüklenmiyor; yapı hemen yeni yerinde kuruluyor.",
