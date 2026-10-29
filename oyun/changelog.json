@@ -1,5 +1,11 @@
 [
 {
+"v": 417,
+"d": "2026-10-29",
+"tr": "Sıralama: Başkan gerçek puanıyla sıralamaya girdi ve adının yanında 🎖️ Onursal Üye yazıyor. Sıralamadan artık yalnız engellenen hesaplar çıkar.",
+"en": "Rankings: Başkan is now ranked by his real score and shows 🎖️ Honorary Member next to his name. Only banned accounts are left out of the rankings now."
+},
+{
 "v": 416,
 "d": "2026-10-29",
 "tr": "Yatakta karakter artık yatağın içine gömülmüyor, yorganın ve yastığın üstünde yatıyor. Evde ya da otelde uyuyunca saat ileri gider: akşam ya da gece uyursan sabah 07:00'de, gündüz uyursan akşam 19:00'da uyanırsın. Uzun süre uyumazsan uyarı gelir; uyumamaya devam edersen sağlığın düşer, %20'nin altında son uyarıdan sonra olduğun yerde uyuyakalırsın.",
@@ -352,11 +358,5 @@
 "d": "2026-10-27",
 "tr": "Ekranda görünmeyen uzak karakterlerin hareket hesabı atlanıyor; işlemci yükü biraz daha azaldı.",
 "en": "Movement of distant characters that are off screen is no longer computed; a bit less CPU load."
-},
-{
-"v": 357,
-"d": "2026-10-26",
-"tr": "Köy ferahladı: meydan iki katına çıktı (30 m), göl kıyısı geriye çekildi, evlerin, dükkânların ve köy binalarının arası epey açıldı. Hiçbir yapı iç içe değil; banklar yol ağızlarından alındı, köylüler camiyi içinden geçmeden dolaşıyor, Balıkçı Yusuf göle girmiyor. Eski kayıtla köyde açılırsan aynı binanın önünde başlarsın.",
-"en": "The village is roomier: the square doubled (30 m), the lake shore moved back, and houses, shops and village buildings are spread out. Nothing overlaps; benches moved away from road entrances, villagers walk around the mosque and Fisherman Yusuf stays out of the lake. Old saves in the village start in front of the same building."
 }
 ]
