@@ -1,5 +1,11 @@
 [
 {
+"v": 428,
+"d": "2026-10-29",
+"tr": "Sıralama ekranının altında artık senin o anki değerin ve sıralamanın bir sonraki saatlik güncelleme saati yazıyor.",
+"en": "The ranking screen now shows your current value and the time of the next hourly ranking update."
+},
+{
 "v": 427,
 "d": "2026-10-29",
 "tr": "Batık şehre dalınca artık kalıntılar görünüyor: şehir gölün dibinde, fener ışığı yanıyor, gece de eserler seçiliyor.",
@@ -352,71 +358,5 @@
 "d": "2026-10-27",
 "tr": "Sağlık artık kendiliğinden yavaşça doluyor: tokken (açlık %50'nin altında), hasta değilken ve üşümüyorken sağlık yavaş yavaş artar, durup beklerken 3 kat hızlı. Sargı bezi, kekik, evde dinlenme ve muayene hâlâ hemen iyileştirir. Durum ekranında sağlığın nasıl dolduğu yazıyor.",
 "en": "Health now refills slowly on its own: while you're fed (hunger below 50%), not sick and not cold, health rises little by little, 3 times faster while standing still. Bandages, thyme, resting at home and check-ups still heal right away. The status screen explains how health refills."
-},
-{
-"v": 368,
-"d": "2026-10-27",
-"tr": "Köyün inek ahırı artık bir köy evinin içine girmiyor. Göl kenarındaki müze, köy evleriyle aynı taş duvarlı, kiremit çatılı ve ahşap sundurmalı bir binaya dönüştü.",
-"en": "The village cow barn no longer overlaps a house. The lakeside museum now matches the village style with stone walls, a tiled roof and a wooden porch."
-},
-{
-"v": 367,
-"d": "2026-10-27",
-"tr": "Gebe hayvanlarda doğuma kalan süre artık görünüyor: inek, koyun, keçi, at ve eşek listelerinde 'doğuma 3 oyun günü (oyun açıkken ≈2 saat 50 dakika)' yazar. Doğum o gece yarısı olacaksa 'bu gece' yazar. Hayvan adları artık 'Pamuk 51' gibi saçmalamıyor: ad listeleri büyütüldü, gerekirse 'Bulut 2' gibi kısa ek alır, eski garip adlar kendiliğinden düzelir.",
-"en": "Pregnant animals now show the time left until birth: cow, sheep, goat, horse and donkey lists say 'birth in 3 game days (while playing ≈2 hours 50 min)', or 'tonight' if the birth is due at midnight. Animal names no longer turn into things like 'Pamuk 51': bigger name lists, short suffixes like 'Bulut 2' when needed, and old odd names are fixed automatically."
-},
-{
-"v": 366,
-"d": "2026-10-27",
-"tr": "Ev ekranı, Taş konak ve Çiftlik malikânesi aşamasında artık hata vermeden açılıyor.",
-"en": "The house screen no longer crashes at the Stone mansion and Farm manor stages."
-},
-{
-"v": 365,
-"d": "2026-10-27",
-"tr": "Karakterin üstündeki bordo-mavi çizgili görünüm düzeltildi: kışlık mont artık gövdeye oturuyor ve senin seçtiğin üst rengini alıyor. Karakter görünümüne Üst rengi seçimi eklendi.",
-"en": "Fixed the striped look on your character's top: the winter coat now fits the body and takes the colour of the top you chose. Added Top colour to character appearance."
-},
-{
-"v": 364,
-"d": "2026-10-27",
-"tr": "Play Store uygulamasında telefon bildirimleri artık çalışıyor (kayıt bir izin hatası yüzünden hiç yapılmıyordu).",
-"en": "Phone notifications now work in the Play Store app (registration was blocked by a permission error)."
-},
-{
-"v": 363,
-"d": "2026-10-27",
-"tr": "Telefon bildirimi kaydı daha sağlam: uygulama açılınca kayıt takılmadan tamamlanır.",
-"en": "Phone notification registration is more robust when the app opens."
-},
-{
-"v": 362,
-"d": "2026-10-27",
-"tr": "Araç çağır artık seni seçtiğin yere götürüyor: yolu olmayan yerlere (göl kıyısı, batık şehir, orman, çayır, vadi…) araç son kısmı yol dışından gidip hedefin dibinde bırakıyor; köy kenarında bırakmıyor.",
-"en": "Calling a car now takes you where you chose: for places without a road (lake shore, sunken city, forest, meadow, valley…) the car drives the last part off-road and drops you right at the destination instead of at the village edge."
-},
-{
-"v": 361,
-"d": "2026-10-27",
-"tr": "Telefon bildirimleri düzeltildi: bildirim kaydı artık her cihaz için ayrı tutuluyor; uygulamayı açtığında telefonun kendiliğinden kaydolur.",
-"en": "Phone notifications fixed: each device now registers on its own when you open the app."
-},
-{
-"v": 360,
-"d": "2026-10-27",
-"tr": "Turistler artık bulunuyor: gece pansiyondalar, 📍 ok pansiyon kapısını gösterir, kapıyı çalınca bir turist çıkar; gündüz ok turisti canlı izler. Yem fabrikası buğdayı un fabrikasıyla paylaşır (önceden hiç üretmiyordu). Altın görevlerinde bankadaki paranın sayılmadığı yazıyor; 24 görev açıklaması menü yoluyla netleşti.",
-"en": "Tourists are easy to find: at night they stay at the guesthouse, the 📍 arrow points to its door and knocking brings one out; by day the arrow follows a tourist live. The feed factory now shares wheat with the flour mill (it produced nothing before). Gold quests say bank money doesn't count; 24 quest guides now show the exact menu path."
-},
-{
-"v": 359,
-"d": "2026-10-26",
-"tr": "Duyurular artık oyuncunun seçtiği dilde görünür (Almanca, Fransızca, İspanyolca, Rusça, Kürtçe, İngilizce).",
-"en": "Announcements now appear in the player's chosen language (German, French, Spanish, Russian, Kurdish, English)."
-},
-{
-"v": 358,
-"d": "2026-10-27",
-"tr": "Ekranda görünmeyen uzak karakterlerin hareket hesabı atlanıyor; işlemci yükü biraz daha azaldı.",
-"en": "Movement of distant characters that are off screen is no longer computed; a bit less CPU load."
 }
 ]
