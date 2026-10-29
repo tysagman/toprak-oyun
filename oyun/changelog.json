@@ -6,6 +6,12 @@
 "en": "At night a \"Knock on the door\" button appeared in the middle of the village square. Villagers now go to the door of a real house at night, and knocking only appears when you stand at that door."
 },
 {
+"v": 433,
+"d": "2026-10-29",
+"tr": "Islıkla çağırdığın at ya da eşek artık ahırın duvarına takılmıyor; kapıdan çıkıp yanına geliyor.",
+"en": "Your horse or donkey no longer gets stuck on the stable wall when you whistle; it comes out through the door."
+},
+{
 "v": 432,
 "d": "2026-10-29",
 "tr": "Evin yanındaki kamp ateşine artık odun koyabilirsin: her odun ateşi 3 saat yakar (en çok 24 saat). Odun bitince ateş söner, yeniden yakmak için 1 odun gerekir.",
