@@ -1,5 +1,11 @@
 [
 {
+"v": 435,
+"d": "2026-10-29",
+"tr": "Tasami artık oyunculara eşya hediye edebiliyor (taş, odun vb.). Hediye önce çantana, sonra sandığına girer; sığmayan kısım yer açılınca kendiliğinden gelir.",
+"en": "Tasami can now gift items to players (stone, wood, etc.). Gifts go into your bag first, then your chest; whatever doesn't fit arrives by itself once there is room."
+},
+{
 "v": 434,
 "d": "2026-10-29",
 "tr": "Gece köy meydanının ortasında \"Kapıyı çal\" düğmesi çıkıyordu. Köylüler artık gece gerçek bir evin kapısına gidiyor; kapıyı çalma yalnız o evin kapısının önündeyken çıkıyor.",
@@ -352,47 +358,5 @@
 "d": "2026-10-27",
 "tr": "Yapılarını istediğin yere kur: Çiftliği geliştir → 📍 Yapıların yerini değiştir. Ev, tarla, kümes, ahır, meralar, bahçe, kulübe, tulumba, kovan, silo, depo, ambar, güneş paneli, mandıra, fabrikalar ve kamyonlar parmakla sürüklenip taşınır. Yeşil yer uygun, kırmızı yer uygun değil (başka yapı, yol, göl, köy meydanı, ağaç, taş, dik yamaç). Yeni yapı alınca yerini sen seçersin. Taşımayanların çiftliği olduğu gibi kalır.",
 "en": "Build wherever you like: Upgrade farm → 📍 Change building locations. House, field, coop, stable, pastures, gardens, kennel, pump, hives, silo, tank, barn, solar panels, dairy, factories and trucks can be dragged to a new spot. Green means fine, red means not (another building, road, lake, village square, tree, rock, steep slope). When you buy a new building you choose where it goes. Farms you don't move stay exactly as they are."
-},
-{
-"v": 375,
-"d": "2026-10-27",
-"tr": "Köyden uzaklaşınca yollar artık kaybolmuyor; otobüs ve araç yolculuğunda toprak yol görünüyor.",
-"en": "Roads no longer disappear when you are far from the village; the dirt road is visible during bus and car trips."
-},
-{
-"v": 374,
-"d": "2026-10-27",
-"tr": "Hazar Gölü kuzeye doğru genişledi (köy tarafındaki kıyı ve iskele aynı yerde). Gölün kuzey yamacından kayaların arasından dökülen bir şelale ve göle akan bir dere eklendi. Yüzme yenilendi: ilerlerken serbest stil kulaç atılıyor, nefes için baş yana dönüyor; dururken suda dik durulup kollar ve bacaklarla su tutuluyor.",
-"en": "Lake Hazar is now wider to the north (the village shore and pier stay where they were). A waterfall now pours down the northern slope between the rocks, with a stream flowing into the lake. Swimming is new: front crawl strokes with side breathing while moving, treading water when standing still."
-},
-{
-"v": 373,
-"d": "2026-10-27",
-"tr": "Ses motoru daha az çalışıyor: yankı efekti hafifletildi, duyulmayan ortam sesleri (rüzgâr, su, ateş, yaprak) sessizken tamamen duruyor. Telefon daha az ısınır, ses aynı kalır.",
-"en": "Lighter sound engine: reverb made cheaper and inaudible ambient loops (wind, water, fire, leaves) fully stop while silent. Phones heat less; sound stays the same."
-},
-{
-"v": 372,
-"d": "2026-10-27",
-"tr": "Namazda kıyamda eller artık göbek üzerinde bağlanıyor. Camide Kur'an-ı Kerim duvardaki rafta duruyor, okumak istediğinde rahleye alınıyor.",
-"en": "During prayer, hands are now folded over the belly. In the mosque the Holy Quran rests on a wall shelf and is placed on the lectern when read."
-},
-{
-"v": 371,
-"d": "2026-10-27",
-"tr": "Otogar gişesinden (bina içinden) bilet alınca otobüs artık seni gerçekten hedefe götürüyor.",
-"en": "Buying a bus ticket inside the bus terminal now takes you to your destination."
-},
-{
-"v": 370,
-"d": "2026-10-27",
-"tr": "Geri bildirimlerin hepsi artık kaydediliyor. Araç yolsuz yerden geçince arkasında toprak yol izi kalır. Mera çitlerinin tahtaları artık havada kalmıyor.",
-"en": "All feedback is now saved. Vehicles leave a dirt track when driving off-road. Pasture fence rails now follow the ground."
-},
-{
-"v": 369,
-"d": "2026-10-27",
-"tr": "Sağlık artık kendiliğinden yavaşça doluyor: tokken (açlık %50'nin altında), hasta değilken ve üşümüyorken sağlık yavaş yavaş artar, durup beklerken 3 kat hızlı. Sargı bezi, kekik, evde dinlenme ve muayene hâlâ hemen iyileştirir. Durum ekranında sağlığın nasıl dolduğu yazıyor.",
-"en": "Health now refills slowly on its own: while you're fed (hunger below 50%), not sick and not cold, health rises little by little, 3 times faster while standing still. Bandages, thyme, resting at home and check-ups still heal right away. The status screen explains how health refills."
 }
 ]
