@@ -1,5 +1,11 @@
 [
 {
+"v": 419,
+"d": "2026-10-29",
+"tr": "Harita: yakınlaştırınca yazılar ve simgeler artık keskin, yer adları birbirinin üstüne binmiyor (yakınlaştırdıkça daha çok ad görünür). + − düğmeleri bulunduğun yere yakınlaşır. Başka köye ziyarete gidince köyün sahibi çevrimiçiyse haritada yeşil 🏠 ile nerede olduğu görünür.",
+"en": "Map: zooming in now keeps text and icons sharp, and place names no longer overlap (more names appear as you zoom in). The + − buttons zoom toward where you are. When you visit another village and its owner is online, a green 🏠 on the map shows where they are."
+},
+{
 "v": 418,
 "d": "2026-10-29",
 "tr": "29 Ekim'e özel: Cumhuriyet Bayramı boyunca gökyüzünden Atatürk resmi ve \"Cumhuriyet Bayramımız Kutlu Olsun!\" pankartı çeken Cumhuriyet Uçağı geçiyor. Gün bitince kendiliğinden kalkar.",
