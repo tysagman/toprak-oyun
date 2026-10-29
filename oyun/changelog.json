@@ -1,9 +1,9 @@
 [
 {
-"v": 449,
-"d": "2026-10-29",
-"tr": "Borsada çelişen haberler artık aynı anda gelmiyor: kuraklık sürerken \"bol yağmur\" haberi çıkmaz, salgın sürerken hayvan bolluğu gelmez.",
-"en": "Conflicting market news no longer appear at the same time: no \"plenty of rain\" during a drought, no livestock boom during an outbreak."
+"v": 450,
+"d": "2026-10-30",
+"tr": "Hazar Bank'taki hisse alım satımı kaldırıldı. Elinde hisse olanların o günkü değeri banka hesabına iade edildi.",
+"en": "Share trading at the bank was removed. If you held shares, their value that day was refunded to your bank account."
 },
 {
 "v": 448,
@@ -16,12 +16,6 @@
 "d": "2026-10-29",
 "tr": "Otobüs artık 22:00–06:00 arası sefer yapmıyor, son durakta bekliyor ve sabah 06:00'da yola çıkıyor. Otogar önündeki durak bankı yola dönük. Şehirdeki gişe çalışanları (banka, otogar, kafe, belediye, giyim) mesai saatinde gişede, mesai bitince gidiyor; banka işlemleri telefondan her saat yapılabilir. \"Komşuya hasat yardımı\" ilanında bahçe artık köy meydanında değil, komşunun evinin yanında.",
 "en": "The bus no longer runs between 22:00 and 06:00; it waits at its last stop and sets off at 06:00. The bench at the bus station stop now faces the road. City counter staff (bank, bus station, café, municipality, clothing) are at their desks during working hours and leave afterwards; bank services stay available by phone at any hour. In the \"Harvest help for a neighbour\" job the garden is now next to the neighbour's house, not in the village square."
-},
-{
-"v": 446,
-"d": "2026-10-29",
-"tr": "Hazar Bank'a 💹 Borsa geldi: bal, et, süt ve yumurta üreticisi firmaların hisselerini alıp satabilirsin. Fiyatı haberler belirler: kuraklıkta bal hissesi düşer, yağmur gelince yükselir; hayvan bolluğunda et hissesi artar, salgında düşer. Haberler mesaj olarak gelir. Alırken para önce banka hesabından, yetmezse cebinden çekilir.",
-"en": "💹 Stocks arrived at the bank: buy and sell shares of honey, meat, milk and egg producers. News sets the price: drought drops honey shares and rain lifts them; a livestock boom lifts meat shares, outbreaks drop them. News comes as messages. When buying, money comes from your bank account first, then your pocket."
 },
 {
 "v": 445,
