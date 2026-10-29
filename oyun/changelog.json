@@ -1,5 +1,11 @@
 [
 {
+"v": 431,
+"d": "2026-10-29",
+"tr": "Başka bir oyuncunun köyünü ziyaret ederken artık köpeğini ve kedisini sevebilir, çantana bakabilir ve çantadan köpeğe yemek verebilirsin. Köpeğine çantadan yemek vermek kendi çiftliğinde de çalışır.",
+"en": "While visiting another player's village you can now pet their dog and cat, open your bag and feed the dog from your bag. Feeding your own dog from the bag works on your farm too."
+},
+{
 "v": 430,
 "d": "2026-10-29",
 "tr": "Hazar Bank'ta krediyi erken kapatınca artık kredi notun +25 artıyor ve \"5 taksiti zamanında öde\" görevi tamamlanıyor (en az bir taksit ödenmiş olmalı). Daha önce erken kapattıysan telafisi kendiliğinden geldi.",
