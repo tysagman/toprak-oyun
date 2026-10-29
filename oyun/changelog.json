@@ -1,5 +1,11 @@
 [
 {
+"v": 442,
+"d": "2026-10-29",
+"tr": "Mera, koyun ve keçi merası, silo, depo, fabrika gibi yapıları kurunca ya da yerini değiştirince oyun artık baştan yüklenmiyor; yapı hemen yeni yerinde kuruluyor.",
+"en": "Building or moving pastures, sheep and goat pens, silos, depots and factories no longer reloads the game; the building appears in its new place right away."
+},
+{
 "v": 441,
 "d": "2026-10-29",
 "tr": "Artık istediğin yerde kamp ateşi yakabilirsin: ☰ Diğer › 🔥 Kamp ateşi yak (2 odun, 2 saat yanar, odun koyarak en çok 3 saat). Yanında yemek pişirir, ısınırsın; yağmurda söner. Ayrıca sudan iskelenin içine girilmiyor, kayığın içinden geçilmiyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-28",
 "tr": "Kümes gelişince artık bahçeye taşmıyor; yalnızca boş yöne (kuzey/doğu) büyüyor. Tavşan tuzağa düşünce yön oku tuzağı gösteriyor.",
 "en": "The coop now grows only toward free space and no longer overlaps the garden. A guide arrow points to a trap when a rabbit is caught."
-},
-{
-"v": 381,
-"d": "2026-10-28",
-"tr": "Kümesi geliştirdikçe tel örgülü avlusu da büyüyor. Yakalanan tavuk artık kümese gidiyor; tavuklarla ilgili yazılarda ağıl yerine kümes yazıyor.",
-"en": "The chicken run now grows as you upgrade the coop. Caught chickens go to the coop, and chicken texts say coop instead of pen."
 }
 ]
