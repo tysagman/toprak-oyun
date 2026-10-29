@@ -1,5 +1,11 @@
 [
 {
+"v": 429,
+"d": "2026-10-29",
+"tr": "Cumhuriyet Uçağı geçerken kamera artık kendiliğinden yukarı bakmıyor; görmek istersen kamerayı kendin kaldırabilirsin.",
+"en": "The camera no longer tilts up on its own when the Republic Plane passes; look up yourself if you want to see it."
+},
+{
 "v": 428,
 "d": "2026-10-29",
 "tr": "Sıralama ekranının altında artık senin o anki değerin ve sıralamanın bir sonraki saatlik güncelleme saati yazıyor.",
