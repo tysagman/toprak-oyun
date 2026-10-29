@@ -1,5 +1,11 @@
 [
 {
+"v": 422,
+"d": "2026-10-29",
+"tr": "Yapı taşıma: evden uzaktayken bir yapıyı (ör. ev önündeki bankı) taşımaya başlayınca eski hali yerinde görünmeye devam ediyordu, artık yer seçerken gizleniyor.",
+"en": "Moving buildings: when you started moving a building (e.g. the bench in front of your house) while far from home, its old copy stayed visible; it is now hidden while you pick the new spot."
+},
+{
 "v": 421,
 "d": "2026-10-29",
 "tr": "29 Ekim'e özel: köy meydanı Türk bayraklarıyla donatıldı. Ortada gönderde büyük bayrak, lambalarda bayraklar ve ip bayraklar var. Gece 00:00'da kendiliğinden kalkar.",
