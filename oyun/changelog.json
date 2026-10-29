@@ -1,5 +1,11 @@
 [
 {
+"v": 430,
+"d": "2026-10-29",
+"tr": "Hazar Bank'ta krediyi erken kapatınca artık kredi notun +25 artıyor ve \"5 taksiti zamanında öde\" görevi tamamlanıyor (en az bir taksit ödenmiş olmalı). Daha önce erken kapattıysan telafisi kendiliğinden geldi.",
+"en": "Closing a loan early at Hazar Bank now raises your credit score by 25 and completes the \"pay 5 instalments on time\" quest (at least one instalment must be paid). If you closed one early before, it has been made up automatically."
+},
+{
 "v": 429,
 "d": "2026-10-29",
 "tr": "Cumhuriyet Uçağı geçerken kamera artık kendiliğinden yukarı bakmıyor; görmek istersen kamerayı kendin kaldırabilirsin.",
