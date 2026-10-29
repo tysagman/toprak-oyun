@@ -1,5 +1,11 @@
 [
 {
+"v": 441,
+"d": "2026-10-29",
+"tr": "Artık istediğin yerde kamp ateşi yakabilirsin: ☰ Diğer › 🔥 Kamp ateşi yak (2 odun, 2 saat yanar, odun koyarak en çok 3 saat). Yanında yemek pişirir, ısınırsın; yağmurda söner. Ayrıca sudan iskelenin içine girilmiyor, kayığın içinden geçilmiyor.",
+"en": "You can now light a campfire anywhere: ☰ More › 🔥 Light a campfire (2 wood, burns 2 hours, add wood for up to 3). Cook and warm up next to it; rain puts it out. You also can no longer walk into the pier from the water or through the boat."
+},
+{
 "v": 440,
 "d": "2026-10-29",
 "tr": "\"Batık Şehir kalıntıları bölgesine git\" yan görevi artık tamamlanıyor. İskelenin üstünde yürünüyor (karakter tahtaların içine girmiyor). Mutfakta ayran ve sucuk \"Hazırla\" diye yazıyor ve yemekleri adet girerek toplu yapabilirsin. Yan görevlerde 📍 düğmesi seni görevin yerine götürüyor.",
@@ -352,11 +358,5 @@
 "d": "2026-10-28",
 "tr": "Kümesi geliştirdikçe tel örgülü avlusu da büyüyor. Yakalanan tavuk artık kümese gidiyor; tavuklarla ilgili yazılarda ağıl yerine kümes yazıyor.",
 "en": "The chicken run now grows as you upgrade the coop. Caught chickens go to the coop, and chicken texts say coop instead of pen."
-},
-{
-"v": 380,
-"d": "2026-10-28",
-"tr": "Yapı yeri seçerken boş arazi artık kabul ediliyor: yapılar şu anki boyutları kadar yer kaplar (eskiden en büyük seviyeye göre yer ayrılıyordu), köylülerin yürüdüğü noktalar yeri kapatmaz, köylüler yeni yapının etrafından dolaşır. Bir yapıyı geliştirince yeni boyutu sığmazsa kendiliğinden boş bir yere alınır ve yerini seçebilirsin.",
-"en": "Empty land is now accepted when placing buildings: buildings take up only their current size (space used to be reserved for the largest level), villagers' walking spots no longer block a spot and villagers walk around the new building. If an upgraded building no longer fits, it is moved to a free spot and you can choose its place."
 }
 ]
