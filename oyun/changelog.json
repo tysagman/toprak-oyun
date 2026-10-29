@@ -1,5 +1,12 @@
 [
 {
+"v": 451,
+"pv": "v1.00",
+"d": "2026-10-30",
+"tr": "Oyunun sürümü v1.00 olarak yeniden başladı. Küçük düzeltmeler artık sürüm numarasını değiştirmiyor; sürüm yalnız büyük güncellemelerde artacak.",
+"en": "The game version restarted at v1.00. Small fixes no longer change the version number; it will only go up with major updates."
+},
+{
 "v": 450,
 "d": "2026-10-30",
 "tr": "Hazar Bank'taki hisse alım satımı kaldırıldı. Elinde hisse olanların o günkü değeri banka hesabına iade edildi.",
