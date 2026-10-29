@@ -1,5 +1,11 @@
 [
 {
+"v": 440,
+"d": "2026-10-29",
+"tr": "\"Batık Şehir kalıntıları bölgesine git\" yan görevi artık tamamlanıyor. İskelenin üstünde yürünüyor (karakter tahtaların içine girmiyor). Mutfakta ayran ve sucuk \"Hazırla\" diye yazıyor ve yemekleri adet girerek toplu yapabilirsin. Yan görevlerde 📍 düğmesi seni görevin yerine götürüyor.",
+"en": "The \"Go to the Sunken City ruins\" side quest now completes. You can walk on the pier (no more sinking into the planks). In the kitchen, ayran and sucuk say \"Make\", and you can enter a quantity to cook many at once. Side quests now have a 📍 button that guides you to the spot."
+},
+{
 "v": 439,
 "d": "2026-10-29",
 "tr": "Meralarda ve ahırda yavrunun nasıl olduğu yazıyor: hangi erkek ve dişi gerekir, gebe kalma ihtimali, gebeliğe ve büyümeye kaç gün kaldı. \"Doğan bir yavru büyüsün\" görev kartı ne yapman gerektiğini gösteriyor. Erkek hayvanlar dişilerden farklı renkte.",
@@ -352,23 +358,5 @@
 "d": "2026-10-28",
 "tr": "Yapı yeri seçerken boş arazi artık kabul ediliyor: yapılar şu anki boyutları kadar yer kaplar (eskiden en büyük seviyeye göre yer ayrılıyordu), köylülerin yürüdüğü noktalar yeri kapatmaz, köylüler yeni yapının etrafından dolaşır. Bir yapıyı geliştirince yeni boyutu sığmazsa kendiliğinden boş bir yere alınır ve yerini seçebilirsin.",
 "en": "Empty land is now accepted when placing buildings: buildings take up only their current size (space used to be reserved for the largest level), villagers' walking spots no longer block a spot and villagers walk around the new building. If an upgraded building no longer fits, it is moved to a free spot and you can choose its place."
-},
-{
-"v": 379,
-"d": "2026-10-27",
-"tr": "Ot ve çalıların üstüne yapı kurabilirsin; yapı kurulunca altındaki bitkiler kalkar (ağaç ve taş yine engel). Yapı taşırken eski yerindeki bütün parçaları (yemlik, direk, suluk, işaret) gizlenir, böylece yeşil alanda engel varmış gibi görünmez. Ahır penceresindeki çift \"Ahırı geliştir\" düğmesi teke indi.",
-"en": "You can now build over grass and bushes; the plants under a new building are cleared (trees and rocks still block). While moving a building, all of its parts at the old spot (troughs, posts, water trough, sign) are hidden so the green area no longer looks blocked. The stable window no longer shows \"Upgrade stable\" twice."
-},
-{
-"v": 378,
-"d": "2026-10-27",
-"tr": "Yapı yeri seçerken çakışma kontrolü düzeldi: artık başka bir evin, köylü evinin, avlu duvarının, çitin, çatının ya da ağacın üstü kırmızı görünür ve oraya yapı kurulmaz. Taşıdığın yapının eski hâli yer seçerken gizlenir, böylece yeşil alanın altında başka bir yapı varmış gibi görünmez; vazgeçince geri gelir.",
-"en": "Building placement now checks overlaps properly: another house, a villager's house, yard walls, fences, roofs and trees show red and you can't build there. While you choose a spot, the building you're moving is hidden at its old place so the green area no longer looks like it sits on another building; it comes back if you cancel."
-},
-{
-"v": 377,
-"d": "2026-10-27",
-"tr": "Şehirde yerin alçaldığı kenarlarda binaların altı artık havada görünmüyor.",
-"en": "City buildings no longer appear to float where the ground dips at the city edge."
 }
 ]
