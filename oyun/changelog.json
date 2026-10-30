@@ -1,5 +1,11 @@
 [
 {
+"v": 463,
+"d": "2026-10-30",
+"tr": "Motorlu testerenin simgesi artık el testeresi değil, gerçek motorlu testere. Testereyle keserken motor sesi duyuluyor: çalışınca devir yükseliyor, kesim bitince susuyor.",
+"en": "The chainsaw icon is now a real chainsaw instead of a hand saw. You now hear the engine while cutting: it revs up and stops when the cut is done."
+},
+{
 "v": 462,
 "d": "2026-10-30",
 "tr": "Haritada ve Dünya haritasında sağda kaydırma çubuğu var: ▲ ▼ ya da tutamaçla alttaki bilgilere inebilirsin. Otobüs, tabelalar ve haritadaki yazılar artık senin yurdunun adlarını yazıyor. Yer adlarını Ayarlar › Yurdunu düzenle'den istediğin zaman değiştirebilirsin; kuzeydeki köy ve kasabanın adı da artık değişiyor.",
