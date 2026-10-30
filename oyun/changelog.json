@@ -1,5 +1,11 @@
 [
  {
+  "v": 473,
+  "d": "2026-10-30",
+  "tr": "Tasami artık oyunculara hediye hayvan gönderebiliyor. Hediye hayvanlar kendi yerine gider: tavuklar kümese, inek, koyun ve keçiler kendi merasına, at ve eşekler ahıra, köpekler kulübeye. Yer yoksa hayvanlar bekler, yer açılınca gelir.",
+  "en": "Tasami can now send gift animals to players. Gift animals go straight to their home: chickens to the coop, cows, sheep and goats to their pastures, horses and donkeys to the stable, dogs to the kennel. If there is no room they wait and arrive once space opens up."
+ },
+ {
   "v": 472,
   "pv": "v1.03",
   "d": "2026-10-30",
