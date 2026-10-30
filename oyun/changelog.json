@@ -1,5 +1,12 @@
 [
 {
+"v": 461,
+"pv": "v1.01",
+"d": "2026-10-30",
+"tr": "Çiftlik ferahladı: fabrikalar, holding ve kamyonlar artık köy meydanının dibine yığılmıyor; çiftliğin doğusundaki geniş düzlükte ayrı bir sanayi bölgesinde duruyor. Kendin yerini seçtiğin yapılar olduğu yerde kalır.",
+"en": "More room on the farm: factories, the holding and trucks no longer pile up next to the village square; they now sit in their own industrial zone on the wide plain east of the farm. Buildings you placed yourself stay where they are."
+},
+{
 "v": 460,
 "d": "2026-10-30",
 "tr": "Görevler artık köyün dışına da çıkıyor: Hankendi, Uluova, Kürk Kaplıcası, üzüm bağları, Harput Kalesi, Batı ormanları, Güney ovası, Çamlıbel ve Akpınar'da 14 yeni görev var. Yan görevlerin dörtte birinden fazlası da bu bölgelerde; uzaktaki kişiye ürünü yüz yüze teslim edersin. Hankendi'deki Çaycı Nuri, Uluova'daki Çiftçi Halil ve bağlardaki Bağcı Rüstem ile artık konuşulabiliyor.",
@@ -353,101 +360,5 @@
 "d": "2026-10-28",
 "tr": "Oyun açılışında Tasami logo animasyonu oynuyor (sessiz, ekrana dokununca geçilir; aynı oturumda yeniden yüklemede tekrar oynamaz).",
 "en": "The game now opens with the Tasami logo animation (silent, tap to skip; it doesn't replay on reload in the same session)."
-},
-{
-"v": 399,
-"d": "2026-10-28",
-"tr": "Islık 90 m'ye kadar duyulur; daha uzaktaysan at 'çok uzakta' der. Çağrılan at artık binaların, çitlerin içinden geçmiyor, etrafından dolaşıp geliyor. Işık zinciri süsünün ampulleri havada değil, iki direk arasındaki sarkık telde asılı.",
-"en": "Your whistle carries up to 90 m; farther away the horse can't hear it. A called horse no longer walks through buildings or fences, it goes around them. The string-light decoration now hangs on a wire between two poles instead of floating."
-},
-{
-"v": 398,
-"d": "2026-10-28",
-"tr": "Yabani tavuklar gece tek yığın olmak yerine 2–3'lü gruplar halinde farklı ağaç diplerine dağılıp tüner. Kooperatif yarışı: bir kooperatife üye değilsen yarışa neden giremediğin yazıyor ve 'Kooperatife katıl ya da kur' düğmesi var; kendi kooperatifin 0 puandayken de listede görünür.",
-"en": "Wild chickens now roost at night in small groups of 2–3 under different trees instead of one big pile. Cooperative race: if you aren't in a cooperative, it explains why and offers a 'Join or found a cooperative' button; your own cooperative shows even with 0 points."
-},
-{
-"v": 397,
-"d": "2026-10-28",
-"tr": "Oyundaki anlık takılmalar azaldı: arka planda 8 saniyede bir tek seferde yapılan sahne düzenlemesi küçük parçalara bölündü, açılıştaki kalabalık kurulumu donmadan yapılıyor, telefona dosya yedeği 10 dakikada bir yazılıyor.",
-"en": "Fewer brief stutters: a background scene task that ran all at once every 8 seconds is now split into small pieces, the crowd is set up at startup without freezing, and the on-device backup file is written every 10 minutes."
-},
-{
-"v": 396,
-"d": "2026-10-28",
-"tr": "Telefon daha az ısınır: ekrandaki düğme ve panellerin arkasındaki bulanık cam efekti telefonda kaldırıldı (her karede yeniden hesaplanıyordu), görünüm aynı. Otomatik grafik, dururken veya menü açıkken grafiği yanlışlıkla Düşük'e indirmiyor.",
-"en": "Phones heat less: the blurred-glass effect behind on-screen buttons and panels is removed on phones (it was recomputed every frame); looks the same. Automatic graphics no longer wrongly drops to Low while standing still or in menus."
-},
-{
-"v": 395,
-"d": "2026-10-28",
-"tr": "Başka köye baskında köpekleri nasıl atlatacağın artık yazıyor: köpekler 02:00–05:00 arası uyur, uyanıkken et, balık ya da yem atıp oyalayabilirsin. SSS'ye «Baskın ve koruma» bölümü eklendi.",
-"en": "Raid screens now explain how to get past dogs: they sleep 02:00–05:00, and when awake you can distract them with meat, fish or feed. New FAQ section «Raids and protection»."
-},
-{
-"v": 394,
-"d": "2026-10-28",
-"tr": "Yayla taşındaki yazı yenilendi: artık oyunu birlikte yoğuranların adları yazıyor.",
-"en": "The plateau stone inscription was updated: it now names the people who shaped the game together."
-},
-{
-"v": 393,
-"d": "2026-10-28",
-"tr": "Merada (inek, koyun, keçi) yemliğe kaç tane ot ya da buğday koyacağını −10/−1/+1/+10 düğmeleriyle seçersin; kutu son girdiğin sayıyla gelir, hepsini koymak için ayrı Hepsi düğmesi var.",
-"en": "At the pastures (cows, sheep, goats) choose how much hay or wheat to put in the trough with −10/−1/+1/+10; the box remembers your last amount and All is a separate button."
-},
-{
-"v": 392,
-"d": "2026-10-28",
-"tr": "Geri bildirim gönderirken çıkan \"Gönderilemedi\" hatası düzeldi; eklenen görseller de artık bize ulaşıyor.",
-"en": "Fixed the \"Could not send\" error when sending feedback; attached images now reach us too."
-},
-{
-"v": 391,
-"d": "2026-10-28",
-"tr": "Köy inekleri artık bahçeye, tarlaya ve kümese girmiyor; dağ yamacında karakterin yere gömülmesi düzeldi.",
-"en": "Village cows no longer walk into gardens, fields or the coop; sinking into the mountain slope is fixed."
-},
-{
-"v": 390,
-"d": "2026-10-28",
-"tr": "Topluluk › 🏆 Sıralama: herkesin gördüğü İtibar, Altın (net varlık), Görev ve Oyun süresi sıralamaları. Saatte bir güncellenir; hileli görünen ve engellenen hesaplar yer almaz.",
-"en": "Community › 🏆 Ranking: public Reputation, Gold (net worth), Quest and Play time rankings for everyone. Updated hourly; suspicious and banned accounts are not ranked."
-},
-{
-"v": 389,
-"d": "2026-10-28",
-"tr": "Yan görevlerde \"ot/meyve/mantar/taş/odun topla\" sayacı artık kaç kez topladığını değil, toplanan miktarı sayıyor (bir seferde +2 ot toplarsan 2 sayılır). Süs ağacından odun ve taş ocağı vardiyası da sayılır.",
-"en": "Side quests that ask you to gather grass, fruit, mushrooms, stone or wood now count the amount you collect, not how many times you collect (picking +2 grass counts as 2). Wood from decorative trees and quarry shifts count too."
-},
-{
-"v": 388,
-"d": "2026-10-28",
-"tr": "Yönetim paneli için arka plan iyileştirmeleri (oyunda görünen bir değişiklik yok).",
-"en": "Background improvements for the admin panel (no visible change in the game)."
-},
-{
-"v": 387,
-"d": "2026-10-28",
-"tr": "Evini başka yere taşıdığında köylüler artık sundurmanın köşesi ile çiftlik tabelası arasına sıkışmıyor.",
-"en": "Villagers no longer get stuck between the porch corner and the farm sign after you move your house."
-},
-{
-"v": 386,
-"d": "2026-10-28",
-"tr": "Güneş paneli sırası artık engel, içinde taş kalmıyor. Şehir kenarındaki apartmanların zemin katı yeniden görünüyor (bina havada durmuyor). Meralarda yemliğe istediğin kadar yem koyabilirsin (boş bırakırsan hepsi).",
-"en": "Solar panels now block animals and no rocks remain inside them. Ground floors of city apartments are visible again (no floating buildings). You can choose how much feed to put in pasture troughs (empty = all)."
-},
-{
-"v": 385,
-"d": "2026-10-28",
-"tr": "Köy köpekleri artık meydan kuyusuna ve yapıların içine girmiyor. Çoban Ali'nin ağılındaki gölgeliğin ve diğer kasabalardaki evlerin içinden artık geçilmiyor (her yeni günde engelleri kayboluyordu). Köy evlerinin bahçelerindeki banklara oturulabiliyor, bankın ucunda dururken de. Evinin önündeki bankı 🏗️ Çiftlik › 📍 Yapıların yeri ile istediğin yere taşıyabilirsin.",
-"en": "Village dogs no longer walk into the square's well or into buildings. You can no longer walk through Shepherd Ali's fold shelter or houses in other towns (their collision vanished every new day). You can sit on the benches in village house gardens, even from the bench's end. You can move the bench in front of your house anywhere with 🏗️ Farm › 📍 Building places."
-},
-{
-"v": 384,
-"d": "2026-10-28",
-"tr": "Gece olunca dışarıdaki hayvanlar uyuyor: yabani tavuk ve horozlar ağaç ya da çalı dibinde birbirine sokulup tünüyor, tavşanlar yuvalarının dibinde, sürüler bir arada yatarak, atlar ayakta, sokak kedileri kıvrılarak uyuyor. Gece etrafta gezmiyorlar. Hayvanlar nerede? ekranındaki 📍 seni uyudukları yere götürüyor; yavaş yaklaşırsan yakalayabilirsin, koşarsan uyanıp kaçarlar, yem atarsan kalkıp gelirler.",
-"en": "At night, animals outside now sleep: wild chickens and roosters huddle under a tree or bush, rabbits sleep by their burrow, herds lie down together, horses doze standing and stray cats curl up. They no longer wander at night. 📍 in Where are the animals? takes you to where they sleep; approach slowly to catch them, run and they wake and flee, drop feed and they come."
 }
 ]
