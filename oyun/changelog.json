@@ -1,10 +1,17 @@
 [
-{
-"v": 471,
-"d": "2026-10-30",
-"tr": "Balık tutarken ekrandaki çubuklar ve göstergeler artık yanıp sönmüyor: misina gerginliği ve balık mesafesi çubukları sararken ve balık çırpınırken sabit kalıyor.",
-"en": "Fishing screen no longer flickers: the line tension and fish distance bars stay steady while you reel and while the fish struggles."
-},
+ {
+  "v": 472,
+  "pv": "v1.03",
+  "d": "2026-10-30",
+  "tr": "Vadeli hesap yenilendi: Günlük, haftalık, aylık ve yıllık vade var. Faiz oranları Türkiye'deki mevduat faizlerine göre belirleniyor ve Merkez Bankası kararlarıyla güncelleniyor. Paranı istediğin zaman çekebilirsin: vade dolmadan bozarsan anaparan tam döner, geçen günlerin faizi günlük vade oranıyla ödenir. Eski vadeli hesapların aynen devam ediyor.",
+  "en": "Term deposits renewed: daily, weekly, monthly and yearly terms. Rates follow Turkish deposit rates and are updated after central bank decisions. You can withdraw any time: if you break a deposit early you get your full principal back, and the days passed earn interest at the daily rate. Your existing deposits continue as before."
+ },
+ {
+  "v": 471,
+  "d": "2026-10-30",
+  "tr": "Balık tutarken ekrandaki çubuklar ve göstergeler artık yanıp sönmüyor: misina gerginliği ve balık mesafesi çubukları sararken ve balık çırpınırken sabit kalıyor.",
+  "en": "Fishing screen no longer flickers: the line tension and fish distance bars stay steady while you reel and while the fish struggles."
+ },
  {
   "v": 470,
   "d": "2026-10-30",
