@@ -2,6 +2,12 @@
 {
 "v": 457,
 "d": "2026-10-30",
+"tr": "Hedefler ekranındaki \"Bölüm 2: büyükbabanın tarlasını geri al\" artık hep kilitli görünmüyor: Bölüm 2'de açılır, tarlayı Muhtar'dan geri alınca tamamlanır. Bu görev eklenmeden önce Bölüm 2'yi geçmiş oyuncularda tarla alınmış sayılır.",
+"en": "The \"Chapter 2: reclaim grandpa's field\" goal on the Goals screen no longer always shows as locked: it unlocks in Chapter 2 and completes when you buy the field back from the Headman. Players who passed Chapter 2 before this quest existed now own the field."
+},
+{
+"v": 457,
+"d": "2026-10-30",
 "tr": "Çevrimiçi durumun artık yalnız arkadaşlarına görünüyor. Kabul ettiğin arkadaşlık istekleri tekrar karşına çıkmıyor.",
 "en": "Your online status is now visible only to your friends. Friend requests you accepted no longer keep showing up."
 },
