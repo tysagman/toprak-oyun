@@ -1,5 +1,11 @@
 [
 {
+"v": 452,
+"d": "2026-10-30",
+"tr": "Güncelleme notlarında artık her düzeltmenin yanında oyunun sürümü (v1.00) ve tarihi yazıyor.",
+"en": "Update notes now show the game version (v1.00) and date next to each fix."
+},
+{
 "v": 451,
 "pv": "v1.00",
 "d": "2026-10-30",
