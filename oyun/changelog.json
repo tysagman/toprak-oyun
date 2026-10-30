@@ -1,5 +1,11 @@
 [
 {
+"v": 456,
+"d": "2026-10-30",
+"tr": "Koşarken ya da çite doğru zorlayınca çitlerin içinden geçme düzeltildi.",
+"en": "Fixed walking through fences while running or pushing against them."
+},
+{
 "v": 455,
 "d": "2026-10-30",
 "tr": "Demirci Kemal artık motorlu testere satıyor (180 A). Testereyle ağaç kesince %10-40 daha fazla odun çıkar ve enerjin %40 daha az düşer.",
