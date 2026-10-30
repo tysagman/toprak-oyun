@@ -1,5 +1,11 @@
 [
 {
+"v": 458,
+"d": "2026-10-30",
+"tr": "Köylülerle sohbette yazı alanına dokununca sohbet penceresi artık kapanmıyor; yazı alanı küçük ekranlarda da hep görünüyor.",
+"en": "Tapping the text box in a villager chat no longer closes the chat window; the text box now stays visible on small screens too."
+},
+{
 "v": 457,
 "d": "2026-10-30",
 "tr": "Hedefler ekranındaki \"Bölüm 2: büyükbabanın tarlasını geri al\" artık hep kilitli görünmüyor: Bölüm 2'de açılır, tarlayı Muhtar'dan geri alınca tamamlanır. Bu görev eklenmeden önce Bölüm 2'yi geçmiş oyuncularda tarla alınmış sayılır.",
