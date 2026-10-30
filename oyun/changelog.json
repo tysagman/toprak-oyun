@@ -1,5 +1,11 @@
 [
  {
+  "v": 491,
+  "d": "2026-10-30",
+  "tr": "Düzeltme: Başka bir köyü ziyaret ederken ev sahibinin atına binilemiyor ve ıslıkla çağrılamıyor. Köpekler artık çiftliği koruyor: uyanık köpekler atlara yaklaşan misafire koşup havlıyor, baskında yakalanan hırsızı kovalıyor. Köpeğe yemek veren misafire bir süre dokunmuyorlar; gece 02:00–05:00 arası yine uyuyorlar.",
+  "en": "Fix: when visiting another village you can no longer ride or whistle for the host's horse. Dogs now guard the farm: awake dogs run and bark at visitors who approach the horses and chase thieves caught during a raid. They leave a visitor who feeds them alone for a while and still sleep between 02:00 and 05:00."
+ },
+ {
   "v": 490,
   "d": "2026-10-30",
   "tr": "Düzeltme: Oyun kaydedilirken ya da otomatik kayıttan hemen önce yaşanan anlık takılma giderildi. Kayıt dosyası yaklaşık 15 kat küçüldü, kaydetme artık oyunu durdurmuyor; buluta gönderim ayrı anda yapılıyor. Eski kayıtlar ve açtığın harita aynen korunur.",
