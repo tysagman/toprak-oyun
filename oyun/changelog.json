@@ -1,5 +1,11 @@
 [
 {
+"v": 462,
+"d": "2026-10-30",
+"tr": "Haritada ve Dünya haritasında sağda kaydırma çubuğu var: ▲ ▼ ya da tutamaçla alttaki bilgilere inebilirsin. Otobüs, tabelalar ve haritadaki yazılar artık senin yurdunun adlarını yazıyor. Yer adlarını Ayarlar › Yurdunu düzenle'den istediğin zaman değiştirebilirsin; kuzeydeki köy ve kasabanın adı da artık değişiyor.",
+"en": "The map and the World map now have a scroll bar on the right: use ▲ ▼ or drag the handle to reach the info below. The bus, signs and map labels now show your homeland's names. You can rename places any time in Settings › Edit your homeland; the northern village and town can now be renamed too."
+},
+{
 "v": 461,
 "pv": "v1.01",
 "d": "2026-10-30",
