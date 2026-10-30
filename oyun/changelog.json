@@ -1,5 +1,11 @@
 [
 {
+"v": 455,
+"d": "2026-10-30",
+"tr": "Demirci Kemal artık motorlu testere satıyor (180 A). Testereyle ağaç kesince %10-40 daha fazla odun çıkar ve enerjin %40 daha az düşer.",
+"en": "Blacksmith Kemal now sells a chainsaw (180 G). Chopping trees with it gives 10-40% more wood and uses 40% less energy."
+},
+{
 "v": 454,
 "d": "2026-10-30",
 "tr": "Komşuya hasat yardımı işinde meyve toplarken bahçe ve ağaçlar artık yer değiştirmiyor; bütün işi aynı bahçede bitiriyorsun.",
