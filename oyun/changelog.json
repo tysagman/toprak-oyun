@@ -1,366 +1,366 @@
 [
- {
-  "v": 483,
-  "d": "2026-10-30",
-  "tr": "Arka plan iyileştirmesi: oyunun hangi bölümlerinin daha keyifli olduğunu anlamak için oynama süresi ölçümü geliştirildi. Oyunda görünen bir değişiklik yok.",
-  "en": "Background improvement: play-time measurement was improved so we can see which parts of the game are most fun. No visible changes in the game."
- },
- {
-  "v": 482,
-  "d": "2026-10-30",
-  "tr": "Yeni: Biyogaz tesisi ve Laboratuvar. Meralarda her gün gübre birikir; Gübre taşıyıcı Rıfat onu tesise taşır (ya da mera kapısından elle toplayıp tesise boşaltırsın). Gübre gaza, gaz jeneratörde elektriğe dönüşür ve elektrik her sabah satılır; posası gübre olarak sandığa gelir. Laborant Nazlı her partiyi analiz eder: verim %60'tan, hayvanların sağlığı ve beslenmesine göre %70–120'ye çıkar.",
-  "en": "New: Biogas plant and Laboratory. Manure piles up in the pastures every day; manure carrier Rıfat hauls it to the plant (or collect it by hand at the pasture gate and unload it there). Manure becomes gas, the generator turns it into electricity sold every morning, and the residue goes to your chest as fertilizer. Lab technician Nazlı analyses every batch: efficiency rises from 60% to 70–120% depending on your animals' health and feeding."
- },
- {
-  "v": 481,
-  "d": "2026-10-30",
-  "tr": "Kümes ve meralar: kümeste, merada, ağılda ve ahırda kaç dişi (♀) ve kaç erkek (♂) hayvan olduğu görünüyor. Yumurta verimi tavukların sağlığına bağlı: tok, aşılı ve vitaminli kümes en çok yumurtayı verir (sağlık %95'te ×1,5), hasta ya da aç tavuk yarıya düşer. Veteriner Elif'te yeni Kümes vitamini (20 A, 7 gün). Yalnız dişi tavuklar yumurtlar.",
-  "en": "Coop and pastures: the coop, pasture, sheepfold and stable now show how many female (♀) and male (♂) animals you have. Egg yield depends on hen health: a fed, vaccinated coop with vitamins lays the most (×1.5 at 95% health), sick or hungry hens drop to half. New Coop vitamins at Vet Elif (20 G, 7 days). Only hens lay eggs."
- },
- {
-  "v": 480,
-  "d": "2026-10-30",
-  "tr": "Sandık kapasitesi her seviyede 3 katına çıktı: başlangıç 1.500, en büyük sandık 19.800 eşya. Tohum bitince tarlayı çantadaki ya da silodaki buğdayla ekebilirsin; silonda buğday varken tarlanın bir kısmı boş kalmıyor.",
-  "en": "Chest capacity tripled at every level: 1,500 to start, up to 19,800 items. When you run out of seed you can sow the field with wheat from your bag or silo, so fields no longer stay half empty while the silo is full of wheat."
- },
- {
-  "v": 479,
-  "d": "2026-10-30",
-  "tr": "Traktör artık mazot yakar (parsel başına 0,4 L, depo 40 L). Bidonla 6 A/L ya da çiftliğe kurulan 500 L'lik mazot tankına toptan 4 A/L mazot alınır. Göl ve tulumba suyu artık içilmez; su yalnız köy çeşmesinden, evdeki musluktan ve Elazığ Tarım AVM'de satılan şişe sudan içilir.",
-  "en": "The tractor now burns diesel (0.4 L per plot, 40 L tank). Buy it by jerrycan at 6 G/L or in bulk at 4 G/L into a 500 L diesel tank built on the farm. Lake and pump water are no longer drinkable; drink only from the village fountain, the home tap, or bottled water sold at Elazığ Tarım AVM."
- },
- {
-  "v": 478,
-  "d": "2026-10-30",
-  "tr": "Islıkla çağrılan köpekler artık yan yana duruyor, üst üste binmiyor. Motorlu testerenin sesi gerçek iki zamanlı motor gibi: rölanti, gaz, kesimde yük altında devir düşmesi. Mandırada inek sütü için de 'Yapma, süt sandıkta kalsın' seçeneği var. Arı kovanları geliştirilebiliyor: 3 → 6 → 9 → 12 kovan, günde 8 kavanoza kadar bal.",
-  "en": "Whistled dogs now stand side by side instead of piling up. The chainsaw now sounds like a real two-stroke engine: idle, throttle and bogging down while cutting. The dairy now has a 'Don't process, keep the milk' option for cow milk too. Beehives can be upgraded: 3 → 6 → 9 → 12 hives, up to 8 jars of honey a day."
- },
- {
-  "v": 477,
-  "d": "2026-10-30",
-  "tr": "Telefon ısınması ve pil: telefon seçili kare hızına uzun süre yetişemezse hedef kendiliğinden telefona uygun seviyeye iner (ör. 120→30). Otomatik grafikte en düşük ayarda da zorlanırsa gölgeler o oturum için kapanır, Ayarlar'dan tekrar açılabilir.",
-  "en": "Phone heat and battery: if the phone can't reach the chosen frame rate for a while, the target drops to a level that suits it (e.g. 120→30). On Automatic graphics at the lowest level, shadows are turned off for that session if the phone still struggles; they can be turned back on in Settings."
- },
- {
-  "v": 476,
-  "d": "2026-10-30",
-  "tr": "Çalışanlar artık işlerini gün sonuna kadar bitiriyor: Ayşe öğleden sonra olgunlaşan tarlaları da biçip ekiyor, Bahçıvan Cemil yatakları gün boyu ekip suluyor, Çoban Osman inek sütünü aynı gün sağıyor, çobanlar kışın yemliği tam dolduruyor, öğretilen işler de her gün yapılıyor. Siloda yer varken buğday sandığa girmiyordu, düzeldi. Sandık çalışanların %65 sınırına gelince uyarı çıkıyor.",
-  "en": "Workers now finish their jobs every day: Ayşe also harvests and replants fields that ripen in the afternoon, gardener Cemil keeps planting and watering beds all day, shepherd Osman milks the cows the same day, shepherds fill the winter troughs fully, and taught tasks are done every day. Wheat could not go into the chest while the silo had room; fixed. The chest now warns when it reaches the workers' 65% limit."
- },
- {
-  "v": 475,
-  "d": "2026-10-30",
-  "tr": "Çağırdığın at ya da atlı araba artık yanına gelince seni bekliyor: binene ya da Islık menüsünden \"Ahıra gönder\" diyene kadar geri gitmiyor (gece ve yağmurda da). İndiğin at da yanında bekler. Ahıra dönen at artık ahırın duvarlarından geçmiyor, etrafından dolaşıp önden giriyor.",
-  "en": "A called horse or horse cart now waits for you when it arrives: it stays until you get on or tap \"Send to stable\" in the whistle menu (also at night and in the rain). A horse you get off also waits by you. Horses heading back to the stable no longer walk through its walls; they go around and enter from the front."
- },
- {
-  "v": 474,
-  "d": "2026-10-30",
-  "tr": "Ev içi düzeltildi: saat artık oyun saatini gösteriyor; pencere dolaba ve ocağa girmiyor; yatak, dolap ve tezgâhtaki çiçekler kaldırıldı; lavabo ve musluk eklendi; ocak titremesi giderildi. Dalışta karakterin görünüyor, Ara tuşu bekleme süresini gösteriyor, dalıştan sonra dalış merkezine dönüyorsun. Muhtar Rıza artık kendi evinde. Turistler pansiyonun gerçek kapısında.",
-  "en": "Home interior fixed: the clock now shows game time; windows no longer clip into the wardrobe or stove; flowers removed from bed, wardrobe and counter; sink and tap added; stove flicker fixed. You can now see your diver, the Search button shows its cooldown, and you return to the dive centre after diving. Headman Rıza now lives in his own house. Tourists wait at the pension's real door."
- },
- {
-  "v": 473,
-  "d": "2026-10-30",
-  "tr": "Tasami artık oyunculara hediye hayvan gönderebiliyor. Hediye hayvanlar kendi yerine gider: tavuklar kümese, inek, koyun ve keçiler kendi merasına, at ve eşekler ahıra, köpekler kulübeye. Yer yoksa hayvanlar bekler, yer açılınca gelir.",
-  "en": "Tasami can now send gift animals to players. Gift animals go straight to their home: chickens to the coop, cows, sheep and goats to their pastures, horses and donkeys to the stable, dogs to the kennel. If there is no room they wait and arrive once space opens up."
- },
- {
-  "v": 472,
-  "pv": "v1.03",
-  "d": "2026-10-30",
-  "tr": "Vadeli hesap yenilendi: Günlük, haftalık, aylık ve yıllık vade var. Faiz oranları Türkiye'deki mevduat faizlerine göre belirleniyor ve Merkez Bankası kararlarıyla güncelleniyor. Paranı istediğin zaman çekebilirsin: vade dolmadan bozarsan anaparan tam döner, geçen günlerin faizi günlük vade oranıyla ödenir. Eski vadeli hesapların aynen devam ediyor.",
-  "en": "Term deposits renewed: daily, weekly, monthly and yearly terms. Rates follow Turkish deposit rates and are updated after central bank decisions. You can withdraw any time: if you break a deposit early you get your full principal back, and the days passed earn interest at the daily rate. Your existing deposits continue as before."
- },
- {
-  "v": 471,
-  "d": "2026-10-30",
-  "tr": "Balık tutarken ekrandaki çubuklar ve göstergeler artık yanıp sönmüyor: misina gerginliği ve balık mesafesi çubukları sararken ve balık çırpınırken sabit kalıyor.",
-  "en": "Fishing screen no longer flickers: the line tension and fish distance bars stay steady while you reel and while the fish struggles."
- },
- {
-  "v": 470,
-  "d": "2026-10-30",
-  "tr": "Gebe hayvanlar artık oyun kapalıyken de doğuma yaklaşıyor. Önceden sen yokken takvim günlerce ilerlese de gebelik sayacı durduğu için inek, koyun, keçi ve atlar \"doğuma N gün\"de takılı kalıyordu. Artık yokken geçen günler (en çok 7) gebeliği ve yavruların büyümesini ilerletir; sen yokken doğan yavruları Çoban Ali haber verir.",
-  "en": "Pregnant animals now get closer to giving birth while the game is closed. Before, the calendar moved on while you were away but the pregnancy counter stopped, so cows, sheep, goats and horses stayed stuck at \"birth in N days\". Now days that pass while you are away (up to 7) advance pregnancies and growing babies; Shepherd Ali tells you about babies born while you were away."
- },
- {
-  "v": 469,
-  "d": "2026-10-30",
-  "tr": "Evini taşıdıktan sonra oyun açılırken ev kendiliğinden başka yere kayıyor ve oyun birkaç kez yeniden yükleniyordu. Düzeltildi: evin kendi giriş yolu artık engel sayılmıyor, ev seçtiğin yerde kalıyor.",
-  "en": "After moving your house, it could slide to another spot and the game reloaded several times on start. Fixed: the house's own driveway no longer counts as an obstacle, so it stays where you put it."
- },
- {
-  "v": 468,
-  "d": "2026-10-30",
-  "tr": "Köy meydanının ortasında duran sahipsiz 🏪 simgesi kalktı; bakkal tabelası artık Hüseyin'in dükkânının üstünde.",
-  "en": "The stray 🏪 icon in the middle of the village square is gone; the grocery sign now sits above Hüseyin's shop."
- },
- {
-  "v": 467,
-  "pv": "v1.02",
-  "d": "2026-10-30",
-  "tr": "Yeni: Susuzluk. Zamanla susarsın; tulumbadan, köy çeşmesinden, göl kıyısından ya da evindeki musluktan su iç. Ayran ve süt de susuzluğu azaltır. Çok susuz kalınca dinlenirken enerjin yavaş dolar; sağlığına dokunmaz. Tahıl silosuna ve su deposuna yaklaşınca içinde ne olduğunu, ne kadar dolu olduğunu ve ne işe yaradığını görürsün; sandıkta da silo doluluğu yazar.",
-  "en": "New: Thirst. You get thirsty over time; drink from the pump, the village fountain, the lakeshore or the tap at home. Ayran and milk help too. When very thirsty, your energy refills slowly while resting; it doesn't hurt your health. Walk up to the grain silo and the water tank to see what's inside, how full it is and what it does; the chest also shows how full the silo is."
- },
- {
-  "v": 466,
-  "d": "2026-10-30",
-  "tr": "Traktörle hasat düzeldi: çantan dolunca boşaltıp yeniden biçtiğinde traktör artık biçilmiş boş parsellerin üstünden geçmiyor, yalnız kalan olgun parselleri biçiyor. Traktör sadece çantana sığan kadar biçer, yarım kalan parselin buğdayı artık kaybolmaz; kaç parsel kaldığını da söyler.",
-  "en": "Tractor harvesting fixed: after emptying a full bag and harvesting again, the tractor no longer drives over already harvested plots, it only harvests the remaining ripe ones. It harvests only as much as fits in your bag, so no wheat is lost, and tells you how many plots are left."
- },
- {
-  "v": 465,
-  "d": "2026-10-30",
-  "tr": "Çalışanlar artık her gün prim istemiyor. Prim ayda bir: ay dönünce o ay en az 10 gün çalışan prim ister. Prim satışlara göre değişir: 1 günlük yevmiye, satışların geçen aydan fazlaysa ve çalışan kapasitesini çok doldurduysa en çok 3 günlük. Satışlar çok düştüyse prim istenmez. Prim 3 gün +%20 iş yaptırır. İkramiye de ayda bir verilir; bayramlarda ayrıca bir kez.",
-  "en": "Workers no longer ask for a bonus every day. Bonuses are monthly: when the month turns, workers who worked at least 10 days ask for one. The amount follows your sales: 1 day's wage, up to 3 if sales beat last month and the worker often filled their capacity. If sales dropped sharply, nobody asks. A bonus gives +20% work for 3 days. Gifts (ikramiye) can also be given once a month, plus once on each holiday."
- },
- {
-  "v": 464,
-  "d": "2026-10-30",
-  "tr": "İtibar kazanmak biraz daha zorlaştı: her iş, sipariş ve iyilikten gelen itibar azaldı, seviyeler biraz daha fazla itibar istiyor ve bir oyun gününde 3 itibardan sonrası yarım geliyor. Kazandığın itibar ve seviyen düşmez.",
-  "en": "Earning reputation is a bit harder: jobs, orders and good deeds give less reputation, levels need a bit more, and after 3 reputation in a game day the rest comes at half rate. Reputation and levels you already have are not reduced."
- },
- {
-  "v": 463,
-  "d": "2026-10-30",
-  "tr": "Motorlu testerenin simgesi artık el testeresi değil, gerçek motorlu testere. Testereyle keserken motor sesi duyuluyor: çalışınca devir yükseliyor, kesim bitince susuyor.",
-  "en": "The chainsaw icon is now a real chainsaw instead of a hand saw. You now hear the engine while cutting: it revs up and stops when the cut is done."
- },
- {
-  "v": 462,
-  "d": "2026-10-30",
-  "tr": "Haritada ve Dünya haritasında sağda kaydırma çubuğu var: ▲ ▼ ya da tutamaçla alttaki bilgilere inebilirsin. Otobüs, tabelalar ve haritadaki yazılar artık senin yurdunun adlarını yazıyor. Yer adlarını Ayarlar › Yurdunu düzenle'den istediğin zaman değiştirebilirsin; kuzeydeki köy ve kasabanın adı da artık değişiyor.",
-  "en": "The map and the World map now have a scroll bar on the right: use ▲ ▼ or drag the handle to reach the info below. The bus, signs and map labels now show your homeland's names. You can rename places any time in Settings › Edit your homeland; the northern village and town can now be renamed too."
- },
- {
-  "v": 461,
-  "pv": "v1.01",
-  "d": "2026-10-30",
-  "tr": "Çiftlik ferahladı: fabrikalar, holding ve kamyonlar artık köy meydanının dibine yığılmıyor; çiftliğin doğusundaki geniş düzlükte ayrı bir sanayi bölgesinde duruyor. Kendin yerini seçtiğin yapılar olduğu yerde kalır.",
-  "en": "More room on the farm: factories, the holding and trucks no longer pile up next to the village square; they now sit in their own industrial zone on the wide plain east of the farm. Buildings you placed yourself stay where they are."
- },
- {
-  "v": 460,
-  "d": "2026-10-30",
-  "tr": "Görevler artık köyün dışına da çıkıyor: Hankendi, Uluova, Kürk Kaplıcası, üzüm bağları, Harput Kalesi, Batı ormanları, Güney ovası, Çamlıbel ve Akpınar'da 14 yeni görev var. Yan görevlerin dörtte birinden fazlası da bu bölgelerde; uzaktaki kişiye ürünü yüz yüze teslim edersin. Hankendi'deki Çaycı Nuri, Uluova'daki Çiftçi Halil ve bağlardaki Bağcı Rüstem ile artık konuşulabiliyor.",
-  "en": "Quests now take you beyond the village: 14 new quests in Hankendi, Uluova, Kürk Hot Spring, the vineyards, Harput Castle, the western forests, the southern plain, Çamlıbel and Akpınar. Over a quarter of side quests also happen there; deliveries to faraway people are made in person. You can now talk to Nuri the tea maker, farmer Halil and Rüstem the vintner."
- },
- {
-  "v": 459,
-  "d": "2026-10-30",
-  "tr": "Islıkla çağrılan at ve köpek artık uzaktan da yanına geliyor: at ahır duvarına takılıp kalmıyor ya da yarı yoldan ahıra dönmüyor, köpek birkaç saniye sonra vazgeçip kulübeye dönmüyor. İkisi de engellerin (ahır, çit, cami avlusu) çevresinden dolaşarak geliyor.",
-  "en": "Your horse and dog now come to you when whistled, even from far away: the horse no longer gets stuck on the stable wall or turns back halfway, and the dog no longer gives up after a few seconds. Both walk around obstacles (stable, fences, mosque courtyard)."
- },
- {
-  "v": 458,
-  "d": "2026-10-30",
-  "tr": "Köylülerle sohbette yazı alanına dokununca sohbet penceresi artık kapanmıyor; yazı alanı küçük ekranlarda da hep görünüyor.",
-  "en": "Tapping the text box in a villager chat no longer closes the chat window; the text box now stays visible on small screens too."
- },
- {
-  "v": 457,
-  "d": "2026-10-30",
-  "tr": "Hedefler ekranındaki \"Bölüm 2: büyükbabanın tarlasını geri al\" artık hep kilitli görünmüyor: Bölüm 2'de açılır, tarlayı Muhtar'dan geri alınca tamamlanır. Bu görev eklenmeden önce Bölüm 2'yi geçmiş oyuncularda tarla alınmış sayılır.",
-  "en": "The \"Chapter 2: reclaim grandpa's field\" goal on the Goals screen no longer always shows as locked: it unlocks in Chapter 2 and completes when you buy the field back from the Headman. Players who passed Chapter 2 before this quest existed now own the field."
- },
- {
-  "v": 457,
-  "d": "2026-10-30",
-  "tr": "Çevrimiçi durumun artık yalnız arkadaşlarına görünüyor. Kabul ettiğin arkadaşlık istekleri tekrar karşına çıkmıyor.",
-  "en": "Your online status is now visible only to your friends. Friend requests you accepted no longer keep showing up."
- },
- {
-  "v": 456,
-  "d": "2026-10-30",
-  "tr": "Koşarken ya da çite doğru zorlayınca çitlerin içinden geçme düzeltildi.",
-  "en": "Fixed walking through fences while running or pushing against them."
- },
- {
-  "v": 455,
-  "d": "2026-10-30",
-  "tr": "Demirci Kemal artık motorlu testere satıyor (180 A). Testereyle ağaç kesince %10-40 daha fazla odun çıkar ve enerjin %40 daha az düşer.",
-  "en": "Blacksmith Kemal now sells a chainsaw (180 G). Chopping trees with it gives 10-40% more wood and uses 40% less energy."
- },
- {
-  "v": 454,
-  "d": "2026-10-30",
-  "tr": "Komşuya hasat yardımı işinde meyve toplarken bahçe ve ağaçlar artık yer değiştirmiyor; bütün işi aynı bahçede bitiriyorsun.",
-  "en": "In the harvest help job, the orchard and its trees no longer move while you pick fruit; you finish the whole job in the same orchard."
- },
- {
-  "v": 453,
-  "d": "2026-10-30",
-  "tr": "Bal artık kavanozla sayılıyor: kovandan, satıcılardan ve görevlerde 1 bal = 1 kavanoz bal (ör. Kenan'a 20 kavanoz bal götür). Fiyatlar değişmedi.",
-  "en": "Honey is now counted in jars: from hives, sellers and quests, 1 honey = 1 jar of honey (e.g. bring Kenan 20 jars of honey). Prices are unchanged."
- },
- {
-  "v": 452,
-  "d": "2026-10-30",
-  "tr": "Güncelleme notlarında artık her düzeltmenin yanında oyunun sürümü (v1.00) ve tarihi yazıyor.",
-  "en": "Update notes now show the game version (v1.00) and date next to each fix."
- },
- {
-  "v": 451,
-  "pv": "v1.00",
-  "d": "2026-10-30",
-  "tr": "Oyunun sürümü v1.00 olarak yeniden başladı. Küçük düzeltmeler artık sürüm numarasını değiştirmiyor; sürüm yalnız büyük güncellemelerde artacak.",
-  "en": "The game version restarted at v1.00. Small fixes no longer change the version number; it will only go up with major updates."
- },
- {
-  "v": 450,
-  "d": "2026-10-30",
-  "tr": "Hazar Bank'taki hisse alım satımı kaldırıldı. Elinde hisse olanların o günkü değeri banka hesabına iade edildi.",
-  "en": "Share trading at the bank was removed. If you held shares, their value that day was refunded to your bank account."
- },
- {
-  "v": 448,
-  "d": "2026-10-29",
-  "tr": "Bankada yatırım fonu payı artık vadesiz hesapta para yoksa cebinden de alınabiliyor: önce hesaptan, yetmezse cepten ödenir. Para yetmezse en çok kaç pay alabileceğin yazıyor.",
-  "en": "Investment fund shares at the bank can now be bought even with an empty current account: payment comes from the account first, then from your pocket. If you don't have enough, it shows how many shares you can buy."
- },
- {
-  "v": 447,
-  "d": "2026-10-29",
-  "tr": "Otobüs artık 22:00–06:00 arası sefer yapmıyor, son durakta bekliyor ve sabah 06:00'da yola çıkıyor. Otogar önündeki durak bankı yola dönük. Şehirdeki gişe çalışanları (banka, otogar, kafe, belediye, giyim) mesai saatinde gişede, mesai bitince gidiyor; banka işlemleri telefondan her saat yapılabilir. \"Komşuya hasat yardımı\" ilanında bahçe artık köy meydanında değil, komşunun evinin yanında.",
-  "en": "The bus no longer runs between 22:00 and 06:00; it waits at its last stop and sets off at 06:00. The bench at the bus station stop now faces the road. City counter staff (bank, bus station, café, municipality, clothing) are at their desks during working hours and leave afterwards; bank services stay available by phone at any hour. In the \"Harvest help for a neighbour\" job the garden is now next to the neighbour's house, not in the village square."
- },
- {
-  "v": 445,
-  "d": "2026-10-29",
-  "tr": "Çiftliğin doğusundaki kalabalık dağıtıldı: yaban tavukları, taşlar, otlar, meyve ağaçları ve köyün inek ve atları artık tek yere yığılmıyor, geniş ovaya seyrek dağılıyor. Sayıları aynı, o bölgede oyun daha akıcı. Bahçe bankı artık evin üstüne taşınamıyor.",
-  "en": "The crowd east of the farm is spread out: wild chickens, stones, grass, fruit trees and the village cows and horses no longer pile up in one place but are scattered across the wide plain. Same numbers, smoother play there. The garden bench can no longer be moved onto the house."
- },
- {
-  "v": 444,
-  "d": "2026-10-29",
-  "tr": "Çiftliğe araçla gelince artık ahırın içine inmiyorsun; araç seni yapıların ve çitlerin dışında, en yakın boş yere bırakıyor.",
-  "en": "When you arrive at your farm by car you no longer end up inside the stable; you are dropped at the nearest free spot outside buildings and fences."
- },
- {
-  "v": 443,
-  "d": "2026-10-29",
-  "tr": "Ortaklık teklifi ✓ ile onaylanmıyordu (iki taraf da teklif edince kalan teklif takılıyordu); düzeldi, eski teklif kendiliğinden silinir. Ortaklık ekranında artık ortakların neler yapabildiği yazıyor: ortak kasaya altın koyma/çekme ve sınırlar.",
-  "en": "Partnership offers could not be accepted with ✓ (when both players had sent an offer, the leftover one got stuck); fixed, the old offer is removed automatically. The partnership screen now explains what partners can do: putting gold into and taking it out of the shared vault, and the limits."
- },
- {
-  "v": 442,
-  "d": "2026-10-29",
-  "tr": "Mera, koyun ve keçi merası, silo, depo, fabrika gibi yapıları kurunca ya da yerini değiştirince oyun artık baştan yüklenmiyor; yapı hemen yeni yerinde kuruluyor.",
-  "en": "Building or moving pastures, sheep and goat pens, silos, depots and factories no longer reloads the game; the building appears in its new place right away."
- },
- {
-  "v": 441,
-  "d": "2026-10-29",
-  "tr": "Artık istediğin yerde kamp ateşi yakabilirsin: ☰ Diğer › 🔥 Kamp ateşi yak (2 odun, 2 saat yanar, odun koyarak en çok 3 saat). Yanında yemek pişirir, ısınırsın; yağmurda söner. Ayrıca sudan iskelenin içine girilmiyor, kayığın içinden geçilmiyor.",
-  "en": "You can now light a campfire anywhere: ☰ More › 🔥 Light a campfire (2 wood, burns 2 hours, add wood for up to 3). Cook and warm up next to it; rain puts it out. You also can no longer walk into the pier from the water or through the boat."
- },
- {
-  "v": 440,
-  "d": "2026-10-29",
-  "tr": "\"Batık Şehir kalıntıları bölgesine git\" yan görevi artık tamamlanıyor. İskelenin üstünde yürünüyor (karakter tahtaların içine girmiyor). Mutfakta ayran ve sucuk \"Hazırla\" diye yazıyor ve yemekleri adet girerek toplu yapabilirsin. Yan görevlerde 📍 düğmesi seni görevin yerine götürüyor.",
-  "en": "The \"Go to the Sunken City ruins\" side quest now completes. You can walk on the pier (no more sinking into the planks). In the kitchen, ayran and sucuk say \"Make\", and you can enter a quantity to cook many at once. Side quests now have a 📍 button that guides you to the spot."
- },
- {
-  "v": 439,
-  "d": "2026-10-29",
-  "tr": "Meralarda ve ahırda yavrunun nasıl olduğu yazıyor: hangi erkek ve dişi gerekir, gebe kalma ihtimali, gebeliğe ve büyümeye kaç gün kaldı. \"Doğan bir yavru büyüsün\" görev kartı ne yapman gerektiğini gösteriyor. Erkek hayvanlar dişilerden farklı renkte.",
-  "en": "Pastures and the stable now explain how babies are born: which male and female you need, the chance of pregnancy, and how many days are left until birth and adulthood. The \"Raise a baby born on your farm\" quest card shows what to do. Male animals now have a different colour than females."
- },
- {
-  "v": 438,
-  "d": "2026-10-29",
-  "tr": "Cumhuriyet Uçağı kaldırıldı. Köy meydanındaki 29 Ekim bayrakları gece 00:00'a kadar kalıyor.",
-  "en": "The Republic Plane has been removed. The October 29 flags in the village square stay until midnight."
- },
- {
-  "v": 436,
-  "d": "2026-10-29",
-  "tr": "Tasami'nin hediye ettiği eşyalar artık doğrudan sandığına girer, sandık dolu olsa da. \"Çantayı boşalt\" sandık doluyken artık sessiz kalmıyor, uyarı veriyor.",
-  "en": "Items gifted by Tasami now go straight into your chest, even if it is full. \"Empty bag\" now warns you when the chest is full instead of doing nothing."
- },
- {
-  "v": 435,
-  "d": "2026-10-29",
-  "tr": "Tasami artık oyunculara eşya hediye edebiliyor (taş, odun vb.). Hediye önce çantana, sonra sandığına girer; sığmayan kısım yer açılınca kendiliğinden gelir.",
-  "en": "Tasami can now gift items to players (stone, wood, etc.). Gifts go into your bag first, then your chest; whatever doesn't fit arrives by itself once there is room."
- },
- {
-  "v": 434,
-  "d": "2026-10-29",
-  "tr": "Gece köy meydanının ortasında \"Kapıyı çal\" düğmesi çıkıyordu. Köylüler artık gece gerçek bir evin kapısına gidiyor; kapıyı çalma yalnız o evin kapısının önündeyken çıkıyor.",
-  "en": "At night a \"Knock on the door\" button appeared in the middle of the village square. Villagers now go to the door of a real house at night, and knocking only appears when you stand at that door."
- },
- {
-  "v": 433,
-  "d": "2026-10-29",
-  "tr": "Islıkla çağırdığın at ya da eşek artık ahırın duvarına takılmıyor; kapıdan çıkıp yanına geliyor.",
-  "en": "Your horse or donkey no longer gets stuck on the stable wall when you whistle; it comes out through the door."
- },
- {
-  "v": 432,
-  "d": "2026-10-29",
-  "tr": "Evin yanındaki kamp ateşine artık odun koyabilirsin: her odun ateşi 3 saat yakar (en çok 24 saat). Odun bitince ateş söner, yeniden yakmak için 1 odun gerekir.",
-  "en": "You can now add wood to the campfire by your house: each log burns for 3 hours (up to 24 hours). When the wood runs out the fire goes out; relighting it takes 1 wood."
- },
- {
-  "v": 431,
-  "d": "2026-10-29",
-  "tr": "Başka bir oyuncunun köyünü ziyaret ederken artık köpeğini ve kedisini sevebilir, çantana bakabilir ve çantadan köpeğe yemek verebilirsin. Köpeğine çantadan yemek vermek kendi çiftliğinde de çalışır.",
-  "en": "While visiting another player's village you can now pet their dog and cat, open your bag and feed the dog from your bag. Feeding your own dog from the bag works on your farm too."
- },
- {
-  "v": 430,
-  "d": "2026-10-29",
-  "tr": "Hazar Bank'ta krediyi erken kapatınca artık kredi notun +25 artıyor ve \"5 taksiti zamanında öde\" görevi tamamlanıyor (en az bir taksit ödenmiş olmalı). Daha önce erken kapattıysan telafisi kendiliğinden geldi.",
-  "en": "Closing a loan early at Hazar Bank now raises your credit score by 25 and completes the \"pay 5 instalments on time\" quest (at least one instalment must be paid). If you closed one early before, it has been made up automatically."
- },
- {
-  "v": 429,
-  "d": "2026-10-29",
-  "tr": "Cumhuriyet Uçağı geçerken kamera artık kendiliğinden yukarı bakmıyor; görmek istersen kamerayı kendin kaldırabilirsin.",
-  "en": "The camera no longer tilts up on its own when the Republic Plane passes; look up yourself if you want to see it."
- },
- {
-  "v": 428,
-  "d": "2026-10-29",
-  "tr": "Sıralama ekranının altında artık senin o anki değerin ve sıralamanın bir sonraki saatlik güncelleme saati yazıyor.",
-  "en": "The ranking screen now shows your current value and the time of the next hourly ranking update."
- },
- {
-  "v": 427,
-  "d": "2026-10-29",
-  "tr": "Batık şehre dalınca artık kalıntılar görünüyor: şehir gölün dibinde, fener ışığı yanıyor, gece de eserler seçiliyor.",
-  "en": "Diving into the sunken city now shows the ruins: the city lies on the lake bed, your flashlight is on, and artifacts are visible at night too."
- },
- {
-  "v": 426,
-  "d": "2026-10-29",
-  "tr": "Veteriner penceresinde altının yetmediğinde düğmeler artık neden soluk olduğunu söylüyor: her düğmede ne kadar altın lazım olduğu (\"💰 30 A lazım\"), üstte de cebindeki altın yazıyor. Telefonla çağırınca yol ücreti de hesaba katılır.",
-  "en": "In the vet window, faded buttons now say why: each button shows how much gold you need (\"💰 30 A needed\") and the top shows how much you have. The call-out fee is included when you phone the vet."
- },
- {
-  "v": 425,
-  "d": "2026-10-29",
-  "tr": "Cumhuriyet Uçağı artık yanından değil, gökyüzünden, tepelerin üstünden geçiyor. Uçak ve pankart daha büyük; geçerken kamera hafifçe yukarı bakar.",
-  "en": "The Republic Plane now flies high in the sky over the hills instead of right next to you. The plane and banner are bigger, and the camera tilts up a little as it passes."
- },
- {
-  "v": 424,
-  "d": "2026-10-29",
-  "tr": "Sandıkta turna balığının yanında timsah resmi çıkıyordu, artık balık simgesi var. Yayın balığı ve dev sazan da balina yerine balık simgesiyle görünüyor.",
-  "en": "The pike showed a crocodile icon in the chest; it now has a fish icon. Wels catfish and giant carp also show a fish instead of a whale."
- },
- {
-  "v": 423,
-  "d": "2026-10-29",
-  "tr": "Çiftlikteki bayrak geri geldi; çiftlik süsleri artık her açılışta görünüyor. Her çiftlikte ücretsiz bayrak direği var: Türkiye'den oynayanlarda Türk bayrağı, Çiftlik süsleri › Bayrağını seç ile kendi ülkenin bayrağını asabilirsin. 29 Ekim'de eski 15 Temmuz ikramiye düğmesi çıkmıyor.",
-  "en": "The flag on your farm is back; farm decorations now show every time you open the game. Every farm has a free flagpole: players in Türkiye fly the Turkish flag, and you can hoist your own country's flag under Farm decorations › Choose your flag. On October 29 the old July 15 bonus button no longer shows."
- },
- {
-  "v": 422,
-  "d": "2026-10-29",
-  "tr": "Yapı taşıma: evden uzaktayken bir yapıyı (ör. ev önündeki bankı) taşımaya başlayınca eski hali yerinde görünmeye devam ediyordu, artık yer seçerken gizleniyor.",
-  "en": "Moving buildings: when you started moving a building (e.g. the bench in front of your house) while far from home, its old copy stayed visible; it is now hidden while you pick the new spot."
- }
+{
+"v": 484,
+"d": "2026-10-30",
+"tr": "Menülerde bir şey seçince menü artık en üste atlamıyor, kaldığın yerde kalıyor. Misafir hesaptan Google hesabına geçince çiftlikte kendi adınla görünen ikinci karakter artık çıkmıyor.",
+"en": "Menus no longer jump back to the top after you pick something; they stay where you were. After switching from a guest account to Google, a second copy of your character no longer appears on your farm."
+},
+{
+"v": 483,
+"d": "2026-10-30",
+"tr": "Arka plan iyileştirmesi: oyunun hangi bölümlerinin daha keyifli olduğunu anlamak için oynama süresi ölçümü geliştirildi. Oyunda görünen bir değişiklik yok.",
+"en": "Background improvement: play-time measurement was improved so we can see which parts of the game are most fun. No visible changes in the game."
+},
+{
+"v": 482,
+"d": "2026-10-30",
+"tr": "Yeni: Biyogaz tesisi ve Laboratuvar. Meralarda her gün gübre birikir; Gübre taşıyıcı Rıfat onu tesise taşır (ya da mera kapısından elle toplayıp tesise boşaltırsın). Gübre gaza, gaz jeneratörde elektriğe dönüşür ve elektrik her sabah satılır; posası gübre olarak sandığa gelir. Laborant Nazlı her partiyi analiz eder: verim %60'tan, hayvanların sağlığı ve beslenmesine göre %70–120'ye çıkar.",
+"en": "New: Biogas plant and Laboratory. Manure piles up in the pastures every day; manure carrier Rıfat hauls it to the plant (or collect it by hand at the pasture gate and unload it there). Manure becomes gas, the generator turns it into electricity sold every morning, and the residue goes to your chest as fertilizer. Lab technician Nazlı analyses every batch: efficiency rises from 60% to 70–120% depending on your animals' health and feeding."
+},
+{
+"v": 481,
+"d": "2026-10-30",
+"tr": "Kümes ve meralar: kümeste, merada, ağılda ve ahırda kaç dişi (♀) ve kaç erkek (♂) hayvan olduğu görünüyor. Yumurta verimi tavukların sağlığına bağlı: tok, aşılı ve vitaminli kümes en çok yumurtayı verir (sağlık %95'te ×1,5), hasta ya da aç tavuk yarıya düşer. Veteriner Elif'te yeni Kümes vitamini (20 A, 7 gün). Yalnız dişi tavuklar yumurtlar.",
+"en": "Coop and pastures: the coop, pasture, sheepfold and stable now show how many female (♀) and male (♂) animals you have. Egg yield depends on hen health: a fed, vaccinated coop with vitamins lays the most (×1.5 at 95% health), sick or hungry hens drop to half. New Coop vitamins at Vet Elif (20 G, 7 days). Only hens lay eggs."
+},
+{
+"v": 480,
+"d": "2026-10-30",
+"tr": "Sandık kapasitesi her seviyede 3 katına çıktı: başlangıç 1.500, en büyük sandık 19.800 eşya. Tohum bitince tarlayı çantadaki ya da silodaki buğdayla ekebilirsin; silonda buğday varken tarlanın bir kısmı boş kalmıyor.",
+"en": "Chest capacity tripled at every level: 1,500 to start, up to 19,800 items. When you run out of seed you can sow the field with wheat from your bag or silo, so fields no longer stay half empty while the silo is full of wheat."
+},
+{
+"v": 479,
+"d": "2026-10-30",
+"tr": "Traktör artık mazot yakar (parsel başına 0,4 L, depo 40 L). Bidonla 6 A/L ya da çiftliğe kurulan 500 L'lik mazot tankına toptan 4 A/L mazot alınır. Göl ve tulumba suyu artık içilmez; su yalnız köy çeşmesinden, evdeki musluktan ve Elazığ Tarım AVM'de satılan şişe sudan içilir.",
+"en": "The tractor now burns diesel (0.4 L per plot, 40 L tank). Buy it by jerrycan at 6 G/L or in bulk at 4 G/L into a 500 L diesel tank built on the farm. Lake and pump water are no longer drinkable; drink only from the village fountain, the home tap, or bottled water sold at Elazığ Tarım AVM."
+},
+{
+"v": 478,
+"d": "2026-10-30",
+"tr": "Islıkla çağrılan köpekler artık yan yana duruyor, üst üste binmiyor. Motorlu testerenin sesi gerçek iki zamanlı motor gibi: rölanti, gaz, kesimde yük altında devir düşmesi. Mandırada inek sütü için de 'Yapma, süt sandıkta kalsın' seçeneği var. Arı kovanları geliştirilebiliyor: 3 → 6 → 9 → 12 kovan, günde 8 kavanoza kadar bal.",
+"en": "Whistled dogs now stand side by side instead of piling up. The chainsaw now sounds like a real two-stroke engine: idle, throttle and bogging down while cutting. The dairy now has a 'Don't process, keep the milk' option for cow milk too. Beehives can be upgraded: 3 → 6 → 9 → 12 hives, up to 8 jars of honey a day."
+},
+{
+"v": 477,
+"d": "2026-10-30",
+"tr": "Telefon ısınması ve pil: telefon seçili kare hızına uzun süre yetişemezse hedef kendiliğinden telefona uygun seviyeye iner (ör. 120→30). Otomatik grafikte en düşük ayarda da zorlanırsa gölgeler o oturum için kapanır, Ayarlar'dan tekrar açılabilir.",
+"en": "Phone heat and battery: if the phone can't reach the chosen frame rate for a while, the target drops to a level that suits it (e.g. 120→30). On Automatic graphics at the lowest level, shadows are turned off for that session if the phone still struggles; they can be turned back on in Settings."
+},
+{
+"v": 476,
+"d": "2026-10-30",
+"tr": "Çalışanlar artık işlerini gün sonuna kadar bitiriyor: Ayşe öğleden sonra olgunlaşan tarlaları da biçip ekiyor, Bahçıvan Cemil yatakları gün boyu ekip suluyor, Çoban Osman inek sütünü aynı gün sağıyor, çobanlar kışın yemliği tam dolduruyor, öğretilen işler de her gün yapılıyor. Siloda yer varken buğday sandığa girmiyordu, düzeldi. Sandık çalışanların %65 sınırına gelince uyarı çıkıyor.",
+"en": "Workers now finish their jobs every day: Ayşe also harvests and replants fields that ripen in the afternoon, gardener Cemil keeps planting and watering beds all day, shepherd Osman milks the cows the same day, shepherds fill the winter troughs fully, and taught tasks are done every day. Wheat could not go into the chest while the silo had room; fixed. The chest now warns when it reaches the workers' 65% limit."
+},
+{
+"v": 475,
+"d": "2026-10-30",
+"tr": "Çağırdığın at ya da atlı araba artık yanına gelince seni bekliyor: binene ya da Islık menüsünden \"Ahıra gönder\" diyene kadar geri gitmiyor (gece ve yağmurda da). İndiğin at da yanında bekler. Ahıra dönen at artık ahırın duvarlarından geçmiyor, etrafından dolaşıp önden giriyor.",
+"en": "A called horse or horse cart now waits for you when it arrives: it stays until you get on or tap \"Send to stable\" in the whistle menu (also at night and in the rain). A horse you get off also waits by you. Horses heading back to the stable no longer walk through its walls; they go around and enter from the front."
+},
+{
+"v": 474,
+"d": "2026-10-30",
+"tr": "Ev içi düzeltildi: saat artık oyun saatini gösteriyor; pencere dolaba ve ocağa girmiyor; yatak, dolap ve tezgâhtaki çiçekler kaldırıldı; lavabo ve musluk eklendi; ocak titremesi giderildi. Dalışta karakterin görünüyor, Ara tuşu bekleme süresini gösteriyor, dalıştan sonra dalış merkezine dönüyorsun. Muhtar Rıza artık kendi evinde. Turistler pansiyonun gerçek kapısında.",
+"en": "Home interior fixed: the clock now shows game time; windows no longer clip into the wardrobe or stove; flowers removed from bed, wardrobe and counter; sink and tap added; stove flicker fixed. You can now see your diver, the Search button shows its cooldown, and you return to the dive centre after diving. Headman Rıza now lives in his own house. Tourists wait at the pension's real door."
+},
+{
+"v": 473,
+"d": "2026-10-30",
+"tr": "Tasami artık oyunculara hediye hayvan gönderebiliyor. Hediye hayvanlar kendi yerine gider: tavuklar kümese, inek, koyun ve keçiler kendi merasına, at ve eşekler ahıra, köpekler kulübeye. Yer yoksa hayvanlar bekler, yer açılınca gelir.",
+"en": "Tasami can now send gift animals to players. Gift animals go straight to their home: chickens to the coop, cows, sheep and goats to their pastures, horses and donkeys to the stable, dogs to the kennel. If there is no room they wait and arrive once space opens up."
+},
+{
+"v": 472,
+"pv": "v1.03",
+"d": "2026-10-30",
+"tr": "Vadeli hesap yenilendi: Günlük, haftalık, aylık ve yıllık vade var. Faiz oranları Türkiye'deki mevduat faizlerine göre belirleniyor ve Merkez Bankası kararlarıyla güncelleniyor. Paranı istediğin zaman çekebilirsin: vade dolmadan bozarsan anaparan tam döner, geçen günlerin faizi günlük vade oranıyla ödenir. Eski vadeli hesapların aynen devam ediyor.",
+"en": "Term deposits renewed: daily, weekly, monthly and yearly terms. Rates follow Turkish deposit rates and are updated after central bank decisions. You can withdraw any time: if you break a deposit early you get your full principal back, and the days passed earn interest at the daily rate. Your existing deposits continue as before."
+},
+{
+"v": 471,
+"d": "2026-10-30",
+"tr": "Balık tutarken ekrandaki çubuklar ve göstergeler artık yanıp sönmüyor: misina gerginliği ve balık mesafesi çubukları sararken ve balık çırpınırken sabit kalıyor.",
+"en": "Fishing screen no longer flickers: the line tension and fish distance bars stay steady while you reel and while the fish struggles."
+},
+{
+"v": 470,
+"d": "2026-10-30",
+"tr": "Gebe hayvanlar artık oyun kapalıyken de doğuma yaklaşıyor. Önceden sen yokken takvim günlerce ilerlese de gebelik sayacı durduğu için inek, koyun, keçi ve atlar \"doğuma N gün\"de takılı kalıyordu. Artık yokken geçen günler (en çok 7) gebeliği ve yavruların büyümesini ilerletir; sen yokken doğan yavruları Çoban Ali haber verir.",
+"en": "Pregnant animals now get closer to giving birth while the game is closed. Before, the calendar moved on while you were away but the pregnancy counter stopped, so cows, sheep, goats and horses stayed stuck at \"birth in N days\". Now days that pass while you are away (up to 7) advance pregnancies and growing babies; Shepherd Ali tells you about babies born while you were away."
+},
+{
+"v": 469,
+"d": "2026-10-30",
+"tr": "Evini taşıdıktan sonra oyun açılırken ev kendiliğinden başka yere kayıyor ve oyun birkaç kez yeniden yükleniyordu. Düzeltildi: evin kendi giriş yolu artık engel sayılmıyor, ev seçtiğin yerde kalıyor.",
+"en": "After moving your house, it could slide to another spot and the game reloaded several times on start. Fixed: the house's own driveway no longer counts as an obstacle, so it stays where you put it."
+},
+{
+"v": 468,
+"d": "2026-10-30",
+"tr": "Köy meydanının ortasında duran sahipsiz 🏪 simgesi kalktı; bakkal tabelası artık Hüseyin'in dükkânının üstünde.",
+"en": "The stray 🏪 icon in the middle of the village square is gone; the grocery sign now sits above Hüseyin's shop."
+},
+{
+"v": 467,
+"pv": "v1.02",
+"d": "2026-10-30",
+"tr": "Yeni: Susuzluk. Zamanla susarsın; tulumbadan, köy çeşmesinden, göl kıyısından ya da evindeki musluktan su iç. Ayran ve süt de susuzluğu azaltır. Çok susuz kalınca dinlenirken enerjin yavaş dolar; sağlığına dokunmaz. Tahıl silosuna ve su deposuna yaklaşınca içinde ne olduğunu, ne kadar dolu olduğunu ve ne işe yaradığını görürsün; sandıkta da silo doluluğu yazar.",
+"en": "New: Thirst. You get thirsty over time; drink from the pump, the village fountain, the lakeshore or the tap at home. Ayran and milk help too. When very thirsty, your energy refills slowly while resting; it doesn't hurt your health. Walk up to the grain silo and the water tank to see what's inside, how full it is and what it does; the chest also shows how full the silo is."
+},
+{
+"v": 466,
+"d": "2026-10-30",
+"tr": "Traktörle hasat düzeldi: çantan dolunca boşaltıp yeniden biçtiğinde traktör artık biçilmiş boş parsellerin üstünden geçmiyor, yalnız kalan olgun parselleri biçiyor. Traktör sadece çantana sığan kadar biçer, yarım kalan parselin buğdayı artık kaybolmaz; kaç parsel kaldığını da söyler.",
+"en": "Tractor harvesting fixed: after emptying a full bag and harvesting again, the tractor no longer drives over already harvested plots, it only harvests the remaining ripe ones. It harvests only as much as fits in your bag, so no wheat is lost, and tells you how many plots are left."
+},
+{
+"v": 465,
+"d": "2026-10-30",
+"tr": "Çalışanlar artık her gün prim istemiyor. Prim ayda bir: ay dönünce o ay en az 10 gün çalışan prim ister. Prim satışlara göre değişir: 1 günlük yevmiye, satışların geçen aydan fazlaysa ve çalışan kapasitesini çok doldurduysa en çok 3 günlük. Satışlar çok düştüyse prim istenmez. Prim 3 gün +%20 iş yaptırır. İkramiye de ayda bir verilir; bayramlarda ayrıca bir kez.",
+"en": "Workers no longer ask for a bonus every day. Bonuses are monthly: when the month turns, workers who worked at least 10 days ask for one. The amount follows your sales: 1 day's wage, up to 3 if sales beat last month and the worker often filled their capacity. If sales dropped sharply, nobody asks. A bonus gives +20% work for 3 days. Gifts (ikramiye) can also be given once a month, plus once on each holiday."
+},
+{
+"v": 464,
+"d": "2026-10-30",
+"tr": "İtibar kazanmak biraz daha zorlaştı: her iş, sipariş ve iyilikten gelen itibar azaldı, seviyeler biraz daha fazla itibar istiyor ve bir oyun gününde 3 itibardan sonrası yarım geliyor. Kazandığın itibar ve seviyen düşmez.",
+"en": "Earning reputation is a bit harder: jobs, orders and good deeds give less reputation, levels need a bit more, and after 3 reputation in a game day the rest comes at half rate. Reputation and levels you already have are not reduced."
+},
+{
+"v": 463,
+"d": "2026-10-30",
+"tr": "Motorlu testerenin simgesi artık el testeresi değil, gerçek motorlu testere. Testereyle keserken motor sesi duyuluyor: çalışınca devir yükseliyor, kesim bitince susuyor.",
+"en": "The chainsaw icon is now a real chainsaw instead of a hand saw. You now hear the engine while cutting: it revs up and stops when the cut is done."
+},
+{
+"v": 462,
+"d": "2026-10-30",
+"tr": "Haritada ve Dünya haritasında sağda kaydırma çubuğu var: ▲ ▼ ya da tutamaçla alttaki bilgilere inebilirsin. Otobüs, tabelalar ve haritadaki yazılar artık senin yurdunun adlarını yazıyor. Yer adlarını Ayarlar › Yurdunu düzenle'den istediğin zaman değiştirebilirsin; kuzeydeki köy ve kasabanın adı da artık değişiyor.",
+"en": "The map and the World map now have a scroll bar on the right: use ▲ ▼ or drag the handle to reach the info below. The bus, signs and map labels now show your homeland's names. You can rename places any time in Settings › Edit your homeland; the northern village and town can now be renamed too."
+},
+{
+"v": 461,
+"pv": "v1.01",
+"d": "2026-10-30",
+"tr": "Çiftlik ferahladı: fabrikalar, holding ve kamyonlar artık köy meydanının dibine yığılmıyor; çiftliğin doğusundaki geniş düzlükte ayrı bir sanayi bölgesinde duruyor. Kendin yerini seçtiğin yapılar olduğu yerde kalır.",
+"en": "More room on the farm: factories, the holding and trucks no longer pile up next to the village square; they now sit in their own industrial zone on the wide plain east of the farm. Buildings you placed yourself stay where they are."
+},
+{
+"v": 460,
+"d": "2026-10-30",
+"tr": "Görevler artık köyün dışına da çıkıyor: Hankendi, Uluova, Kürk Kaplıcası, üzüm bağları, Harput Kalesi, Batı ormanları, Güney ovası, Çamlıbel ve Akpınar'da 14 yeni görev var. Yan görevlerin dörtte birinden fazlası da bu bölgelerde; uzaktaki kişiye ürünü yüz yüze teslim edersin. Hankendi'deki Çaycı Nuri, Uluova'daki Çiftçi Halil ve bağlardaki Bağcı Rüstem ile artık konuşulabiliyor.",
+"en": "Quests now take you beyond the village: 14 new quests in Hankendi, Uluova, Kürk Hot Spring, the vineyards, Harput Castle, the western forests, the southern plain, Çamlıbel and Akpınar. Over a quarter of side quests also happen there; deliveries to faraway people are made in person. You can now talk to Nuri the tea maker, farmer Halil and Rüstem the vintner."
+},
+{
+"v": 459,
+"d": "2026-10-30",
+"tr": "Islıkla çağrılan at ve köpek artık uzaktan da yanına geliyor: at ahır duvarına takılıp kalmıyor ya da yarı yoldan ahıra dönmüyor, köpek birkaç saniye sonra vazgeçip kulübeye dönmüyor. İkisi de engellerin (ahır, çit, cami avlusu) çevresinden dolaşarak geliyor.",
+"en": "Your horse and dog now come to you when whistled, even from far away: the horse no longer gets stuck on the stable wall or turns back halfway, and the dog no longer gives up after a few seconds. Both walk around obstacles (stable, fences, mosque courtyard)."
+},
+{
+"v": 458,
+"d": "2026-10-30",
+"tr": "Köylülerle sohbette yazı alanına dokununca sohbet penceresi artık kapanmıyor; yazı alanı küçük ekranlarda da hep görünüyor.",
+"en": "Tapping the text box in a villager chat no longer closes the chat window; the text box now stays visible on small screens too."
+},
+{
+"v": 457,
+"d": "2026-10-30",
+"tr": "Hedefler ekranındaki \"Bölüm 2: büyükbabanın tarlasını geri al\" artık hep kilitli görünmüyor: Bölüm 2'de açılır, tarlayı Muhtar'dan geri alınca tamamlanır. Bu görev eklenmeden önce Bölüm 2'yi geçmiş oyuncularda tarla alınmış sayılır.",
+"en": "The \"Chapter 2: reclaim grandpa's field\" goal on the Goals screen no longer always shows as locked: it unlocks in Chapter 2 and completes when you buy the field back from the Headman. Players who passed Chapter 2 before this quest existed now own the field."
+},
+{
+"v": 457,
+"d": "2026-10-30",
+"tr": "Çevrimiçi durumun artık yalnız arkadaşlarına görünüyor. Kabul ettiğin arkadaşlık istekleri tekrar karşına çıkmıyor.",
+"en": "Your online status is now visible only to your friends. Friend requests you accepted no longer keep showing up."
+},
+{
+"v": 456,
+"d": "2026-10-30",
+"tr": "Koşarken ya da çite doğru zorlayınca çitlerin içinden geçme düzeltildi.",
+"en": "Fixed walking through fences while running or pushing against them."
+},
+{
+"v": 455,
+"d": "2026-10-30",
+"tr": "Demirci Kemal artık motorlu testere satıyor (180 A). Testereyle ağaç kesince %10-40 daha fazla odun çıkar ve enerjin %40 daha az düşer.",
+"en": "Blacksmith Kemal now sells a chainsaw (180 G). Chopping trees with it gives 10-40% more wood and uses 40% less energy."
+},
+{
+"v": 454,
+"d": "2026-10-30",
+"tr": "Komşuya hasat yardımı işinde meyve toplarken bahçe ve ağaçlar artık yer değiştirmiyor; bütün işi aynı bahçede bitiriyorsun.",
+"en": "In the harvest help job, the orchard and its trees no longer move while you pick fruit; you finish the whole job in the same orchard."
+},
+{
+"v": 453,
+"d": "2026-10-30",
+"tr": "Bal artık kavanozla sayılıyor: kovandan, satıcılardan ve görevlerde 1 bal = 1 kavanoz bal (ör. Kenan'a 20 kavanoz bal götür). Fiyatlar değişmedi.",
+"en": "Honey is now counted in jars: from hives, sellers and quests, 1 honey = 1 jar of honey (e.g. bring Kenan 20 jars of honey). Prices are unchanged."
+},
+{
+"v": 452,
+"d": "2026-10-30",
+"tr": "Güncelleme notlarında artık her düzeltmenin yanında oyunun sürümü (v1.00) ve tarihi yazıyor.",
+"en": "Update notes now show the game version (v1.00) and date next to each fix."
+},
+{
+"v": 451,
+"pv": "v1.00",
+"d": "2026-10-30",
+"tr": "Oyunun sürümü v1.00 olarak yeniden başladı. Küçük düzeltmeler artık sürüm numarasını değiştirmiyor; sürüm yalnız büyük güncellemelerde artacak.",
+"en": "The game version restarted at v1.00. Small fixes no longer change the version number; it will only go up with major updates."
+},
+{
+"v": 450,
+"d": "2026-10-30",
+"tr": "Hazar Bank'taki hisse alım satımı kaldırıldı. Elinde hisse olanların o günkü değeri banka hesabına iade edildi.",
+"en": "Share trading at the bank was removed. If you held shares, their value that day was refunded to your bank account."
+},
+{
+"v": 448,
+"d": "2026-10-29",
+"tr": "Bankada yatırım fonu payı artık vadesiz hesapta para yoksa cebinden de alınabiliyor: önce hesaptan, yetmezse cepten ödenir. Para yetmezse en çok kaç pay alabileceğin yazıyor.",
+"en": "Investment fund shares at the bank can now be bought even with an empty current account: payment comes from the account first, then from your pocket. If you don't have enough, it shows how many shares you can buy."
+},
+{
+"v": 447,
+"d": "2026-10-29",
+"tr": "Otobüs artık 22:00–06:00 arası sefer yapmıyor, son durakta bekliyor ve sabah 06:00'da yola çıkıyor. Otogar önündeki durak bankı yola dönük. Şehirdeki gişe çalışanları (banka, otogar, kafe, belediye, giyim) mesai saatinde gişede, mesai bitince gidiyor; banka işlemleri telefondan her saat yapılabilir. \"Komşuya hasat yardımı\" ilanında bahçe artık köy meydanında değil, komşunun evinin yanında.",
+"en": "The bus no longer runs between 22:00 and 06:00; it waits at its last stop and sets off at 06:00. The bench at the bus station stop now faces the road. City counter staff (bank, bus station, café, municipality, clothing) are at their desks during working hours and leave afterwards; bank services stay available by phone at any hour. In the \"Harvest help for a neighbour\" job the garden is now next to the neighbour's house, not in the village square."
+},
+{
+"v": 445,
+"d": "2026-10-29",
+"tr": "Çiftliğin doğusundaki kalabalık dağıtıldı: yaban tavukları, taşlar, otlar, meyve ağaçları ve köyün inek ve atları artık tek yere yığılmıyor, geniş ovaya seyrek dağılıyor. Sayıları aynı, o bölgede oyun daha akıcı. Bahçe bankı artık evin üstüne taşınamıyor.",
+"en": "The crowd east of the farm is spread out: wild chickens, stones, grass, fruit trees and the village cows and horses no longer pile up in one place but are scattered across the wide plain. Same numbers, smoother play there. The garden bench can no longer be moved onto the house."
+},
+{
+"v": 444,
+"d": "2026-10-29",
+"tr": "Çiftliğe araçla gelince artık ahırın içine inmiyorsun; araç seni yapıların ve çitlerin dışında, en yakın boş yere bırakıyor.",
+"en": "When you arrive at your farm by car you no longer end up inside the stable; you are dropped at the nearest free spot outside buildings and fences."
+},
+{
+"v": 443,
+"d": "2026-10-29",
+"tr": "Ortaklık teklifi ✓ ile onaylanmıyordu (iki taraf da teklif edince kalan teklif takılıyordu); düzeldi, eski teklif kendiliğinden silinir. Ortaklık ekranında artık ortakların neler yapabildiği yazıyor: ortak kasaya altın koyma/çekme ve sınırlar.",
+"en": "Partnership offers could not be accepted with ✓ (when both players had sent an offer, the leftover one got stuck); fixed, the old offer is removed automatically. The partnership screen now explains what partners can do: putting gold into and taking it out of the shared vault, and the limits."
+},
+{
+"v": 442,
+"d": "2026-10-29",
+"tr": "Mera, koyun ve keçi merası, silo, depo, fabrika gibi yapıları kurunca ya da yerini değiştirince oyun artık baştan yüklenmiyor; yapı hemen yeni yerinde kuruluyor.",
+"en": "Building or moving pastures, sheep and goat pens, silos, depots and factories no longer reloads the game; the building appears in its new place right away."
+},
+{
+"v": 441,
+"d": "2026-10-29",
+"tr": "Artık istediğin yerde kamp ateşi yakabilirsin: ☰ Diğer › 🔥 Kamp ateşi yak (2 odun, 2 saat yanar, odun koyarak en çok 3 saat). Yanında yemek pişirir, ısınırsın; yağmurda söner. Ayrıca sudan iskelenin içine girilmiyor, kayığın içinden geçilmiyor.",
+"en": "You can now light a campfire anywhere: ☰ More › 🔥 Light a campfire (2 wood, burns 2 hours, add wood for up to 3). Cook and warm up next to it; rain puts it out. You also can no longer walk into the pier from the water or through the boat."
+},
+{
+"v": 440,
+"d": "2026-10-29",
+"tr": "\"Batık Şehir kalıntıları bölgesine git\" yan görevi artık tamamlanıyor. İskelenin üstünde yürünüyor (karakter tahtaların içine girmiyor). Mutfakta ayran ve sucuk \"Hazırla\" diye yazıyor ve yemekleri adet girerek toplu yapabilirsin. Yan görevlerde 📍 düğmesi seni görevin yerine götürüyor.",
+"en": "The \"Go to the Sunken City ruins\" side quest now completes. You can walk on the pier (no more sinking into the planks). In the kitchen, ayran and sucuk say \"Make\", and you can enter a quantity to cook many at once. Side quests now have a 📍 button that guides you to the spot."
+},
+{
+"v": 439,
+"d": "2026-10-29",
+"tr": "Meralarda ve ahırda yavrunun nasıl olduğu yazıyor: hangi erkek ve dişi gerekir, gebe kalma ihtimali, gebeliğe ve büyümeye kaç gün kaldı. \"Doğan bir yavru büyüsün\" görev kartı ne yapman gerektiğini gösteriyor. Erkek hayvanlar dişilerden farklı renkte.",
+"en": "Pastures and the stable now explain how babies are born: which male and female you need, the chance of pregnancy, and how many days are left until birth and adulthood. The \"Raise a baby born on your farm\" quest card shows what to do. Male animals now have a different colour than females."
+},
+{
+"v": 438,
+"d": "2026-10-29",
+"tr": "Cumhuriyet Uçağı kaldırıldı. Köy meydanındaki 29 Ekim bayrakları gece 00:00'a kadar kalıyor.",
+"en": "The Republic Plane has been removed. The October 29 flags in the village square stay until midnight."
+},
+{
+"v": 436,
+"d": "2026-10-29",
+"tr": "Tasami'nin hediye ettiği eşyalar artık doğrudan sandığına girer, sandık dolu olsa da. \"Çantayı boşalt\" sandık doluyken artık sessiz kalmıyor, uyarı veriyor.",
+"en": "Items gifted by Tasami now go straight into your chest, even if it is full. \"Empty bag\" now warns you when the chest is full instead of doing nothing."
+},
+{
+"v": 435,
+"d": "2026-10-29",
+"tr": "Tasami artık oyunculara eşya hediye edebiliyor (taş, odun vb.). Hediye önce çantana, sonra sandığına girer; sığmayan kısım yer açılınca kendiliğinden gelir.",
+"en": "Tasami can now gift items to players (stone, wood, etc.). Gifts go into your bag first, then your chest; whatever doesn't fit arrives by itself once there is room."
+},
+{
+"v": 434,
+"d": "2026-10-29",
+"tr": "Gece köy meydanının ortasında \"Kapıyı çal\" düğmesi çıkıyordu. Köylüler artık gece gerçek bir evin kapısına gidiyor; kapıyı çalma yalnız o evin kapısının önündeyken çıkıyor.",
+"en": "At night a \"Knock on the door\" button appeared in the middle of the village square. Villagers now go to the door of a real house at night, and knocking only appears when you stand at that door."
+},
+{
+"v": 433,
+"d": "2026-10-29",
+"tr": "Islıkla çağırdığın at ya da eşek artık ahırın duvarına takılmıyor; kapıdan çıkıp yanına geliyor.",
+"en": "Your horse or donkey no longer gets stuck on the stable wall when you whistle; it comes out through the door."
+},
+{
+"v": 432,
+"d": "2026-10-29",
+"tr": "Evin yanındaki kamp ateşine artık odun koyabilirsin: her odun ateşi 3 saat yakar (en çok 24 saat). Odun bitince ateş söner, yeniden yakmak için 1 odun gerekir.",
+"en": "You can now add wood to the campfire by your house: each log burns for 3 hours (up to 24 hours). When the wood runs out the fire goes out; relighting it takes 1 wood."
+},
+{
+"v": 431,
+"d": "2026-10-29",
+"tr": "Başka bir oyuncunun köyünü ziyaret ederken artık köpeğini ve kedisini sevebilir, çantana bakabilir ve çantadan köpeğe yemek verebilirsin. Köpeğine çantadan yemek vermek kendi çiftliğinde de çalışır.",
+"en": "While visiting another player's village you can now pet their dog and cat, open your bag and feed the dog from your bag. Feeding your own dog from the bag works on your farm too."
+},
+{
+"v": 430,
+"d": "2026-10-29",
+"tr": "Hazar Bank'ta krediyi erken kapatınca artık kredi notun +25 artıyor ve \"5 taksiti zamanında öde\" görevi tamamlanıyor (en az bir taksit ödenmiş olmalı). Daha önce erken kapattıysan telafisi kendiliğinden geldi.",
+"en": "Closing a loan early at Hazar Bank now raises your credit score by 25 and completes the \"pay 5 instalments on time\" quest (at least one instalment must be paid). If you closed one early before, it has been made up automatically."
+},
+{
+"v": 429,
+"d": "2026-10-29",
+"tr": "Cumhuriyet Uçağı geçerken kamera artık kendiliğinden yukarı bakmıyor; görmek istersen kamerayı kendin kaldırabilirsin.",
+"en": "The camera no longer tilts up on its own when the Republic Plane passes; look up yourself if you want to see it."
+},
+{
+"v": 428,
+"d": "2026-10-29",
+"tr": "Sıralama ekranının altında artık senin o anki değerin ve sıralamanın bir sonraki saatlik güncelleme saati yazıyor.",
+"en": "The ranking screen now shows your current value and the time of the next hourly ranking update."
+},
+{
+"v": 427,
+"d": "2026-10-29",
+"tr": "Batık şehre dalınca artık kalıntılar görünüyor: şehir gölün dibinde, fener ışığı yanıyor, gece de eserler seçiliyor.",
+"en": "Diving into the sunken city now shows the ruins: the city lies on the lake bed, your flashlight is on, and artifacts are visible at night too."
+},
+{
+"v": 426,
+"d": "2026-10-29",
+"tr": "Veteriner penceresinde altının yetmediğinde düğmeler artık neden soluk olduğunu söylüyor: her düğmede ne kadar altın lazım olduğu (\"💰 30 A lazım\"), üstte de cebindeki altın yazıyor. Telefonla çağırınca yol ücreti de hesaba katılır.",
+"en": "In the vet window, faded buttons now say why: each button shows how much gold you need (\"💰 30 A needed\") and the top shows how much you have. The call-out fee is included when you phone the vet."
+},
+{
+"v": 425,
+"d": "2026-10-29",
+"tr": "Cumhuriyet Uçağı artık yanından değil, gökyüzünden, tepelerin üstünden geçiyor. Uçak ve pankart daha büyük; geçerken kamera hafifçe yukarı bakar.",
+"en": "The Republic Plane now flies high in the sky over the hills instead of right next to you. The plane and banner are bigger, and the camera tilts up a little as it passes."
+},
+{
+"v": 424,
+"d": "2026-10-29",
+"tr": "Sandıkta turna balığının yanında timsah resmi çıkıyordu, artık balık simgesi var. Yayın balığı ve dev sazan da balina yerine balık simgesiyle görünüyor.",
+"en": "The pike showed a crocodile icon in the chest; it now has a fish icon. Wels catfish and giant carp also show a fish instead of a whale."
+},
+{
+"v": 423,
+"d": "2026-10-29",
+"tr": "Çiftlikteki bayrak geri geldi; çiftlik süsleri artık her açılışta görünüyor. Her çiftlikte ücretsiz bayrak direği var: Türkiye'den oynayanlarda Türk bayrağı, Çiftlik süsleri › Bayrağını seç ile kendi ülkenin bayrağını asabilirsin. 29 Ekim'de eski 15 Temmuz ikramiye düğmesi çıkmıyor.",
+"en": "The flag on your farm is back; farm decorations now show every time you open the game. Every farm has a free flagpole: players in Türkiye fly the Turkish flag, and you can hoist your own country's flag under Farm decorations › Choose your flag. On October 29 the old July 15 bonus button no longer shows."
+}
 ]
