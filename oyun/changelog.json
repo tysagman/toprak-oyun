@@ -1,5 +1,11 @@
 [
  {
+  "v": 486,
+  "d": "2026-10-30",
+  "tr": "Yeni: Gelen mesaja hızlı cevap. Bir köylüden ya da arkadaşından mesaj gelince üstteki bildirimde «↩️ Cevapla» düğmesi çıkar; dokununca oyun kapanmadan küçük bir pencerede son mesajları görür, hazır cevaplarla ya da yazarak cevap verirsin. «Tümünü aç» sohbetin tamamını açar.",
+  "en": "New: Quick reply to messages. When a villager or a friend messages you, the notification at the top shows a «↩️ Reply» button; tap it to see recent messages in a small window and reply with a quick phrase or your own text without leaving the game. «Open all» opens the full conversation."
+ },
+ {
   "v": 485,
   "d": "2026-10-30",
   "tr": "Düzeltmeler: Arkadaşın olan bir oyuncunun kartında yanlışlıkla \"Arkadaş ekle\" çıkıyor, basınca \"permission-denied\" hatası veriyordu; arkadaş listesi artık canlı güncelleniyor, bekleyen isteğe tekrar basınca \"zaten gönderildi\" yazıyor. Telsizde \"Herkes\" seçiliyken farklı bölgedeki oyuncular birbirini duymuyordu; artık herkes aynı kanalda. Köpekler ve atlar sebze bahçesinin ve köy bahçelerinin çitlerinden geçmiyor. Çağrılan at 30 sn içinde binilmezse ahırına kendi yürüyerek döner.",
