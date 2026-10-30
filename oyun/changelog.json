@@ -1,4 +1,10 @@
 [
+{
+"v": 471,
+"d": "2026-10-30",
+"tr": "Balık tutarken ekrandaki çubuklar ve göstergeler artık yanıp sönmüyor: misina gerginliği ve balık mesafesi çubukları sararken ve balık çırpınırken sabit kalıyor.",
+"en": "Fishing screen no longer flickers: the line tension and fish distance bars stay steady while you reel and while the fish struggles."
+},
  {
   "v": 470,
   "d": "2026-10-30",
