@@ -1,5 +1,11 @@
 [
  {
+  "v": 489,
+  "d": "2026-10-30",
+  "tr": "Sesli arama düzeltmesi: doğrudan bağlantı kurulamayıp yedek hatta geçildiğinde, iki telefonun saati birkaç saniye farklıysa karşı tarafın sesi hiç gelmiyordu; artık sunucu saati kullanılıyor. Telsiz ve aramada bir ses sorunu olursa sebebi bize otomatik bildiriliyor.",
+  "en": "Voice call fix: when a direct connection failed and the backup line was used, you couldn't hear the other player if your phones' clocks differed by a few seconds; server time is used now. If something goes wrong with the walkie-talkie or a call, the reason is now reported to us automatically."
+ },
+ {
   "v": 488,
   "d": "2026-10-30",
   "tr": "Denge: Mandıra ve sonrasındaki büyük yapıların (sanayi izni, fabrikalar, jeneratör, kamyonlar, soğuk hava deposu, liman, holding, tarım dronu) altın fiyatı 10 katına çıktı.",
