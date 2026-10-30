@@ -1,5 +1,11 @@
 [
  {
+  "v": 490,
+  "d": "2026-10-30",
+  "tr": "Düzeltme: Oyun kaydedilirken ya da otomatik kayıttan hemen önce yaşanan anlık takılma giderildi. Kayıt dosyası yaklaşık 15 kat küçüldü, kaydetme artık oyunu durdurmuyor; buluta gönderim ayrı anda yapılıyor. Eski kayıtlar ve açtığın harita aynen korunur.",
+  "en": "Fix: The brief stutter while the game saves (or right before an autosave) is gone. Save data is about 15 times smaller, saving no longer pauses the game and cloud sync runs separately. Your existing saves and explored map are kept."
+ },
+ {
   "v": 489,
   "d": "2026-10-30",
   "tr": "Sesli arama düzeltmesi: doğrudan bağlantı kurulamayıp yedek hatta geçildiğinde, iki telefonun saati birkaç saniye farklıysa karşı tarafın sesi hiç gelmiyordu; artık sunucu saati kullanılıyor. Telsiz ve aramada bir ses sorunu olursa sebebi bize otomatik bildiriliyor.",
