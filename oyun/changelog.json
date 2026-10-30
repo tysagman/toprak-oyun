@@ -1,5 +1,11 @@
 [
 {
+"v": 479,
+"d": "2026-10-30",
+"tr": "Traktör artık mazot yakar (parsel başına 0,4 L, depo 40 L). Bidonla 6 A/L ya da çiftliğe kurulan 500 L'lik mazot tankına toptan 4 A/L mazot alınır. Göl ve tulumba suyu artık içilmez; su yalnız köy çeşmesinden, evdeki musluktan ve Elazığ Tarım AVM'de satılan şişe sudan içilir.",
+"en": "The tractor now burns diesel (0.4 L per plot, 40 L tank). Buy it by jerrycan at 6 G/L or in bulk at 4 G/L into a 500 L diesel tank built on the farm. Lake and pump water are no longer drinkable; drink only from the village fountain, the home tap, or bottled water sold at Elazığ Tarım AVM."
+},
+{
 "v": 478,
 "d": "2026-10-30",
 "tr": "Islıkla çağrılan köpekler artık yan yana duruyor, üst üste binmiyor. Motorlu testerenin sesi gerçek iki zamanlı motor gibi: rölanti, gaz, kesimde yük altında devir düşmesi. Mandırada inek sütü için de 'Yapma, süt sandıkta kalsın' seçeneği var. Arı kovanları geliştirilebiliyor: 3 → 6 → 9 → 12 kovan, günde 8 kavanoza kadar bal.",
@@ -356,11 +362,5 @@
 "d": "2026-10-29",
 "tr": "29 Ekim'e özel: Cumhuriyet Bayramı boyunca gökyüzünden Atatürk resmi ve \"Cumhuriyet Bayramımız Kutlu Olsun!\" pankartı çeken Cumhuriyet Uçağı geçiyor. Gün bitince kendiliğinden kalkar.",
 "en": "October 29 special: throughout Republic Day, the Republic Plane flies across the sky towing a banner with Atatürk's portrait and \"Happy Republic Day!\". It leaves on its own when the day ends."
-},
-{
-"v": 417,
-"d": "2026-10-29",
-"tr": "Sıralama: Başkan gerçek puanıyla sıralamaya girdi ve adının yanında 🎖️ Onursal Üye yazıyor. Sıralamadan artık yalnız engellenen hesaplar çıkar.",
-"en": "Rankings: Başkan is now ranked by his real score and shows 🎖️ Honorary Member next to his name. Only banned accounts are left out of the rankings now."
 }
 ]
