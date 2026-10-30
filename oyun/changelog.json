@@ -1,5 +1,11 @@
 [
 {
+"v": 469,
+"d": "2026-10-30",
+"tr": "Evini taşıdıktan sonra oyun açılırken ev kendiliğinden başka yere kayıyor ve oyun birkaç kez yeniden yükleniyordu. Düzeltildi: evin kendi giriş yolu artık engel sayılmıyor, ev seçtiğin yerde kalıyor.",
+"en": "After moving your house, it could slide to another spot and the game reloaded several times on start. Fixed: the house's own driveway no longer counts as an obstacle, so it stays where you put it."
+},
+{
 "v": 468,
 "d": "2026-10-30",
 "tr": "Köy meydanının ortasında duran sahipsiz 🏪 simgesi kalktı; bakkal tabelası artık Hüseyin'in dükkânının üstünde.",
@@ -355,11 +361,5 @@
 "d": "2026-10-28",
 "tr": "Telefon daha az ısınır, oyun daha akıcı: her karede sahnedeki binlerce kıpırdamayan nesnenin konumu artık baştan hesaplanmıyor, uzaktaki görünmeyen nesneler atlanıyor. Görüntü aynı.",
 "en": "Phones heat less and the game runs smoother: the positions of thousands of motionless objects are no longer recomputed every frame, and distant hidden objects are skipped. Visuals unchanged."
-},
-{
-"v": 407,
-"d": "2026-10-28",
-"tr": "Elazığ'da belediye çalıştı: şehrin yolları düzeltildi. Arazi artık yolların üstüne çıkmıyor, kaldırımlar kavşakları kapatmıyor, bütün caddeler yeni çevre yoluna bağlanıyor, kavşaklarda yaya geçidi var. Yolun üstündeki apartmanlar, lamba ve ağaç kaldırıldı.",
-"en": "The city council got to work in Elazığ: the city's roads are fixed. The ground no longer pokes through the roads, sidewalks no longer block intersections, every street now joins a new ring road, and intersections have crosswalks. Buildings, a lamp and a tree that stood on the road were removed."
 }
 ]
