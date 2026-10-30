@@ -1,5 +1,11 @@
 [
  {
+  "v": 487,
+  "d": "2026-10-30",
+  "tr": "Düzeltme: Arı kovanını kurunca ya da taşıyınca oyun yeniden başlıyordu; artık kovan yerinde kuruluyor, oyun kapanmıyor. Taşınan kovanın eski yerinde görünmez engel kalmıyor, Arıcı Zehra kovanların yeni yerine gidiyor.",
+  "en": "Fix: placing or moving the beehives restarted the game; now the hives are built in place without a restart. No invisible obstacle is left at the old spot and Beekeeper Zehra goes to the new location."
+ },
+ {
   "v": 486,
   "d": "2026-10-30",
   "tr": "Yeni: Gelen mesaja hızlı cevap. Bir köylüden ya da arkadaşından mesaj gelince üstteki bildirimde «↩️ Cevapla» düğmesi çıkar; dokununca oyun kapanmadan küçük bir pencerede son mesajları görür, hazır cevaplarla ya da yazarak cevap verirsin. «Tümünü aç» sohbetin tamamını açar.",
