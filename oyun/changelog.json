@@ -1,5 +1,11 @@
 [
  {
+  "v": 477,
+  "d": "2026-10-30",
+  "tr": "Telefon ısınması ve pil: telefon seçili kare hızına uzun süre yetişemezse hedef kendiliğinden telefona uygun seviyeye iner (ör. 120→30). Otomatik grafikte en düşük ayarda da zorlanırsa gölgeler o oturum için kapanır, Ayarlar'dan tekrar açılabilir.",
+  "en": "Phone heat and battery: if the phone can't reach the chosen frame rate for a while, the target drops to a level that suits it (e.g. 120→30). On Automatic graphics at the lowest level, shadows are turned off for that session if the phone still struggles; they can be turned back on in Settings."
+ },
+ {
   "v": 476,
   "d": "2026-10-30",
   "tr": "Çalışanlar artık işlerini gün sonuna kadar bitiriyor: Ayşe öğleden sonra olgunlaşan tarlaları da biçip ekiyor, Bahçıvan Cemil yatakları gün boyu ekip suluyor, Çoban Osman inek sütünü aynı gün sağıyor, çobanlar kışın yemliği tam dolduruyor, öğretilen işler de her gün yapılıyor. Siloda yer varken buğday sandığa girmiyordu, düzeldi. Sandık çalışanların %65 sınırına gelince uyarı çıkıyor.",
