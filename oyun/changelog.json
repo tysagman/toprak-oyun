@@ -1,5 +1,11 @@
 [
 {
+"v": 453,
+"d": "2026-10-30",
+"tr": "Bal artık kavanozla sayılıyor: kovandan, satıcılardan ve görevlerde 1 bal = 1 kavanoz bal (ör. Kenan'a 20 kavanoz bal götür). Fiyatlar değişmedi.",
+"en": "Honey is now counted in jars: from hives, sellers and quests, 1 honey = 1 jar of honey (e.g. bring Kenan 20 jars of honey). Prices are unchanged."
+},
+{
 "v": 452,
 "d": "2026-10-30",
 "tr": "Güncelleme notlarında artık her düzeltmenin yanında oyunun sürümü (v1.00) ve tarihi yazıyor.",
