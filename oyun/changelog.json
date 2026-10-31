@@ -1,5 +1,11 @@
 [
 {
+"v": 519,
+"d": "2026-10-31",
+"tr": "Biyogaz tesisi büyüyünce koyun ya da keçi merasının içine taşıyordu ve hayvanlar üst üste yığılıyordu: tesis artık meralarla ve diğer yapılarla çakışırsa en yakın boş yere kayıyor, laboratuvar da yanına geliyor. Eğimli zeminde tesisin ve laboratuvarın altına beton kaide eklendi.",
+"en": "When the biogas plant grew it spilled into the sheep or goat pasture and the animals piled up: the plant now moves to the nearest free spot if it overlaps pastures or other buildings, and the lab follows it. On sloped ground the plant and lab now sit on a concrete base."
+},
+{
 "v": 518,
 "d": "2026-10-31",
 "tr": "v1.11: mera, kümes ve ahır sayısı artırılabiliyor. Çiftliği geliştir'de her türden 3 tane ek yapı kurulur: ek inek merası (+10 inek), ek koyun merası (+12), ek keçi merası (+10), ek kümes (+150 tavuk), ek ahır (+4 at/eşek). Ana yapı en az bir kez geliştirilince açılır. Ana yapı dolunca hayvanlar ek yapıya geçer; yemlik, çoban ve bakıcı ortaktır. Ek yapılar da yerleşim modunda taşınabilir.",
