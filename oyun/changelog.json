@@ -1,5 +1,12 @@
 [
  {
+  "v": 503,
+  "pv": "v1.06",
+  "d": "2026-10-31",
+  "tr": "v1.06: çiftliğini kişiselleştir. ☰ Diğer › Çiftlik süsleri'nde yeni: ev boyası (7 renk), çiftlik tabelası rengi (6 tabela), hayvan tasmaları (köpek, kedi, at ve eşek, inek, koyun ve keçi; 7 renk) ve kıyafet kısayolları. Giyim mağazasında yeni çiftçi tulumu. Bir kez alınır, renk değiştirmek bedava; ziyarete gelen arkadaşların da görür.",
+  "en": "v1.06: personalise your farm. New in ☰ More › Farm decorations: house paint (7 colours), farm sign colour (6 signs), animal collars (dog, cat, horse and donkey, cow, sheep and goat; 7 colours) and clothing shortcuts. New farmer overalls in the clothing store. Buy once, changing colours is free; visiting friends see it too."
+ },
+ {
   "v": 502,
   "d": "2026-10-31",
   "tr": "Traktör düzeltmesi: traktöre binip olgun tarlanın üstünden geçince buğday biçiliyor ve tarla sürülüyor. Traktör artık evlerin içinden geçmiyor. \"Kışa hazırlan\" görevi açıkken Çoban Osman ve diğer çalışanlar sandıktaki 150 buğday ve 80 ota dokunmuyor.",
