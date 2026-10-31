@@ -1,5 +1,11 @@
 [
  {
+  "v": 517,
+  "d": "2026-10-31",
+  "tr": "Tavşan tuzağı yamaca kurulunca artık toprağa gömülmüyor: tuzak eğime yatıyor ve tamamı görünüyor (tavşan düşünce de).",
+  "en": "Rabbit traps set on a slope no longer sink into the ground: the trap now tilts with the slope and is fully visible (also once a rabbit is caught)."
+ },
+ {
   "v": 516,
   "d": "2026-10-31",
   "tr": "Arılar artık sokabiliyor: kovanlara 7 metre yaklaşınca uyarı çıkıyor; kovanların dibinde 3 saniyeden uzun oyalanırsan arılar sokuyor (her sokmada sağlık −4). Gece arılar kovanda olduğu için sokmaz, Arıcı Zehra çalışıyorsa daha az sokar. Bal toplamak kısa sürdüğü için sokulmadan yapılabilir; arı sokması sağlığını 10'un altına indirmez.",
