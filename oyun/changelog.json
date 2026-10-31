@@ -1,5 +1,11 @@
 [
  {
+  "v": 504,
+  "d": "2026-10-31",
+  "tr": "Ana menüde görünen sürüm numarası v1.06 olarak düzeltildi.",
+  "en": "The version number shown in the main menu now correctly reads v1.06."
+ },
+ {
   "v": 503,
   "pv": "v1.06",
   "d": "2026-10-31",
