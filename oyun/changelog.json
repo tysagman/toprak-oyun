@@ -1,5 +1,11 @@
 [
  {
+  "v": 547,
+  "d": "2026-10-31",
+  "tr": "Yollar: kavşaklarda yan yol ana yola tam bağlanıyor, kavşak ağzında orta ve kenar çizgisi kesiliyor. Yolun ortasında kalan lamba, korkuluk, saman yığını ve bir otobüs durağı kenara alındı. Köy yolları 7 m, şehir yolu 8 m'ye genişledi, kenar çizgileri yolun kenarına alındı. Otobüs yolculukta ve taksi varışa kadar kendi şeridinde gidiyor. Kuzey toprak yollarının kenarları artık basamak basamak görünmüyor.",
+  "en": "Roads: side roads now join the main road cleanly at every junction, and the centre and edge lines break at the junction mouth. A lamp, a scarecrow, a haystack and a bus stop that stood on the road were moved aside. Village roads are now 7 m wide and the city road 8 m, with the edge lines at the road edge. The bus on trips and arriving taxis stay in their own lane. The northern dirt roads no longer show stepped edges."
+ },
+ {
   "v": 546,
   "d": "2026-10-31",
   "tr": "Meydandaki Kapalı pazar yeri artık gerçek bir pazar: kiremit çatı, üç tezgâh, iki oturak ve tabela. Yağmurda turistler altına sığınıyor, oturaklara sen de oturabilirsin; tezgâha yaklaşınca pazar günü bilgisi açılıyor. Pencere açıkken FPS sayacı artık tasarruf modunu gösteriyor; meydan kalabalığında oyun biraz daha hafif.",
