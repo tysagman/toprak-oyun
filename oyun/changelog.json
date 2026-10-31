@@ -1,5 +1,12 @@
 [
  {
+  "v": 502,
+  "d": "2026-10-31",
+  "tr": "Traktör düzeltmesi: traktöre binip olgun tarlanın üstünden geçince buğday biçiliyor ve tarla sürülüyor. Traktör artık evlerin içinden geçmiyor. \"Kışa hazırlan\" görevi açıkken Çoban Osman ve diğer çalışanlar sandıktaki 150 buğday ve 80 ota dokunmuyor.",
+  "en": "Tractor fix: driving over a ripe field now harvests the wheat and ploughs the plot. The tractor no longer drives through houses. While the \"Prepare for winter\" quest is active, workers leave the 150 wheat and 80 hay in the chest alone.",
+  "pv": "v1.05"
+ },
+ {
   "v": 501,
   "d": "2026-10-31",
   "tr": "v1.05: tekrar eden görevler değişti. Bölüm 2–4'te balık, tavşan, dalış, yemleme ve satışın büyüğünü yapmak yerine 18 yeni hedef: kahvehane açılışı, bahçe hasadı, dalış turu, vadeli hesap, okul sıraları, müzeye eser, biyogaz, mazot tankı, laboratuvar, güneş paneli, sigorta, ambar, dron, köy festivali. Haftalık görevler çeşitlendi, yapamayacağın görev artık çıkmaz.",
