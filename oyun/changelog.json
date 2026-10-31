@@ -1,5 +1,12 @@
 [
  {
+  "v": 524,
+  "pv": "v1.14",
+  "d": "2026-10-31",
+  "tr": "v1.14: yeni yapı Çalışan dinlenme alanı (Çiftliği geliştir › Yeni yapılar). Gölgelikli çardak, masa, banklar ve çay ocağı. İşini bitiren çalışanlar iş saatinde burada oturup çay içerek bekler, yeni iş çıkınca işine döner, akşam evine gider. Yapı varken çalışanların memnuniyeti %10 artar. Yerini Yapıların yerini değiştir ile istediğin yere taşıyabilirsin.",
+  "en": "v1.14: new building Workers' rest area (Upgrade farm › New buildings). A shaded gazebo with a table, benches and a tea stove. Workers who finish their jobs sit here drinking tea during work hours, go back to work when new work comes up and head home in the evening. With it, worker satisfaction rises by 10%. You can move it anywhere with Move buildings."
+ },
+ {
   "v": 523,
   "d": "2026-10-31",
   "tr": "Yapı kurarken yerinde taş ya da ağaç varsa artık açık uyarı çıkıyor: \"Burada engel var (taş). Önce taşı kır, sonra kur.\" Engel kırmızı halkayla gösteriliyor. Taşı kırdıktan ya da ağacı kestikten sonra yapını oraya kurabilirsin; taş yapının altından yeniden çıkmıyor.",
