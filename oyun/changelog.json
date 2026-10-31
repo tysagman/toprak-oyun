@@ -1,5 +1,12 @@
 [
  {
+  "v": 507,
+  "d": "2026-10-31",
+  "tr": "v1.08: traktöre ekipman geldi. Traktörün yanındaki menüden pulluk, mibzer ve biçer tablası takılıp çıkarılıyor; işi takılı ekipman belirliyor: pulluk tarlayı derin sürer, mibzer tohum eker, biçer tablası olgun buğdayı biçer. Pulluk traktörle birlikte gelir, mibzer 400 A, biçer tablası 600 A. Traktörü olan oyunculara üçü de hediye.",
+  "en": "v1.08: tractor equipment. From the menu next to the tractor you can attach and remove a plough, seed drill and harvester header; the attached equipment decides the job: the plough ploughs deep, the seed drill sows, the header harvests ripe wheat. The plough comes with the tractor, the seed drill costs 400 G, the header 600 G. Players who already own a tractor get all three free.",
+  "pv": "v1.08"
+ },
+ {
   "v": 506,
   "d": "2026-10-31",
   "tr": "Çağırdığın araca artık her yanından binebilirsin: araç yoldayken (şehirde kaldırıma varmadan, önünde durduğun için beklerken) 6 m yakınına gelince 'Araca bin' çıkar.",
