@@ -1,5 +1,11 @@
 [
  {
+  "v": 511,
+  "d": "2026-10-31",
+  "tr": "Evdeki duvar saati artık oyun saatini anlık gösteriyor: akrep ve yelkovan sağ üstteki saatle aynı dakikayı gösterir. Saatin üzerine saat çizgileri eklendi.",
+  "en": "The wall clock at home now shows the game time live: the hour and minute hands match the clock at the top right. Hour marks were added to the clock face."
+ },
+ {
   "v": 510,
   "pv": "v1.09",
   "d": "2026-10-31",
