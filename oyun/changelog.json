@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-10-31",
+  "tr": "Laboratuvarda artık kendin analiz yapabilirsin: ortadaki analiz tezgâhında toprak, alçı faz ve biyogaz çamuru analizi var. Numuneyi doğru hazırlarsan tam sonuç alırsın; toprak analizi 3 gün hasadı %15 artırır, alçı faz raporunu alçı fabrikası satın alır, biyogaz analizi tesisin verimini 2 gün yükseltir. Her analiz günde bir kez yapılır ve kendi cihazını ister (pH ölçer, etüv + terazi, santrifüj). Laboratuvar duvarlarına Alçı Faz Analizi posterleri (faz diyagramı, TG eğrisi, faz tablosu, XRD pikleri) ve bir özlü sözler panosu asıldı.",
+  "en": "You can now run analyses yourself in the laboratory: the analysis bench in the middle offers soil, gypsum phase and biogas sludge analysis. Prepare the sample correctly for the full result; soil analysis raises your harvest by 15% for 3 days, the plaster factory buys your gypsum phase report, and biogas analysis boosts the plant's efficiency for 2 days. Each analysis can be done once a day and needs its own instrument (pH meter, drying oven + balance, centrifuge). The lab walls now have Gypsum Phase Analysis posters (phase diagram, TG curve, phase table, XRD peaks) and a board of wise sayings.",
+  "v": 552,
+  "pv": "v1.25"
+ },
+ {
   "v": 551,
   "d": "2026-10-31",
   "pv": "v1.24",
