@@ -1,5 +1,11 @@
 [
  {
+  "v": 538,
+  "d": "2026-10-31",
+  "tr": "Yeni yaban hayvanları. Tilki: gece kümese sinsice gelir; kapı açık kaldıysa tavuk kapıp ağzında götürür, kapı kapalı ama sağlam çit yoksa altını eşip yumurta çalar. Köpek kovalar, yanına gidersen kaçar. Yaban domuzu: gece ormandan inip ekili tarlayı eşeler, ekin geri kalır; köpek ve sopa kovalar, sopasız yaklaşırsan saldırır. Leylek: ilkbahar ve yazın tarlana iner, böcek toplar, gagasını takırdatır; o gün hasat +%10.",
+  "en": "New wild animals. Fox: sneaks up to the coop at night; if the door was left open it grabs a hen, if the door is closed but there is no sturdy fence it digs under and steals eggs. Dogs chase it, and it runs if you approach. Wild boar: comes out of the forest at night and digs up a sown field, setting the crop back; a dog or a stick drives it off, without a stick it charges you. Stork: in spring and summer lands in your field, eats insects and clatters its bill; +10% harvest that day."
+ },
+ {
   "v": 537,
   "pv": "v1.18",
   "d": "2026-10-31",
