@@ -1,5 +1,11 @@
 [
  {
+  "v": 512,
+  "d": "2026-10-31",
+  "tr": "Taksi artık otobüsten belirgin şekilde hızlı: köyden şehre otobüs 12 sn, taksi yaklaşık 8 sn. Taksi ücreti otobüs biletinden yüksek kalıyor.",
+  "en": "Taxis are now clearly faster than the bus: village to city takes 12 s by bus and about 8 s by taxi. Taxi fares stay higher than a bus ticket."
+ },
+ {
   "v": 511,
   "d": "2026-10-31",
   "tr": "Evdeki duvar saati artık oyun saatini anlık gösteriyor: akrep ve yelkovan sağ üstteki saatle aynı dakikayı gösterir. Saatin üzerine saat çizgileri eklendi.",
