@@ -1,5 +1,12 @@
 [
  {
+  "v": 539,
+  "d": "2026-10-31",
+  "pv": "v1.20",
+  "tr": "Ürün depoları geldi: Süt deposu, Yumurta deposu, Yün deposu, Peynir ve süt ürünleri deposu, Bal deposu (Çiftliği geliştir › Yeni yapılar). Depo kendi ürünlerini saklar, sandıkta yer kaplamaz; doluluk oranı deponun önündeki göstergede, sandıkta ve deponun kartında görünür (%90'da turuncu). Pazarlamacı Burak depodaki ürünü satar; istersen «Depo dolunca Burak satsın» ile depo %90 dolunca %70'e indirecek kadar kendisi satar.",
+  "en": "Product stores are here: Milk tank, Egg store, Wool store, Cheese and dairy store, Honey store (Upgrade farm › New buildings). Each store keeps its own products without using chest space; the fill level shows on the gauge in front, in the chest and on the store card (orange at 90%). Marketer Burak sells from the stores; turn on «Burak sells when the store is full» and he sells down to 70% once a store is 90% full."
+ },
+ {
   "v": 538,
   "d": "2026-10-31",
   "tr": "Yeni yaban hayvanları. Tilki: gece kümese sinsice gelir; kapı açık kaldıysa tavuk kapıp ağzında götürür, kapı kapalı ama sağlam çit yoksa altını eşip yumurta çalar. Köpek kovalar, yanına gidersen kaçar. Yaban domuzu: gece ormandan inip ekili tarlayı eşeler, ekin geri kalır; köpek ve sopa kovalar, sopasız yaklaşırsan saldırır. Leylek: ilkbahar ve yazın tarlana iner, böcek toplar, gagasını takırdatır; o gün hasat +%10.",
