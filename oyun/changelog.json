@@ -1,5 +1,11 @@
 [
  {
+  "v": 506,
+  "d": "2026-10-31",
+  "tr": "Çağırdığın araca artık her yanından binebilirsin: araç yoldayken (şehirde kaldırıma varmadan, önünde durduğun için beklerken) 6 m yakınına gelince 'Araca bin' çıkar.",
+  "en": "You can now get into a called car from any side: once it is within 6 m, 'Get in' appears even while it is still on its way (in the city before it reaches the kerb, or while it waits because you are standing in front of it)."
+ },
+ {
   "v": 505,
   "pv": "v1.07",
   "d": "2026-10-31",
