@@ -1,10 +1,16 @@
 [
  {
-  "v": 530,
-  "pv": "v1.13",
+  "v": 531,
   "d": "2026-10-31",
-  "tr": "v1.13: yemekler çeşitlendi. Kamp ateşinde çiğ tavuk artık tavuk şiş oluyor (tavuk sote evde, ocakta). Ateşte yeni Şiş ve közleme bölümü: sebzeli tavuk şiş, kuzu şiş, ızgara köfte ve köz patlıcan. Ev mutfağına tavuklu bulgur pilavı, tavuk çorbası (hastaya iyi gelir), etli kuru fasulye ve patlıcan musakka eklendi. Her yemeğin tokluğu ve enerjisi malzemesine göre.",
-  "en": "v1.13: more dishes. At the campfire raw chicken now becomes a chicken skewer (chicken sauté is cooked at home on the stove). New Skewers & embers section at the fire: chicken & veggie skewer, lamb skewer, grilled meatballs and fire-roasted eggplant. The home kitchen adds chicken bulgur pilaf, chicken soup (good when you're sick), beans with lamb and eggplant moussaka. Each dish fills you up according to its ingredients."
+  "tr": "Sürüm numarası düzeltildi: son güncelleme v1.16.",
+  "en": "Version number fixed: the latest update is v1.16."
+ },
+ {
+  "v": 530,
+  "pv": "v1.16",
+  "d": "2026-10-31",
+  "tr": "v1.16: yemekler çeşitlendi. Kamp ateşinde çiğ tavuk artık tavuk şiş oluyor (tavuk sote evde, ocakta). Ateşte yeni Şiş ve közleme bölümü: sebzeli tavuk şiş, kuzu şiş, ızgara köfte ve köz patlıcan. Ev mutfağına tavuklu bulgur pilavı, tavuk çorbası (hastaya iyi gelir), etli kuru fasulye ve patlıcan musakka eklendi. Her yemeğin tokluğu ve enerjisi malzemesine göre.",
+  "en": "v1.16: more dishes. At the campfire raw chicken now becomes a chicken skewer (chicken sauté is cooked at home on the stove). New Skewers & embers section at the fire: chicken & veggie skewer, lamb skewer, grilled meatballs and fire-roasted eggplant. The home kitchen adds chicken bulgur pilaf, chicken soup (good when you're sick), beans with lamb and eggplant moussaka. Each dish fills you up according to its ingredients."
  },
  {
   "v": 529,
