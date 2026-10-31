@@ -1,10 +1,17 @@
 [
 {
+"v": 536,
+"d": "2026-10-31",
+"tr": "Görünen sürüm numarası düzeltildi: aynı gün yapılan yayınlarda numara geri gitmişti (v1.16'dan sonra v1.13 görünüyordu). Şu anki sürüm v1.17.",
+"en": "Fixed the displayed version number: same-day releases had made it go backwards (v1.13 showed after v1.16). The current version is v1.17.",
+"pv": "v1.17"
+},
+{
 "v": 535,
 "d": "2026-10-31",
-"tr": "v1.13: mağaza ve çiftlik görevleri. Hedefler'de ve mağaza ekranında 12 yeni görev: Kolay (ilk müşteri, 3 çeşit dolu raf, bir ek yapı), Orta (10 turist müşteri, Sevgi 50 ürün satsın, 8 farklı ürün sat), Zor (tek günde 3.000 A, ek inek merası + ek kümes + ek ahır, 5 çalışan aynı anda), Çok zor (800'lük raflar, toplam 50.000 A satış, 5 gün sen uğramadan Sevgi her gün 40 ürün satsın). Her görev farklı bir iş; bir zorluğun üç ödülü alınınca sonraki açılır. Turistler köyde turist yokken de mağazana arada bir uğrar.",
-"en": "v1.13: shop and farm tasks. 12 new tasks in Goals and on the shop screen: Easy (first customer, 3 kinds on the shelves, one extra building), Medium (10 tourist customers, Sevgi sells 50 items, sell 8 different goods), Hard (3,000 G in one day, extra cow pasture + extra coop + extra stable, 5 workers at once), Very hard (800-item shelves, 50,000 G total sales, 5 days of Sevgi selling 40 items a day without you visiting). Every task is a different job; collect a level's three rewards to unlock the next. Tourists now drop by your shop now and then even when none are staying in the village.",
-"pv": "v1.13"
+"tr": "v1.17: mağaza ve çiftlik görevleri. Hedefler'de ve mağaza ekranında 12 yeni görev: Kolay (ilk müşteri, 3 çeşit dolu raf, bir ek yapı), Orta (10 turist müşteri, Sevgi 50 ürün satsın, 8 farklı ürün sat), Zor (tek günde 3.000 A, ek inek merası + ek kümes + ek ahır, 5 çalışan aynı anda), Çok zor (800'lük raflar, toplam 50.000 A satış, 5 gün sen uğramadan Sevgi her gün 40 ürün satsın). Her görev farklı bir iş; bir zorluğun üç ödülü alınınca sonraki açılır. Turistler köyde turist yokken de mağazana arada bir uğrar.",
+"en": "v1.17: shop and farm tasks. 12 new tasks in Goals and on the shop screen: Easy (first customer, 3 kinds on the shelves, one extra building), Medium (10 tourist customers, Sevgi sells 50 items, sell 8 different goods), Hard (3,000 G in one day, extra cow pasture + extra coop + extra stable, 5 workers at once), Very hard (800-item shelves, 50,000 G total sales, 5 days of Sevgi selling 40 items a day without you visiting). Every task is a different job; collect a level's three rewards to unlock the next. Tourists now drop by your shop now and then even when none are staying in the village.",
+"pv": "v1.17"
 },
 {
 "v": 534,
@@ -40,9 +47,8 @@
 {
 "v": 529,
 "d": "2026-10-31",
-"tr": "v1.12: kendi çiftlik mağazanı kur. Çiftliği geliştir › Yeni yapılar'dan Çiftlik mağazası kurulur; sandıktaki ürünleri rafa koyarsın, köylüler ve turistler 08:00–20:00 arası yürüyerek gelip alır, para doğrudan cebine girer. Fiyat ucuz (çok müşteri), normal ya da pahalı (az müşteri) seçilir. Yeni çalışan Tezgâhtar Sevgi tezgâhta durup satar ve her sabah rafları sandıktan senin belirlediğin miktara tamamlar; o yokken mağazanın yanında sen durursan satış olur. Raflar 200'den 400'e ve 800'e büyütülebilir.",
-"en": "v1.12: build your own farm shop. Build the Farm shop from Upgrade the farm › New buildings; put goods from the chest on the shelves and villagers and tourists walk over between 08:00 and 20:00 to buy them, the money goes straight to you. Choose cheap (many customers), normal or pricey (few customers). New worker shopkeeper Sevgi sells at the counter and every morning tops up the shelves from the chest to the amounts you set; without her, sales happen while you stay near the shop. Shelves can grow from 200 to 400 and 800.",
-"pv": "v1.12"
+"tr": "kendi çiftlik mağazanı kur. Çiftliği geliştir › Yeni yapılar'dan Çiftlik mağazası kurulur; sandıktaki ürünleri rafa koyarsın, köylüler ve turistler 08:00–20:00 arası yürüyerek gelip alır, para doğrudan cebine girer. Fiyat ucuz (çok müşteri), normal ya da pahalı (az müşteri) seçilir. Yeni çalışan Tezgâhtar Sevgi tezgâhta durup satar ve her sabah rafları sandıktan senin belirlediğin miktara tamamlar; o yokken mağazanın yanında sen durursan satış olur. Raflar 200'den 400'e ve 800'e büyütülebilir.",
+"en": "build your own farm shop. Build the Farm shop from Upgrade the farm › New buildings; put goods from the chest on the shelves and villagers and tourists walk over between 08:00 and 20:00 to buy them, the money goes straight to you. Choose cheap (many customers), normal or pricey (few customers). New worker shopkeeper Sevgi sells at the counter and every morning tops up the shelves from the chest to the amounts you set; without her, sales happen while you stay near the shop. Shelves can grow from 200 to 400 and 800."
 },
 {
 "v": 528,
