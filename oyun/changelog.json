@@ -1,5 +1,12 @@
 [
  {
+  "v": 501,
+  "d": "2026-10-31",
+  "tr": "v1.05: tekrar eden görevler değişti. Bölüm 2–4'te balık, tavşan, dalış, yemleme ve satışın büyüğünü yapmak yerine 18 yeni hedef: kahvehane açılışı, bahçe hasadı, dalış turu, vadeli hesap, okul sıraları, müzeye eser, biyogaz, mazot tankı, laboratuvar, güneş paneli, sigorta, ambar, dron, köy festivali. Haftalık görevler çeşitlendi, yapamayacağın görev artık çıkmaz.",
+  "en": "v1.05: repeating quests replaced. Instead of bigger versions of fishing, rabbits, diving, feeding and selling, Chapters 2–4 now have 18 new goals: coffeehouse opening, garden harvest, diving tour, time deposit, school desks, museum finds, biogas, diesel tank, laboratory, solar panels, insurance, barn, drone and a village festival. Weekly tasks are more varied and never ask for something you can't do yet.",
+  "pv": "v1.05"
+ },
+ {
   "v": 500,
   "d": "2026-10-31",
   "tr": "Düzeltme: çayıra kurulan yapıların (ör. laboratuvar) önünde «Yem bırak» uyarısı çıkıyordu. Artık laboratuvarın önünde kendi «Laboratuvar» düğmesi var; kurulu yapıların içinde ve yanında yem bırakma ve tuzak kurma çıkmıyor, yapının altında kalan yaban tavuğu yuvaları başka yere taşınıyor.",
