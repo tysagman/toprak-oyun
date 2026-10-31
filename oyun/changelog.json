@@ -1,5 +1,11 @@
 [
  {
+  "v": 546,
+  "d": "2026-10-31",
+  "tr": "Meydandaki Kapalı pazar yeri artık gerçek bir pazar: kiremit çatı, üç tezgâh, iki oturak ve tabela. Yağmurda turistler altına sığınıyor, oturaklara sen de oturabilirsin; tezgâha yaklaşınca pazar günü bilgisi açılıyor. Pencere açıkken FPS sayacı artık tasarruf modunu gösteriyor; meydan kalabalığında oyun biraz daha hafif.",
+  "en": "The Covered market in the village square is now a real market: tiled roof, three stalls, two benches and a sign. Tourists shelter under it in the rain and you can sit on the benches too; walk up to a stall for market day info. The FPS counter now shows power-saving mode while a window is open; the crowded square is a bit lighter."
+ },
+ {
   "v": 545,
   "d": "2026-10-31",
   "pv": "v1.21",
