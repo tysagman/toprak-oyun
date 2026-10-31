@@ -1,5 +1,12 @@
 [
  {
+  "v": 548,
+  "d": "2026-10-31",
+  "pv": "v1.22",
+  "tr": "Köy halkının artık her birinin işi var: ustalar inşaatları hızlandırıyor, hamal, bahçıvan, oduncu, çoban ve esnaf pazarın biten stoğunu yeniden getiriyor, sucular hayvan hastalık riskini azaltıyor, temizlikçi ve pazarcılar köye daha çok turist çekiyor. Herkes işine uygun aletiyle çalışıyor (kova, çuval, süpürge, çapa, çekiç). Bir köylüye yaklaşınca ne yaptığı ve köye faydası yazıyor. Amaçsız dolaşan kalabalık azaldı. Köy kalkınması ekranında köy halkının işleri listeleniyor.",
+  "en": "Every villager now has a job: builders speed up construction; porters, gardeners, woodcutters, shepherds and shopkeepers restock the market; water carriers lower animal disease risk; sweepers and market sellers attract more tourists. Everyone works with a fitting tool (bucket, sack, broom, hoe, hammer). Walk up to a villager to see what they are doing and how it helps the village. The aimless crowd is smaller. The Village development screen lists what the villagers do."
+ },
+ {
   "v": 547,
   "d": "2026-10-31",
   "tr": "Yollar: kavşaklarda yan yol ana yola tam bağlanıyor, kavşak ağzında orta ve kenar çizgisi kesiliyor. Yolun ortasında kalan lamba, korkuluk, saman yığını ve bir otobüs durağı kenara alındı. Köy yolları 7 m, şehir yolu 8 m'ye genişledi, kenar çizgileri yolun kenarına alındı. Otobüs yolculukta ve taksi varışa kadar kendi şeridinde gidiyor. Kuzey toprak yollarının kenarları artık basamak basamak görünmüyor.",
