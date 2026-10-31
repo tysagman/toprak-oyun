@@ -1,5 +1,11 @@
 [
  {
+  "v": 513,
+  "d": "2026-10-31",
+  "tr": "Mera ile koyun ve keçi meralarındaki suluklarda suyun içinde dönüyormuş gibi görünen titreme giderildi; suluk artık üstü açık bir kova, su kenarın altında.",
+  "en": "Fixed the flickering that made the water in the pasture troughs look like it was spinning; the trough is now an open tub with the water below the rim."
+ },
+ {
   "v": 512,
   "d": "2026-10-31",
   "tr": "Taksi artık otobüsten belirgin şekilde hızlı: köyden şehre otobüs 12 sn, taksi yaklaşık 8 sn. Taksi ücreti otobüs biletinden yüksek kalıyor.",
