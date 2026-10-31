@@ -1,5 +1,12 @@
 [
  {
+  "v": 522,
+  "pv": "v1.13",
+  "d": "2026-10-31",
+  "tr": "v1.13: Harita keşfi yenilendi. Gittiğin yerlerdeki gölge artık daha geniş açılıyor, araçla ya da otobüsle giderken de yol boyunca açılıyor. Bir bölgeye (köy, kasaba, Harput, Kuzey yerleri) girince o bölgenin tamamı haritada açılır; daha önce gittiğin bölgeler de bu sürümle haritanda açıldı. Haritanın boş yerlerine 7 yeni keşif noktası eklendi: Eski höyük, Seyir tepesi, Kervansaray harabesi, Çoban çeşmesi, Yaşlı çınar, Kaya mağarası ve Dağ kulübesi. Her birini ilk bulduğunda +30 altın kazanırsın, haritada simgesi çıkar ve Albüm'deki keşfedilen yerlere eklenir.",
+  "en": "v1.13: Map exploration has been improved. The shadow over places you visit now clears in a wider circle, and also along the way when you travel by vehicle or bus. When you enter a region (village, town, Harput, the northern places) the whole region opens on the map; regions you visited before are opened on your map with this update too. 7 new places to discover were added to empty parts of the map: Ancient mound, Lookout hill, Caravanserai ruins, Shepherd's fountain, Old plane tree, Rock cave and Mountain hut. Each gives +30 gold the first time you find it, appears on the map and is added to the discovered places in the Album."
+ },
+ {
   "v": 521,
   "d": "2026-10-31",
   "tr": "Yeni hayvan: Kartal. Gündüz çiftliğin üstünde süzülür, çığlık atar, avının üstünde döner, pike yapıp pençesiyle kapar ve götürür. Kümes kapısı gündüz açıksa birkaç tavuk avluya çıkıp gezinir (sağlıkları biraz artar) ama kartala açık hedef olur. Korunma: kümes kapısını kapat (avlu tel örtülü), uyanık köpek, çoban, bostan korkuluğu; kartal dönerken yanına koşup \"Kartalı kov\" ya da sapanla vur (taşıyorsa avını düşürür). Günde en çok bir kayıp, sadece sen yakındayken saldırır.",
