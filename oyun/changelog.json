@@ -1,5 +1,12 @@
 [
  {
+  "v": 545,
+  "d": "2026-10-31",
+  "pv": "v1.21",
+  "tr": "Çiftlik binalarına tabela geldi: ambar, silo, su deposu, kümes, ahır, meralar, çiftlik mağazası, mandıra, ürün depoları, mazot tankı, biyogaz tesisi, arı kovanları, fabrikalar ve ek yapıların üzerinde simgesi ve adı yazan ahşap levha var; hangi binanın ne olduğu uzaktan belli. Yazılar seçtiğin dilde görünür. Binalarına istediğin adı verebilirsin: Diğer › Çiftlik süsleri › Bina tabelaları. Koyun ve keçi merasındaki gölgeliğin artık tabelası var; öğlen sıcağında, yağmurda ve gece hayvanlar altına girer, zemininden ve ahır zemininden ot çıkmaz.",
+  "en": "Farm buildings now have signs: the barn, silo, water tank, coop, stable, pastures, farm shop, dairy, product stores, diesel tank, biogas plant, beehives, factories and extra buildings carry a wooden board with their icon and name, so you can tell each building apart from afar. Signs show in your chosen language. You can give your buildings any name: More › Farm decorations › Building signs. The shelter in the sheep and goat pastures now has a sign; animals gather under it in the midday heat, in rain and at night, and grass no longer grows through its floor or the stable floor."
+ },
+ {
   "v": 544,
   "d": "2026-10-31",
   "tr": "Şadırvan: abdest alırken şapka, gözlük, atkı ve ayakkabılar çıkarılıyor; ayakkabılar kürsünün yanına, diğer eşyalar yandaki kürsüye konuyor ve abdest bitince geri giyiliyor. Kürsüler biraz büyüdü, şadırvan cami kapısından uzaklaştı (avlu genişledi). Adım yazısı artık 'Ellerini bileklere kadar iyice yıkıyorsun' diyor.",
