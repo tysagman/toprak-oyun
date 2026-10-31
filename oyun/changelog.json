@@ -1,5 +1,12 @@
 [
  {
+  "v": 505,
+  "pv": "v1.07",
+  "d": "2026-10-31",
+  "tr": "v1.07: hayvanlar acıkıp susuyor. At, eşek, inek, koyun ve keçinin tokluk ve su yüzdesi ahır ve mera menülerinde görünüyor; yemlik ve suluk doluysa kendileri yiyip içer. Meralara suluk ve \"Suluğu doldur\" geldi (tulumba ya da kova). Bindiğin at daha hızlı acıkıp susar: göl, çeşme ya da tulumbada \"Atını sula\", çantadan \"Atına yem ver\". Aç ya da susuz hayvan kolay hastalanır, az süt verir. At arabasını hangi ata bağlayacağını artık Ahır menüsünden sen seçiyorsun.",
+  "en": "v1.07: animals now get hungry and thirsty. Fullness and water for horses, donkeys, cows, sheep and goats show in the stable and pasture menus; with a full feeder and trough they eat and drink by themselves. Pastures get a water trough with \"Fill the trough\" (pump or bucket). The horse you ride gets hungry and thirsty faster: \"Water your horse\" at the lake, fountain or pump, \"Feed your horse\" from your bag. Hungry or thirsty animals fall ill more easily and give less milk. You now choose which horse pulls the cart from the Stable menu."
+ },
+ {
   "v": 504,
   "d": "2026-10-31",
   "tr": "Ana menüde görünen sürüm numarası v1.06 olarak düzeltildi.",
