@@ -1,5 +1,11 @@
 [
  {
+  "v": 523,
+  "d": "2026-10-31",
+  "tr": "Yapı kurarken yerinde taş ya da ağaç varsa artık açık uyarı çıkıyor: \"Burada engel var (taş). Önce taşı kır, sonra kur.\" Engel kırmızı halkayla gösteriliyor. Taşı kırdıktan ya da ağacı kestikten sonra yapını oraya kurabilirsin; taş yapının altından yeniden çıkmıyor.",
+  "en": "When placing a building on a rock or tree you now get a clear warning: \"There's an obstacle here (rock). Break the rock first, then build.\" The obstacle is marked with a red ring. Once you break the rock or cut the tree you can build there, and the rock no longer grows back under the building."
+ },
+ {
   "v": 522,
   "pv": "v1.13",
   "d": "2026-10-31",
