@@ -1,5 +1,11 @@
 [
  {
+  "v": 521,
+  "d": "2026-10-31",
+  "tr": "Yeni hayvan: Kartal. Gündüz çiftliğin üstünde süzülür, çığlık atar, avının üstünde döner, pike yapıp pençesiyle kapar ve götürür. Kümes kapısı gündüz açıksa birkaç tavuk avluya çıkıp gezinir (sağlıkları biraz artar) ama kartala açık hedef olur. Korunma: kümes kapısını kapat (avlu tel örtülü), uyanık köpek, çoban, bostan korkuluğu; kartal dönerken yanına koşup \"Kartalı kov\" ya da sapanla vur (taşıyorsa avını düşürür). Günde en çok bir kayıp, sadece sen yakındayken saldırır.",
+  "en": "New animal: the Eagle. By day it soars over the farm, screams, circles its prey, dives and snatches it in its talons. If the coop door is open during the day a few hens wander out into the yard (slightly healthier) but become easy targets. Protection: close the coop door (the run is netted), an awake dog, a shepherd, a scarecrow; while it circles run over and shoo it, or hit it with the slingshot (it drops its prey). At most one loss per day, and it only attacks while you are nearby."
+ },
+ {
   "v": 520,
   "d": "2026-10-31",
   "tr": "Düzeltme: Çiftçi Ayşe'ye \"tarlayı ek\" deyince artık yalnız sürüp ekiyor; olgun buğdayı biçip hemen yeniden ekmiyor. Hasat için \"hasat et\" yaz.",
