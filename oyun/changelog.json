@@ -1,5 +1,12 @@
 [
  {
+  "v": 499,
+  "d": "2026-10-31",
+  "tr": "v1.04: yeni açılış (göl üstü karşılama uçuşu, görev kutlaması, hoş geldin hediyesi), «Bugün» günlük 3 iş, rozetler ve albüm, haftalık etkinlik zincirleri ve özel süsler, çatı rengi",
+  "en": "v1.04: new opening (welcome flight over the lake, quest celebrations, welcome gift), daily «Today» tasks, badges and album, weekly event chains with exclusive decorations, roof colours",
+  "pv": "v1.04"
+ },
+ {
   "v": 498,
   "d": "2026-10-31",
   "tr": "Telsiz ve sesli arama: telefonun mikrofon izni daha önce reddedildiyse artık kısa bir uyarı yerine iznin nasıl açılacağını adım adım gösteren bir pencere çıkıyor.",
@@ -356,41 +363,5 @@
   "d": "2026-10-29",
   "tr": "Meralarda ve ahırda yavrunun nasıl olduğu yazıyor: hangi erkek ve dişi gerekir, gebe kalma ihtimali, gebeliğe ve büyümeye kaç gün kaldı. \"Doğan bir yavru büyüsün\" görev kartı ne yapman gerektiğini gösteriyor. Erkek hayvanlar dişilerden farklı renkte.",
   "en": "Pastures and the stable now explain how babies are born: which male and female you need, the chance of pregnancy, and how many days are left until birth and adulthood. The \"Raise a baby born on your farm\" quest card shows what to do. Male animals now have a different colour than females."
- },
- {
-  "v": 438,
-  "d": "2026-10-29",
-  "tr": "Cumhuriyet Uçağı kaldırıldı. Köy meydanındaki 29 Ekim bayrakları gece 00:00'a kadar kalıyor.",
-  "en": "The Republic Plane has been removed. The October 29 flags in the village square stay until midnight."
- },
- {
-  "v": 436,
-  "d": "2026-10-29",
-  "tr": "Tasami'nin hediye ettiği eşyalar artık doğrudan sandığına girer, sandık dolu olsa da. \"Çantayı boşalt\" sandık doluyken artık sessiz kalmıyor, uyarı veriyor.",
-  "en": "Items gifted by Tasami now go straight into your chest, even if it is full. \"Empty bag\" now warns you when the chest is full instead of doing nothing."
- },
- {
-  "v": 435,
-  "d": "2026-10-29",
-  "tr": "Tasami artık oyunculara eşya hediye edebiliyor (taş, odun vb.). Hediye önce çantana, sonra sandığına girer; sığmayan kısım yer açılınca kendiliğinden gelir.",
-  "en": "Tasami can now gift items to players (stone, wood, etc.). Gifts go into your bag first, then your chest; whatever doesn't fit arrives by itself once there is room."
- },
- {
-  "v": 434,
-  "d": "2026-10-29",
-  "tr": "Gece köy meydanının ortasında \"Kapıyı çal\" düğmesi çıkıyordu. Köylüler artık gece gerçek bir evin kapısına gidiyor; kapıyı çalma yalnız o evin kapısının önündeyken çıkıyor.",
-  "en": "At night a \"Knock on the door\" button appeared in the middle of the village square. Villagers now go to the door of a real house at night, and knocking only appears when you stand at that door."
- },
- {
-  "v": 433,
-  "d": "2026-10-29",
-  "tr": "Islıkla çağırdığın at ya da eşek artık ahırın duvarına takılmıyor; kapıdan çıkıp yanına geliyor.",
-  "en": "Your horse or donkey no longer gets stuck on the stable wall when you whistle; it comes out through the door."
- },
- {
-  "v": 432,
-  "d": "2026-10-29",
-  "tr": "Evin yanındaki kamp ateşine artık odun koyabilirsin: her odun ateşi 3 saat yakar (en çok 24 saat). Odun bitince ateş söner, yeniden yakmak için 1 odun gerekir.",
-  "en": "You can now add wood to the campfire by your house: each log burns for 3 hours (up to 24 hours). When the wood runs out the fire goes out; relighting it takes 1 wood."
  }
 ]
