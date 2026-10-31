@@ -1,5 +1,11 @@
 [
  {
+  "v": 555,
+  "d": "2026-11-01",
+  "tr": "Ek meralar kaldırıldı, şimdilik her hayvan türünün (inek, koyun, keçi) tek merası var; ek kümes ve ek ahır duruyor. Ek merası olan oyuncuların hayvanlarının hepsi ana meraya geçti, hiçbiri kaybolmadı; ek meraların altını, odunu ve taşı geri verildi. Fazla hayvanlar için ana merada geçici yer tanındı: hayvan satıldıkça bu yer azalır, yeni hayvan ana meranın kendi yerine göre alınır. Mağaza görevleri buna göre değişti: Yeni barınak ek kümes ya da ek ahır ister, Üç barınak yerine İki barınak (ek kümes + ek ahır).",
+  "en": "Extra pastures have been removed: for now each animal type (cow, sheep, goat) has a single pasture; the extra coop and extra stable stay. Players who had extra pastures keep all their animals in the main pasture, none are lost, and the gold, wood and stone for the extra pastures were refunded. Extra animals get temporary room in the main pasture that shrinks as animals are sold; new animals fit the main pasture's own capacity. Shop tasks changed: New shelter asks for an extra coop or stable, and Three shelters became Two shelters (extra coop + extra stable)."
+ },
+ {
   "v": 554,
   "d": "2026-11-01",
   "tr": "Değirmen deresi düzeltildi: dere artık değirmenci Yakup'un evinin altından geçmiyor, Yakup suda durmuyor; dere değirmenin ve evin güneyinden dolaşıyor ve değirmen yolunu küçük bir tahta köprünün altından geçiyor. Derenin başında taşlarla çevrili bir kaynak gölü, döküldüğü yerde sazlıklı bir gölet var; dere artık çimenin ortasında kesik bitmiyor. Derenin ve göletin içindeki ağaçlar ve otlar kaldırıldı.",
