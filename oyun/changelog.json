@@ -1,5 +1,12 @@
 [
  {
+  "v": 551,
+  "d": "2026-10-31",
+  "pv": "v1.24",
+  "tr": "Başkan'ın çiftlik raporları düzeltildi. At ya da eşek ahırdayken arabası artık ona takılı kalmıyor, ahırın yanında park ediyor; Islık ve Ahır menüsündeki «🛒 Araba takılsın» seçimiyle çağırırken ya da binerken arabanın takılıp takılmayacağını sen seçersin, hayvan ahıra dönünce araba yine ahırın yanına bırakılır. Meralardaki yemlik ve sulukların, ahırdaki su deposunun içine artık girilmiyor. Süt, ayran ve yoğurt çantaya hacimle sığıyor: 300 L süt 75 yer kaplar ve «çanta dolu» demeden alınır. Değirmen deresi düz mavi şerit değil; kıvrılarak akan, kıyısında çakıl ve saz olan gerçek bir dere. İnek merasında kaşar peyniri ve tereyağı, koyun merasında tulum peyniri, keçi merasında keçi tereyağı da yapılır; üç merada her ürüne istediğin miktarı yazabilir ya da «Hepsi» diyebilirsin.",
+  "en": "Fixes from the Mayor's farm reports. A horse or donkey in the stable no longer keeps its cart hitched; the cart is parked beside the stable. With «🛒 Hitch the cart» in the Whistle and Stable menus you choose whether the cart is hitched when you call or mount, and when the animal returns, the cart is left beside the stable again. You can no longer walk into pasture feeders, water troughs or the stable's water tank. Milk, ayran and yogurt fit the bag by volume: 300 L of milk takes 75 slots and is picked up without a «bag full» warning. The mill stream is no longer a straight blue strip; it winds like a real stream with pebbles and reeds on its banks. Cow pastures now also make kashar cheese and butter, sheep pastures tulum cheese and goat pastures goat butter; in all three you can enter any amount for each product or tap «All»."
+ },
+ {
   "v": 550,
   "d": "2026-10-31",
   "tr": "Bölüm 6'ya yeni bir hikâye görevi: holdingini kurunca karşına dev ama dürüst bir rakip holding çıkıyor. Holding ekranında rakibinle kendi şirket sayını karşılaştırabilirsin; büyük işlerinde ondan tebrik mesajları gelir.",
