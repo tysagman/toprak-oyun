@@ -1,5 +1,11 @@
 [
  {
+  "v": 540,
+  "d": "2026-10-31",
+  "tr": "«Sen yokken çiftlikte neler oldu» ekranı artık ana menüde değil, oyun açılıp çiftliğe girince gelir. Ekran sadeleşti: tahmini kazanç, gider ve öne çıkan 3 iş; tam rapor «Ayrıntılar»a dokununca açılır.",
+  "en": "The «While you were away» screen now appears after you enter your farm, not on the main menu. It is shorter: estimated earnings, expenses and the top 3 jobs; tap «Details» for the full report."
+ },
+ {
   "v": 539,
   "d": "2026-10-31",
   "pv": "v1.20",
