@@ -1,5 +1,11 @@
 [
  {
+  "v": 500,
+  "d": "2026-10-31",
+  "tr": "Düzeltme: çayıra kurulan yapıların (ör. laboratuvar) önünde «Yem bırak» uyarısı çıkıyordu. Artık laboratuvarın önünde kendi «Laboratuvar» düğmesi var; kurulu yapıların içinde ve yanında yem bırakma ve tuzak kurma çıkmıyor, yapının altında kalan yaban tavuğu yuvaları başka yere taşınıyor.",
+  "en": "Fix: a «Leave bait» prompt appeared in front of buildings placed on the meadow (e.g. the laboratory). The laboratory now has its own button; leaving bait and setting traps no longer appear inside or next to buildings, and wild chicken nests under a building are moved elsewhere."
+ },
+ {
   "v": 499,
   "d": "2026-10-31",
   "tr": "v1.04: yeni açılış (göl üstü karşılama uçuşu, görev kutlaması, hoş geldin hediyesi), «Bugün» günlük 3 iş, rozetler ve albüm, haftalık etkinlik zincirleri ve özel süsler, çatı rengi",
