@@ -1,5 +1,12 @@
 [
  {
+  "v": 560,
+  "d": "2026-11-01",
+  "pv": "v1.29",
+  "tr": "Yeni süs: Aydınlatma direkleri (Çiftlik süsleri, 300 A). Alınca çiftliğindeki yapıların (ev, kümes, ahır, tarla, mera, bahçe) çevresine direkler dizilir; gece lambalar yanar ve yerde ışık halkası olur, çiftlik aydınlanır. Işığa giren tilki ve yaban domuzu çoğu zaman ürküp kaçar. Yapını taşırsan ya da büyütürsen direkler kendiliğinden yeniden dizilir. Telefonu yormaz: gerçek ışık yerine hafif parıltı kullanılır.",
+  "en": "New decoration: Lamp posts (Farm decorations, 300 G). Posts line up around your farm buildings (house, coop, barn, field, pasture, garden); at night the lamps turn on and cast pools of light on the ground. Foxes and wild boars that step into the light usually get scared and run off. If you move or expand a building, the posts rearrange themselves. Light on your phone: soft glow instead of real lights."
+ },
+ {
   "v": 559,
   "d": "2026-11-01",
   "pv": "v1.28",
