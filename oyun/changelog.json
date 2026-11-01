@@ -1,5 +1,12 @@
 [
  {
+  "v": 558,
+  "pv": "v1.27",
+  "d": "2026-11-01",
+  "tr": "Ambar artık asıl deponuz: ambarı kurunca bütün ürünler ambarda saklanır, ambarın kapısına gelince ambar açılır ve ürünleri oradan doğrudan satabilirsin (miktar seçerek). Mandıranın içine girilebiliyor: süt tankı, peynir kazanı, kaşar kazanı, yoğurt tezgâhı ve tereyağı yayığında inek, koyun ve keçi sütünden ürünleri kendin yapabilirsin; süt çantadan ya da ambardan alınır.",
+  "en": "The barn is now your main storage: once built, all products are kept in the barn; walk to its door to open it and sell directly from there (choose the amount). You can now walk into the dairy: make cow, sheep and goat milk products yourself at the milk tank, cheese vat, kashkaval kettle, yogurt bench and butter churn; milk is taken from your bag or the barn."
+ },
+ {
   "v": 557,
   "d": "2026-11-01",
   "tr": "Oyunun simgesi ve açılış ekranı yenilendi: telefondaki uygulama simgesi ve oyun açılırken görünen logo artık Tasami logosu. Açılışta bir an görünen eski filiz logosu kaldırıldı. Simgenin telefonda değişmesi için Google Play'den gelen uygulama güncellemesi gerekir.",
