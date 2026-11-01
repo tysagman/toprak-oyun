@@ -1,5 +1,12 @@
 [
  {
+  "v": 561,
+  "pv": "v1.30",
+  "d": "2026-11-01",
+  "tr": "Meradaki hayvanlar artık gece uyuyor: akşam olunca inek, koyun ve keçiler meranın ortasında yan yana yatıp başlarını eğer, sabah 06:00 civarı kalkıp otlamaya döner. At ve eşek ahırdaki yerinde (ahır yoksa evin önünde) yatar; ıslıkla çağırınca ya da binince uyanır. Meradaki hayvanlar artık birbirinin içine girmiyor, aralarında boşluk kalıyor. Köpekler gece kulübenin önünde her biri kendi yerinde durur, gecenin ortasında (02:00–05:00) yatar, birbirine girmez.",
+  "en": "Pasture animals now sleep at night: in the evening cows, sheep and goats lie down side by side in the middle of the pasture and lower their heads, getting up around 06:00 to graze again. Horses and donkeys lie down in their stall (or in front of the house without a stable) and wake when you whistle or mount. Pasture animals no longer overlap each other. Dogs each keep their own spot in front of the kennel at night, lie down in the small hours (02:00–05:00) and no longer overlap."
+ },
+ {
   "v": 560,
   "d": "2026-11-01",
   "pv": "v1.29",
