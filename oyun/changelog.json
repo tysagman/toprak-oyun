@@ -1,5 +1,11 @@
 [
  {
+  "v": 575,
+  "d": "2026-11-01",
+  "tr": "Yapı taşınınca hayvanlar da taşınıyor (Müjdat'ın bildirimi): ek ahır başka yere kurulunca atlar ve eşekler artık eski yerde kalmıyor, yeni bölmelerine geçiyor. İnek ahırı, koyun ve keçi ağılı taşındıktan sonra hayvanlar gece de eski yerde değil, yeni ahırda/ağılda yatıyor. Kümes, köpek kulübesi ve ana ahır taşınınca da hayvanlar yeni yerde.",
+  "en": "Animals now move with their building: after relocating an extra stable, horses and donkeys go to their new stalls instead of staying behind. After moving the cow barn, sheepfold or goat pen, animals also sleep in the new place at night. Animals follow the coop, dog kennel and main stable too."
+ },
+ {
   "v": 574,
   "d": "2026-11-01",
   "tr": "Hasan Dede'nin konağında anı odası (Sami'nin isteği): konağın kapısından «İçeri gir» ile içeri girilir. İçeride dedenin 6 eşyası var: gençlik fotoğrafı, mektup sandığı, köstekli saat, bağlama, kehribar tespih ve tohum kesesi. Her gün birini yad edersin ve hikâyesi açılır. Altısını yad edince «Mirasın sahibi» rozeti ve Muhtar Selim'in mesajı gelir.",
