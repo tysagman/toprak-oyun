@@ -1,5 +1,11 @@
 [
  {
+  "v": 556,
+  "d": "2026-11-01",
+  "tr": "Başkan'ın bildirdiği üç hata düzeltildi. Köy meydanının çevresindeki süs bankı ahırın duvarının içine konuyordu; köy süsleri artık ahır, meralar, kümes avlusu ve evin olduğu yere konmuyor. Avluya çıkan tavuklar ve yabani tavuklar artık inek, koyun ve keçi meralarına girmiyor; gübre çukuru da inek merası çitinin dışına alındı. Arı kovanları tabelası kovanların arasından çıkarıldı, kovanların eve bakan kenarına dikildi.",
+  "en": "Fixed three issues reported by players. A decorative bench near the village square was placed inside the barn wall; village decorations no longer go where the barn, pastures, chicken yard or house are. Free-roaming hens and wild chickens no longer walk into the cow, sheep or goat pastures, and the manure pit was moved outside the cow pasture fence. The \"Beehives\" sign was moved out from among the hives to the side facing the house."
+ },
+ {
   "v": 555,
   "d": "2026-11-01",
   "tr": "Ek meralar kaldırıldı, şimdilik her hayvan türünün (inek, koyun, keçi) tek merası var; ek kümes ve ek ahır duruyor. Ek merası olan oyuncuların hayvanlarının hepsi ana meraya geçti, hiçbiri kaybolmadı; ek meraların altını, odunu ve taşı geri verildi. Fazla hayvanlar için ana merada geçici yer tanındı: hayvan satıldıkça bu yer azalır, yeni hayvan ana meranın kendi yerine göre alınır. Mağaza görevleri buna göre değişti: Yeni barınak ek kümes ya da ek ahır ister, Üç barınak yerine İki barınak (ek kümes + ek ahır).",
