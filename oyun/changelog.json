@@ -1,5 +1,11 @@
 [
  {
+  "v": 562,
+  "d": "2026-11-01",
+  "tr": "Hayvan yerlerinin adları düzeltildi (Sami'nin önerisi): mera otlak arazisinin adıdır, bu yüzden İnek merası artık İnek ahırı, koyun ve keçi meraları da Koyun ağılı ve Keçi ağılı. Atlarla eşeklerin ahırı karışmasın diye At ahırı adını aldı. Tabelalar, menüler, görevler, ipuçları ve harita yeni adları kullanıyor; görev ilerlemen ve hayvanların olduğu gibi duruyor.",
+  "en": "Animal building names were corrected: the Cow pasture is now the Cow barn, and the sheep and goat pastures are now the Sheepfold and the Goat pen. The horse and donkey barn is now called the Horse stable so the two don't get mixed up. Signs, menus, quests, tips and the map use the new names; your quest progress and animals are unchanged."
+ },
+ {
   "v": 561,
   "pv": "v1.30",
   "d": "2026-11-01",
