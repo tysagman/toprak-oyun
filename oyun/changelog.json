@@ -1,5 +1,11 @@
 [
  {
+  "v": 570,
+  "d": "2026-11-01",
+  "tr": "Başka bir oyuncunun köyünü ziyaret edince çiftlik tabelasında artık ev sahibinin adı yazıyor (önceden misafirin adı görünüyordu, Sami'nin bildirimi). Misafirler köy tabelasını, çiftlik tabelasını ve bina adlarını değiştiremez.",
+  "en": "When you visit another player's village, the farm sign now shows the host's name (it used to show the visitor's name). Visitors can no longer edit the village sign, the farm sign or building names."
+ },
+ {
   "v": 569,
   "d": "2026-11-01",
   "tr": "Hasan Dede'nin konağı satın alınınca artık dünyada görünüyor (Sami'nin bildirimi): Çamlıbel'de, köy meydanının yakınında iki katlı taş konak ve önünde tabelası duruyor. Haritada 🏛️ simgesiyle görünür; satın alma penceresindeki «Konağa git» seni oraya götürür. Konağı daha önce satın alan oyuncularda da konak çıkar.",
