@@ -1,5 +1,11 @@
 [
  {
+  "v": 577,
+  "d": "2026-11-01",
+  "tr": "Kredi taksitleri artık sen oyunda yokken de ödeniyor (Başkan'ın önerisi): oyundan uzak kaldığın her oyun günü için taksit banka hesabından, hesap yetmezse cebinden otomatik ödenir ve zamanında ödenmiş taksit gibi kredi notunu artırır. Para yoksa yoklukta gecikme cezası kesilmez. Ödenenler 'Sen yokken' penceresinde ve Hazar Bank mesajında yazar.",
+  "en": "Loan installments are now paid even while you are away: for every game day you are gone, the installment is paid automatically from your bank account (or your pocket if the account is short) and raises your credit score like an on-time payment. If there is no money, no late penalty is charged while you are away. Payments are shown in the 'While you were away' window and in the Hazar Bank message."
+ },
+ {
   "v": 576,
   "d": "2026-11-01",
   "tr": "Ek kümes ve ek ahır artık satılmıyor (Başkan'ın bildirimi); daha önce kurduğun ek kümes ve ek ahır aynen çalışmaya devam eder. Mağaza görevlerinden \"Yeni barınak\" yerine \"Barınağı büyüt\" (kümesi ya da at ahırını bir kez geliştir), \"İki barınak\" yerine \"Bakımlı barınaklar\" (kümes Geniş kümes, at ahırı Gübre kanalı) geldi.",
