@@ -1,5 +1,11 @@
 [
  {
+  "v": 557,
+  "d": "2026-11-01",
+  "tr": "Oyunun simgesi ve açılış ekranı yenilendi: telefondaki uygulama simgesi ve oyun açılırken görünen logo artık Tasami logosu. Açılışta bir an görünen eski filiz logosu kaldırıldı. Simgenin telefonda değişmesi için Google Play'den gelen uygulama güncellemesi gerekir.",
+  "en": "New game icon and start screen: the app icon on your phone and the logo shown while the game opens are now the Tasami logo. The old sprout logo that flashed for a moment at start is gone. The icon on your phone changes with the next app update from Google Play."
+ },
+ {
   "v": 556,
   "d": "2026-11-01",
   "tr": "Başkan'ın bildirdiği üç hata düzeltildi. Köy meydanının çevresindeki süs bankı ahırın duvarının içine konuyordu; köy süsleri artık ahır, meralar, kümes avlusu ve evin olduğu yere konmuyor. Avluya çıkan tavuklar ve yabani tavuklar artık inek, koyun ve keçi meralarına girmiyor; gübre çukuru da inek merası çitinin dışına alındı. Arı kovanları tabelası kovanların arasından çıkarıldı, kovanların eve bakan kenarına dikildi.",
