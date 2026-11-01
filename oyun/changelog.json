@@ -1,5 +1,12 @@
 [
  {
+  "v": 559,
+  "d": "2026-11-01",
+  "pv": "v1.28",
+  "tr": "Kredi notu artık daha hızlı yükseliyor ve ne kadar kaldığı görünüyor. Zamanında ödenen her taksit +6 (önce +3), kapanan kredi +40 (önce +25), tam ödenen kart ekstresi +25 (önce +15) puan. Hesabında en az 1.000 A tutarsan her gün +1, vadeli hesabın vadesi dolunca +5. Hazar Bank › Kredi notu sekmesinde sıradaki eşik ve kalan puan çubuğu var, eşiği geçince kutlama çıkar; her değişiklik bankanın mesajında yazar. Daha önce ödediğin taksit ve kapattığın krediler için fark bir kez eklendi. Kredi limiti ve faiz oranları değişmedi.",
+  "en": "Your credit score now rises faster and shows how far you have to go. Each on-time installment gives +6 (was +3), a repaid loan +40 (was +25), a fully paid card statement +25 (was +15). Keep at least 1,000 G in your account for +1 a day, and get +5 when a term deposit matures. Hazar Bank › Credit score shows the next milestone and a progress bar, with a celebration when you pass it; every change is written in the bank's message. Past installments and repaid loans were credited once. Loan limits and interest rates are unchanged."
+ },
+ {
   "v": 558,
   "pv": "v1.27",
   "d": "2026-11-01",
