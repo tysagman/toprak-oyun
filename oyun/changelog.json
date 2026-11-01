@@ -1,5 +1,11 @@
 [
  {
+  "v": 576,
+  "d": "2026-11-01",
+  "tr": "Ek kümes ve ek ahır artık satılmıyor (Başkan'ın bildirimi); daha önce kurduğun ek kümes ve ek ahır aynen çalışmaya devam eder. Mağaza görevlerinden \"Yeni barınak\" yerine \"Barınağı büyüt\" (kümesi ya da at ahırını bir kez geliştir), \"İki barınak\" yerine \"Bakımlı barınaklar\" (kümes Geniş kümes, at ahırı Gübre kanalı) geldi.",
+  "en": "Extra coops and extra stables are no longer sold; any you already built keep working. Shop quests \"New shelter\" and \"Two shelters\" were replaced by \"Grow a shelter\" and \"Well-kept shelters\" (upgrade the coop and the horse stable)."
+ },
+ {
   "v": 575,
   "d": "2026-11-01",
   "tr": "Yapı taşınınca hayvanlar da taşınıyor (Müjdat'ın bildirimi): ek ahır başka yere kurulunca atlar ve eşekler artık eski yerde kalmıyor, yeni bölmelerine geçiyor. İnek ahırı, koyun ve keçi ağılı taşındıktan sonra hayvanlar gece de eski yerde değil, yeni ahırda/ağılda yatıyor. Kümes, köpek kulübesi ve ana ahır taşınınca da hayvanlar yeni yerde.",
