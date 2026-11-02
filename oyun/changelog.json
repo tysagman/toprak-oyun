@@ -1,5 +1,12 @@
 [
  {
+  "v": 586,
+  "pv": "v1.33",
+  "d": "2026-11-02",
+  "tr": "Yeni: Ayarlar'da \"📋 Gönderdiklerim\" listesi (Sami'nin önerisi). Gönderdiğin hata, öneri ve oyuncu şikayetlerini tek yerde görürsün; her birinin durumu yazar: Ulaştı, sırada / İşleme alındı / Düzeltildi (hangi sürümde) / İncelendi. Ekip sana mesaj yazdıysa da orada belirtilir. Geri bildirim formundan da açılır.",
+  "en": "New: a \"📋 My reports\" list in Settings. See all the bugs, ideas and player reports you've sent in one place, each with its status: Received, queued / Being worked on / Fixed (with the version) / Reviewed. It also shows when the team has sent you a message. You can open it from the feedback form too."
+ },
+ {
   "v": 585,
   "d": "2026-11-02",
   "tr": "\"Bölüm tamamlandı\" penceresi artık açık bir konuşmanın ya da yapı yeri seçiminin üstüne binmiyor; pencere kapanınca geliyor. Böylece holding kurulduktan hemen sonra Semih Başkan'la konuşurken \"Dürüst rekabet anlaşmasını imzala\" düğmesi kaybolmuyor.",
