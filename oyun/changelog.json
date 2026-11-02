@@ -1,5 +1,11 @@
 [
  {
+  "v": 582,
+  "d": "2026-11-02",
+  "tr": "Koyun kırkım görevi düzeltildi (Sami'nin bildirimi): \"Koyunlarını kırk, 20 kg yün topla\" görevi artık daha önce kırkıp ambarda (ya da sandıkta, çantada) sakladığın yünü de sayıyor. Tarım Market'ten alınan yün sayılmaz; görevin ipucu da buna göre netleştirildi.",
+  "en": "Sheep shearing quest fixed: \"Shear your sheep, collect 20 kg of wool\" now also counts wool you sheared earlier and kept in the barn (or chest, bag). Wool bought from the Farm Market doesn't count; the quest hint was clarified."
+ },
+ {
   "v": 581,
   "d": "2026-11-02",
   "tr": "Asfalt ve köy yollarının üstünde çimen çıkmıyor (Sami'nin bildirimi): yollar genişleyince yolun kenar yarısında, bazı yerlerde ortasında çimen tutamları görünüyordu. Çimenler ve toplanabilir ot öbekleri artık yolun dışında; kuzeydeki toprak yollar da temiz.",
