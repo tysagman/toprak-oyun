@@ -1,5 +1,11 @@
 [
  {
+  "v": 591,
+  "d": "2026-11-02",
+  "tr": "Menülerde bir işlem yapınca (satma, alma, kurma, işe verme gibi) menü artık en başa atlamıyor; kaldığın yerde kalıyor. Alt bir ekrana girip geri döndüğünde (bayrak seçimi, satış ekranı gibi) ya da araya başka bir menü girse de önceki menü aynı yerde açılıyor. İçindeki kaydırmalı listeler de yerini koruyor. Menüleri tamamen kapatıp yeniden açınca menü baştan başlar.",
+  "en": "Menus no longer jump back to the top after you do something in them (selling, buying, building, assigning work); they stay where you were. When you open a sub-screen and come back (such as choosing a flag or the sell screen), or open another menu in between, the previous menu reopens at the same spot. Scrolling lists inside menus keep their position too. Menus start from the top again after you close them completely."
+ },
+ {
   "v": 590,
   "d": "2026-11-02",
   "tr": "Yeni: ürünler artık gerçek hayattaki gibi bozuluyor. Süt sandıkta 8 saat, süt deposunda 24 saat dayanır; yoğurt ve ayran 1 gün, yumurta 3 gün, balık 6 saat, beyaz peynir 3 gün. Soğuk hava deposu ve ürünün kendi deposu süreyi uzatır. Süresi dolan ürün birden değil, 6 saatte bir dörtte biri kadar azalır; görev ve sipariş için lazım olan miktar bozulmaz, uzun yokluktan dönünce kayıp en çok %30 olur. Kaşar ve tulum peyniri beklettikçe olgunlaşır: 2 günde %20, 5 günde %40 daha pahalı satılır. Sağımdan sonraki 2 saatte satılan süt %10 fazla eder. Silo yoksa sandıktaki buğday günde %2 nemlenir. Sandıkta her ürünün yanında kalan süre yazar.",
