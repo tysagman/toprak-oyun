@@ -1,5 +1,12 @@
 [
  {
+  "v": 596,
+  "d": "2026-11-02",
+  "tr": "Yeni: sadakat puanı. Her gün oyuna girip 5 dakika oynayınca 1, 20 dakika oynayınca 1 puan daha kazanırsın. Puanla Sadakat dükkânından altınla satılmayan görünümler alırsın: Altın kiremit ve Zümrüt çatı, Lavanta ve Gece mavisi ev boyası, Mermer tabela. 30. sadakat gününde Altın yaldızlı tabela, 100. günde Kadim bakır çatı yalnız sana hediye edilir. Dükkân Çiftlik süslerinde ve günlük hediye penceresinde. Bu ödüller altın, verim ya da görev atlama vermez; yalnız görünüştür.",
+  "en": "New: loyalty points. Come into the game every day: playing 5 minutes earns 1 point and 20 minutes earns 1 more. Spend them in the Loyalty shop on looks that can't be bought with gold: Gold tiles and Emerald roofs, Lavender and Midnight blue house paint, a Marble sign. On your 30th loyalty day you get a Gold gilded sign, and on the 100th an Ancient copper roof, just for you. The shop is in Farm decorations and the daily gift window. These rewards give no gold, yield or quest skips; they're looks only.",
+  "pv": "v1.39"
+ },
+ {
   "v": 595,
   "d": "2026-11-02",
   "tr": "Yeni: mevsimlik fiyat ve toptan sipariş. Buğday, sebze ve meyve hasat mevsiminde (yaz ve sonbahar) %15 ucuz, ilkbaharda %10, kışın %25 pahalı satılır; ürünü silo ya da ambarda saklayıp doğru mevsimde satan kazanır. Ayrıca en çok günde bir kez Pazarcı Hüseyin, Fatma Teyze ya da Muhtar çiftliğinde üretilen bir üründen büyük sipariş verir: 24 saat içinde teslim edersen pazar fiyatından %30 fazla para ve itibar kazanırsın. Kamyonet sandıktan alır, Bugün listesinden ya da Mesajlar'dan uzaktan teslim edilir; kaçırırsan yalnız sipariş gider. Siparişteki ürün bozulmaz. Sandıkta ürünün yanında mevsim fiyatı yazar.",
