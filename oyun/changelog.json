@@ -1,5 +1,11 @@
 [
  {
+  "v": 598,
+  "d": "2026-11-02",
+  "tr": "Evin önündeki sundurmanın altında dururken karakterin başı artık çatıya girmiyor (Sami'nin bildirimi): çiftlik evinin sundurması yarım metre, köy evlerinin sundurmaları da biraz yükseltildi, direkleri uzatıldı.",
+  "en": "Your character's head no longer clips into the porch roof in front of the house: the farmhouse porch was raised by half a metre, village house porches were raised a little too, and their posts were lengthened."
+ },
+ {
   "v": 597,
   "d": "2026-11-02",
   "tr": "Köy çeşmesinden su içerken artık kimse önünü kapatmıyor (Sami'nin bildirimi): turistler çeşmenin dibine yığılmıyor, birkaç adım uzakta durup fotoğraf çekiyor. Çeşmenin başında turist ya da köylü oyuncuyu itmez, aralarından geçip çeşmeye yaklaşabilirsin. Susamışken çeşmenin yanında düğmede önce 'Çeşmeden su iç' çıkar; yandaki turistle konuşmak için ikinci düğme var.",
