@@ -1,5 +1,12 @@
 [
  {
+  "v": 594,
+  "d": "2026-11-02",
+  "tr": "Yeni \"Geliştirmeler\" sayfası: evin, sandığın, tarlanın, bahçenin, ahır, ağıl ve kümesin, arı kovanlarının, mandıranın, biyogaz tesisinin, laboratuvar cihazlarının geliştirmeleri, traktör ekipmanı ve kurulabilecek yeni yapılar artık tek sayfada. Sayfaya Diğer menüsünden ya da Çiftlik ekranındaki \"Geliştirmeler\" düğmesinden girilir; \"Şimdi alınabilir\" düğmesi yalnız parasının ve malzemesinin yettiğini gösterir. Bir geliştirme alınca sayfa açık kalır ve bulunduğun yerden devam edersin.",
+  "en": "New \"Upgrades\" page: upgrades for your house, chest, fields, garden, barns, pens and coop, beehives, dairy, biogas plant and lab devices, tractor equipment and new buildings you can build are now all on one page. Open it from the More menu or the \"Upgrades\" button on the Farm screen; \"Available now\" shows only what you can afford. After buying an upgrade the page stays open where you were.",
+  "pv": "v1.37"
+ },
+ {
   "v": 593,
   "d": "2026-11-02",
   "tr": "Yeni: oyuna girmemenin de bir bedeli var. 12 saatten uzun yoklukta çalışanların morali düşer, bakıcısı olmayan hayvanların suluğu boşalır. 1–2 gün girmezsen çalışanlar işin bir kısmını yarım bırakır, Ayşe yoksa hasadı geciken tarlada ürünün dörtte biri kaybolur. 2 günü geçince çalışanlar işi bırakır ve itibar günde 1 düşer (en çok 5). Hayvan ölmez, altın eksiye düşmez. Döndüğünde Muhtar Rıza'nın «Çiftliği toparla» görevi gelir: çalışanları tek düğmeyle geri çağır, hayvanları doyurup sula, bir satış yap; kaybettiğin itibarın yarısı geri gelir.",
