@@ -1,5 +1,12 @@
 [
  {
+  "v": 595,
+  "d": "2026-11-02",
+  "tr": "Yeni: mevsimlik fiyat ve toptan sipariş. Buğday, sebze ve meyve hasat mevsiminde (yaz ve sonbahar) %15 ucuz, ilkbaharda %10, kışın %25 pahalı satılır; ürünü silo ya da ambarda saklayıp doğru mevsimde satan kazanır. Ayrıca en çok günde bir kez Pazarcı Hüseyin, Fatma Teyze ya da Muhtar çiftliğinde üretilen bir üründen büyük sipariş verir: 24 saat içinde teslim edersen pazar fiyatından %30 fazla para ve itibar kazanırsın. Kamyonet sandıktan alır, Bugün listesinden ya da Mesajlar'dan uzaktan teslim edilir; kaçırırsan yalnız sipariş gider. Siparişteki ürün bozulmaz. Sandıkta ürünün yanında mevsim fiyatı yazar.",
+  "en": "New: seasonal prices and bulk orders. Wheat, vegetables and fruit sell 15% cheaper in harvest season (summer and autumn), 10% dearer in spring and 25% dearer in winter; store them in a silo or barn and sell in the right season. Also, at most once a day Bazaar Hüseyin, Aunt Fatma or the Headman places a big order for something your farm produces: deliver within 24 hours and earn 30% above market price plus reputation. A van picks it up from the chest, so you can deliver remotely from the Today list or Messages; if you miss it, only the order is lost. Goods reserved for the order don't spoil. The chest shows the seasonal price next to each product.",
+  "pv": "v1.38"
+ },
+ {
   "v": 594,
   "d": "2026-11-02",
   "tr": "Yeni \"Geliştirmeler\" sayfası: evin, sandığın, tarlanın, bahçenin, ahır, ağıl ve kümesin, arı kovanlarının, mandıranın, biyogaz tesisinin, laboratuvar cihazlarının geliştirmeleri, traktör ekipmanı ve kurulabilecek yeni yapılar artık tek sayfada. Sayfaya Diğer menüsünden ya da Çiftlik ekranındaki \"Geliştirmeler\" düğmesinden girilir; \"Şimdi alınabilir\" düğmesi yalnız parasının ve malzemesinin yettiğini gösterir. Bir geliştirme alınca sayfa açık kalır ve bulunduğun yerden devam edersin.",
