@@ -1,5 +1,11 @@
 [
  {
+  "v": 604,
+  "d": "2026-11-02",
+  "tr": "Düzeltme: Tulumba (su kuyusu), at ahırı, sebze bahçesi ya da köpek kulübesi kurulunca veya taşınınca oyun yeniden başlıyordu. Artık bu yapılar da olduğu yerde kurulur, oyun kesilmez; tulumbanın su düğmesi, bahçe ve ahır hemen yeni yerinde çalışır.",
+  "en": "Fix: building or moving the water pump, horse stable, vegetable garden or dog kennel restarted the game. These are now built in place without interrupting play; the pump, garden and stable work at their new spot right away."
+ },
+ {
   "v": 603,
   "d": "2026-11-02",
   "tr": "Pazarlamacı Burak artık günde çok daha fazla satar: günlük satış sınırı maaşının 6 katından 20 katına çıktı. Fiyatlar ve %25 komisyon aynı.",
