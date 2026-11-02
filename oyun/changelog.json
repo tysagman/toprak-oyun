@@ -1,5 +1,11 @@
 [
  {
+  "v": 599,
+  "d": "2026-11-02",
+  "tr": "Yeni: Bahçıvan Cemil'e ne ekeceğini sen söyleyebilirsin. Çalışanlar ekranında Cemil'in altındaki 'Ne eksin?' düğmesinden ya da sebze bahçesi ekranından istediğin sebzeleri seç; Cemil boş yataklara yalnız onları eker, birden çok seçersen yatakları eşit paylaştırır. Fide bitince seçtiklerini pazar fiyatıyla alır. Seçim yapmazsan artık tek çeşit değil, beş sebzeyi karışık eker.",
+  "en": "New: you can tell gardener Cemil what to plant. Tap 'What to plant?' under Cemil on the Workers screen, or use the vegetable garden screen, and pick the vegetables you want; Cemil plants only those in empty beds and shares the beds equally if you pick several. When seedlings run out he buys the ones you picked at market price. If you don't choose, he now plants all five vegetables mixed instead of just one."
+ },
+ {
   "v": 598,
   "d": "2026-11-02",
   "tr": "Evin önündeki sundurmanın altında dururken karakterin başı artık çatıya girmiyor (Sami'nin bildirimi): çiftlik evinin sundurması yarım metre, köy evlerinin sundurmaları da biraz yükseltildi, direkleri uzatıldı.",
