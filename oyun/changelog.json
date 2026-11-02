@@ -2,8 +2,8 @@
  {
   "v": 607,
   "d": "2026-11-02",
-  "tr": "Oyun oynarken otomatik kayıt sırasında yaşanan takılma azaltıldı: kayıt artık tek seferde değil, oyunun boş anlarına bölünerek parça parça yazılıyor (oyundan çıkarken yine hemen ve tam kaydedilir). Ayrıca bir köylü yolda sıkışınca yeni yol ararken oyunun bir anlığına donması giderildi.",
-  "en": "Reduced stutter during autosave while playing: the save is now written in small pieces during the game's idle moments instead of all at once (it still saves fully and immediately when you leave the game). Also fixed a brief freeze when a stuck villager searched for a new path."
+  "tr": "Düzeltme: bir önceki güncellemeden sonra evine dönen bazı köylülerin kapısının önünde bir süre takılı kalması giderildi.",
+  "en": "Fix: after the previous update, some villagers returning home could get stuck at their door for a while. This is fixed."
  },
  {
   "v": 606,
