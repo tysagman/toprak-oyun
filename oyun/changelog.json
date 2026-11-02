@@ -1,5 +1,11 @@
 [
 {
+"v": 589,
+"d": "2026-11-02",
+"tr": "Traktör: ekipmansız binmeye çalışınca uyarı çıkıyor, pulluk/mibzer/biçer tablasını oradan telefonla sipariş edebilir ya da Tarım Market'e gidebilirsin. Binince tarlanın ihtiyacına göre sende olan doğru ekipman kendiliğinden takılıyor (olgun ekin → biçer tablası, biçilmiş/ham tarla → pulluk, sürülmüş tarla → mibzer). Büyüyen ekinin ya da yanlış ekipmanın üstünden geçince traktör artık nedenini söylüyor.",
+"en": "Tractor: trying to get on without an implement now shows a warning where you can order a plough, seed drill or header by phone or head to the Farm Market. When you get on, the right implement you own is attached for the field (ripe crop → header, harvested/raw field → plough, ploughed field → seed drill). Driving over growing crops or with the wrong implement now tells you why nothing happens."
+},
+{
 "v": 588,
 "d": "2026-11-02",
 "tr": "Günlük (Bugün) ve haftalık görevler artık ilerledikçe zorlaşıyor: Bölüm 3'ten sonra iş miktarları ×1,5'ten ×3'e kadar artar, haftalık görev ödülleri ve büyük ödül de birlikte büyür. Kademe gün/hafta başında belirlenir.",
