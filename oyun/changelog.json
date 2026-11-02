@@ -1,5 +1,11 @@
 [
 {
+"v": 588,
+"d": "2026-11-02",
+"tr": "Günlük (Bugün) ve haftalık görevler artık ilerledikçe zorlaşıyor: Bölüm 3'ten sonra iş miktarları ×1,5'ten ×3'e kadar artar, haftalık görev ödülleri ve büyük ödül de birlikte büyür. Kademe gün/hafta başında belirlenir.",
+"en": "Daily (Today) and weekly tasks now get harder as you progress: from Chapter 3 on, task amounts grow from ×1.5 up to ×3, and weekly rewards and the grand prize grow with them. The level is set at the start of each day/week."
+},
+{
 "v": 587,
 "d": "2026-11-02",
 "tr": "Murat tavukları yemleyince günlük ve haftalık \"yemle\" işine de sayılıyor. Laboratuvardaki çalışanlar artık tezgâhta numune işliyor, yan tezgâha gidip ölçüm yapıyor. Kümes kapısını kapatınca dışarıdaki tavuklar içeri dönene kadar kapı açık kalıyor; tavuklar artık telden geçmiyor.",
@@ -369,12 +375,5 @@
 "d": "2026-10-31",
 "tr": "kendi çiftlik mağazanı kur. Çiftliği geliştir › Yeni yapılar'dan Çiftlik mağazası kurulur; sandıktaki ürünleri rafa koyarsın, köylüler ve turistler 08:00–20:00 arası yürüyerek gelip alır, para doğrudan cebine girer. Fiyat ucuz (çok müşteri), normal ya da pahalı (az müşteri) seçilir. Yeni çalışan Tezgâhtar Sevgi tezgâhta durup satar ve her sabah rafları sandıktan senin belirlediğin miktara tamamlar; o yokken mağazanın yanında sen durursan satış olur. Raflar 200'den 400'e ve 800'e büyütülebilir.",
 "en": "build your own farm shop. Build the Farm shop from Upgrade the farm › New buildings; put goods from the chest on the shelves and villagers and tourists walk over between 08:00 and 20:00 to buy them, the money goes straight to you. Choose cheap (many customers), normal or pricey (few customers). New worker shopkeeper Sevgi sells at the counter and every morning tops up the shelves from the chest to the amounts you set; without her, sales happen while you stay near the shop. Shelves can grow from 200 to 400 and 800."
-},
-{
-"v": 528,
-"d": "2026-10-31",
-"pv": "v1.15",
-"tr": "Şadırvan yenilendi: 10 musluk ve önlerinde 10 taş kürsü var. Abdest artık kürsüye oturarak, adım adım alınıyor (niyet, eller, ağız, burun, yüz, kollar, baş, kulaklar, ayaklar, dua); karakter yere girmiyor. Namaz vakitlerinde köylüler de şadırvanda abdest alıyor. Caminin içindeki seccadeler artık kıbleye, mihraba dönük.",
-"en": "The ablution fountain is renewed: 10 taps with 10 stone stools. You now sit on a stool and perform ablution step by step (intention, hands, mouth, nose, face, arms, head, ears, feet, prayer); the character no longer sinks into the ground. At prayer times villagers also perform ablution there. Prayer rugs inside the mosque now face the qibla (the mihrab)."
 }
 ]
