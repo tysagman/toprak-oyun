@@ -1,5 +1,11 @@
 [
  {
+  "v": 592,
+  "d": "2026-11-02",
+  "tr": "Küçük hikâye iyileştirmesi: köyün bir büyüğü artık yolculuğunun en başında seni karşılıyor ve ilk satış, ilk ahır, ilk çalışan gibi önemli adımlarında mesaj gönderiyor.",
+  "en": "Small story improvement: one of the village elders now welcomes you at the very start of your journey and sends you a message at key steps such as your first sale, first barn and first worker."
+ },
+ {
   "v": 591,
   "d": "2026-11-02",
   "tr": "Menülerde bir işlem yapınca (satma, alma, kurma, işe verme gibi) menü artık en başa atlamıyor; kaldığın yerde kalıyor. Alt bir ekrana girip geri döndüğünde (bayrak seçimi, satış ekranı gibi) ya da araya başka bir menü girse de önceki menü aynı yerde açılıyor. İçindeki kaydırmalı listeler de yerini koruyor. Menüleri tamamen kapatıp yeniden açınca menü baştan başlar.",
