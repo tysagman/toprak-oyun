@@ -1,5 +1,11 @@
 [
  {
+  "v": 605,
+  "d": "2026-11-03",
+  "tr": "Oyun giriş seviyesi telefon ve tabletlerde daha akıcı: haritadaki süs ağaçları artık yalnız ekranda görünen bölgede çiziliyor (ekran kartına giden üçgen %30–45 az, görüntü aynı). Grafik Otomatik'teyken telefon en düşük ayarda bile zorlanırsa 3D görüntünün çözünürlüğü biraz düşer, oyun hızlanınca geri gelir; yazılar ve düğmeler etkilenmez.",
+  "en": "Smoother on entry-level phones and tablets: decorative trees on the map are now drawn only in the visible area (30–45% fewer triangles, same picture). With Auto graphics, if the device still struggles at the lowest setting, the 3D resolution drops slightly and comes back when the game speeds up; text and buttons are not affected."
+ },
+ {
   "v": 604,
   "d": "2026-11-02",
   "tr": "Düzeltme: Tulumba (su kuyusu), at ahırı, sebze bahçesi ya da köpek kulübesi kurulunca veya taşınınca oyun yeniden başlıyordu. Artık bu yapılar da olduğu yerde kurulur, oyun kesilmez; tulumbanın su düğmesi, bahçe ve ahır hemen yeni yerinde çalışır.",
