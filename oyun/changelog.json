@@ -1,5 +1,12 @@
 [
  {
+  "v": 602,
+  "d": "2026-11-02",
+  "tr": "Yeni: inek ahırı ve koyun/keçi ağıllarına açılır çatı (Sami'nin önerisi). Ahır ya da ağıl menüsünden altınla yaptırılır (inek ahırı 1500 A, koyun ağılı 900 A, keçi ağılı 800 A + odun). Yağmur ve karda çatı açıksa hayvanlar ıslanır: o gün süt azalır, sağlık düşer, hastalık riski artar. 'Çatıyı kapat' ile korunurlar; güneşli günlerde açık tut. Çoban tutulduysa çatıyı kendisi açıp kapatır.",
+  "en": "New: opening roofs for the cow barn and sheep/goat pens. Build one with gold from the barn or pen menu (cow barn 1500 G, sheepfold 900 G, goat pen 800 G + wood). If the roof is open in rain or snow the animals get wet: less milk that day, lower health and a higher risk of illness. 'Close the roof' keeps them dry; keep it open on sunny days. A hired shepherd opens and closes it himself.",
+  "pv": "v1.40"
+ },
+ {
   "v": 601,
   "d": "2026-11-02",
   "tr": "Süt kooperatifi artık depondaki bütün sütü alıyor (Sami'nin bildirimi): günlük kota dolunca kalan süt, peynir ve koyun/keçi sütü yarı fiyatına alınır. Yeni 'Hepsini teslim et' düğmesiyle ürün bozulmadan tek seferde satılır; fazlası da kooperatif görevine sayılır.",
