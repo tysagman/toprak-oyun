@@ -1,5 +1,11 @@
 [
  {
+  "v": 619,
+  "d": "2026-11-03",
+  "tr": "Bölüm 3'teki \"10 gün üst üste kooperatife teslim yap\" görevi artık adil (Sami'nin bildirimi): 1 oyun günü gerçekte 1 saat olduğu için oyunda olmadığın saatlerde seri sıfırlanıyordu. Artık oyunda olmadığın ya da kısa kaldığın günler seriyi bozmaz; oyundayken bir günün yarısı (30 dk) teslimsiz geçerse seri sıfırlanır. 15 dakika teslim yapmazsan oyun seni uyarır, kooperatif ekranı bugün teslim yapıp yapmadığını gösterir.",
+  "en": "The chapter 3 quest \"deliver to the cooperative 10 days in a row\" is now fair: since one game day is one real hour, the streak used to reset during hours you weren't playing. Now days you don't play, or play only briefly, don't break the streak; it resets only if half a day (30 min) passes in the game without a delivery. After 15 minutes without a delivery the game reminds you, and the cooperative screen shows whether you've delivered today."
+ },
+ {
   "d": "2026-11-03",
   "tr": "Traktör artık elle tarımdan çok daha avantajlı (Taha'nın isteği): traktöre binip tarlanın yanına gelince \"Tarlayı otomatik sür\" düğmesi çıkıyor; traktör takılı ekipmanla bütün tarlayı kendisi sürüyor, sıradaki ekipmanı da kendiliğinden takıyor. Traktörle iş yorulmadan yapılır, biçer tablası buğdayı kayıpsız biçer (+%10), mibzer düzgün eker (+%10 verim). Elle tarım ise daha yorucu (enerji 1,5 kat), daha uzun sürer ve elle biçerken buğdayın %10'u dökülür. Traktörü olmayan oyuncular yine elle ekip biçebilir.",
   "en": "The tractor is now much better than farming by hand: get on it and drive to your field to see a \"Work the field automatically\" button; the tractor works the whole field with the attached implement and switches to the next one by itself. Tractor work costs no energy, the header harvests without loss (+10%) and the seed drill sows evenly (+10% yield). Farming by hand is more tiring (1.5x energy), takes longer and spills 10% of the wheat. Players without a tractor can still farm by hand.",
