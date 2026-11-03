@@ -1,5 +1,11 @@
 [
  {
+  "v": 616,
+  "d": "2026-11-03",
+  "tr": "Kar görüntüsü düzeltildi (Sami'nin bildirimi): yerdeki kar artık lekeler hâlinde değil, düzgün ve bütün bir örtü olarak yağıyor. Kar kalınlaştıkça çimen, tarla, patika, meydan ve çatılar birlikte beyazlar; kar durunca havanın sıcaklığına göre yavaş yavaş erir.",
+  "en": "Snow looks better: it now settles as a smooth, even blanket instead of patches. As it gets deeper, grass, fields, paths, the village square and roofs turn white together; when it stops, it melts gradually depending on the temperature."
+ },
+ {
   "v": 615,
   "d": "2026-11-03",
   "tr": "Yeni yapı: Odunluk. Kestiğin odun artık cinsine göre ayrılıyor: Meşe ormanındaki ağaçlar meşe, iğne yapraklılar çam, diğerleri kayın ya da kavak odunu olarak sayılır. Odunluk 500 odunu sandıkta yer kaplamadan saklar, her cins kendi bölmesine dizilir ve doluluğu kütüklerden görünür. Odunluğun kartından fazla odunu cinsine göre miktar seçip ya da Hepsi diyerek satabilirsin; meşe ve kayın çam ile kavaktan iki kat pahalıdır. Görevde ya da yapımda lazım olan odun satılmaz. Oduncu Hamit de getirdiği odunu odunluğa koyar. Yeni yapılar listesinde, 400 altın + 30 odun + 6 taş.",
