@@ -1,5 +1,11 @@
 [
  {
+  "v": 620,
+  "d": "2026-11-03",
+  "tr": "Kışın Hazar Gölü buz tutar: soğuk günlerde buz kıyıdan içeri doğru büyür, havalar ısınınca erir; herkes için aynıdır. Göl buz tutunca göle girilmez, iskeleden ve kıyıdan balık tutmak sürer. Karda ağaç kesince yerine fidan dikilmez; kar kalkınca fidan dikilir, o zamana kadar ağaç yeniden büyümez.",
+  "en": "In winter Lake Hazar freezes: on cold days the ice grows from the shore inward and melts when it warms up; it's the same for everyone. Once the lake is frozen you can't go in, but you can still fish from the pier and the shore. Cutting a tree in the snow no longer plants a sapling; one is planted when the snow is gone, and the tree doesn't regrow until then."
+ },
+ {
   "v": 619,
   "d": "2026-11-03",
   "tr": "Bölüm 3'teki \"10 gün üst üste kooperatife teslim yap\" görevi artık adil (Sami'nin bildirimi): 1 oyun günü gerçekte 1 saat olduğu için oyunda olmadığın saatlerde seri sıfırlanıyordu. Artık oyunda olmadığın ya da kısa kaldığın günler seriyi bozmaz; oyundayken bir günün yarısı (30 dk) teslimsiz geçerse seri sıfırlanır. 15 dakika teslim yapmazsan oyun seni uyarır, kooperatif ekranı bugün teslim yapıp yapmadığını gösterir.",
