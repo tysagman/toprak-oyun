@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-11-03",
+  "tr": "Traktör artık elle tarımdan çok daha avantajlı (Taha'nın isteği): traktöre binip tarlanın yanına gelince \"Tarlayı otomatik sür\" düğmesi çıkıyor; traktör takılı ekipmanla bütün tarlayı kendisi sürüyor, sıradaki ekipmanı da kendiliğinden takıyor. Traktörle iş yorulmadan yapılır, biçer tablası buğdayı kayıpsız biçer (+%10), mibzer düzgün eker (+%10 verim). Elle tarım ise daha yorucu (enerji 1,5 kat), daha uzun sürer ve elle biçerken buğdayın %10'u dökülür. Traktörü olmayan oyuncular yine elle ekip biçebilir.",
+  "en": "The tractor is now much better than farming by hand: get on it and drive to your field to see a \"Work the field automatically\" button; the tractor works the whole field with the attached implement and switches to the next one by itself. Tractor work costs no energy, the header harvests without loss (+10%) and the seed drill sows evenly (+10% yield). Farming by hand is more tiring (1.5x energy), takes longer and spills 10% of the wheat. Players without a tractor can still farm by hand.",
+  "v": 618,
+  "pv": "v1.45"
+ },
+ {
   "v": 617,
   "d": "2026-11-03",
   "tr": "Kar altındaki tarlaya artık ekim yapılamaz: tarla kar altındayken «Ek» yerine uyarı çıkar, traktörün mibzeri, Ayşe ve dedenin tarlası da ekmez. Sebze bahçesine de kar kalkana kadar ekilmez. Serada ekim sürer.",
