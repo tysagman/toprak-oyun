@@ -1,5 +1,11 @@
 [
  {
+  "v": 611,
+  "d": "2026-11-03",
+  "tr": "Oyun açılırken Tasami logosu artık iki kez görünmüyor: yalnız animasyonlu logo oynuyor ve sonunda logo 2,5 saniye ekranda kalıyor. Dokunarak geçebilirsin.",
+  "en": "The Tasami logo no longer appears twice when the game starts: only the animated logo plays, and the finished logo stays on screen for 2.5 seconds at the end. Tap to skip."
+ },
+ {
   "v": 610,
   "d": "2026-11-03",
   "tr": "Üzüm bağındaki asma sıralarının içinden artık geçilemiyor (Sami'nin bildirimi): yürürken de atla da asma tellerine ve aralarındaki boşluklara çarpıp durursun. Sıraların arasındaki yollar açık, üzüm toplamak için bağın içinde dolaşabilirsin.",
