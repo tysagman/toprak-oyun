@@ -1,5 +1,12 @@
 [
  {
+  "v": 613,
+  "d": "2026-11-03",
+  "tr": "Kar artık yere ve çatılara yağıyor: kar yağdıkça çimenler, tarlalar, çatılar ve yollar yavaş yavaş beyazlar, kar durunca da hemen değil, havaya göre yavaş yavaş erir (soğuk kış günlerinde günlerce kalabilir). Kar kalınlığı herkes için aynıdır. İnsanların, hayvanların üstünde ve binaların içinde kar görünmez.",
+  "en": "Snow now settles on the ground and roofs: as it snows, grass, fields, roofs and paths slowly turn white, and when it stops the snow melts gradually depending on the weather (on cold winter days it can stay for days). Snow depth is the same for everyone. People, animals and building interiors stay snow-free.",
+  "pv": "v1.42"
+ },
+ {
   "v": 612,
   "d": "2026-11-03",
   "tr": "Laboratuvara günlük rapor geldi: Laboratuvar › Rapor sekmesinde her gün Laborant, Kimyager ve Mikrobiyolog'un o gün yaptığı iş, kattığı değer (laboratuvar sayesinde elektrikten fazladan kazanılan altın), yevmiyesi ve neti görünür; son 14 günün dökümü ve toplamı da var. Sabah çiftlik mesajında ve «Sen yokken» özetinde de laboratuvarın katma değeri yazar.",
