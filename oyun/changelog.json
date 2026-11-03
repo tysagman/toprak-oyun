@@ -1,5 +1,11 @@
 [
  {
+  "v": 612,
+  "d": "2026-11-03",
+  "tr": "Laboratuvara günlük rapor geldi: Laboratuvar › Rapor sekmesinde her gün Laborant, Kimyager ve Mikrobiyolog'un o gün yaptığı iş, kattığı değer (laboratuvar sayesinde elektrikten fazladan kazanılan altın), yevmiyesi ve neti görünür; son 14 günün dökümü ve toplamı da var. Sabah çiftlik mesajında ve «Sen yokken» özetinde de laboratuvarın katma değeri yazar.",
+  "en": "The lab now has a daily report: in Lab › Report you can see what the Lab Technician, Chemist and Microbiologist did each day, the value they added (extra gold from electricity thanks to the lab), their wage and the net result, with a breakdown and totals for the last 14 days. The morning farm message and the 'While you were away' summary also show the lab's added value."
+ },
+ {
   "v": 611,
   "d": "2026-11-03",
   "tr": "Oyun açılırken Tasami logosu artık iki kez görünmüyor: yalnız animasyonlu logo oynuyor ve sonunda logo 2,5 saniye ekranda kalıyor. Dokunarak geçebilirsin.",
