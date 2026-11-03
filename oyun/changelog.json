@@ -1,5 +1,12 @@
 [
  {
+  "v": 623,
+  "d": "2026-11-03",
+  "tr": "Yeni yapı: Çay çardağı. Yazın yanları açık, Kasım'dan Mart'a kadar camları takılı ve sobası yanan ahşap köşk. İçindeki semaverde 8 altına 10 bardak çay demlenir; bir dakikada hazır olur, 12 oyun saati sıcak kalır. Her bardak susuzluğu giderir (+25) ve yorgunluğu alır (+10 enerji, günde 4 bardağa kadar). Çardakta oturup çayını yudumlarken enerjin banktakinin iki katı hızlı dolar ve inceden, dertli bir saz çalar. Günde bir kez çalışanlarına çay ikram edebilirsin: o gün memnuniyetleri +15, işleri %5 daha verimli olur. Yeni yapılar listesinde, 350 altın + 24 odun + 6 taş.",
+  "en": "New building: Tea gazebo. A wooden pavilion that is open in summer and, from November to March, glazed with a lit stove. Its samovar brews 10 glasses of tea for 8 gold; it is ready in a minute and stays hot for 12 game hours. Each glass quenches thirst (+25) and eases tiredness (+10 energy, up to 4 glasses a day). While you sit and sip tea in the gazebo, energy refills twice as fast as on a bench and a soft, melancholic saz plays. Once a day you can treat your workers to tea: that day their satisfaction is +15 and they work 5% more efficiently. Find it under New buildings: 350 gold + 24 wood + 6 stone.",
+  "pv": "v1.46"
+ },
+ {
   "d": "2026-11-03",
   "tr": "Hasan Dede'nin tarlası artık traktörle de sürülüp ekilip biçiliyor (Sami'nin bildirimi). Traktöre binip tarlanın kapısına gelince «Tarlayı otomatik sür» düğmesi çıkar; traktör kapıdan girer, takılı ekipmanla 18 tarhın hepsini işler (tarh başı 2 L mazot). Traktörle elle de tarhın içine sürerek çalışabilirsin. Biçer tablası buğdayı kayıpsız biçer, mibzer düzgün eker; elle yapılan iş daha yorucu.",
   "en": "Grandpa Hasan's field can now be ploughed, sown and harvested with the tractor too. Get on the tractor and drive to the field gate to see a \"Work the field automatically\" button: the tractor goes in and works all 18 beds with the attached implement (2 L of diesel per bed). You can also drive into a bed yourself. The header harvests without loss and the seed drill sows evenly; manual work is more tiring.",
