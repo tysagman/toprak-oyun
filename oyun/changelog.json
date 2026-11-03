@@ -1,5 +1,11 @@
 [
  {
+  "v": 625,
+  "d": "2026-11-03",
+  "tr": "Çardağına artık kendi adını verebilirsin: kurunca adı sorulur, sonradan çardağın kartındaki «Çardağa ad ver» düğmesiyle değiştirilir. Tabelada çay simgesi yok, yalnız verdiğin ad yazar (ad vermezsen «Çardak»). Çardağın çatısı altına artık kar yağmıyor; semaverin dibindeyken bank yerine semaver düğmesi çıkıyor.",
+  "en": "You can now give your gazebo its own name: you are asked when you build it, and you can change it later with «Name the gazebo» on its card. The sign has no tea icon, only the name you choose (or «Gazebo»). Snow no longer settles under the gazebo roof, and next to the samovar you get the samovar button instead of the bench one."
+ },
+ {
   "v": 624,
   "d": "2026-11-03",
   "tr": "Hastane artık gerçek bir tedavi süreci: içeri girince Hemşire Elif masasından kalkıp seni karşılar. Sağlığına göre tansiyon ve ateş ölçülür, gerekirse kan ve idrar tahlili yapılır, yaraların sarılır, serum takılır; sedyede yatarken adımları ve sağlığının dolduğunu görürsün, sonunda doktor tahlil sonuçlarını söyler. Ücret aynı (20 altın), sağlığın tamken kısa kontrol ücretsiz. Bayılınca artık 112 ambulansı sirenle gelip seni Devlet Hastanesi'ne götürür, orada tedavi edilirsin (ambulans + tedavi yine 40 altın).",
