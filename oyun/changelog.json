@@ -1,5 +1,11 @@
 [
  {
+  "v": 635,
+  "d": "2026-11-04",
+  "tr": "Giriş seviyesi telefon ve tabletlerde daha az işlemci yükü: grafik en düşük ayardayken uzaktaki köylüler, kalabalık ve mini harita daha seyrek hesaplanıyor (yürüyüş hızları aynı). Yakındaki insan ve hayvanların tek parça çizime geçişi yavaş cihazlarda da her saniye ilerliyor.",
+  "en": "Less CPU load on entry-level phones and tablets: at the lowest graphics setting, distant villagers, crowds and the minimap update less often (walking speeds unchanged). Nearby people and animals now switch to single-piece drawing steadily on slow devices too."
+ },
+ {
   "v": 634,
   "d": "2026-11-04",
   "tr": "Takılma giderildi: yolda sıkışan bir köylü yeni yol ararken oyun kısa bir an donabiliyordu. Bu arama artık yaklaşık 4 kat hızlı; köylüler yine aynı yolu buluyor.",
