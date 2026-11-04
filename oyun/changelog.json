@@ -1,5 +1,11 @@
 [
 {
+"v": 631,
+"d": "2026-11-04",
+"tr": "Karda köy kavşaklarındaki asfalt yaması artık yol gibi karla örtülüyor; gri karsız dikdörtgen kalmadı.",
+"en": "Asphalt patches at village junctions are now covered by snow like the roads; no more grey snow-free rectangle."
+},
+{
 "v": 630,
 "d": "2026-11-04",
 "tr": "Kış güncellemesi: Sera artık tarlanın üstünde görünüyor; Hasan Dede ve Altınova tarlaları karlanıyor, karda otlar kar altında kalıyor. Kar yağışı uzaktan bakınca da her yere yağıyor. Buz tutan gölün kıyısında buza gömülme yok. Fabrikaların, dinlenme alanı banklarının ve iş ilanları panosunun içinden geçilmiyor. Yün mont artık görünüyor; giyim mağazasında Kışlık bölümü (kaban, bot, bere, atkı, kazak ısıtır). İnek ahırı ve ağıllara açılır yan perdeler. Kışın abdestten sonra soğuktan titreniyor. Çay çardağının adı Semaverli çardak oldu.",
@@ -370,11 +376,5 @@
 "d": "2026-11-01",
 "tr": "Banka artık pazar günü kapalı (Sami'nin bildirimi): pazar günü şubede gişe çalışanı yok, gişeler «Bugün pazar, şube kapalı. Pazartesi açılır.» der. Çalışma saatleri Pazartesi–Cumartesi 08:00–20:00. ATM ve 📱 telefondan bankacılık her gün çalışır; hesap açma ve Nevzat Bey ile tanışma pazar günü de telefondan yapılabilir.",
 "en": "The bank is now closed on Sundays (reported by Sami): no tellers at the branch on Sunday, and the counters say «It's Sunday, the branch is closed. It opens on Monday.» Opening hours are Monday–Saturday 08:00–20:00. The ATM and 📱 phone banking work every day; you can still open an account and meet Mr. Nevzat by phone on Sunday."
-},
-{
-"v": 570,
-"d": "2026-11-01",
-"tr": "Başka bir oyuncunun köyünü ziyaret edince çiftlik tabelasında artık ev sahibinin adı yazıyor (önceden misafirin adı görünüyordu, Sami'nin bildirimi). Misafirler köy tabelasını, çiftlik tabelasını ve bina adlarını değiştiremez.",
-"en": "When you visit another player's village, the farm sign now shows the host's name (it used to show the visitor's name). Visitors can no longer edit the village sign, the farm sign or building names."
 }
 ]
