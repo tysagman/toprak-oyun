@@ -1,6 +1,13 @@
 [
  {
   "d": "2026-11-05",
+  "tr": "Hava durumu artık yaşadığın bölgeye göre: Doğu Anadolu'da kış sert ve karlı (Elazığ–Erzurum arası), Akdeniz ve Ege'de ılık ve yağmurlu, Karadeniz'de bol yağmur, İç Anadolu'da kuru soğuk, Güneydoğu'da sıcak yaz. Yurt dışında da iklim kuşağına göre (ılıman, karasal, soğuk kuzey, sıcak kurak, tropikal). Konum izni istenmez; bölgen yanlışsa Hava durumu ekranındaki 📍 Bölgen satırından seçebilirsin. Takvim, mevsimler ve görevler herkeste aynı kalır.",
+  "en": "Weather now follows the region you live in: harsh snowy winters in Eastern Anatolia, mild rainy winters on the Mediterranean and Aegean coasts, lots of rain on the Black Sea, dry cold in Central Anatolia, hot summers in the Southeast. Abroad it follows your climate zone (mild, continental, cold northern, hot dry, tropical). No location permission is needed; if your region is wrong, pick it from the 📍 Your region row on the Weather screen. The calendar, seasons and quests stay the same for everyone.",
+  "v": 648,
+  "pv": "v1.51"
+ },
+ {
+  "d": "2026-11-05",
   "tr": "Sel ve Tasami hediyeleri artık oyun açıkken anında geliyor (oyunu kapatıp açmak gerekmiyor). Karlı havada sel olmuyor; kar kalkınca geliyor.",
   "en": "Floods and Tasami gifts now arrive instantly while the game is open (no restart needed). There are no floods in snowy weather; it comes once the snow is gone.",
   "v": 647
