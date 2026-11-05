@@ -1,5 +1,11 @@
 [
  {
+  "v": 644,
+  "d": "2026-11-05",
+  "tr": "Oyunun iç denetim testleri kış takvimine uyarlandı; oyunda görünen bir değişiklik yok. Kışın karlı tarlada ekim/hasat yapılmaması, ağaçlarda meyve olmaması ve soğuğun sağlığı etkilemesi bilerek böyle.",
+  "en": "Internal game checks were adapted to the winter calendar; nothing changes in the game. No sowing/harvest on snowy fields, no fruit on trees and cold affecting health in winter are intended."
+ },
+ {
   "v": 643,
   "d": "2026-11-05",
   "tr": "«Sen yokken» raporunun ayrıntıları İngilizce ve diğer dillerde yarı Türkçe çıkıyordu (ör. «Yapacak jobs yoktu»); artık her satır tam çevriliyor. Türkçede satırlar daha düzenli: «Ayşe: 3 parsel biçti», «Sandığa gelenlerin değeri: ≈ 660 A».",
