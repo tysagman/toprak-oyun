@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-11-05",
+  "tr": "Görev penceresindeki \"İlerleme\" satırı artık neyi saydığını yazıyor: ör. Demirkol görevinde \"Üst üste teslim günü 3/10\", altında \"Kooperatife teslim yaptığın her gün 1 sayılır\" ve bugün teslim yapılıp yapılmadığı. Diğer görevlerde de \"Kesilen odun\", \"İnek sayısı\", \"Kamyon seferi\", \"Üretilen kumaş\" gibi açık adlar var; sayaç görevlerinde görev başladıktan sonra yapılanların sayıldığı yazar.",
+  "en": "The \"Progress\" line in the quest window now says what it counts: e.g. \"Days delivered in a row 3/10\" in the Demirkol quest, with \"Each day you deliver to the cooperative counts as 1\" and whether you delivered today. Other quests show clear names too, like \"Wood chopped\", \"Number of cows\", \"Truck trips\" or \"Fabric produced\"; counter quests note that only what you do after the quest starts counts.",
+  "v": 638,
+  "pv": "v1.49"
+ },
+ {
   "v": 637,
   "d": "2026-11-05",
   "tr": "Kendi karakterin artık 30'dan fazla parça yerine tek parça çiziliyor (her karede ~34 çizim yerine ~5, gölgesi de öyle); görünüşü, aletleri ve hareketleri aynı. Kıyafet ya da görünüm değişince karakter birkaç saniye içinde yeniden hazırlanır. Bütün telefonlarda, en çok da giriş seviyesi cihazlarda işe yarar.",
