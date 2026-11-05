@@ -1,5 +1,11 @@
 [
  {
+  "v": 639,
+  "d": "2026-11-05",
+  "tr": "Bazı oyuncular hesaplarından kendiliğinden çıkıyordu: internet yavaşken oyun açılışta hesabını doğrulamayı yalnız 5 saniye bekliyor, sonra misafir girişine geçiyordu. Artık hesabın doğrulanması beklenir, kayıtlı hesap misafirle değişmez. Daha önce hesabından düşen oyuncular Hesap ekranında uyarı görür; bir kez yeniden giriş yapınca kaydı yine buluta yüklenir.",
+  "en": "Some players were being signed out of their account on their own: on a slow connection the game waited only 5 seconds for your account to be verified at start, then switched to guest. Now it waits for the account check and your account is never replaced by a guest. Players who were signed out see a note on the Account screen; signing in once uploads the save to the cloud again."
+ },
+ {
   "d": "2026-11-05",
   "tr": "Görev penceresindeki \"İlerleme\" satırı artık neyi saydığını yazıyor: ör. Demirkol görevinde \"Üst üste teslim günü 3/10\", altında \"Kooperatife teslim yaptığın her gün 1 sayılır\" ve bugün teslim yapılıp yapılmadığı. Diğer görevlerde de \"Kesilen odun\", \"İnek sayısı\", \"Kamyon seferi\", \"Üretilen kumaş\" gibi açık adlar var; sayaç görevlerinde görev başladıktan sonra yapılanların sayıldığı yazar.",
   "en": "The \"Progress\" line in the quest window now says what it counts: e.g. \"Days delivered in a row 3/10\" in the Demirkol quest, with \"Each day you deliver to the cooperative counts as 1\" and whether you delivered today. Other quests show clear names too, like \"Wood chopped\", \"Number of cows\", \"Truck trips\" or \"Fabric produced\"; counter quests note that only what you do after the quest starts counts.",
