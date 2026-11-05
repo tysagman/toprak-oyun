@@ -1,5 +1,11 @@
 [
  {
+  "v": 642,
+  "d": "2026-11-05",
+  "tr": "Uzaktaki yapılar ve karakterler artık her karede tek tek gezilmiyor (zaten çizilmiyorlardı). Köyde dolaşılan nesne sayısı yarıya indi; çizim hazırlığı köyde %25, durakta %22, mandırada %28 kısaldı. Görüntü aynı. Giriş seviyesi telefon ve tabletlerde daha akıcı.",
+  "en": "Distant buildings and characters are no longer walked through one by one every frame (they were not drawn anyway). Objects visited in the village halved; draw preparation is 25% shorter in the village, 22% at the stop and 28% at the dairy. Looks unchanged. Smoother on entry-level phones and tablets."
+ },
+ {
   "v": 641,
   "d": "2026-11-05",
   "tr": "Yapıların birbirine çok yakın malzemeleri tek seferde çiziliyor: köyde her karede ~30 çizim daha az, kare süresi %8–11 kısaldı, görünüş aynı. Telefonun 3D ekranı bir anlığına kaybolursa (arka plana alıp dönme, ekran kartı yoğunluğu) oyun artık sayfayı baştan yüklemiyor, ekran geri gelince kaldığın yerden sürüyor. Giriş seviyesi cihazlarda daha akıcı.",
