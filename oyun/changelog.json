@@ -1,5 +1,11 @@
 [
  {
+  "v": 640,
+  "d": "2026-11-05",
+  "tr": "Hesabına giriş yapmış oyuncular oyunu açınca artık hesap ekranını görmez, doğrudan ana menü gelir. Hesap ekranı yalnız misafir oyunculara bir kez gösterilir.",
+  "en": "Players who are signed in no longer see the account screen when they open the game; the main menu comes up directly. The account screen is shown once only to guest players."
+ },
+ {
   "v": 639,
   "d": "2026-11-05",
   "tr": "Bazı oyuncular hesaplarından kendiliğinden çıkıyordu: internet yavaşken oyun açılışta hesabını doğrulamayı yalnız 5 saniye bekliyor, sonra misafir girişine geçiyordu. Artık hesabın doğrulanması beklenir, kayıtlı hesap misafirle değişmez. Daha önce hesabından düşen oyuncular Hesap ekranında uyarı görür; bir kez yeniden giriş yapınca kaydı yine buluta yüklenir.",
