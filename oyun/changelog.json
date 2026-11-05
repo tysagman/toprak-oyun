@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-11-05",
+  "tr": "Kış artık daha kısa: Aralık–Şubat diğer mevsimlerin yarısı kadar sürüyor, Mart'ta kar nadiren yağıyor. Sel artık yazıyla değil, gözünle görülüyor: yağmur bastırır, gölden çamurlu su gelir, köyü ve çiftliği basar, evlerin ve ahırın dibi su altında kalır, tahtalar sürüklenir; suda yavaş yürürsün. Su çekilince yerde çamur kalır, muhtar zararı yazar (ekinlerin bir kısmı, onarım cebin %2'si; afet sigortası onarımı + 120 A öder).",
+  "en": "Winter is shorter now: December–February last half as long as the other seasons, and snow rarely falls in March. Floods are no longer just a message, you see them: heavy rain, then muddy water rolls in from the lake, floods the village and the farm, drifts planks around and slows you down. When it recedes, mud is left behind and the headman reports the damage (part of the crops, repairs 2% of your cash; disaster insurance pays the repairs + 120 G).",
+  "v": 645,
+  "pv": "v1.50"
+ },
+ {
   "v": 644,
   "d": "2026-11-05",
   "tr": "Oyunun iç denetim testleri kış takvimine uyarlandı; oyunda görünen bir değişiklik yok. Kışın karlı tarlada ekim/hasat yapılmaması, ağaçlarda meyve olmaması ve soğuğun sağlığı etkilemesi bilerek böyle.",
