@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-11-06",
+  "tr": "Haritada bölge keşfi: bir bölgeye (Batı ormanları, Güney ovası, Kuzey Diyarı, Elazığ yolu vb.) ilk girdiğinde artık bölgenin tamamı haritada açılıyor; eskiden yalnız girdiğin noktanın çevresi açılıyordu. Daha önce gittiğin bölgeler de oyunu açınca haritada tamamen görünür.",
+  "en": "Map exploration: the first time you enter a region (Western forests, Southern plain, Northern lands, the Elazığ road and others), the whole region now appears on the map; before, only the area around where you entered was revealed. Regions you visited before are also fully revealed when you open the game.",
+  "v": 658,
+  "pv": "v1.56"
+ },
+ {
   "v": 657,
   "d": "2026-11-06",
   "tr": "Elle tarla işi artık parsel parsel: tarla düğmesine basınca karakterin tek bir eğilişle bütün tarlayı bitirmesi yerine her parselin yanına yürür; orakla başakları biçer, tohum serper ya da kazmayla toprağı sürer. Parseller tek tek değişir. Yorgunluk ve verim aynı; istersen yürüyüp işi yarıda bırakabilirsin, yapılanlar kalır. Traktörle otomatik sürüş elle işten çok daha hızlı.",
