@@ -1,6 +1,7 @@
 [
 {
 "v": 660,
+"pv": "v1.57",
 "d": "2026-11-06",
 "tr": "Salıncakta karakter oturağa tam oturuyor. Traktör seranın yan duvarlarından geçmiyor, seraya açık uçlarından girilir. Kâhya başvurularında Reddet düğmesi var; herkesi reddedersen ilan yeniden çıkar. Fabrikalarda hammadde deposundan köylüden hammadde (pancar, yün) alınıp doğrudan ambara konabilir.",
 "en": "Your character now sits properly on the swing. The tractor no longer drives through the greenhouse side walls; enter from the open ends. Steward applications have a Reject button; if you reject everyone, the ad is posted again. In factories you can buy raw materials (beets, wool) from villagers straight into storage."
