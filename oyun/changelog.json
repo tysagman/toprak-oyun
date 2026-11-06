@@ -1,6 +1,13 @@
 [
  {
   "d": "2026-11-06",
+  "tr": "Güncelleme duyuruları kısaldı: oyuna yeni güncelleme gelince artık uzun açıklama yerine kısa bir «Yenilikler var» penceresi çıkıyor. Neler değiştiğini merak edersen «Ayrıntılar»a dokun, yeni Güncellemeler sayfası açılır. Bu sayfada oyunun bütün güncellemeleri sürüm ve yapı numarasıyla, en yenisi üstte ve 7 dilde yer alıyor; herkes web sitesinden de bakabiliyor. Ayarlar'daki «Güncelleme notları» da bu sayfayı açar.",
+  "en": "Update announcements are shorter: when a new update arrives you now see a short «What's new» window instead of a long description. Curious about the details? Tap «Details» to open the new Updates page. It lists every update of the game with its version and build number, newest first, in 7 languages, and anyone can view it on the website too. «Update notes» in Settings opens this page as well.",
+  "v": 655,
+  "pv": "v1.54"
+ },
+ {
+  "d": "2026-11-06",
   "tr": "Düzeltildi: 'Bildirdiğin hata düzeltildi' mesajlarında ve Gönderdiklerim listesinde sürüm artık v650 gibi iç numarayla değil, oyunda gördüğün sürümle (v1.xx) yazıyor.",
   "en": "Fixed: 'Your reported bug was fixed' messages and the My submissions list now show the version you see in the game (v1.xx) instead of an internal build number like v650.",
   "v": 654

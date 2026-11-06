@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Toprağın Mirası · Güncellemeler</title>
+<meta name="description" content="Toprağın Mirası oyununun bütün güncellemeleri ve yenilikleri.">
+<link rel="icon" href="icons/icon-192.png">
+<style>
+:root{--bg:#f2eee6;--card:#fffdf8;--ink:#2b2a24;--mut:#6f6a5c;--line:#e2d6c2;--brand:#1f4d2e;--brand2:#3a7d2c;--chip:#eadfca;--new:#f2c94c;--hl:#fff6dc}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#13201a;--card:#1b2b23;--ink:#efe8da;--mut:#a9a493;--line:#2e4236;--brand:#8fd19e;--brand2:#7cc27f;--chip:#2a3d32;--new:#e0b83c;--hl:#26382b}}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
+a{color:var(--brand)}
+header{background:#1f4d2e;color:#f2eee6;padding:calc(14px + env(safe-area-inset-top,0px)) 16px 0}
+.top{max-width:760px;margin:0 auto;display:flex;align-items:center;gap:12px}
+.top img{width:44px;height:44px;border-radius:10px;background:#f2eee6;padding:3px}
+.top h1{font-size:1.25rem;margin:0;line-height:1.2}
+.top small{display:block;opacity:.8;font-weight:500;font-size:.85rem}
+.top select{margin-left:auto;background:#2b6340;color:#fff;border:0;border-radius:10px;padding:7px 8px;font:inherit;font-size:.9rem}
+nav{max-width:760px;margin:12px auto 0;display:flex;gap:4px;overflow-x:auto}
+nav a{color:#f2eee6;text-decoration:none;padding:9px 14px;border-radius:12px 12px 0 0;font-weight:600;font-size:.95rem;white-space:nowrap;opacity:.85}
+nav a.on{background:var(--bg);color:var(--ink);opacity:1}
+main{max-width:760px;margin:0 auto;padding:16px 16px 40px}
+.intro{color:var(--mut);margin:0 0 12px}
+.tools{display:flex;gap:8px;margin:0 0 14px}
+.tools input{flex:1;min-width:0;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:12px;padding:10px 12px;font:inherit}
+.grp{margin:18px 0 6px;display:flex;align-items:baseline;gap:10px}
+.grp h2{margin:0;font-size:1.15rem;color:var(--brand)}
+.grp span{color:var(--mut);font-size:.85rem}
+.it{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:8px 0}
+.it.yeni{background:var(--hl);border-color:var(--new)}
+.meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:.82rem;color:var(--mut);margin-bottom:4px}
+.meta b{background:var(--chip);color:var(--ink);border-radius:8px;padding:1px 8px;font-weight:700}
+.meta i{font-style:normal;background:var(--new);color:#2b2a24;border-radius:8px;padding:1px 8px;font-weight:800}
+.it p{margin:0;overflow-wrap:anywhere}
+.more{display:block;width:100%;margin:14px 0;padding:12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--brand);font:inherit;font-weight:700;cursor:pointer}
+.msg{color:var(--mut);text-align:center;padding:30px 0}
+footer{max-width:760px;margin:0 auto;padding:0 16px 30px;color:var(--mut);font-size:.82rem;text-align:center}
+body.app nav{display:none}
+body.app header{padding-bottom:12px}
+</style>
+</head>
+<body>
+<header>
+ <div class="top">
+  <img src="icons/icon-192.png" alt="">
+  <h1 id="ttl">Toprağın Mirası<small id="sub">Güncellemeler</small></h1>
+  <select id="lng" aria-label="Dil"></select>
+ </div>
+ <nav>
+  <a id="nPlay" href="./">🎮 Oyna</a>
+  <a id="nUpd" class="on" href="guncellemeler.html">🆕 Güncellemeler</a>
+  <a id="nPriv" href="gizlilik.html">🔒 Gizlilik</a>
+ </nav>
+</header>
+<main>
+ <p class="intro" id="intro"></p>
+ <div class="tools"><input id="q" type="search" autocomplete="off"></div>
+ <div id="list"><p class="msg" id="ld">…</p></div>
+ <button class="more" id="more" hidden></button>
+</main>
+<footer>Tasami Company · Grow Your Legacy</footer>
+<script>
+(function(){
+var LN=[["tr","Türkçe"],["en","English"],["de","Deutsch"],["fr","Français"],["es","Español"],["ru","Русский"],["ku","Kurdî"]];
+var S={
+tr:{sub:"Güncellemeler",play:"🎮 Oyna",upd:"🆕 Güncellemeler",priv:"🔒 Gizlilik",intro:"Oyuna gelen bütün yenilikler ve düzeltmeler, en yenisi en üstte.",q:"Güncellemelerde ara…",build:"yapı",yeni:"Yeni",more:"Daha eski güncellemeleri göster",old:"v1.00 öncesi",err:"Güncellemeler yüklenemedi. İnternet bağlantını kontrol edip sayfayı yenile.",none:"Aramana uygun güncelleme yok.",cnt:"{n} güncelleme"},
+en:{sub:"Updates",play:"🎮 Play",upd:"🆕 Updates",priv:"🔒 Privacy",intro:"Every new feature and fix in the game, newest first.",q:"Search updates…",build:"build",yeni:"New",more:"Show older updates",old:"Before v1.00",err:"Couldn't load the updates. Check your connection and refresh the page.",none:"No updates match your search.",cnt:"{n} updates"},
+de:{sub:"Updates",play:"🎮 Spielen",upd:"🆕 Updates",priv:"🔒 Datenschutz",intro:"Alle Neuerungen und Korrekturen im Spiel, die neuesten zuerst.",q:"Updates durchsuchen…",build:"Build",yeni:"Neu",more:"Ältere Updates anzeigen",old:"Vor v1.00",err:"Updates konnten nicht geladen werden. Prüfe deine Verbindung und lade die Seite neu.",none:"Keine passenden Updates.",cnt:"{n} Updates"},
+fr:{sub:"Mises à jour",play:"🎮 Jouer",upd:"🆕 Mises à jour",priv:"🔒 Confidentialité",intro:"Toutes les nouveautés et corrections du jeu, les plus récentes en premier.",q:"Rechercher…",build:"build",yeni:"Nouveau",more:"Afficher les mises à jour plus anciennes",old:"Avant v1.00",err:"Impossible de charger les mises à jour. Vérifie ta connexion et recharge la page.",none:"Aucune mise à jour ne correspond.",cnt:"{n} mises à jour"},
+es:{sub:"Actualizaciones",play:"🎮 Jugar",upd:"🆕 Actualizaciones",priv:"🔒 Privacidad",intro:"Todas las novedades y correcciones del juego, las más recientes primero.",q:"Buscar…",build:"build",yeni:"Nuevo",more:"Mostrar actualizaciones anteriores",old:"Antes de v1.00",err:"No se pudieron cargar las actualizaciones. Revisa tu conexión y recarga la página.",none:"Ninguna actualización coincide.",cnt:"{n} actualizaciones"},
+ru:{sub:"Обновления",play:"🎮 Играть",upd:"🆕 Обновления",priv:"🔒 Конфиденциальность",intro:"Все новинки и исправления в игре, сначала самые новые.",q:"Поиск по обновлениям…",build:"сборка",yeni:"Новое",more:"Показать более старые обновления",old:"До v1.00",err:"Не удалось загрузить обновления. Проверь подключение и обнови страницу.",none:"Ничего не найдено.",cnt:"{n} обновлений"},
+ku:{sub:"Nûkirin",play:"🎮 Bilîze",upd:"🆕 Nûkirin",priv:"🔒 Nepenî",intro:"Hemû nûbûn û rastkirinên lîstikê, ya herî nû li jor.",q:"Di nûkirinan de bigere…",build:"avahî",yeni:"Nû",more:"Nûkirinên kevntir nîşan bide",old:"Berî v1.00",err:"Nûkirin nehatin barkirin. Girêdana xwe kontrol bike û rûpelê nû bike.",none:"Tu nûkirin li gorî lêgerînê tune.",cnt:"{n} nûkirin"}};
+var P=new URLSearchParams(location.search),L=P.get("lang");
+if(!S[L]){L=(navigator.language||"tr").slice(0,2).toLowerCase();if(!S[L])L="en"}
+var YENI=+P.get("yeni")||0,APP=P.get("app")==="1";if(APP)document.body.classList.add("app");
+var t=S[L],$=function(i){return document.getElementById(i)};
+document.documentElement.lang=L;document.title="Toprağın Mirası · "+t.sub;
+$("sub").textContent=t.sub;$("nPlay").textContent=t.play;$("nUpd").textContent=t.upd;$("nPriv").textContent=t.priv;$("intro").textContent=t.intro;$("q").placeholder=t.q;$("more").textContent=t.more;
+var sel=$("lng");LN.forEach(function(x){var o=document.createElement("option");o.value=x[0];o.textContent=x[1];if(x[0]===L)o.selected=true;sel.appendChild(o)});
+sel.onchange=function(){P.set("lang",sel.value);location.search=P.toString()};
+["nPlay","nUpd","nPriv"].forEach(function(i){var a=$(i);a.href=a.getAttribute("href")+"?lang="+L});
+// oyuncuya açık sayfa: bildiren kişi adları ve ekip sürprizleri gösterilmez
+var R=/\s*\((?:[^()]*?'(?:n[ıiuü]n|[ıiuü]n) (?:bildirimi|önerisi|isteği|bildirdiği)|reported by [^()]*|suggested by [^()]*|requested by [^()]*|[^()]*?'s (?:report|suggestion|request|idea))\)/g;
+var YASAK=/claude|anthropic|semih|batuhan|emo[çc]|ostam|@|https?:/i;
+function tx(x){var s=L==="tr"?x.tr:(x.en||x.tr);return s||""}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]})}
+function fd(d){if(!d)return"";try{return new Date(d+"T12:00:00").toLocaleDateString(L==="ku"?"tr":L,{day:"numeric",month:"long",year:"numeric"})}catch(e){return d}}
+function get(u){return fetch(u+"?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()})}
+var ALL=[],SHOW=40;
+function draw(){var q=$("q").value.trim().toLocaleLowerCase(L),list=$("list"),h="",n=0,last=null,F=ALL.filter(function(x){return !q||tx(x).toLocaleLowerCase(L).indexOf(q)>=0});
+ if(!F.length){list.innerHTML='<p class="msg">'+esc(ALL.length?t.none:t.err)+'</p>';$("more").hidden=true;return}
+ var cnt={};F.forEach(function(x){var g=x.pv||"";cnt[g]=(cnt[g]||0)+1});
+ F.slice(0,SHOW).forEach(function(x){var g=x.pv||"";
+  if(g!==last){last=g;h+='<div class="grp"><h2>'+esc(g||t.old)+'</h2><span>'+esc(t.cnt.replace("{n}",cnt[g]))+'</span></div>'}
+  var nw=YENI&&x.v>YENI;
+  h+='<div class="it'+(nw?" yeni":"")+'" id="y'+x.v+'"><div class="meta">'+(nw?'<i>'+esc(t.yeni)+'</i>':"")+'<b>'+esc((x.pv?x.pv+" ":"")+"("+t.build+" "+x.v+")")+'</b><span>'+esc(fd(x.d))+'</span></div><p>'+esc(tx(x))+'</p></div>'});
+ list.innerHTML=h;$("more").hidden=F.length<=SHOW}
+$("more").onclick=function(){SHOW+=60;draw()};
+$("q").oninput=function(){SHOW=40;draw()};
+Promise.all([get("guncellemeler-arsiv.json").catch(function(){return[]}),get("changelog.json").catch(function(){return[]})]).then(function(r){
+ var A=r[0]||[],C=(r[1]||[]).filter(function(x){return x&&typeof x.v==="number"}),mx=A.length?A[0].v:0,seen={};
+ A.forEach(function(x){seen[x.v]=1});
+ // arşivde olmayan yeni kayıtlar canlı notlardan gelir; görünen sürüm yoksa bir önceki kayıttan alınır
+ var N=C.filter(function(x){return !seen[x.v]&&x.v>mx}).map(function(x){var y={v:x.v,pv:x.pv,d:x.d,tr:(x.tr||"").replace(R,"").trim(),en:(x.en||"").replace(R,"").trim()};return y}).filter(function(y){return !YASAK.test(y.tr)&&!YASAK.test(y.en)});
+ ALL=N.concat(A).sort(function(a,b){return b.v-a.v});
+ var cur="";for(var i=ALL.length-1;i>=0;i--){var x=ALL[i];if(x.v<451){x.pv="";continue}if(x.pv)cur=x.pv;else x.pv=cur}
+ if(YENI){var k=ALL.filter(function(x){return x.v>YENI}).length;if(k>SHOW)SHOW=k}
+ draw();
+ var hs=location.hash.match(/^#y(\d+)/);if(hs){var e=$("y"+hs[1]);if(e)e.scrollIntoView()}
+}).catch(function(){$("list").innerHTML='<p class="msg">'+esc(t.err)+'</p>'});
+})();
+</script>
+</body>
+</html>
