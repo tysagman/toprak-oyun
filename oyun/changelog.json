@@ -1,5 +1,11 @@
 [
 {
+"v": 653,
+"d": "2026-11-06",
+"tr": "Araçla Üzüm bağlarına gidince artık asma sıralarının arasına değil, bağın girişine bırakılıyorsun; araç bağın içine girmiyor.",
+"en": "When you take a vehicle to the vineyards you're now dropped at the vineyard entrance, not between the vine rows; vehicles no longer drive into the vineyard."
+},
+{
 "v": 652,
 "d": "2026-11-06",
 "tr": "Gönderdiklerim listesinde artık en yeni gönderdiklerin en üstte görünüyor. Çok sayıda geri bildirim gönderenlerde yeni kayıtlar listeye gelmiyordu.",
@@ -371,11 +377,5 @@
 "tr": "Yeni: oyuna girmemenin de bir bedeli var. 12 saatten uzun yoklukta çalışanların morali düşer, bakıcısı olmayan hayvanların suluğu boşalır. 1–2 gün girmezsen çalışanlar işin bir kısmını yarım bırakır, Ayşe yoksa hasadı geciken tarlada ürünün dörtte biri kaybolur. 2 günü geçince çalışanlar işi bırakır ve itibar günde 1 düşer (en çok 5). Hayvan ölmez, altın eksiye düşmez. Döndüğünde Muhtar Rıza'nın «Çiftliği toparla» görevi gelir: çalışanları tek düğmeyle geri çağır, hayvanları doyurup sula, bir satış yap; kaybettiğin itibarın yarısı geri gelir.",
 "en": "New: staying away now has a cost. After more than 12 hours away your workers' morale drops and water troughs of untended animals run dry. After 1–2 days workers leave part of the work unfinished, and without Ayşe a quarter of a late harvest is lost. After 2 days workers quit and reputation drops by 1 a day (5 at most). Animals don't die and gold never goes negative. When you return, Headman Rıza gives you «Get the farm back on its feet»: call your workers back with one button, feed and water the animals and make a sale, and half the lost reputation comes back.",
 "pv": "v1.36"
-},
-{
-"v": 592,
-"d": "2026-11-02",
-"tr": "Küçük hikâye iyileştirmesi: köyün bir büyüğü artık yolculuğunun en başında seni karşılıyor ve ilk satış, ilk ahır, ilk çalışan gibi önemli adımlarında mesaj gönderiyor.",
-"en": "Small story improvement: one of the village elders now welcomes you at the very start of your journey and sends you a message at key steps such as your first sale, first barn and first worker."
 }
 ]
