@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-11-06",
+  "tr": "Çanta, sandık ve ambar daha çok alıyor. Çanta 90 yerle başlıyor, büyütünce 135, 180, 300 ve 450 oluyor. Sandık 2.250 ile başlıyor, geliştirmelerle 29.700'e çıkıyor. Ambar binası sandığa artık 1.000 yer ekliyor. Mevcut kayıtlar yeni kapasiteyi kendiliğinden alır, fiyatlar aynı.",
+  "en": "Bag, chest and granary now hold more. The bag starts with 90 slots and grows to 135, 180, 300 and 450. The chest starts at 2,250 and reaches 29,700 with upgrades. The granary building now adds 1,000 slots to the chest. Existing saves get the new capacity automatically; prices are unchanged.",
+  "v": 651,
+  "pv": "v1.53"
+ },
+ {
   "v": 650,
   "d": "2026-11-06",
   "tr": "Yeni çalışan Çaycı Selami: Semaverli çardağı kurduysan Çalışanlar ekranından işe alabilirsin. Gündüz semaveri hep demli tutar (çay 8 A kasadan), her gün çalışanlarına çay ikram eder; o gün memnuniyetleri artar, işleri daha verimli olur.",
