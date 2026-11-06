@@ -1,5 +1,11 @@
 [
 {
+"v": 650,
+"d": "2026-11-06",
+"tr": "Yeni çalışan Çaycı Selami: Semaverli çardağı kurduysan Çalışanlar ekranından işe alabilirsin. Gündüz semaveri hep demli tutar (çay 8 A kasadan), her gün çalışanlarına çay ikram eder; o gün memnuniyetleri artar, işleri daha verimli olur.",
+"en": "New worker Selami the tea maker: once you've built the samovar gazebo, hire him from the Workers screen. He keeps the samovar brewed during the day (tea costs 8 G from your gold) and serves tea to your workers every day, raising their satisfaction and efficiency."
+},
+{
 "v": 649,
 "d": "2026-11-05",
 "tr": "Yamaçta ata binerken binici artık eyerde oturuyor, atın boynuna kaymıyor. Traktör otomatik sürerken mazot bitince olduğu yerde duruyor; o ana kadar biçilen ekin toplanıyor. Çoban ve bakıcılar ahır/ağıl çatısını ve perdesini hava değişince hemen açıp kapatıyor.",
@@ -370,11 +376,5 @@
 "tr": "Yeni: ürünler artık gerçek hayattaki gibi bozuluyor. Süt sandıkta 8 saat, süt deposunda 24 saat dayanır; yoğurt ve ayran 1 gün, yumurta 3 gün, balık 6 saat, beyaz peynir 3 gün. Soğuk hava deposu ve ürünün kendi deposu süreyi uzatır. Süresi dolan ürün birden değil, 6 saatte bir dörtte biri kadar azalır; görev ve sipariş için lazım olan miktar bozulmaz, uzun yokluktan dönünce kayıp en çok %30 olur. Kaşar ve tulum peyniri beklettikçe olgunlaşır: 2 günde %20, 5 günde %40 daha pahalı satılır. Sağımdan sonraki 2 saatte satılan süt %10 fazla eder. Silo yoksa sandıktaki buğday günde %2 nemlenir. Sandıkta her ürünün yanında kalan süre yazar.",
 "en": "New: goods now spoil like in real life. Milk lasts 8 hours in the chest and 24 hours in the milk tank; yoghurt and ayran 1 day, eggs 3 days, fish 6 hours, white cheese 3 days. Cold storage and each product's own store make them last longer. Expired goods shrink by a quarter every 6 hours instead of vanishing at once; amounts needed for quests and orders never spoil, and after a long absence you lose at most 30%. Kashar and tulum cheese mature as they wait: they sell for 20% more after 2 days and 40% more after 5 days. Milk sold within 2 hours of milking is worth 10% more. Without a silo, wheat in the chest loses 2% a day to damp. The chest shows the time left next to each product.",
 "pv": "v1.35"
-},
-{
-"v": 589,
-"d": "2026-11-02",
-"tr": "Traktör: ekipmansız binmeye çalışınca uyarı çıkıyor, pulluk/mibzer/biçer tablasını oradan telefonla sipariş edebilir ya da Tarım Market'e gidebilirsin. Binince tarlanın ihtiyacına göre sende olan doğru ekipman kendiliğinden takılıyor (olgun ekin → biçer tablası, biçilmiş/ham tarla → pulluk, sürülmüş tarla → mibzer). Büyüyen ekinin ya da yanlış ekipmanın üstünden geçince traktör artık nedenini söylüyor.",
-"en": "Tractor: trying to get on without an implement now shows a warning where you can order a plough, seed drill or header by phone or head to the Farm Market. When you get on, the right implement you own is attached for the field (ripe crop → header, harvested/raw field → plough, ploughed field → seed drill). Driving over growing crops or with the wrong implement now tells you why nothing happens."
 }
 ]
