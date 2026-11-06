@@ -1,5 +1,11 @@
 [
 {
+"v": 660,
+"d": "2026-11-06",
+"tr": "Salıncakta karakter oturağa tam oturuyor. Traktör seranın yan duvarlarından geçmiyor, seraya açık uçlarından girilir. Kâhya başvurularında Reddet düğmesi var; herkesi reddedersen ilan yeniden çıkar. Fabrikalarda hammadde deposundan köylüden hammadde (pancar, yün) alınıp doğrudan ambara konabilir.",
+"en": "Your character now sits properly on the swing. The tractor no longer drives through the greenhouse side walls; enter from the open ends. Steward applications have a Reject button; if you reject everyone, the ad is posted again. In factories you can buy raw materials (beets, wool) from villagers straight into storage."
+},
+{
 "v": 659,
 "d": "2026-11-06",
 "tr": "Gübre taşıyıcı Rıfat akşam meydandaki kuyunun içinde durmuyor, evine gidiyor. Köy dışındaki yamaçlarda karakter artık yere gömülmüyor.",
@@ -371,11 +377,5 @@
 "d": "2026-11-02",
 "tr": "Süt kooperatifi artık depondaki bütün sütü alıyor (Sami'nin bildirimi): günlük kota dolunca kalan süt, peynir ve koyun/keçi sütü yarı fiyatına alınır. Yeni 'Hepsini teslim et' düğmesiyle ürün bozulmadan tek seferde satılır; fazlası da kooperatif görevine sayılır.",
 "en": "The milk cooperative now takes all the milk in your storage: once the daily quota is full, the rest of the milk, cheese and sheep/goat milk is bought at half price. The new 'Deliver all' button sells it in one go before it spoils, and the extra also counts toward the cooperative quest."
-},
-{
-"v": 599,
-"d": "2026-11-02",
-"tr": "Yeni: Bahçıvan Cemil'e ne ekeceğini sen söyleyebilirsin. Çalışanlar ekranında Cemil'in altındaki 'Ne eksin?' düğmesinden ya da sebze bahçesi ekranından istediğin sebzeleri seç; Cemil boş yataklara yalnız onları eker, birden çok seçersen yatakları eşit paylaştırır. Fide bitince seçtiklerini pazar fiyatıyla alır. Seçim yapmazsan artık tek çeşit değil, beş sebzeyi karışık eker.",
-"en": "New: you can tell gardener Cemil what to plant. Tap 'What to plant?' under Cemil on the Workers screen, or use the vegetable garden screen, and pick the vegetables you want; Cemil plants only those in empty beds and shares the beds equally if you pick several. When seedlings run out he buys the ones you picked at market price. If you don't choose, he now plants all five vegetables mixed instead of just one."
 }
 ]
