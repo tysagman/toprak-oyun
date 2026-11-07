@@ -1,6 +1,7 @@
 [
 {
 "v": 674,
+"pv": "v1.64",
 "d": "2026-11-07",
 "tr": "v1.64: Dede tarlasında traktör artık normal tarla gibi yalnız üstünden geçtiği parselleri sürer, eker, biçer. Tarlanın içinde ağaç kalmadı. At arabasındaki yük kasaya oturur. Dedenin tarlası ve konağı senin alanın: arkadaşın ziyarete gelmeden orada görünmez. Traktördeki arkadaşın traktörün üstünde görünür.",
 "en": "v1.64: On Grandpa's field the tractor now works parcel by parcel like on your own field. No trees inside the field. Cart load sits in the bed. The field and mansion are private. Friends driving a tractor are shown on it."
