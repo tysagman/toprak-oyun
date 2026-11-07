@@ -1,5 +1,12 @@
 [
  {
+  "v": 664,
+  "pv": "v1.58",
+  "d": "2026-11-07",
+  "tr": "İnek ahırı ve ağıllarda yan perdeler kapalıyken çitten atlanmıyor; içeri kapıdan girilir. Perdeler açıkken çitten atlarken karakter artık çitin üstünden geçiyor, ayağı çitin içine girmiyor.",
+  "en": "When the side curtains of the cow barn and pens are closed you can no longer jump over the fence; go in through the gate. With the curtains open, jumping now clears the fence instead of passing through it."
+ },
+ {
   "v": 663,
   "d": "2026-11-07",
   "tr": "Arı kovanı tabelasının ve direkli diğer tabelaların (mazot tankı, biyogaz, dede tarlası, konak) içinden artık geçilmiyor. Mera, ağıl ve kümes kapısındaki tabelaların direklerine girilmiyor, kapı açık kalıyor.",
