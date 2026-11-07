@@ -1,6 +1,7 @@
 [
 {
 "v": 672,
+"pv": "v1.63",
 "d": "2026-11-07",
 "tr": "v1.63: Traktör daha gerçekçi: açık kabin, koltuk ve direksiyon; sürerken karakterin direksiyonda oturduğu görünür, dönerken direksiyon çevrilir; lastikler tırnaklı. Kâhya raporunda saat düzgün yazılır, işe alınmış kâhyanın kartında başvuru satırı görünmez.",
 "en": "v1.63: More realistic tractor: open cab, seat and steering wheel; your character is seen at the wheel and turns it; treaded tyres. Steward report time shows correctly."
