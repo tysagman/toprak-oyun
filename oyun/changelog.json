@@ -1,5 +1,12 @@
 [
  {
+  "d": "2026-11-07",
+  "tr": "Oduncu Hamit artık görevlere yetişiyor: bölüm ilerledikçe günde daha çok odun, ot ve taş getirir (Bölüm 1'de 10/8/6, Bölüm 6'da 4 katı). Görev çok odun, ot ya da taş istiyorsa ve sandıkta yoksa Hamit günde görevin onda biri kadar getirir; örneğin meslek okulu için günde 120 odun ve 120 taş. Çalışanlar ekranında Hamit'in bugün ne kadar getireceği yazar.",
+  "en": "Woodcutter Hamit now keeps up with quests: he brings more wood, hay and stone each day as the chapters advance (10/8/6 in Chapter 1, four times that in Chapter 6). If a quest needs lots of wood, hay or stone and your chest doesn't have it, Hamit brings a tenth of the quest amount every day, e.g. 120 wood and 120 stone a day for the vocational school. The Workers screen shows how much Hamit will bring today.",
+  "v": 668,
+  "pv": "v1.61"
+ },
+ {
   "v": 667,
   "d": "2026-11-07",
   "tr": "Toptancı artık görünüyor: sanayi bölgesindeki sanayi ofisinde, toptancı masasının başında oturuyor. Toptancı görevlerinde 📍 Yol göster seni sanayi ofisinin kapısına götürür, görev kartı toptancının nerede olduğunu yazar. Fabrika, mandıra, kamyon, ihracat, holding, vadeli hesap ve sigorta görevlerinin oku da eve değil, ilgili yapıya ya da Hazar Bank'a gider.",
