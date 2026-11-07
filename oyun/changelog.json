@@ -1,5 +1,11 @@
 [
  {
+  "d": "2026-11-08",
+  "tr": "Gelen kutusunda mesajlar silinebiliyor: her mesajın yanındaki 🗑 ile tek tek, «Seç» ile seçip, «Hepsini sil» ile hepsini birden.",
+  "en": "Inbox messages can now be deleted: one by one with the 🗑 next to each message, several at once with «Select», or all at once with «Delete all».",
+  "v": 676
+ },
+ {
   "v": 675,
   "d": "2026-11-07",
   "tr": "Hazırlık: yeni Android sürümü için isteğe bağlı ödüllü reklam altyapısı eklendi (inşaatı hızlandırma, Sen yokken ek ürün, günlük hediye, bozulmak üzere ürün, afet kurtarma, enerji, bedava taksi; günde en çok 5). Reklam izlemek hiçbir zaman zorunlu değil, araya giren reklam ve şerit reklam yok. Şu an oyunda bir değişiklik görünmez.",
