@@ -1,5 +1,12 @@
 [
  {
+  "v": 678,
+  "pv": "v1.65",
+  "d": "2026-11-07",
+  "tr": "v1.65: Çok yüksek grafik ayarı coştu (Ayarlar › Grafik ve hız › Çok yüksek; güçlü telefonlar ve bilgisayar için). Güneş, su pırıltısı, ateş ve lambalar parlıyor, ağaçların arasından güneş huzmeleri sızıyor, renkler daha canlı, kenarlar daha yumuşak. Göl artık dalgalanıyor, gökyüzünü yansıtıyor ve güneşte pırıl pırıl. Bilgisayarda gölgeler daha net. Düşük, Orta ve Yüksek ayarlar değişmedi.",
+  "en": "v1.65: The Very high graphics setting got a big upgrade (Settings › Graphics and speed › Very high; for powerful phones and computers). The sun, water sparkles, fires and lamps glow, sunbeams shine through the trees, colors are more vivid and edges are smoother. The lake now ripples, reflects the sky and sparkles in the sun. Shadows are sharper on computers. Low, Medium and High are unchanged."
+ },
+ {
   "v": 677,
   "d": "2026-11-08",
   "tr": "Hazırlık: ödüllü reklam üst üste yüklenemezse oyun bunun özel DNS ya da reklam engelleyiciden olabileceğini kibarca söyler. Oyunda bir ceza ya da kısıtlama yok.",
