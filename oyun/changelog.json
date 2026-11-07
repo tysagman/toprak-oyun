@@ -1,5 +1,12 @@
 [
  {
+  "v": 670,
+  "pv": "v1.61",
+  "d": "2026-11-07",
+  "tr": "İnek ahırı ve ağılların yan perdeleri artık hava durumuna göre kendiliğinden açılıp kapanıyor: yağmur ve karda kapalı, yağış yokken açık. Gece, soğuk ya da yerdeki kar perdeleri kapatmıyor.",
+  "en": "The side curtains of the cow barn and pens now open and close by themselves with the weather: closed in rain and snow, open when it's dry. Night, cold or snow on the ground no longer closes them."
+ },
+ {
   "v": 669,
   "d": "2026-11-07",
   "tr": "Görev ilerlemesi artık kaybolmuyor: oyuna yeni bir görev eklenip senin görevinin önüne girdiğinde (örneğin kâhya görevi), yarım kalan görevin sayacı saklanır, sırası gelince kaldığın yerden devam eder. Kâhya görevinden sonra un görevi sıfırlanan oyuncuların un fabrikasında ürettiği bütün un yeniden sayılır.",
