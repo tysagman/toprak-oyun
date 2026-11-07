@@ -1,5 +1,11 @@
 [
  {
+  "v": 669,
+  "d": "2026-11-07",
+  "tr": "Görev ilerlemesi artık kaybolmuyor: oyuna yeni bir görev eklenip senin görevinin önüne girdiğinde (örneğin kâhya görevi), yarım kalan görevin sayacı saklanır, sırası gelince kaldığın yerden devam eder. Kâhya görevinden sonra un görevi sıfırlanan oyuncuların un fabrikasında ürettiği bütün un yeniden sayılır.",
+  "en": "Quest progress is no longer lost: when a new quest is added in front of your current one (for example the steward quest), the counter of your unfinished quest is kept and continues where you left off when its turn comes. Players whose flour quest was reset after the steward quest now have all the flour their mill produced counted again."
+ },
+ {
   "d": "2026-11-07",
   "tr": "Oduncu Hamit artık görevlere yetişiyor: bölüm ilerledikçe günde daha çok odun, ot ve taş getirir (Bölüm 1'de 10/8/6, Bölüm 6'da 4 katı). Görev çok odun, ot ya da taş istiyorsa ve sandıkta yoksa Hamit günde görevin onda biri kadar getirir; örneğin meslek okulu için günde 120 odun ve 120 taş. Çalışanlar ekranında Hamit'in bugün ne kadar getireceği yazar.",
   "en": "Woodcutter Hamit now keeps up with quests: he brings more wood, hay and stone each day as the chapters advance (10/8/6 in Chapter 1, four times that in Chapter 6). If a quest needs lots of wood, hay or stone and your chest doesn't have it, Hamit brings a tenth of the quest amount every day, e.g. 120 wood and 120 stone a day for the vocational school. The Workers screen shows how much Hamit will bring today.",
