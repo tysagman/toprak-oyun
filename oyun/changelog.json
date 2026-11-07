@@ -1,5 +1,12 @@
 [
  {
+  "v": 663,
+  "d": "2026-11-07",
+  "tr": "Arı kovanı tabelasının ve direkli diğer tabelaların (mazot tankı, biyogaz, dede tarlası, konak) içinden artık geçilmiyor. Mera, ağıl ve kümes kapısındaki tabelaların direklerine girilmiyor, kapı açık kalıyor.",
+  "en": "You can no longer walk through the beehive sign or other signs on posts (diesel tank, biogas, grandpa's field, mansion). The posts of gate signs at the pasture, pens and coop are now solid while the gate stays open.",
+  "pv": "v1.58"
+ },
+ {
   "v": 662,
   "d": "2026-11-07",
   "tr": "Salıncakta karakter artık iki eliyle ipleri tutuyor. Sallanırken ileri giderken geriye yaslanıp bacaklarını uzatıyor, geri giderken öne eğilip bacaklarını kırıyor. Salıncağın ipleri omuzların dışına alındı, oturak genişledi.",
