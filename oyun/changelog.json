@@ -1,5 +1,11 @@
 [
 {
+"v": 673,
+"d": "2026-11-07",
+"tr": "Hasan Dede'nin tarlasının tabelası artık girişin üstünde kemer: kapıdan yürüyerek, atla ve traktörle rahatça girilir.",
+"en": "Grandpa Hasan's field sign is now an arch over the gate, so the entrance is no longer blocked."
+},
+{
 "v": 672,
 "pv": "v1.63",
 "d": "2026-11-07",
@@ -378,12 +384,5 @@
 "tr": "Kış artık zorlu: yoğun kar yağınca köy yolları kapanır. Kapanmadan birkaç saat önce Muhtar uyarır. Yol kapalıyken çalışanlar işe gelemez (yevmiye de yazılmaz), taksi, otobüs ve kamyon köyden çıkamaz. Muhtarlık yolu birkaç saatte açar; kar çok derinse il özel idaresinin greyderi daha geç gelir. Beklemek istemezsen Hava durumu ekranından kar küreği alıp kürekle açabilir ya da kar küreyici kiralayabilirsin; muhtarsan köy bütçesinden de çıkarabilirsin. Tarla kar altındayken ekinler büyümez (sera hariç), hayvanlar otlayamaz: yemlikleri dolu tut, derin karda yem daha çabuk biter, aç kalan hayvanın sütü düşer ve daha çok hastalanır. Kışın günlük ve haftalık görevler de kışa göre: ekim ve dalış yerine kış yemi koymak ve kar küremek.",
 "en": "Winter is now tough: heavy snow closes the village roads. The Headman warns you a few hours before. While the roads are closed, workers can't come (and aren't paid), and taxis, buses and trucks can't leave the village. The village office clears the road within a few hours; if the snow is very deep, the provincial grader comes later. If you don't want to wait, buy a snow shovel or rent a snowplough from the Weather screen; as headman you can pay from the village budget. While the field is under snow, crops don't grow (except in the greenhouse) and animals can't graze: keep the feeders full; in deep snow feed runs out faster, and hungry animals give less milk and get sick more often. Daily and weekly tasks follow the season too: in winter, feeding and snow shovelling instead of planting and diving.",
 "pv": "v1.43"
-},
-{
-"v": 613,
-"d": "2026-11-03",
-"tr": "Kar artık yere ve çatılara yağıyor: kar yağdıkça çimenler, tarlalar, çatılar ve yollar yavaş yavaş beyazlar, kar durunca da hemen değil, havaya göre yavaş yavaş erir (soğuk kış günlerinde günlerce kalabilir). Kar kalınlığı herkes için aynıdır. İnsanların, hayvanların üstünde ve binaların içinde kar görünmez.",
-"en": "Snow now settles on the ground and roofs: as it snows, grass, fields, roofs and paths slowly turn white, and when it stops the snow melts gradually depending on the weather (on cold winter days it can stay for days). Snow depth is the same for everyone. People, animals and building interiors stay snow-free.",
-"pv": "v1.42"
 }
 ]
