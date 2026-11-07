@@ -1,388 +1,394 @@
 [
-{
-"v": 674,
-"pv": "v1.64",
-"d": "2026-11-07",
-"tr": "v1.64: Dede tarlasında traktör artık normal tarla gibi yalnız üstünden geçtiği parselleri sürer, eker, biçer. Tarlanın içinde ağaç kalmadı. At arabasındaki yük kasaya oturur. Dedenin tarlası ve konağı senin alanın: arkadaşın ziyarete gelmeden orada görünmez. Traktördeki arkadaşın traktörün üstünde görünür.",
-"en": "v1.64: On Grandpa's field the tractor now works parcel by parcel like on your own field. No trees inside the field. Cart load sits in the bed. The field and mansion are private. Friends driving a tractor are shown on it."
-},
-{
-"v": 673,
-"d": "2026-11-07",
-"tr": "Hasan Dede'nin tarlasının tabelası artık girişin üstünde kemer: kapıdan yürüyerek, atla ve traktörle rahatça girilir.",
-"en": "Grandpa Hasan's field sign is now an arch over the gate, so the entrance is no longer blocked."
-},
-{
-"v": 672,
-"pv": "v1.63",
-"d": "2026-11-07",
-"tr": "v1.63: Traktör daha gerçekçi: açık kabin, koltuk ve direksiyon; sürerken karakterin direksiyonda oturduğu görünür, dönerken direksiyon çevrilir; lastikler tırnaklı. Kâhya raporunda saat düzgün yazılır, işe alınmış kâhyanın kartında başvuru satırı görünmez.",
-"en": "v1.63: More realistic tractor: open cab, seat and steering wheel; your character is seen at the wheel and turns it; treaded tyres. Steward report time shows correctly."
-},
-{
-"d": "2026-11-07",
-"tr": "Çantan dolunca traktör artık durur: biçer tablasıyla otomatik sürüş yalnız çantaya sığan parselleri biçer, çanta dolunca durur ve uyarır; elle sürerken çanta doluysa traktör olgun ekine girmez, boşuna mazot yanmaz. Yeni yapı Samanlık: 1.000 ot sandıkta yer kaplamadan balya balya saklanır, çoban ve çalışanlar yemliğe otu buradan alır. Evin yanındaki saman balyaları kaldırıldı.",
-"en": "The tractor now stops when your bag is full: auto-driving with the harvester head only harvests plots that fit in your bag, then stops and warns you; when driving by hand with a full bag the tractor won't enter ripe crops, so no fuel is wasted. New building Hay barn: stores 1,000 hay bale by bale without taking chest space; the shepherd and workers take hay for the troughs from here. The hay bales next to the house were removed.",
-"pv": "v1.62",
-"v": 671
-},
-{
-"v": 670,
-"pv": "v1.61",
-"d": "2026-11-07",
-"tr": "İnek ahırı ve ağılların yan perdeleri artık hava durumuna göre kendiliğinden açılıp kapanıyor: yağmur ve karda kapalı, yağış yokken açık. Gece, soğuk ya da yerdeki kar perdeleri kapatmıyor.",
-"en": "The side curtains of the cow barn and pens now open and close by themselves with the weather: closed in rain and snow, open when it's dry. Night, cold or snow on the ground no longer closes them."
-},
-{
-"v": 669,
-"d": "2026-11-07",
-"tr": "Görev ilerlemesi artık kaybolmuyor: oyuna yeni bir görev eklenip senin görevinin önüne girdiğinde (örneğin kâhya görevi), yarım kalan görevin sayacı saklanır, sırası gelince kaldığın yerden devam eder. Kâhya görevinden sonra un görevi sıfırlanan oyuncuların un fabrikasında ürettiği bütün un yeniden sayılır.",
-"en": "Quest progress is no longer lost: when a new quest is added in front of your current one (for example the steward quest), the counter of your unfinished quest is kept and continues where you left off when its turn comes. Players whose flour quest was reset after the steward quest now have all the flour their mill produced counted again."
-},
-{
-"d": "2026-11-07",
-"tr": "Oduncu Hamit artık görevlere yetişiyor: bölüm ilerledikçe günde daha çok odun, ot ve taş getirir (Bölüm 1'de 10/8/6, Bölüm 6'da 4 katı). Görev çok odun, ot ya da taş istiyorsa ve sandıkta yoksa Hamit günde görevin onda biri kadar getirir; örneğin meslek okulu için günde 120 odun ve 120 taş. Çalışanlar ekranında Hamit'in bugün ne kadar getireceği yazar.",
-"en": "Woodcutter Hamit now keeps up with quests: he brings more wood, hay and stone each day as the chapters advance (10/8/6 in Chapter 1, four times that in Chapter 6). If a quest needs lots of wood, hay or stone and your chest doesn't have it, Hamit brings a tenth of the quest amount every day, e.g. 120 wood and 120 stone a day for the vocational school. The Workers screen shows how much Hamit will bring today.",
-"v": 668,
-"pv": "v1.61"
-},
-{
-"v": 667,
-"d": "2026-11-07",
-"tr": "Toptancı artık görünüyor: sanayi bölgesindeki sanayi ofisinde, toptancı masasının başında oturuyor. Toptancı görevlerinde 📍 Yol göster seni sanayi ofisinin kapısına götürür, görev kartı toptancının nerede olduğunu yazar. Fabrika, mandıra, kamyon, ihracat, holding, vadeli hesap ve sigorta görevlerinin oku da eve değil, ilgili yapıya ya da Hazar Bank'a gider.",
-"en": "The wholesaler is now visible: he sits at the wholesale desk in the industry office in the industrial zone. In wholesaler quests 📍 Show the way takes you to the industry office door, and the quest card says where he is. Factory, dairy, truck, export, holding, time deposit and insurance quests now point to their building or Hazar Bank instead of your house."
-},
-{
-"v": 666,
-"pv": "v1.60",
-"d": "2026-11-07",
-"tr": "20 ve üstü çuval un, şeker, yem ya da top kumaş teslim ederken taşıt gerekiyor: yanında arabalı at ya da traktör + römork olmalı, ya da çiftlikte kamyonun olmalı. Taşıt yoksa nasıl getireceğin yazılır.",
-"en": "Delivering 20 or more sacks of flour, sugar, feed or bolts of cloth now needs a vehicle: bring a horse cart or tractor + trailer, or own a truck. Without one, the game tells you how to bring it."
-},
-{
-"v": 665,
-"d": "2026-11-07",
-"tr": "Kadın karakterler artık kadın olduğu belli olacak şekilde görünüyor: belli bir bel ve göğüs hattı, sırta inen uzun saç, yüzü açık renkli başörtüsü ve uzun etek. Köylü kadınların uzun saçı artık yüzün altını kapatıp sakal gibi görünmüyor, açık renkli başörtüleri de kel kafa gibi görünmüyor. Kadın kâhya (ör. Kâhya Songül) kadın simgesiyle ve renkli başörtüsüyle görünür.",
-"en": "Female characters now clearly look like women: a defined waist and bust, long hair falling down the back, colorful headscarves that leave the face open and long skirts. Village women's long hair no longer covers the lower face like a beard, and light headscarves no longer look like a bald head. A female steward (e.g. Steward Songül) now shows a woman icon and a colorful headscarf.",
-"pv": "v1.59"
-},
-{
-"v": 664,
-"pv": "v1.58",
-"d": "2026-11-07",
-"tr": "İnek ahırı ve ağıllarda yan perdeler kapalıyken çitten atlanmıyor; içeri kapıdan girilir. Perdeler açıkken çitten atlarken karakter artık çitin üstünden geçiyor, ayağı çitin içine girmiyor.",
-"en": "When the side curtains of the cow barn and pens are closed you can no longer jump over the fence; go in through the gate. With the curtains open, jumping now clears the fence instead of passing through it."
-},
-{
-"v": 663,
-"d": "2026-11-07",
-"tr": "Arı kovanı tabelasının ve direkli diğer tabelaların (mazot tankı, biyogaz, dede tarlası, konak) içinden artık geçilmiyor. Mera, ağıl ve kümes kapısındaki tabelaların direklerine girilmiyor, kapı açık kalıyor.",
-"en": "You can no longer walk through the beehive sign or other signs on posts (diesel tank, biogas, grandpa's field, mansion). The posts of gate signs at the pasture, pens and coop are now solid while the gate stays open.",
-"pv": "v1.58"
-},
-{
-"v": 662,
-"d": "2026-11-07",
-"tr": "Salıncakta karakter artık iki eliyle ipleri tutuyor. Sallanırken ileri giderken geriye yaslanıp bacaklarını uzatıyor, geri giderken öne eğilip bacaklarını kırıyor. Salıncağın ipleri omuzların dışına alındı, oturak genişledi.",
-"en": "On the swing your character now holds both ropes with their hands. While swinging they lean back and stretch their legs going forward, and lean in and tuck their legs going back. The swing ropes now sit outside the shoulders and the seat is wider."
-},
-{
-"v": 661,
-"pv": "v1.58",
-"d": "2026-11-07",
-"tr": "Tarım Market'te Römork satılıyor: Tarla işçisi Ayşe dede tarlasını traktörle sürer, eker, biçer ve ürünü römorkla ambara getirir. Çalışanlar artık sandığı tamamen doldurur. Kâhya Bugün işlerini yapar, öğlen rapor verir ve gün içinde ek iş alır. Ağıldaki hayvanlar çitin dışına çıkıp takılmıyor.",
-"en": "A Trailer is now sold at the Farm Market: field worker Ayşe plows, sows and harvests grandpa's field with the tractor and brings the crop to storage. Workers now fill the chest completely. The steward does Today's tasks, reports at midday and takes extra jobs. Animals no longer get pushed out of their pen and stuck."
-},
-{
-"v": 660,
-"pv": "v1.57",
-"d": "2026-11-06",
-"tr": "Salıncakta karakter oturağa tam oturuyor. Traktör seranın yan duvarlarından geçmiyor, seraya açık uçlarından girilir. Kâhya başvurularında Reddet düğmesi var; herkesi reddedersen ilan yeniden çıkar. Fabrikalarda hammadde deposundan köylüden hammadde (pancar, yün) alınıp doğrudan ambara konabilir.",
-"en": "Your character now sits properly on the swing. The tractor no longer drives through the greenhouse side walls; enter from the open ends. Steward applications have a Reject button; if you reject everyone, the ad is posted again. In factories you can buy raw materials (beets, wool) from villagers straight into storage."
-},
-{
-"v": 659,
-"d": "2026-11-06",
-"tr": "Gübre taşıyıcı Rıfat akşam meydandaki kuyunun içinde durmuyor, evine gidiyor. Köy dışındaki yamaçlarda karakter artık yere gömülmüyor.",
-"en": "Manure carrier Rıfat no longer stands inside the square's well in the evening. Your character no longer sinks into slopes outside the village."
-},
-{
-"d": "2026-11-06",
-"tr": "Haritada bölge keşfi: bir bölgeye (Batı ormanları, Güney ovası, Kuzey Diyarı, Elazığ yolu vb.) ilk girdiğinde artık bölgenin tamamı haritada açılıyor; eskiden yalnız girdiğin noktanın çevresi açılıyordu. Daha önce gittiğin bölgeler de oyunu açınca haritada tamamen görünür.",
-"en": "Map exploration: the first time you enter a region (Western forests, Southern plain, Northern lands, the Elazığ road and others), the whole region now appears on the map; before, only the area around where you entered was revealed. Regions you visited before are also fully revealed when you open the game.",
-"v": 658,
-"pv": "v1.56"
-},
-{
-"v": 657,
-"d": "2026-11-06",
-"tr": "Elle tarla işi artık parsel parsel: tarla düğmesine basınca karakterin tek bir eğilişle bütün tarlayı bitirmesi yerine her parselin yanına yürür; orakla başakları biçer, tohum serper ya da kazmayla toprağı sürer. Parseller tek tek değişir. Yorgunluk ve verim aynı; istersen yürüyüp işi yarıda bırakabilirsin, yapılanlar kalır. Traktörle otomatik sürüş elle işten çok daha hızlı.",
-"en": "Hand field work is now plot by plot: instead of finishing the whole field with one bend, your character walks to each plot, cuts the wheat with a sickle, scatters seeds or digs the soil with a pick. Plots change one by one. Energy and yield are the same; walk away to stop halfway and the finished plots stay done. Automatic tractor work is much faster than working by hand.",
-"pv": "v1.56"
-},
-{
-"v": 656,
-"d": "2026-11-06",
-"tr": "Kâhya geldi (Bölüm 4): Bölüm 4'ün ilk görevi kâhya için iş ilanı vermek (👷 Çalışanlar › 🧑‍💼 Kâhya). Bir oyun haftası içinde 5 kişi başvurur; her birinin CV'sinde yaşı, memleketi, deneyimi, önceki işleri, kaç iş alanına bakabildiği ve istediği maaş yazar. Birini seçip maaşını sen belirlersin: çok düşük teklifi kabul etmez, iyi maaş verirsen daha memnun çalışır. Kâhya Bölüm 1–3'ün günlük işlerini senin yerine yapar: kümes ve ahır, tarla, odun-ot-taş, inek, koyun ve keçi ağılı, bahçe, arı kovanları. İstediğin işi yine kendin yapabilirsin, kalanı o halleder. Kâhya varken çalışanlardan ve köylülerden bildirim gelmez, her sabah tek bir özet geçer. Çalıştıkça seviye atlar, daha çok işe bakar ve yeni işler öğrenir (hayvan sağlığı, kooperatif teslimi). Maaşı 7 günde bir ödenir. Hikâye görevleri yine sende.",
-"en": "The steward arrives (Chapter 4): the first quest of Chapter 4 is to post a job ad for a steward (👷 Workers › 🧑‍💼 Steward). Within one game week 5 people apply; each CV shows age, hometown, experience, previous jobs, how many work areas they can handle and the wage they ask. Pick one and set the wage yourself: a very low offer is refused, a good wage makes them happier. The steward does the daily chores of Chapters 1–3 for you: coop and barn, field, wood-grass-stone, cows, sheep and goat pens, garden and beehives. You can still do any job yourself; the steward handles the rest. With a steward you get no notifications from workers or villagers, just one summary each morning. The steward levels up over time, handles more areas and learns new jobs (animal health, cooperative delivery). Paid every 7 days. Story quests are still yours.",
-"pv": "v1.55"
-},
-{
-"d": "2026-11-06",
-"tr": "Güncelleme duyuruları kısaldı: oyuna yeni güncelleme gelince artık uzun açıklama yerine kısa bir «Yenilikler var» penceresi çıkıyor. Neler değiştiğini merak edersen «Ayrıntılar»a dokun, yeni Güncellemeler sayfası açılır. Bu sayfada oyunun bütün güncellemeleri sürüm ve yapı numarasıyla, en yenisi üstte ve 7 dilde yer alıyor; herkes web sitesinden de bakabiliyor. Ayarlar'daki «Güncelleme notları» da bu sayfayı açar.",
-"en": "Update announcements are shorter: when a new update arrives you now see a short «What's new» window instead of a long description. Curious about the details? Tap «Details» to open the new Updates page. It lists every update of the game with its version and build number, newest first, in 7 languages, and anyone can view it on the website too. «Update notes» in Settings opens this page as well.",
-"v": 655,
-"pv": "v1.54"
-},
-{
-"d": "2026-11-06",
-"tr": "Düzeltildi: 'Bildirdiğin hata düzeltildi' mesajlarında ve Gönderdiklerim listesinde sürüm artık v650 gibi iç numarayla değil, oyunda gördüğün sürümle (v1.xx) yazıyor.",
-"en": "Fixed: 'Your reported bug was fixed' messages and the My submissions list now show the version you see in the game (v1.xx) instead of an internal build number like v650.",
-"v": 654
-},
-{
-"v": 653,
-"d": "2026-11-06",
-"tr": "Araçla Üzüm bağlarına gidince artık asma sıralarının arasına değil, bağın girişine bırakılıyorsun; araç bağın içine girmiyor.",
-"en": "When you take a vehicle to the vineyards you're now dropped at the vineyard entrance, not between the vine rows; vehicles no longer drive into the vineyard."
-},
-{
-"v": 652,
-"d": "2026-11-06",
-"tr": "Gönderdiklerim listesinde artık en yeni gönderdiklerin en üstte görünüyor. Çok sayıda geri bildirim gönderenlerde yeni kayıtlar listeye gelmiyordu.",
-"en": "My submissions now shows your newest reports at the top. Players who had sent many reports weren't seeing their latest ones."
-},
-{
-"d": "2026-11-06",
-"tr": "Çanta, sandık ve ambar daha çok alıyor. Çanta 90 yerle başlıyor, büyütünce 135, 180, 300 ve 450 oluyor. Sandık 2.250 ile başlıyor, geliştirmelerle 29.700'e çıkıyor. Ambar binası sandığa artık 1.000 yer ekliyor. Mevcut kayıtlar yeni kapasiteyi kendiliğinden alır, fiyatlar aynı.",
-"en": "Bag, chest and granary now hold more. The bag starts with 90 slots and grows to 135, 180, 300 and 450. The chest starts at 2,250 and reaches 29,700 with upgrades. The granary building now adds 1,000 slots to the chest. Existing saves get the new capacity automatically; prices are unchanged.",
-"v": 651,
-"pv": "v1.53"
-},
-{
-"v": 650,
-"d": "2026-11-06",
-"tr": "Yeni çalışan Çaycı Selami: Semaverli çardağı kurduysan Çalışanlar ekranından işe alabilirsin. Gündüz semaveri hep demli tutar (çay 8 A kasadan), her gün çalışanlarına çay ikram eder; o gün memnuniyetleri artar, işleri daha verimli olur.",
-"en": "New worker Selami the tea maker: once you've built the samovar gazebo, hire him from the Workers screen. He keeps the samovar brewed during the day (tea costs 8 G from your gold) and serves tea to your workers every day, raising their satisfaction and efficiency.",
-"pv": "v1.52"
-},
-{
-"v": 649,
-"d": "2026-11-05",
-"tr": "Yamaçta ata binerken binici artık eyerde oturuyor, atın boynuna kaymıyor. Traktör otomatik sürerken mazot bitince olduğu yerde duruyor; o ana kadar biçilen ekin toplanıyor. Çoban ve bakıcılar ahır/ağıl çatısını ve perdesini hava değişince hemen açıp kapatıyor.",
-"en": "When riding on slopes the rider now stays in the saddle instead of sliding onto the horse's neck. During auto-drive the tractor stops where it is when diesel runs out, and the crops cut so far are collected. Shepherds and keepers now open and close barn roofs and curtains as soon as the weather changes."
-},
-{
-"d": "2026-11-05",
-"tr": "Hava durumu artık yaşadığın bölgeye göre: Doğu Anadolu'da kış sert ve karlı (Elazığ–Erzurum arası), Akdeniz ve Ege'de ılık ve yağmurlu, Karadeniz'de bol yağmur, İç Anadolu'da kuru soğuk, Güneydoğu'da sıcak yaz. Yurt dışında da iklim kuşağına göre (ılıman, karasal, soğuk kuzey, sıcak kurak, tropikal). Konum izni istenmez; bölgen yanlışsa Hava durumu ekranındaki 📍 Bölgen satırından seçebilirsin. Takvim, mevsimler ve görevler herkeste aynı kalır.",
-"en": "Weather now follows the region you live in: harsh snowy winters in Eastern Anatolia, mild rainy winters on the Mediterranean and Aegean coasts, lots of rain on the Black Sea, dry cold in Central Anatolia, hot summers in the Southeast. Abroad it follows your climate zone (mild, continental, cold northern, hot dry, tropical). No location permission is needed; if your region is wrong, pick it from the 📍 Your region row on the Weather screen. The calendar, seasons and quests stay the same for everyone.",
-"v": 648,
-"pv": "v1.51"
-},
-{
-"d": "2026-11-05",
-"tr": "Sel ve Tasami hediyeleri artık oyun açıkken anında geliyor (oyunu kapatıp açmak gerekmiyor). Karlı havada sel olmuyor; kar kalkınca geliyor.",
-"en": "Floods and Tasami gifts now arrive instantly while the game is open (no restart needed). There are no floods in snowy weather; it comes once the snow is gone.",
-"v": 647
-},
-{
-"d": "2026-11-05",
-"tr": "Yönetici panelinden oyunculara sel gönderilebiliyor (test için). Sel, oyuncu köyde ya da çiftlikteyken gelir.",
-"en": "Admins can now send a flood to a player (for testing). It arrives when the player is in the village or on the farm.",
-"v": 646
-},
-{
-"d": "2026-11-05",
-"tr": "Kış artık daha kısa: Aralık–Şubat diğer mevsimlerin yarısı kadar sürüyor, Mart'ta kar nadiren yağıyor. Sel artık yazıyla değil, gözünle görülüyor: yağmur bastırır, gölden çamurlu su gelir, köyü ve çiftliği basar, evlerin ve ahırın dibi su altında kalır, tahtalar sürüklenir; suda yavaş yürürsün. Su çekilince yerde çamur kalır, muhtar zararı yazar (ekinlerin bir kısmı, onarım cebin %2'si; afet sigortası onarımı + 120 A öder).",
-"en": "Winter is shorter now: December–February last half as long as the other seasons, and snow rarely falls in March. Floods are no longer just a message, you see them: heavy rain, then muddy water rolls in from the lake, floods the village and the farm, drifts planks around and slows you down. When it recedes, mud is left behind and the headman reports the damage (part of the crops, repairs 2% of your cash; disaster insurance pays the repairs + 120 G).",
-"v": 645,
-"pv": "v1.50"
-},
-{
-"v": 644,
-"d": "2026-11-05",
-"tr": "Oyunun iç denetim testleri kış takvimine uyarlandı; oyunda görünen bir değişiklik yok. Kışın karlı tarlada ekim/hasat yapılmaması, ağaçlarda meyve olmaması ve soğuğun sağlığı etkilemesi bilerek böyle.",
-"en": "Internal game checks were adapted to the winter calendar; nothing changes in the game. No sowing/harvest on snowy fields, no fruit on trees and cold affecting health in winter are intended."
-},
-{
-"v": 643,
-"d": "2026-11-05",
-"tr": "«Sen yokken» raporunun ayrıntıları İngilizce ve diğer dillerde yarı Türkçe çıkıyordu (ör. «Yapacak jobs yoktu»); artık her satır tam çevriliyor. Türkçede satırlar daha düzenli: «Ayşe: 3 parsel biçti», «Sandığa gelenlerin değeri: ≈ 660 A».",
-"en": "The details of the «While you were away» report were half Turkish in English and other languages; every line is now fully translated and the lines read more clearly."
-},
-{
-"v": 642,
-"d": "2026-11-05",
-"tr": "Uzaktaki yapılar ve karakterler artık her karede tek tek gezilmiyor (zaten çizilmiyorlardı). Köyde dolaşılan nesne sayısı yarıya indi; çizim hazırlığı köyde %25, durakta %22, mandırada %28 kısaldı. Görüntü aynı. Giriş seviyesi telefon ve tabletlerde daha akıcı.",
-"en": "Distant buildings and characters are no longer walked through one by one every frame (they were not drawn anyway). Objects visited in the village halved; draw preparation is 25% shorter in the village, 22% at the stop and 28% at the dairy. Looks unchanged. Smoother on entry-level phones and tablets."
-},
-{
-"v": 641,
-"d": "2026-11-05",
-"tr": "Yapıların birbirine çok yakın malzemeleri tek seferde çiziliyor: köyde her karede ~30 çizim daha az, kare süresi %8–11 kısaldı, görünüş aynı. Telefonun 3D ekranı bir anlığına kaybolursa (arka plana alıp dönme, ekran kartı yoğunluğu) oyun artık sayfayı baştan yüklemiyor, ekran geri gelince kaldığın yerden sürüyor. Giriş seviyesi cihazlarda daha akıcı.",
-"en": "Very similar building materials are now drawn together: about 30 fewer draws per frame in the village, frame time 8–11% shorter, looks unchanged. If the phone's 3D screen is briefly lost (switching apps, graphics load), the game no longer reloads; it continues where you left off when the screen returns. Smoother on entry-level devices."
-},
-{
-"v": 640,
-"d": "2026-11-05",
-"tr": "Hesabına giriş yapmış oyuncular oyunu açınca artık hesap ekranını görmez, doğrudan ana menü gelir. Hesap ekranı yalnız misafir oyunculara bir kez gösterilir.",
-"en": "Players who are signed in no longer see the account screen when they open the game; the main menu comes up directly. The account screen is shown once only to guest players."
-},
-{
-"v": 639,
-"d": "2026-11-05",
-"tr": "Bazı oyuncular hesaplarından kendiliğinden çıkıyordu: internet yavaşken oyun açılışta hesabını doğrulamayı yalnız 5 saniye bekliyor, sonra misafir girişine geçiyordu. Artık hesabın doğrulanması beklenir, kayıtlı hesap misafirle değişmez. Daha önce hesabından düşen oyuncular Hesap ekranında uyarı görür; bir kez yeniden giriş yapınca kaydı yine buluta yüklenir.",
-"en": "Some players were being signed out of their account on their own: on a slow connection the game waited only 5 seconds for your account to be verified at start, then switched to guest. Now it waits for the account check and your account is never replaced by a guest. Players who were signed out see a note on the Account screen; signing in once uploads the save to the cloud again."
-},
-{
-"d": "2026-11-05",
-"tr": "Görev penceresindeki \"İlerleme\" satırı artık neyi saydığını yazıyor: ör. Demirkol görevinde \"Üst üste teslim günü 3/10\", altında \"Kooperatife teslim yaptığın her gün 1 sayılır\" ve bugün teslim yapılıp yapılmadığı. Diğer görevlerde de \"Kesilen odun\", \"İnek sayısı\", \"Kamyon seferi\", \"Üretilen kumaş\" gibi açık adlar var; sayaç görevlerinde görev başladıktan sonra yapılanların sayıldığı yazar.",
-"en": "The \"Progress\" line in the quest window now says what it counts: e.g. \"Days delivered in a row 3/10\" in the Demirkol quest, with \"Each day you deliver to the cooperative counts as 1\" and whether you delivered today. Other quests show clear names too, like \"Wood chopped\", \"Number of cows\", \"Truck trips\" or \"Fabric produced\"; counter quests note that only what you do after the quest starts counts.",
-"v": 638,
-"pv": "v1.49"
-},
-{
-"v": 637,
-"d": "2026-11-05",
-"tr": "Kendi karakterin artık 30'dan fazla parça yerine tek parça çiziliyor (her karede ~34 çizim yerine ~5, gölgesi de öyle); görünüşü, aletleri ve hareketleri aynı. Kıyafet ya da görünüm değişince karakter birkaç saniye içinde yeniden hazırlanır. Bütün telefonlarda, en çok da giriş seviyesi cihazlarda işe yarar.",
-"en": "Your own character is now drawn as a single piece instead of 30+ parts (about 5 draws per frame instead of 34, shadow too); looks, tools and movement are unchanged. When clothes or appearance change, the character is prepared again within a few seconds. Helps on all phones, most of all entry-level devices."
-},
-{
-"v": 636,
-"d": "2026-11-04",
-"tr": "Giriş seviyesi telefon ve tabletlerde ekran kartı yükü yaklaşık üçte bir azaldı: grafik en düşük ayardayken gökyüzünden gelen yansıma ışığı hesaplanmıyor, yerine ortam ışığı biraz artırıldı. Görüntü neredeyse aynı; daha yüksek grafik ayarlarında hiçbir şey değişmedi.",
-"en": "About a third less GPU load on entry-level phones and tablets: at the lowest graphics setting, reflected sky light is no longer calculated and ambient light is raised slightly instead. The picture looks almost the same; higher graphics settings are unchanged."
-},
-{
-"v": 635,
-"d": "2026-11-04",
-"tr": "Giriş seviyesi telefon ve tabletlerde daha az işlemci yükü: grafik en düşük ayardayken uzaktaki köylüler, kalabalık ve mini harita daha seyrek hesaplanıyor (yürüyüş hızları aynı). Yakındaki insan ve hayvanların tek parça çizime geçişi yavaş cihazlarda da her saniye ilerliyor.",
-"en": "Less CPU load on entry-level phones and tablets: at the lowest graphics setting, distant villagers, crowds and the minimap update less often (walking speeds unchanged). Nearby people and animals now switch to single-piece drawing steadily on slow devices too."
-},
-{
-"v": 634,
-"d": "2026-11-04",
-"tr": "Takılma giderildi: yolda sıkışan bir köylü yeni yol ararken oyun kısa bir an donabiliyordu. Bu arama artık yaklaşık 4 kat hızlı; köylüler yine aynı yolu buluyor.",
-"en": "Fixed a stutter: when a villager got stuck and searched for a new path, the game could freeze for a moment. This search is now about 4 times faster, and villagers still find the same paths."
-},
-{
-"v": 633,
-"d": "2026-11-04",
-"tr": "Karda ahır ve ağılların çatısını ve yan perdelerini çoban, hayvan bakıcısı Murat ya da sağlık bakıcısı Derya kapatıyor; yerde kar varken kapalı kalıyor. Kapalı ön perde artık kapı girişini kapatmıyor.",
-"en": "In snow the shepherd, animal keeper Murat or animal health carer Derya now close the barn and pen roofs and side curtains, keeping them shut while snow lies on the ground. The closed front curtain no longer blocks the gate."
-},
-{
-"v": 632,
-"d": "2026-11-04",
-"tr": "Fabrikalar canlandı: sanayi bölgesindeki bütün yapılara artık kapısından girilir. Un, yem, şeker fabrikası ve tekstil atölyesinin içinde hammadde yığını, besleme hunisi, makinenin içinden geçen bant ve ürün paletleri var; hammadde makineye girer, ürün olarak çıkar. Elektrik kesikse ya da hammadde yoksa bant durur ve ışık kırmızı yanar, operatör Erkan yoksa bant yarım hızda döner. Erkan, Selin ve mühendisin mesai saatinde içeride çalışır. Kontrol panelinde tarif, günlük kapasite ve bu sabahki üretim görünür; günde bir kez elle vardiya çalıştırıp (20 enerji) günlük kapasitenin dörtte biri kadar ek ürün yapabilirsin. Sanayi izni arsası artık Sanayi ofisi: duvardaki izin belgesi neleri açtığını tek tek yazar, toptancı masası, fabrikaların durum panosu ve çalışan panosu da burada. Jeneratör dairesine, soğuk hava deposuna, liman acentesine ve holding merkezine de girilir. Her sanayi yapısının kapısında Ne işe yarar? açıklaması var.",
-"en": "Factories come alive: you can now walk into every building in the industrial zone. Inside the flour, feed and sugar factories and the textile workshop there are raw material piles, a feed hopper, a conveyor running through the machine and product pallets; raw material goes in and comes out as product. With no power or no raw materials the belt stops and the light turns red; without operator Erkan the belt runs at half speed. Erkan, Selin and the engineer work inside during working hours. The control panel shows the recipe, daily capacity and this morning's output; once a day you can run a manual shift (20 energy) for an extra quarter of the daily capacity. The industrial permit plot is now the Industry office: the permit on the wall lists everything it unlocks, and the wholesale desk, factory status board and staff board are there too. You can also enter the generator room, cold store, port agency and holding headquarters. Every industrial building has a What is it for? explanation at its door.",
-"pv": "v1.49"
-},
-{
-"v": 631,
-"d": "2026-11-04",
-"tr": "Karda köy kavşaklarındaki asfalt yaması artık yol gibi karla örtülüyor; gri karsız dikdörtgen kalmadı.",
-"en": "Asphalt patches at village junctions are now covered by snow like the roads; no more grey snow-free rectangle."
-},
-{
-"v": 630,
-"d": "2026-11-04",
-"tr": "Kış güncellemesi: Sera artık tarlanın üstünde görünüyor; Hasan Dede ve Altınova tarlaları karlanıyor, karda otlar kar altında kalıyor. Kar yağışı uzaktan bakınca da her yere yağıyor. Buz tutan gölün kıyısında buza gömülme yok. Fabrikaların, dinlenme alanı banklarının ve iş ilanları panosunun içinden geçilmiyor. Yün mont artık görünüyor; giyim mağazasında Kışlık bölümü (kaban, bot, bere, atkı, kazak ısıtır). İnek ahırı ve ağıllara açılır yan perdeler. Kışın abdestten sonra soğuktan titreniyor. Çay çardağının adı Semaverli çardak oldu.",
-"en": "Winter update: the greenhouse now shows over the field; Hasan Dede's and Altınova fields get snow-covered and weeds stay under the snow. Snowfall now covers the whole view when zoomed out. No more sinking into the ice at the frozen lake's shore. Factories, rest-area benches and the job board are solid. The wool coat is now visible; the clothing store has a Winter section (coat, boots, beanie, scarf and sweater keep you warm). Roll-down side curtains for the cow barn and pens. In winter you shiver after ablution. The tea gazebo is now the Gazebo with samovar.",
-"pv": "v1.48"
-},
-{
-"v": 629,
-"d": "2026-11-04",
-"tr": "Laboratuvardaki alçı analizinde kristal suyu artık 300 °C'de ölçülüyor (önce 230 °C idi); soru, doğru cevap, açıklama ve rapor buna göre güncellendi.",
-"en": "In the lab's gypsum analysis, crystal water is now measured at 300 °C (was 230 °C); the question, correct answer, explanation and report were updated."
-},
-{
-"v": 628,
-"d": "2026-11-04",
-"tr": "Mevsimler artık iki kat uzun sürüyor: her mevsim yaklaşık 7,5 gerçek gün, geçişler daha yavaş. Kışın kar daha seyrek yağıyor, iki kar yağışı arasında en az bir açık ya da bulutlu dönem oluyor; yağan kar yerde kalmayı sürdürüyor.",
-"en": "Seasons now last twice as long: each season is about 7.5 real days and the changes come more slowly. In winter it snows less often, with at least one clear or cloudy spell between two snowfalls; fallen snow still stays on the ground."
-},
-{
-"v": 627,
-"d": "2026-11-04",
-"tr": "Kış daha gerçekçi: karda ve soğukta (4°C altı) koyunlar kırkılmaz, havalar ısınınca kırkılır; kırkım görevi bu sırada ambardaki yünü de sayar. Kışın ve karda meyve ağaçları meyve vermez. Kar yağarken de kamp ateşi yanar; ateşin başında ısınınca sağlığın yükselir (yağmur yine söndürür). Karlı açık tarla sürülmez, ekilmez, biçilmez; olgun ekin kar kalkana kadar bozulmadan bekler, serada iş sürer. Traktör yolda da mazot yakar (100 metrede 1 L); mazot bitince durur, oturduğun yerden bidonla mazot koyabilirsin.",
-"en": "Winter is more realistic: sheep aren't sheared in snow or cold (below 4°C) and can be sheared once it warms up; meanwhile the shearing quest also counts wool in your barn. Fruit trees give no fruit in winter or snow. The campfire now keeps burning while it snows, and warming up by it raises your health (rain still puts it out). Snowy open fields can't be ploughed, sown or harvested; ripe crops wait under the snow without spoiling, and work goes on in the greenhouse. The tractor also burns diesel on the road (1 L per 100 m); it stops when the tank is empty, and you can top it up from a jerrycan without getting off."
-},
-{
-"v": 626,
-"d": "2026-11-03",
-"tr": "Kar yağınca tarla parselleri karla örtülüyor: filizler ve otlar kar altında kalıyor, ekinler kar kalkana kadar büyümüyor (sera hariç). Yerdeki ot telleri de kara gömülüyor.",
-"en": "When snow settles, field plots are now covered: sprouts and weeds stay under the snow and crops don't grow until it melts (greenhouse excepted). Grass blades sink into the snow too."
-},
-{
-"v": 625,
-"d": "2026-11-03",
-"tr": "Çardağına artık kendi adını verebilirsin: kurunca adı sorulur, sonradan çardağın kartındaki «Çardağa ad ver» düğmesiyle değiştirilir. Tabelada çay simgesi yok, yalnız verdiğin ad yazar (ad vermezsen «Çardak»). Çardağın çatısı altına artık kar yağmıyor; semaverin dibindeyken bank yerine semaver düğmesi çıkıyor.",
-"en": "You can now give your gazebo its own name: you are asked when you build it, and you can change it later with «Name the gazebo» on its card. The sign has no tea icon, only the name you choose (or «Gazebo»). Snow no longer settles under the gazebo roof, and next to the samovar you get the samovar button instead of the bench one."
-},
-{
-"v": 624,
-"d": "2026-11-03",
-"tr": "Hastane artık gerçek bir tedavi süreci: içeri girince Hemşire Elif masasından kalkıp seni karşılar. Sağlığına göre tansiyon ve ateş ölçülür, gerekirse kan ve idrar tahlili yapılır, yaraların sarılır, serum takılır; sedyede yatarken adımları ve sağlığının dolduğunu görürsün, sonunda doktor tahlil sonuçlarını söyler. Ücret aynı (20 altın), sağlığın tamken kısa kontrol ücretsiz. Bayılınca artık 112 ambulansı sirenle gelip seni Devlet Hastanesi'ne götürür, orada tedavi edilirsin (ambulans + tedavi yine 40 altın).",
-"en": "The hospital now has a real treatment process: when you walk in, Nurse Elif gets up from her desk to greet you. Depending on your health, your blood pressure and temperature are checked, blood and urine tests are done if needed, wounds are bandaged and an IV drip is put in; lying on the bed you see each step and your health filling up, and at the end the doctor tells you the test results. The price is the same (20 gold), and a quick check-up is free when you're healthy. If you faint, a 112 ambulance now arrives with its siren and takes you to the State Hospital for treatment (ambulance + treatment still 40 gold).",
-"pv": "v1.47"
-},
-{
-"v": 623,
-"d": "2026-11-03",
-"tr": "Yeni yapı: Çay çardağı. Yazın yanları açık, Kasım'dan Mart'a kadar camları takılı ve sobası yanan ahşap köşk. İçindeki semaverde 8 altına 10 bardak çay demlenir; bir dakikada hazır olur, 12 oyun saati sıcak kalır. Her bardak susuzluğu giderir (+25) ve yorgunluğu alır (+10 enerji, günde 4 bardağa kadar). Çardakta oturup çayını yudumlarken enerjin banktakinin iki katı hızlı dolar ve inceden, dertli bir saz çalar. Günde bir kez çalışanlarına çay ikram edebilirsin: o gün memnuniyetleri +15, işleri %5 daha verimli olur. Yeni yapılar listesinde, 350 altın + 24 odun + 6 taş.",
-"en": "New building: Tea gazebo. A wooden pavilion that is open in summer and, from November to March, glazed with a lit stove. Its samovar brews 10 glasses of tea for 8 gold; it is ready in a minute and stays hot for 12 game hours. Each glass quenches thirst (+25) and eases tiredness (+10 energy, up to 4 glasses a day). While you sit and sip tea in the gazebo, energy refills twice as fast as on a bench and a soft, melancholic saz plays. Once a day you can treat your workers to tea: that day their satisfaction is +15 and they work 5% more efficiently. Find it under New buildings: 350 gold + 24 wood + 6 stone.",
-"pv": "v1.46"
-},
-{
-"d": "2026-11-03",
-"tr": "Hasan Dede'nin tarlası artık traktörle de sürülüp ekilip biçiliyor (Sami'nin bildirimi). Traktöre binip tarlanın kapısına gelince «Tarlayı otomatik sür» düğmesi çıkar; traktör kapıdan girer, takılı ekipmanla 18 tarhın hepsini işler (tarh başı 2 L mazot). Traktörle elle de tarhın içine sürerek çalışabilirsin. Biçer tablası buğdayı kayıpsız biçer, mibzer düzgün eker; elle yapılan iş daha yorucu.",
-"en": "Grandpa Hasan's field can now be ploughed, sown and harvested with the tractor too. Get on the tractor and drive to the field gate to see a \"Work the field automatically\" button: the tractor goes in and works all 18 beds with the attached implement (2 L of diesel per bed). You can also drive into a bed yourself. The header harvests without loss and the seed drill sows evenly; manual work is more tiring.",
-"v": 622
-},
-{
-"v": 621,
-"d": "2026-11-03",
-"tr": "Traktörde, atta, at arabasında ya da taksideyken kurt, yaban domuzu ve arılar artık sana saldırmaz; yaklaşan kurt motor sesinden ürküp kaçar. Bayılınca köy doktorunun ücreti cebindeki altının beşte biri yerine sabit 40 altın.",
-"en": "Wolves, wild boars and bees no longer attack you while you're on a tractor, a horse, a horse cart or in a taxi; a wolf that comes close is scared off by the engine. If you faint, the village doctor now charges a flat 40 gold instead of a fifth of your gold."
-},
-{
-"v": 620,
-"d": "2026-11-03",
-"tr": "Kışın Hazar Gölü buz tutar: soğuk günlerde buz kıyıdan içeri doğru büyür, havalar ısınınca erir; herkes için aynıdır. Göl buz tutunca göle girilmez, iskeleden ve kıyıdan balık tutmak sürer. Karda ağaç kesince yerine fidan dikilmez; kar kalkınca fidan dikilir, o zamana kadar ağaç yeniden büyümez.",
-"en": "In winter Lake Hazar freezes: on cold days the ice grows from the shore inward and melts when it warms up; it's the same for everyone. Once the lake is frozen you can't go in, but you can still fish from the pier and the shore. Cutting a tree in the snow no longer plants a sapling; one is planted when the snow is gone, and the tree doesn't regrow until then."
-},
-{
-"v": 619,
-"d": "2026-11-03",
-"tr": "Bölüm 3'teki \"10 gün üst üste kooperatife teslim yap\" görevi artık adil (Sami'nin bildirimi): 1 oyun günü gerçekte 1 saat olduğu için oyunda olmadığın saatlerde seri sıfırlanıyordu. Artık oyunda olmadığın ya da kısa kaldığın günler seriyi bozmaz; oyundayken bir günün yarısı (30 dk) teslimsiz geçerse seri sıfırlanır. 15 dakika teslim yapmazsan oyun seni uyarır, kooperatif ekranı bugün teslim yapıp yapmadığını gösterir.",
-"en": "The chapter 3 quest \"deliver to the cooperative 10 days in a row\" is now fair: since one game day is one real hour, the streak used to reset during hours you weren't playing. Now days you don't play, or play only briefly, don't break the streak; it resets only if half a day (30 min) passes in the game without a delivery. After 15 minutes without a delivery the game reminds you, and the cooperative screen shows whether you've delivered today."
-},
-{
-"d": "2026-11-03",
-"tr": "Traktör artık elle tarımdan çok daha avantajlı (Taha'nın isteği): traktöre binip tarlanın yanına gelince \"Tarlayı otomatik sür\" düğmesi çıkıyor; traktör takılı ekipmanla bütün tarlayı kendisi sürüyor, sıradaki ekipmanı da kendiliğinden takıyor. Traktörle iş yorulmadan yapılır, biçer tablası buğdayı kayıpsız biçer (+%10), mibzer düzgün eker (+%10 verim). Elle tarım ise daha yorucu (enerji 1,5 kat), daha uzun sürer ve elle biçerken buğdayın %10'u dökülür. Traktörü olmayan oyuncular yine elle ekip biçebilir.",
-"en": "The tractor is now much better than farming by hand: get on it and drive to your field to see a \"Work the field automatically\" button; the tractor works the whole field with the attached implement and switches to the next one by itself. Tractor work costs no energy, the header harvests without loss (+10%) and the seed drill sows evenly (+10% yield). Farming by hand is more tiring (1.5x energy), takes longer and spills 10% of the wheat. Players without a tractor can still farm by hand.",
-"v": 618,
-"pv": "v1.45"
-},
-{
-"v": 617,
-"d": "2026-11-03",
-"tr": "Kar altındaki tarlaya artık ekim yapılamaz: tarla kar altındayken «Ek» yerine uyarı çıkar, traktörün mibzeri, Ayşe ve dedenin tarlası da ekmez. Sebze bahçesine de kar kalkana kadar ekilmez. Serada ekim sürer.",
-"en": "Snow-covered fields can no longer be sown: while the field is under snow you get a warning instead of «Sow», and the tractor's seeder, Ayşe and Grandpa's field don't sow either. The vegetable garden can't be planted until the snow is gone. Sowing continues in the greenhouse."
-},
-{
-"v": 616,
-"d": "2026-11-03",
-"tr": "Kar görüntüsü düzeltildi (Sami'nin bildirimi): yerdeki kar artık lekeler hâlinde değil, düzgün ve bütün bir örtü olarak yağıyor. Kar kalınlaştıkça çimen, tarla, patika, meydan ve çatılar birlikte beyazlar; kar durunca havanın sıcaklığına göre yavaş yavaş erir.",
-"en": "Snow looks better: it now settles as a smooth, even blanket instead of patches. As it gets deeper, grass, fields, paths, the village square and roofs turn white together; when it stops, it melts gradually depending on the temperature."
-},
-{
-"v": 615,
-"d": "2026-11-03",
-"tr": "Yeni yapı: Odunluk. Kestiğin odun artık cinsine göre ayrılıyor: Meşe ormanındaki ağaçlar meşe, iğne yapraklılar çam, diğerleri kayın ya da kavak odunu olarak sayılır. Odunluk 500 odunu sandıkta yer kaplamadan saklar, her cins kendi bölmesine dizilir ve doluluğu kütüklerden görünür. Odunluğun kartından fazla odunu cinsine göre miktar seçip ya da Hepsi diyerek satabilirsin; meşe ve kayın çam ile kavaktan iki kat pahalıdır. Görevde ya da yapımda lazım olan odun satılmaz. Oduncu Hamit de getirdiği odunu odunluğa koyar. Yeni yapılar listesinde, 400 altın + 30 odun + 6 taş.",
-"en": "New building: Woodshed. The wood you cut is now sorted by type: trees in the Oak forest give oak, conifers give pine, others give beech or poplar wood. The woodshed stores 500 wood without taking chest space, each type is stacked in its own bay and you can see how full it is from the logs. From the woodshed card you can sell surplus wood by type, choosing an amount or All; oak and beech sell for twice the price of pine and poplar. Wood needed for quests or buildings is not sold. Woodcutter Hamit also puts the wood he brings into the woodshed. Find it under New buildings: 400 gold + 30 wood + 6 stone.",
-"pv": "v1.44"
-}
+ {
+  "v": 675,
+  "d": "2026-11-07",
+  "tr": "Hazırlık: yeni Android sürümü için isteğe bağlı ödüllü reklam altyapısı eklendi (inşaatı hızlandırma, Sen yokken ek ürün, günlük hediye, bozulmak üzere ürün, afet kurtarma, enerji, bedava taksi; günde en çok 5). Reklam izlemek hiçbir zaman zorunlu değil, araya giren reklam ve şerit reklam yok. Şu an oyunda bir değişiklik görünmez.",
+  "en": "Preparation: optional rewarded ads were added for the next Android version (speed up construction, extra goods while away, daily gift, about-to-spoil goods, disaster recovery, energy, free taxi; at most 5 a day). Watching ads is never required, and there are no interstitial or banner ads. Nothing changes in the game yet."
+ },
+ {
+  "v": 674,
+  "pv": "v1.64",
+  "d": "2026-11-07",
+  "tr": "v1.64: Dede tarlasında traktör artık normal tarla gibi yalnız üstünden geçtiği parselleri sürer, eker, biçer. Tarlanın içinde ağaç kalmadı. At arabasındaki yük kasaya oturur. Dedenin tarlası ve konağı senin alanın: arkadaşın ziyarete gelmeden orada görünmez. Traktördeki arkadaşın traktörün üstünde görünür.",
+  "en": "v1.64: On Grandpa's field the tractor now works parcel by parcel like on your own field. No trees inside the field. Cart load sits in the bed. The field and mansion are private. Friends driving a tractor are shown on it."
+ },
+ {
+  "v": 673,
+  "d": "2026-11-07",
+  "tr": "Hasan Dede'nin tarlasının tabelası artık girişin üstünde kemer: kapıdan yürüyerek, atla ve traktörle rahatça girilir.",
+  "en": "Grandpa Hasan's field sign is now an arch over the gate, so the entrance is no longer blocked."
+ },
+ {
+  "v": 672,
+  "pv": "v1.63",
+  "d": "2026-11-07",
+  "tr": "v1.63: Traktör daha gerçekçi: açık kabin, koltuk ve direksiyon; sürerken karakterin direksiyonda oturduğu görünür, dönerken direksiyon çevrilir; lastikler tırnaklı. Kâhya raporunda saat düzgün yazılır, işe alınmış kâhyanın kartında başvuru satırı görünmez.",
+  "en": "v1.63: More realistic tractor: open cab, seat and steering wheel; your character is seen at the wheel and turns it; treaded tyres. Steward report time shows correctly."
+ },
+ {
+  "d": "2026-11-07",
+  "tr": "Çantan dolunca traktör artık durur: biçer tablasıyla otomatik sürüş yalnız çantaya sığan parselleri biçer, çanta dolunca durur ve uyarır; elle sürerken çanta doluysa traktör olgun ekine girmez, boşuna mazot yanmaz. Yeni yapı Samanlık: 1.000 ot sandıkta yer kaplamadan balya balya saklanır, çoban ve çalışanlar yemliğe otu buradan alır. Evin yanındaki saman balyaları kaldırıldı.",
+  "en": "The tractor now stops when your bag is full: auto-driving with the harvester head only harvests plots that fit in your bag, then stops and warns you; when driving by hand with a full bag the tractor won't enter ripe crops, so no fuel is wasted. New building Hay barn: stores 1,000 hay bale by bale without taking chest space; the shepherd and workers take hay for the troughs from here. The hay bales next to the house were removed.",
+  "pv": "v1.62",
+  "v": 671
+ },
+ {
+  "v": 670,
+  "pv": "v1.61",
+  "d": "2026-11-07",
+  "tr": "İnek ahırı ve ağılların yan perdeleri artık hava durumuna göre kendiliğinden açılıp kapanıyor: yağmur ve karda kapalı, yağış yokken açık. Gece, soğuk ya da yerdeki kar perdeleri kapatmıyor.",
+  "en": "The side curtains of the cow barn and pens now open and close by themselves with the weather: closed in rain and snow, open when it's dry. Night, cold or snow on the ground no longer closes them."
+ },
+ {
+  "v": 669,
+  "d": "2026-11-07",
+  "tr": "Görev ilerlemesi artık kaybolmuyor: oyuna yeni bir görev eklenip senin görevinin önüne girdiğinde (örneğin kâhya görevi), yarım kalan görevin sayacı saklanır, sırası gelince kaldığın yerden devam eder. Kâhya görevinden sonra un görevi sıfırlanan oyuncuların un fabrikasında ürettiği bütün un yeniden sayılır.",
+  "en": "Quest progress is no longer lost: when a new quest is added in front of your current one (for example the steward quest), the counter of your unfinished quest is kept and continues where you left off when its turn comes. Players whose flour quest was reset after the steward quest now have all the flour their mill produced counted again."
+ },
+ {
+  "d": "2026-11-07",
+  "tr": "Oduncu Hamit artık görevlere yetişiyor: bölüm ilerledikçe günde daha çok odun, ot ve taş getirir (Bölüm 1'de 10/8/6, Bölüm 6'da 4 katı). Görev çok odun, ot ya da taş istiyorsa ve sandıkta yoksa Hamit günde görevin onda biri kadar getirir; örneğin meslek okulu için günde 120 odun ve 120 taş. Çalışanlar ekranında Hamit'in bugün ne kadar getireceği yazar.",
+  "en": "Woodcutter Hamit now keeps up with quests: he brings more wood, hay and stone each day as the chapters advance (10/8/6 in Chapter 1, four times that in Chapter 6). If a quest needs lots of wood, hay or stone and your chest doesn't have it, Hamit brings a tenth of the quest amount every day, e.g. 120 wood and 120 stone a day for the vocational school. The Workers screen shows how much Hamit will bring today.",
+  "v": 668,
+  "pv": "v1.61"
+ },
+ {
+  "v": 667,
+  "d": "2026-11-07",
+  "tr": "Toptancı artık görünüyor: sanayi bölgesindeki sanayi ofisinde, toptancı masasının başında oturuyor. Toptancı görevlerinde 📍 Yol göster seni sanayi ofisinin kapısına götürür, görev kartı toptancının nerede olduğunu yazar. Fabrika, mandıra, kamyon, ihracat, holding, vadeli hesap ve sigorta görevlerinin oku da eve değil, ilgili yapıya ya da Hazar Bank'a gider.",
+  "en": "The wholesaler is now visible: he sits at the wholesale desk in the industry office in the industrial zone. In wholesaler quests 📍 Show the way takes you to the industry office door, and the quest card says where he is. Factory, dairy, truck, export, holding, time deposit and insurance quests now point to their building or Hazar Bank instead of your house."
+ },
+ {
+  "v": 666,
+  "pv": "v1.60",
+  "d": "2026-11-07",
+  "tr": "20 ve üstü çuval un, şeker, yem ya da top kumaş teslim ederken taşıt gerekiyor: yanında arabalı at ya da traktör + römork olmalı, ya da çiftlikte kamyonun olmalı. Taşıt yoksa nasıl getireceğin yazılır.",
+  "en": "Delivering 20 or more sacks of flour, sugar, feed or bolts of cloth now needs a vehicle: bring a horse cart or tractor + trailer, or own a truck. Without one, the game tells you how to bring it."
+ },
+ {
+  "v": 665,
+  "d": "2026-11-07",
+  "tr": "Kadın karakterler artık kadın olduğu belli olacak şekilde görünüyor: belli bir bel ve göğüs hattı, sırta inen uzun saç, yüzü açık renkli başörtüsü ve uzun etek. Köylü kadınların uzun saçı artık yüzün altını kapatıp sakal gibi görünmüyor, açık renkli başörtüleri de kel kafa gibi görünmüyor. Kadın kâhya (ör. Kâhya Songül) kadın simgesiyle ve renkli başörtüsüyle görünür.",
+  "en": "Female characters now clearly look like women: a defined waist and bust, long hair falling down the back, colorful headscarves that leave the face open and long skirts. Village women's long hair no longer covers the lower face like a beard, and light headscarves no longer look like a bald head. A female steward (e.g. Steward Songül) now shows a woman icon and a colorful headscarf.",
+  "pv": "v1.59"
+ },
+ {
+  "v": 664,
+  "pv": "v1.58",
+  "d": "2026-11-07",
+  "tr": "İnek ahırı ve ağıllarda yan perdeler kapalıyken çitten atlanmıyor; içeri kapıdan girilir. Perdeler açıkken çitten atlarken karakter artık çitin üstünden geçiyor, ayağı çitin içine girmiyor.",
+  "en": "When the side curtains of the cow barn and pens are closed you can no longer jump over the fence; go in through the gate. With the curtains open, jumping now clears the fence instead of passing through it."
+ },
+ {
+  "v": 663,
+  "d": "2026-11-07",
+  "tr": "Arı kovanı tabelasının ve direkli diğer tabelaların (mazot tankı, biyogaz, dede tarlası, konak) içinden artık geçilmiyor. Mera, ağıl ve kümes kapısındaki tabelaların direklerine girilmiyor, kapı açık kalıyor.",
+  "en": "You can no longer walk through the beehive sign or other signs on posts (diesel tank, biogas, grandpa's field, mansion). The posts of gate signs at the pasture, pens and coop are now solid while the gate stays open.",
+  "pv": "v1.58"
+ },
+ {
+  "v": 662,
+  "d": "2026-11-07",
+  "tr": "Salıncakta karakter artık iki eliyle ipleri tutuyor. Sallanırken ileri giderken geriye yaslanıp bacaklarını uzatıyor, geri giderken öne eğilip bacaklarını kırıyor. Salıncağın ipleri omuzların dışına alındı, oturak genişledi.",
+  "en": "On the swing your character now holds both ropes with their hands. While swinging they lean back and stretch their legs going forward, and lean in and tuck their legs going back. The swing ropes now sit outside the shoulders and the seat is wider."
+ },
+ {
+  "v": 661,
+  "pv": "v1.58",
+  "d": "2026-11-07",
+  "tr": "Tarım Market'te Römork satılıyor: Tarla işçisi Ayşe dede tarlasını traktörle sürer, eker, biçer ve ürünü römorkla ambara getirir. Çalışanlar artık sandığı tamamen doldurur. Kâhya Bugün işlerini yapar, öğlen rapor verir ve gün içinde ek iş alır. Ağıldaki hayvanlar çitin dışına çıkıp takılmıyor.",
+  "en": "A Trailer is now sold at the Farm Market: field worker Ayşe plows, sows and harvests grandpa's field with the tractor and brings the crop to storage. Workers now fill the chest completely. The steward does Today's tasks, reports at midday and takes extra jobs. Animals no longer get pushed out of their pen and stuck."
+ },
+ {
+  "v": 660,
+  "pv": "v1.57",
+  "d": "2026-11-06",
+  "tr": "Salıncakta karakter oturağa tam oturuyor. Traktör seranın yan duvarlarından geçmiyor, seraya açık uçlarından girilir. Kâhya başvurularında Reddet düğmesi var; herkesi reddedersen ilan yeniden çıkar. Fabrikalarda hammadde deposundan köylüden hammadde (pancar, yün) alınıp doğrudan ambara konabilir.",
+  "en": "Your character now sits properly on the swing. The tractor no longer drives through the greenhouse side walls; enter from the open ends. Steward applications have a Reject button; if you reject everyone, the ad is posted again. In factories you can buy raw materials (beets, wool) from villagers straight into storage."
+ },
+ {
+  "v": 659,
+  "d": "2026-11-06",
+  "tr": "Gübre taşıyıcı Rıfat akşam meydandaki kuyunun içinde durmuyor, evine gidiyor. Köy dışındaki yamaçlarda karakter artık yere gömülmüyor.",
+  "en": "Manure carrier Rıfat no longer stands inside the square's well in the evening. Your character no longer sinks into slopes outside the village."
+ },
+ {
+  "d": "2026-11-06",
+  "tr": "Haritada bölge keşfi: bir bölgeye (Batı ormanları, Güney ovası, Kuzey Diyarı, Elazığ yolu vb.) ilk girdiğinde artık bölgenin tamamı haritada açılıyor; eskiden yalnız girdiğin noktanın çevresi açılıyordu. Daha önce gittiğin bölgeler de oyunu açınca haritada tamamen görünür.",
+  "en": "Map exploration: the first time you enter a region (Western forests, Southern plain, Northern lands, the Elazığ road and others), the whole region now appears on the map; before, only the area around where you entered was revealed. Regions you visited before are also fully revealed when you open the game.",
+  "v": 658,
+  "pv": "v1.56"
+ },
+ {
+  "v": 657,
+  "d": "2026-11-06",
+  "tr": "Elle tarla işi artık parsel parsel: tarla düğmesine basınca karakterin tek bir eğilişle bütün tarlayı bitirmesi yerine her parselin yanına yürür; orakla başakları biçer, tohum serper ya da kazmayla toprağı sürer. Parseller tek tek değişir. Yorgunluk ve verim aynı; istersen yürüyüp işi yarıda bırakabilirsin, yapılanlar kalır. Traktörle otomatik sürüş elle işten çok daha hızlı.",
+  "en": "Hand field work is now plot by plot: instead of finishing the whole field with one bend, your character walks to each plot, cuts the wheat with a sickle, scatters seeds or digs the soil with a pick. Plots change one by one. Energy and yield are the same; walk away to stop halfway and the finished plots stay done. Automatic tractor work is much faster than working by hand.",
+  "pv": "v1.56"
+ },
+ {
+  "v": 656,
+  "d": "2026-11-06",
+  "tr": "Kâhya geldi (Bölüm 4): Bölüm 4'ün ilk görevi kâhya için iş ilanı vermek (👷 Çalışanlar › 🧑‍💼 Kâhya). Bir oyun haftası içinde 5 kişi başvurur; her birinin CV'sinde yaşı, memleketi, deneyimi, önceki işleri, kaç iş alanına bakabildiği ve istediği maaş yazar. Birini seçip maaşını sen belirlersin: çok düşük teklifi kabul etmez, iyi maaş verirsen daha memnun çalışır. Kâhya Bölüm 1–3'ün günlük işlerini senin yerine yapar: kümes ve ahır, tarla, odun-ot-taş, inek, koyun ve keçi ağılı, bahçe, arı kovanları. İstediğin işi yine kendin yapabilirsin, kalanı o halleder. Kâhya varken çalışanlardan ve köylülerden bildirim gelmez, her sabah tek bir özet geçer. Çalıştıkça seviye atlar, daha çok işe bakar ve yeni işler öğrenir (hayvan sağlığı, kooperatif teslimi). Maaşı 7 günde bir ödenir. Hikâye görevleri yine sende.",
+  "en": "The steward arrives (Chapter 4): the first quest of Chapter 4 is to post a job ad for a steward (👷 Workers › 🧑‍💼 Steward). Within one game week 5 people apply; each CV shows age, hometown, experience, previous jobs, how many work areas they can handle and the wage they ask. Pick one and set the wage yourself: a very low offer is refused, a good wage makes them happier. The steward does the daily chores of Chapters 1–3 for you: coop and barn, field, wood-grass-stone, cows, sheep and goat pens, garden and beehives. You can still do any job yourself; the steward handles the rest. With a steward you get no notifications from workers or villagers, just one summary each morning. The steward levels up over time, handles more areas and learns new jobs (animal health, cooperative delivery). Paid every 7 days. Story quests are still yours.",
+  "pv": "v1.55"
+ },
+ {
+  "d": "2026-11-06",
+  "tr": "Güncelleme duyuruları kısaldı: oyuna yeni güncelleme gelince artık uzun açıklama yerine kısa bir «Yenilikler var» penceresi çıkıyor. Neler değiştiğini merak edersen «Ayrıntılar»a dokun, yeni Güncellemeler sayfası açılır. Bu sayfada oyunun bütün güncellemeleri sürüm ve yapı numarasıyla, en yenisi üstte ve 7 dilde yer alıyor; herkes web sitesinden de bakabiliyor. Ayarlar'daki «Güncelleme notları» da bu sayfayı açar.",
+  "en": "Update announcements are shorter: when a new update arrives you now see a short «What's new» window instead of a long description. Curious about the details? Tap «Details» to open the new Updates page. It lists every update of the game with its version and build number, newest first, in 7 languages, and anyone can view it on the website too. «Update notes» in Settings opens this page as well.",
+  "v": 655,
+  "pv": "v1.54"
+ },
+ {
+  "d": "2026-11-06",
+  "tr": "Düzeltildi: 'Bildirdiğin hata düzeltildi' mesajlarında ve Gönderdiklerim listesinde sürüm artık v650 gibi iç numarayla değil, oyunda gördüğün sürümle (v1.xx) yazıyor.",
+  "en": "Fixed: 'Your reported bug was fixed' messages and the My submissions list now show the version you see in the game (v1.xx) instead of an internal build number like v650.",
+  "v": 654
+ },
+ {
+  "v": 653,
+  "d": "2026-11-06",
+  "tr": "Araçla Üzüm bağlarına gidince artık asma sıralarının arasına değil, bağın girişine bırakılıyorsun; araç bağın içine girmiyor.",
+  "en": "When you take a vehicle to the vineyards you're now dropped at the vineyard entrance, not between the vine rows; vehicles no longer drive into the vineyard."
+ },
+ {
+  "v": 652,
+  "d": "2026-11-06",
+  "tr": "Gönderdiklerim listesinde artık en yeni gönderdiklerin en üstte görünüyor. Çok sayıda geri bildirim gönderenlerde yeni kayıtlar listeye gelmiyordu.",
+  "en": "My submissions now shows your newest reports at the top. Players who had sent many reports weren't seeing their latest ones."
+ },
+ {
+  "d": "2026-11-06",
+  "tr": "Çanta, sandık ve ambar daha çok alıyor. Çanta 90 yerle başlıyor, büyütünce 135, 180, 300 ve 450 oluyor. Sandık 2.250 ile başlıyor, geliştirmelerle 29.700'e çıkıyor. Ambar binası sandığa artık 1.000 yer ekliyor. Mevcut kayıtlar yeni kapasiteyi kendiliğinden alır, fiyatlar aynı.",
+  "en": "Bag, chest and granary now hold more. The bag starts with 90 slots and grows to 135, 180, 300 and 450. The chest starts at 2,250 and reaches 29,700 with upgrades. The granary building now adds 1,000 slots to the chest. Existing saves get the new capacity automatically; prices are unchanged.",
+  "v": 651,
+  "pv": "v1.53"
+ },
+ {
+  "v": 650,
+  "d": "2026-11-06",
+  "tr": "Yeni çalışan Çaycı Selami: Semaverli çardağı kurduysan Çalışanlar ekranından işe alabilirsin. Gündüz semaveri hep demli tutar (çay 8 A kasadan), her gün çalışanlarına çay ikram eder; o gün memnuniyetleri artar, işleri daha verimli olur.",
+  "en": "New worker Selami the tea maker: once you've built the samovar gazebo, hire him from the Workers screen. He keeps the samovar brewed during the day (tea costs 8 G from your gold) and serves tea to your workers every day, raising their satisfaction and efficiency.",
+  "pv": "v1.52"
+ },
+ {
+  "v": 649,
+  "d": "2026-11-05",
+  "tr": "Yamaçta ata binerken binici artık eyerde oturuyor, atın boynuna kaymıyor. Traktör otomatik sürerken mazot bitince olduğu yerde duruyor; o ana kadar biçilen ekin toplanıyor. Çoban ve bakıcılar ahır/ağıl çatısını ve perdesini hava değişince hemen açıp kapatıyor.",
+  "en": "When riding on slopes the rider now stays in the saddle instead of sliding onto the horse's neck. During auto-drive the tractor stops where it is when diesel runs out, and the crops cut so far are collected. Shepherds and keepers now open and close barn roofs and curtains as soon as the weather changes."
+ },
+ {
+  "d": "2026-11-05",
+  "tr": "Hava durumu artık yaşadığın bölgeye göre: Doğu Anadolu'da kış sert ve karlı (Elazığ–Erzurum arası), Akdeniz ve Ege'de ılık ve yağmurlu, Karadeniz'de bol yağmur, İç Anadolu'da kuru soğuk, Güneydoğu'da sıcak yaz. Yurt dışında da iklim kuşağına göre (ılıman, karasal, soğuk kuzey, sıcak kurak, tropikal). Konum izni istenmez; bölgen yanlışsa Hava durumu ekranındaki 📍 Bölgen satırından seçebilirsin. Takvim, mevsimler ve görevler herkeste aynı kalır.",
+  "en": "Weather now follows the region you live in: harsh snowy winters in Eastern Anatolia, mild rainy winters on the Mediterranean and Aegean coasts, lots of rain on the Black Sea, dry cold in Central Anatolia, hot summers in the Southeast. Abroad it follows your climate zone (mild, continental, cold northern, hot dry, tropical). No location permission is needed; if your region is wrong, pick it from the 📍 Your region row on the Weather screen. The calendar, seasons and quests stay the same for everyone.",
+  "v": 648,
+  "pv": "v1.51"
+ },
+ {
+  "d": "2026-11-05",
+  "tr": "Sel ve Tasami hediyeleri artık oyun açıkken anında geliyor (oyunu kapatıp açmak gerekmiyor). Karlı havada sel olmuyor; kar kalkınca geliyor.",
+  "en": "Floods and Tasami gifts now arrive instantly while the game is open (no restart needed). There are no floods in snowy weather; it comes once the snow is gone.",
+  "v": 647
+ },
+ {
+  "d": "2026-11-05",
+  "tr": "Yönetici panelinden oyunculara sel gönderilebiliyor (test için). Sel, oyuncu köyde ya da çiftlikteyken gelir.",
+  "en": "Admins can now send a flood to a player (for testing). It arrives when the player is in the village or on the farm.",
+  "v": 646
+ },
+ {
+  "d": "2026-11-05",
+  "tr": "Kış artık daha kısa: Aralık–Şubat diğer mevsimlerin yarısı kadar sürüyor, Mart'ta kar nadiren yağıyor. Sel artık yazıyla değil, gözünle görülüyor: yağmur bastırır, gölden çamurlu su gelir, köyü ve çiftliği basar, evlerin ve ahırın dibi su altında kalır, tahtalar sürüklenir; suda yavaş yürürsün. Su çekilince yerde çamur kalır, muhtar zararı yazar (ekinlerin bir kısmı, onarım cebin %2'si; afet sigortası onarımı + 120 A öder).",
+  "en": "Winter is shorter now: December–February last half as long as the other seasons, and snow rarely falls in March. Floods are no longer just a message, you see them: heavy rain, then muddy water rolls in from the lake, floods the village and the farm, drifts planks around and slows you down. When it recedes, mud is left behind and the headman reports the damage (part of the crops, repairs 2% of your cash; disaster insurance pays the repairs + 120 G).",
+  "v": 645,
+  "pv": "v1.50"
+ },
+ {
+  "v": 644,
+  "d": "2026-11-05",
+  "tr": "Oyunun iç denetim testleri kış takvimine uyarlandı; oyunda görünen bir değişiklik yok. Kışın karlı tarlada ekim/hasat yapılmaması, ağaçlarda meyve olmaması ve soğuğun sağlığı etkilemesi bilerek böyle.",
+  "en": "Internal game checks were adapted to the winter calendar; nothing changes in the game. No sowing/harvest on snowy fields, no fruit on trees and cold affecting health in winter are intended."
+ },
+ {
+  "v": 643,
+  "d": "2026-11-05",
+  "tr": "«Sen yokken» raporunun ayrıntıları İngilizce ve diğer dillerde yarı Türkçe çıkıyordu (ör. «Yapacak jobs yoktu»); artık her satır tam çevriliyor. Türkçede satırlar daha düzenli: «Ayşe: 3 parsel biçti», «Sandığa gelenlerin değeri: ≈ 660 A».",
+  "en": "The details of the «While you were away» report were half Turkish in English and other languages; every line is now fully translated and the lines read more clearly."
+ },
+ {
+  "v": 642,
+  "d": "2026-11-05",
+  "tr": "Uzaktaki yapılar ve karakterler artık her karede tek tek gezilmiyor (zaten çizilmiyorlardı). Köyde dolaşılan nesne sayısı yarıya indi; çizim hazırlığı köyde %25, durakta %22, mandırada %28 kısaldı. Görüntü aynı. Giriş seviyesi telefon ve tabletlerde daha akıcı.",
+  "en": "Distant buildings and characters are no longer walked through one by one every frame (they were not drawn anyway). Objects visited in the village halved; draw preparation is 25% shorter in the village, 22% at the stop and 28% at the dairy. Looks unchanged. Smoother on entry-level phones and tablets."
+ },
+ {
+  "v": 641,
+  "d": "2026-11-05",
+  "tr": "Yapıların birbirine çok yakın malzemeleri tek seferde çiziliyor: köyde her karede ~30 çizim daha az, kare süresi %8–11 kısaldı, görünüş aynı. Telefonun 3D ekranı bir anlığına kaybolursa (arka plana alıp dönme, ekran kartı yoğunluğu) oyun artık sayfayı baştan yüklemiyor, ekran geri gelince kaldığın yerden sürüyor. Giriş seviyesi cihazlarda daha akıcı.",
+  "en": "Very similar building materials are now drawn together: about 30 fewer draws per frame in the village, frame time 8–11% shorter, looks unchanged. If the phone's 3D screen is briefly lost (switching apps, graphics load), the game no longer reloads; it continues where you left off when the screen returns. Smoother on entry-level devices."
+ },
+ {
+  "v": 640,
+  "d": "2026-11-05",
+  "tr": "Hesabına giriş yapmış oyuncular oyunu açınca artık hesap ekranını görmez, doğrudan ana menü gelir. Hesap ekranı yalnız misafir oyunculara bir kez gösterilir.",
+  "en": "Players who are signed in no longer see the account screen when they open the game; the main menu comes up directly. The account screen is shown once only to guest players."
+ },
+ {
+  "v": 639,
+  "d": "2026-11-05",
+  "tr": "Bazı oyuncular hesaplarından kendiliğinden çıkıyordu: internet yavaşken oyun açılışta hesabını doğrulamayı yalnız 5 saniye bekliyor, sonra misafir girişine geçiyordu. Artık hesabın doğrulanması beklenir, kayıtlı hesap misafirle değişmez. Daha önce hesabından düşen oyuncular Hesap ekranında uyarı görür; bir kez yeniden giriş yapınca kaydı yine buluta yüklenir.",
+  "en": "Some players were being signed out of their account on their own: on a slow connection the game waited only 5 seconds for your account to be verified at start, then switched to guest. Now it waits for the account check and your account is never replaced by a guest. Players who were signed out see a note on the Account screen; signing in once uploads the save to the cloud again."
+ },
+ {
+  "d": "2026-11-05",
+  "tr": "Görev penceresindeki \"İlerleme\" satırı artık neyi saydığını yazıyor: ör. Demirkol görevinde \"Üst üste teslim günü 3/10\", altında \"Kooperatife teslim yaptığın her gün 1 sayılır\" ve bugün teslim yapılıp yapılmadığı. Diğer görevlerde de \"Kesilen odun\", \"İnek sayısı\", \"Kamyon seferi\", \"Üretilen kumaş\" gibi açık adlar var; sayaç görevlerinde görev başladıktan sonra yapılanların sayıldığı yazar.",
+  "en": "The \"Progress\" line in the quest window now says what it counts: e.g. \"Days delivered in a row 3/10\" in the Demirkol quest, with \"Each day you deliver to the cooperative counts as 1\" and whether you delivered today. Other quests show clear names too, like \"Wood chopped\", \"Number of cows\", \"Truck trips\" or \"Fabric produced\"; counter quests note that only what you do after the quest starts counts.",
+  "v": 638,
+  "pv": "v1.49"
+ },
+ {
+  "v": 637,
+  "d": "2026-11-05",
+  "tr": "Kendi karakterin artık 30'dan fazla parça yerine tek parça çiziliyor (her karede ~34 çizim yerine ~5, gölgesi de öyle); görünüşü, aletleri ve hareketleri aynı. Kıyafet ya da görünüm değişince karakter birkaç saniye içinde yeniden hazırlanır. Bütün telefonlarda, en çok da giriş seviyesi cihazlarda işe yarar.",
+  "en": "Your own character is now drawn as a single piece instead of 30+ parts (about 5 draws per frame instead of 34, shadow too); looks, tools and movement are unchanged. When clothes or appearance change, the character is prepared again within a few seconds. Helps on all phones, most of all entry-level devices."
+ },
+ {
+  "v": 636,
+  "d": "2026-11-04",
+  "tr": "Giriş seviyesi telefon ve tabletlerde ekran kartı yükü yaklaşık üçte bir azaldı: grafik en düşük ayardayken gökyüzünden gelen yansıma ışığı hesaplanmıyor, yerine ortam ışığı biraz artırıldı. Görüntü neredeyse aynı; daha yüksek grafik ayarlarında hiçbir şey değişmedi.",
+  "en": "About a third less GPU load on entry-level phones and tablets: at the lowest graphics setting, reflected sky light is no longer calculated and ambient light is raised slightly instead. The picture looks almost the same; higher graphics settings are unchanged."
+ },
+ {
+  "v": 635,
+  "d": "2026-11-04",
+  "tr": "Giriş seviyesi telefon ve tabletlerde daha az işlemci yükü: grafik en düşük ayardayken uzaktaki köylüler, kalabalık ve mini harita daha seyrek hesaplanıyor (yürüyüş hızları aynı). Yakındaki insan ve hayvanların tek parça çizime geçişi yavaş cihazlarda da her saniye ilerliyor.",
+  "en": "Less CPU load on entry-level phones and tablets: at the lowest graphics setting, distant villagers, crowds and the minimap update less often (walking speeds unchanged). Nearby people and animals now switch to single-piece drawing steadily on slow devices too."
+ },
+ {
+  "v": 634,
+  "d": "2026-11-04",
+  "tr": "Takılma giderildi: yolda sıkışan bir köylü yeni yol ararken oyun kısa bir an donabiliyordu. Bu arama artık yaklaşık 4 kat hızlı; köylüler yine aynı yolu buluyor.",
+  "en": "Fixed a stutter: when a villager got stuck and searched for a new path, the game could freeze for a moment. This search is now about 4 times faster, and villagers still find the same paths."
+ },
+ {
+  "v": 633,
+  "d": "2026-11-04",
+  "tr": "Karda ahır ve ağılların çatısını ve yan perdelerini çoban, hayvan bakıcısı Murat ya da sağlık bakıcısı Derya kapatıyor; yerde kar varken kapalı kalıyor. Kapalı ön perde artık kapı girişini kapatmıyor.",
+  "en": "In snow the shepherd, animal keeper Murat or animal health carer Derya now close the barn and pen roofs and side curtains, keeping them shut while snow lies on the ground. The closed front curtain no longer blocks the gate."
+ },
+ {
+  "v": 632,
+  "d": "2026-11-04",
+  "tr": "Fabrikalar canlandı: sanayi bölgesindeki bütün yapılara artık kapısından girilir. Un, yem, şeker fabrikası ve tekstil atölyesinin içinde hammadde yığını, besleme hunisi, makinenin içinden geçen bant ve ürün paletleri var; hammadde makineye girer, ürün olarak çıkar. Elektrik kesikse ya da hammadde yoksa bant durur ve ışık kırmızı yanar, operatör Erkan yoksa bant yarım hızda döner. Erkan, Selin ve mühendisin mesai saatinde içeride çalışır. Kontrol panelinde tarif, günlük kapasite ve bu sabahki üretim görünür; günde bir kez elle vardiya çalıştırıp (20 enerji) günlük kapasitenin dörtte biri kadar ek ürün yapabilirsin. Sanayi izni arsası artık Sanayi ofisi: duvardaki izin belgesi neleri açtığını tek tek yazar, toptancı masası, fabrikaların durum panosu ve çalışan panosu da burada. Jeneratör dairesine, soğuk hava deposuna, liman acentesine ve holding merkezine de girilir. Her sanayi yapısının kapısında Ne işe yarar? açıklaması var.",
+  "en": "Factories come alive: you can now walk into every building in the industrial zone. Inside the flour, feed and sugar factories and the textile workshop there are raw material piles, a feed hopper, a conveyor running through the machine and product pallets; raw material goes in and comes out as product. With no power or no raw materials the belt stops and the light turns red; without operator Erkan the belt runs at half speed. Erkan, Selin and the engineer work inside during working hours. The control panel shows the recipe, daily capacity and this morning's output; once a day you can run a manual shift (20 energy) for an extra quarter of the daily capacity. The industrial permit plot is now the Industry office: the permit on the wall lists everything it unlocks, and the wholesale desk, factory status board and staff board are there too. You can also enter the generator room, cold store, port agency and holding headquarters. Every industrial building has a What is it for? explanation at its door.",
+  "pv": "v1.49"
+ },
+ {
+  "v": 631,
+  "d": "2026-11-04",
+  "tr": "Karda köy kavşaklarındaki asfalt yaması artık yol gibi karla örtülüyor; gri karsız dikdörtgen kalmadı.",
+  "en": "Asphalt patches at village junctions are now covered by snow like the roads; no more grey snow-free rectangle."
+ },
+ {
+  "v": 630,
+  "d": "2026-11-04",
+  "tr": "Kış güncellemesi: Sera artık tarlanın üstünde görünüyor; Hasan Dede ve Altınova tarlaları karlanıyor, karda otlar kar altında kalıyor. Kar yağışı uzaktan bakınca da her yere yağıyor. Buz tutan gölün kıyısında buza gömülme yok. Fabrikaların, dinlenme alanı banklarının ve iş ilanları panosunun içinden geçilmiyor. Yün mont artık görünüyor; giyim mağazasında Kışlık bölümü (kaban, bot, bere, atkı, kazak ısıtır). İnek ahırı ve ağıllara açılır yan perdeler. Kışın abdestten sonra soğuktan titreniyor. Çay çardağının adı Semaverli çardak oldu.",
+  "en": "Winter update: the greenhouse now shows over the field; Hasan Dede's and Altınova fields get snow-covered and weeds stay under the snow. Snowfall now covers the whole view when zoomed out. No more sinking into the ice at the frozen lake's shore. Factories, rest-area benches and the job board are solid. The wool coat is now visible; the clothing store has a Winter section (coat, boots, beanie, scarf and sweater keep you warm). Roll-down side curtains for the cow barn and pens. In winter you shiver after ablution. The tea gazebo is now the Gazebo with samovar.",
+  "pv": "v1.48"
+ },
+ {
+  "v": 629,
+  "d": "2026-11-04",
+  "tr": "Laboratuvardaki alçı analizinde kristal suyu artık 300 °C'de ölçülüyor (önce 230 °C idi); soru, doğru cevap, açıklama ve rapor buna göre güncellendi.",
+  "en": "In the lab's gypsum analysis, crystal water is now measured at 300 °C (was 230 °C); the question, correct answer, explanation and report were updated."
+ },
+ {
+  "v": 628,
+  "d": "2026-11-04",
+  "tr": "Mevsimler artık iki kat uzun sürüyor: her mevsim yaklaşık 7,5 gerçek gün, geçişler daha yavaş. Kışın kar daha seyrek yağıyor, iki kar yağışı arasında en az bir açık ya da bulutlu dönem oluyor; yağan kar yerde kalmayı sürdürüyor.",
+  "en": "Seasons now last twice as long: each season is about 7.5 real days and the changes come more slowly. In winter it snows less often, with at least one clear or cloudy spell between two snowfalls; fallen snow still stays on the ground."
+ },
+ {
+  "v": 627,
+  "d": "2026-11-04",
+  "tr": "Kış daha gerçekçi: karda ve soğukta (4°C altı) koyunlar kırkılmaz, havalar ısınınca kırkılır; kırkım görevi bu sırada ambardaki yünü de sayar. Kışın ve karda meyve ağaçları meyve vermez. Kar yağarken de kamp ateşi yanar; ateşin başında ısınınca sağlığın yükselir (yağmur yine söndürür). Karlı açık tarla sürülmez, ekilmez, biçilmez; olgun ekin kar kalkana kadar bozulmadan bekler, serada iş sürer. Traktör yolda da mazot yakar (100 metrede 1 L); mazot bitince durur, oturduğun yerden bidonla mazot koyabilirsin.",
+  "en": "Winter is more realistic: sheep aren't sheared in snow or cold (below 4°C) and can be sheared once it warms up; meanwhile the shearing quest also counts wool in your barn. Fruit trees give no fruit in winter or snow. The campfire now keeps burning while it snows, and warming up by it raises your health (rain still puts it out). Snowy open fields can't be ploughed, sown or harvested; ripe crops wait under the snow without spoiling, and work goes on in the greenhouse. The tractor also burns diesel on the road (1 L per 100 m); it stops when the tank is empty, and you can top it up from a jerrycan without getting off."
+ },
+ {
+  "v": 626,
+  "d": "2026-11-03",
+  "tr": "Kar yağınca tarla parselleri karla örtülüyor: filizler ve otlar kar altında kalıyor, ekinler kar kalkana kadar büyümüyor (sera hariç). Yerdeki ot telleri de kara gömülüyor.",
+  "en": "When snow settles, field plots are now covered: sprouts and weeds stay under the snow and crops don't grow until it melts (greenhouse excepted). Grass blades sink into the snow too."
+ },
+ {
+  "v": 625,
+  "d": "2026-11-03",
+  "tr": "Çardağına artık kendi adını verebilirsin: kurunca adı sorulur, sonradan çardağın kartındaki «Çardağa ad ver» düğmesiyle değiştirilir. Tabelada çay simgesi yok, yalnız verdiğin ad yazar (ad vermezsen «Çardak»). Çardağın çatısı altına artık kar yağmıyor; semaverin dibindeyken bank yerine semaver düğmesi çıkıyor.",
+  "en": "You can now give your gazebo its own name: you are asked when you build it, and you can change it later with «Name the gazebo» on its card. The sign has no tea icon, only the name you choose (or «Gazebo»). Snow no longer settles under the gazebo roof, and next to the samovar you get the samovar button instead of the bench one."
+ },
+ {
+  "v": 624,
+  "d": "2026-11-03",
+  "tr": "Hastane artık gerçek bir tedavi süreci: içeri girince Hemşire Elif masasından kalkıp seni karşılar. Sağlığına göre tansiyon ve ateş ölçülür, gerekirse kan ve idrar tahlili yapılır, yaraların sarılır, serum takılır; sedyede yatarken adımları ve sağlığının dolduğunu görürsün, sonunda doktor tahlil sonuçlarını söyler. Ücret aynı (20 altın), sağlığın tamken kısa kontrol ücretsiz. Bayılınca artık 112 ambulansı sirenle gelip seni Devlet Hastanesi'ne götürür, orada tedavi edilirsin (ambulans + tedavi yine 40 altın).",
+  "en": "The hospital now has a real treatment process: when you walk in, Nurse Elif gets up from her desk to greet you. Depending on your health, your blood pressure and temperature are checked, blood and urine tests are done if needed, wounds are bandaged and an IV drip is put in; lying on the bed you see each step and your health filling up, and at the end the doctor tells you the test results. The price is the same (20 gold), and a quick check-up is free when you're healthy. If you faint, a 112 ambulance now arrives with its siren and takes you to the State Hospital for treatment (ambulance + treatment still 40 gold).",
+  "pv": "v1.47"
+ },
+ {
+  "v": 623,
+  "d": "2026-11-03",
+  "tr": "Yeni yapı: Çay çardağı. Yazın yanları açık, Kasım'dan Mart'a kadar camları takılı ve sobası yanan ahşap köşk. İçindeki semaverde 8 altına 10 bardak çay demlenir; bir dakikada hazır olur, 12 oyun saati sıcak kalır. Her bardak susuzluğu giderir (+25) ve yorgunluğu alır (+10 enerji, günde 4 bardağa kadar). Çardakta oturup çayını yudumlarken enerjin banktakinin iki katı hızlı dolar ve inceden, dertli bir saz çalar. Günde bir kez çalışanlarına çay ikram edebilirsin: o gün memnuniyetleri +15, işleri %5 daha verimli olur. Yeni yapılar listesinde, 350 altın + 24 odun + 6 taş.",
+  "en": "New building: Tea gazebo. A wooden pavilion that is open in summer and, from November to March, glazed with a lit stove. Its samovar brews 10 glasses of tea for 8 gold; it is ready in a minute and stays hot for 12 game hours. Each glass quenches thirst (+25) and eases tiredness (+10 energy, up to 4 glasses a day). While you sit and sip tea in the gazebo, energy refills twice as fast as on a bench and a soft, melancholic saz plays. Once a day you can treat your workers to tea: that day their satisfaction is +15 and they work 5% more efficiently. Find it under New buildings: 350 gold + 24 wood + 6 stone.",
+  "pv": "v1.46"
+ },
+ {
+  "d": "2026-11-03",
+  "tr": "Hasan Dede'nin tarlası artık traktörle de sürülüp ekilip biçiliyor (Sami'nin bildirimi). Traktöre binip tarlanın kapısına gelince «Tarlayı otomatik sür» düğmesi çıkar; traktör kapıdan girer, takılı ekipmanla 18 tarhın hepsini işler (tarh başı 2 L mazot). Traktörle elle de tarhın içine sürerek çalışabilirsin. Biçer tablası buğdayı kayıpsız biçer, mibzer düzgün eker; elle yapılan iş daha yorucu.",
+  "en": "Grandpa Hasan's field can now be ploughed, sown and harvested with the tractor too. Get on the tractor and drive to the field gate to see a \"Work the field automatically\" button: the tractor goes in and works all 18 beds with the attached implement (2 L of diesel per bed). You can also drive into a bed yourself. The header harvests without loss and the seed drill sows evenly; manual work is more tiring.",
+  "v": 622
+ },
+ {
+  "v": 621,
+  "d": "2026-11-03",
+  "tr": "Traktörde, atta, at arabasında ya da taksideyken kurt, yaban domuzu ve arılar artık sana saldırmaz; yaklaşan kurt motor sesinden ürküp kaçar. Bayılınca köy doktorunun ücreti cebindeki altının beşte biri yerine sabit 40 altın.",
+  "en": "Wolves, wild boars and bees no longer attack you while you're on a tractor, a horse, a horse cart or in a taxi; a wolf that comes close is scared off by the engine. If you faint, the village doctor now charges a flat 40 gold instead of a fifth of your gold."
+ },
+ {
+  "v": 620,
+  "d": "2026-11-03",
+  "tr": "Kışın Hazar Gölü buz tutar: soğuk günlerde buz kıyıdan içeri doğru büyür, havalar ısınınca erir; herkes için aynıdır. Göl buz tutunca göle girilmez, iskeleden ve kıyıdan balık tutmak sürer. Karda ağaç kesince yerine fidan dikilmez; kar kalkınca fidan dikilir, o zamana kadar ağaç yeniden büyümez.",
+  "en": "In winter Lake Hazar freezes: on cold days the ice grows from the shore inward and melts when it warms up; it's the same for everyone. Once the lake is frozen you can't go in, but you can still fish from the pier and the shore. Cutting a tree in the snow no longer plants a sapling; one is planted when the snow is gone, and the tree doesn't regrow until then."
+ },
+ {
+  "v": 619,
+  "d": "2026-11-03",
+  "tr": "Bölüm 3'teki \"10 gün üst üste kooperatife teslim yap\" görevi artık adil (Sami'nin bildirimi): 1 oyun günü gerçekte 1 saat olduğu için oyunda olmadığın saatlerde seri sıfırlanıyordu. Artık oyunda olmadığın ya da kısa kaldığın günler seriyi bozmaz; oyundayken bir günün yarısı (30 dk) teslimsiz geçerse seri sıfırlanır. 15 dakika teslim yapmazsan oyun seni uyarır, kooperatif ekranı bugün teslim yapıp yapmadığını gösterir.",
+  "en": "The chapter 3 quest \"deliver to the cooperative 10 days in a row\" is now fair: since one game day is one real hour, the streak used to reset during hours you weren't playing. Now days you don't play, or play only briefly, don't break the streak; it resets only if half a day (30 min) passes in the game without a delivery. After 15 minutes without a delivery the game reminds you, and the cooperative screen shows whether you've delivered today."
+ },
+ {
+  "d": "2026-11-03",
+  "tr": "Traktör artık elle tarımdan çok daha avantajlı (Taha'nın isteği): traktöre binip tarlanın yanına gelince \"Tarlayı otomatik sür\" düğmesi çıkıyor; traktör takılı ekipmanla bütün tarlayı kendisi sürüyor, sıradaki ekipmanı da kendiliğinden takıyor. Traktörle iş yorulmadan yapılır, biçer tablası buğdayı kayıpsız biçer (+%10), mibzer düzgün eker (+%10 verim). Elle tarım ise daha yorucu (enerji 1,5 kat), daha uzun sürer ve elle biçerken buğdayın %10'u dökülür. Traktörü olmayan oyuncular yine elle ekip biçebilir.",
+  "en": "The tractor is now much better than farming by hand: get on it and drive to your field to see a \"Work the field automatically\" button; the tractor works the whole field with the attached implement and switches to the next one by itself. Tractor work costs no energy, the header harvests without loss (+10%) and the seed drill sows evenly (+10% yield). Farming by hand is more tiring (1.5x energy), takes longer and spills 10% of the wheat. Players without a tractor can still farm by hand.",
+  "v": 618,
+  "pv": "v1.45"
+ },
+ {
+  "v": 617,
+  "d": "2026-11-03",
+  "tr": "Kar altındaki tarlaya artık ekim yapılamaz: tarla kar altındayken «Ek» yerine uyarı çıkar, traktörün mibzeri, Ayşe ve dedenin tarlası da ekmez. Sebze bahçesine de kar kalkana kadar ekilmez. Serada ekim sürer.",
+  "en": "Snow-covered fields can no longer be sown: while the field is under snow you get a warning instead of «Sow», and the tractor's seeder, Ayşe and Grandpa's field don't sow either. The vegetable garden can't be planted until the snow is gone. Sowing continues in the greenhouse."
+ },
+ {
+  "v": 616,
+  "d": "2026-11-03",
+  "tr": "Kar görüntüsü düzeltildi (Sami'nin bildirimi): yerdeki kar artık lekeler hâlinde değil, düzgün ve bütün bir örtü olarak yağıyor. Kar kalınlaştıkça çimen, tarla, patika, meydan ve çatılar birlikte beyazlar; kar durunca havanın sıcaklığına göre yavaş yavaş erir.",
+  "en": "Snow looks better: it now settles as a smooth, even blanket instead of patches. As it gets deeper, grass, fields, paths, the village square and roofs turn white together; when it stops, it melts gradually depending on the temperature."
+ },
+ {
+  "v": 615,
+  "d": "2026-11-03",
+  "tr": "Yeni yapı: Odunluk. Kestiğin odun artık cinsine göre ayrılıyor: Meşe ormanındaki ağaçlar meşe, iğne yapraklılar çam, diğerleri kayın ya da kavak odunu olarak sayılır. Odunluk 500 odunu sandıkta yer kaplamadan saklar, her cins kendi bölmesine dizilir ve doluluğu kütüklerden görünür. Odunluğun kartından fazla odunu cinsine göre miktar seçip ya da Hepsi diyerek satabilirsin; meşe ve kayın çam ile kavaktan iki kat pahalıdır. Görevde ya da yapımda lazım olan odun satılmaz. Oduncu Hamit de getirdiği odunu odunluğa koyar. Yeni yapılar listesinde, 400 altın + 30 odun + 6 taş.",
+  "en": "New building: Woodshed. The wood you cut is now sorted by type: trees in the Oak forest give oak, conifers give pine, others give beech or poplar wood. The woodshed stores 500 wood without taking chest space, each type is stacked in its own bay and you can see how full it is from the logs. From the woodshed card you can sell surplus wood by type, choosing an amount or All; oak and beech sell for twice the price of pine and poplar. Wood needed for quests or buildings is not sold. Woodcutter Hamit also puts the wood he brings into the woodshed. Find it under New buildings: 400 gold + 30 wood + 6 stone.",
+  "pv": "v1.44"
+ }
 ]
