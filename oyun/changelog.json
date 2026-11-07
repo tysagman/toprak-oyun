@@ -1,5 +1,11 @@
 [
  {
+  "v": 677,
+  "d": "2026-11-08",
+  "tr": "Hazırlık: ödüllü reklam üst üste yüklenemezse oyun bunun özel DNS ya da reklam engelleyiciden olabileceğini kibarca söyler. Oyunda bir ceza ya da kısıtlama yok.",
+  "en": "Preparation: if rewarded ads repeatedly fail to load, the game kindly mentions that a private DNS or ad blocker may be the reason. There is no penalty or restriction."
+ },
+ {
   "d": "2026-11-08",
   "tr": "Gelen kutusunda mesajlar silinebiliyor: her mesajın yanındaki 🗑 ile tek tek, «Seç» ile seçip, «Hepsini sil» ile hepsini birden.",
   "en": "Inbox messages can now be deleted: one by one with the 🗑 next to each message, several at once with «Select», or all at once with «Delete all».",
