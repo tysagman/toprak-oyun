@@ -1,5 +1,11 @@
 [
 {
+"v": 689,
+"d": "2026-11-08",
+"tr": "Hammadde depolama tesisi + Merkez Ar-Ge laboratuvarı",
+"en": "Raw material storage + Central R&D lab"
+},
+{
 "v": 688,
 "pv": "v1.70",
 "d": "2026-11-08",
@@ -380,11 +386,5 @@
 "tr": "Kış güncellemesi: Sera artık tarlanın üstünde görünüyor; Hasan Dede ve Altınova tarlaları karlanıyor, karda otlar kar altında kalıyor. Kar yağışı uzaktan bakınca da her yere yağıyor. Buz tutan gölün kıyısında buza gömülme yok. Fabrikaların, dinlenme alanı banklarının ve iş ilanları panosunun içinden geçilmiyor. Yün mont artık görünüyor; giyim mağazasında Kışlık bölümü (kaban, bot, bere, atkı, kazak ısıtır). İnek ahırı ve ağıllara açılır yan perdeler. Kışın abdestten sonra soğuktan titreniyor. Çay çardağının adı Semaverli çardak oldu.",
 "en": "Winter update: the greenhouse now shows over the field; Hasan Dede's and Altınova fields get snow-covered and weeds stay under the snow. Snowfall now covers the whole view when zoomed out. No more sinking into the ice at the frozen lake's shore. Factories, rest-area benches and the job board are solid. The wool coat is now visible; the clothing store has a Winter section (coat, boots, beanie, scarf and sweater keep you warm). Roll-down side curtains for the cow barn and pens. In winter you shiver after ablution. The tea gazebo is now the Gazebo with samovar.",
 "pv": "v1.48"
-},
-{
-"v": 629,
-"d": "2026-11-04",
-"tr": "Laboratuvardaki alçı analizinde kristal suyu artık 300 °C'de ölçülüyor (önce 230 °C idi); soru, doğru cevap, açıklama ve rapor buna göre güncellendi.",
-"en": "In the lab's gypsum analysis, crystal water is now measured at 300 °C (was 230 °C); the question, correct answer, explanation and report were updated."
 }
 ]
