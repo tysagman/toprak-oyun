@@ -1,6 +1,7 @@
 [
 {
 "v": 684,
+"pv": "v1.69",
 "d": "2026-11-08",
 "tr": "Yeni Fabrika raporu ekranı: bütün fabrikaların bugünkü üretimi, kapasitesi, hammaddenin kaç gün yeteceği, ambardaki ürün ve son 7 günlük üretim tek listede. Duran fabrikanın sebebi satırında yazar; oradan hammadde alıp kontrol paneline geçebilirsin.",
 "en": "New Factory report screen: today's output, capacity, how many days of raw materials are left, stock and the last 7 days for every factory in one list. A stopped factory shows why; buy raw materials or open its control panel from its row."
