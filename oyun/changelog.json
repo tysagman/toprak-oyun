@@ -1,5 +1,11 @@
 [
 {
+"v": 696,
+"d": "2026-11-08",
+"tr": "Traktör çarpışması düzeldi",
+"en": "Tractor collisions fixed"
+},
+{
 "v": 695,
 "d": "2026-11-08",
 "tr": "Dede tarlası görüntüsü düzeldi",
@@ -379,11 +385,5 @@
 "d": "2026-11-05",
 "tr": "Kendi karakterin artık 30'dan fazla parça yerine tek parça çiziliyor (her karede ~34 çizim yerine ~5, gölgesi de öyle); görünüşü, aletleri ve hareketleri aynı. Kıyafet ya da görünüm değişince karakter birkaç saniye içinde yeniden hazırlanır. Bütün telefonlarda, en çok da giriş seviyesi cihazlarda işe yarar.",
 "en": "Your own character is now drawn as a single piece instead of 30+ parts (about 5 draws per frame instead of 34, shadow too); looks, tools and movement are unchanged. When clothes or appearance change, the character is prepared again within a few seconds. Helps on all phones, most of all entry-level devices."
-},
-{
-"v": 636,
-"d": "2026-11-04",
-"tr": "Giriş seviyesi telefon ve tabletlerde ekran kartı yükü yaklaşık üçte bir azaldı: grafik en düşük ayardayken gökyüzünden gelen yansıma ışığı hesaplanmıyor, yerine ortam ışığı biraz artırıldı. Görüntü neredeyse aynı; daha yüksek grafik ayarlarında hiçbir şey değişmedi.",
-"en": "About a third less GPU load on entry-level phones and tablets: at the lowest graphics setting, reflected sky light is no longer calculated and ambient light is raised slightly instead. The picture looks almost the same; higher graphics settings are unchanged."
 }
 ]
