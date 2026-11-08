@@ -1,5 +1,11 @@
 [
 {
+"v": 691,
+"d": "2026-11-08",
+"tr": "Dede tarlası duvarı düzeldi",
+"en": "Grandpa's field wall fixed"
+},
+{
 "v": 690,
 "d": "2026-11-08",
 "tr": "Ar-Ge laboratuvarı: araştırmacılar ve yeni donanım",
@@ -380,11 +386,5 @@
 "tr": "Fabrikalar canlandı: sanayi bölgesindeki bütün yapılara artık kapısından girilir. Un, yem, şeker fabrikası ve tekstil atölyesinin içinde hammadde yığını, besleme hunisi, makinenin içinden geçen bant ve ürün paletleri var; hammadde makineye girer, ürün olarak çıkar. Elektrik kesikse ya da hammadde yoksa bant durur ve ışık kırmızı yanar, operatör Erkan yoksa bant yarım hızda döner. Erkan, Selin ve mühendisin mesai saatinde içeride çalışır. Kontrol panelinde tarif, günlük kapasite ve bu sabahki üretim görünür; günde bir kez elle vardiya çalıştırıp (20 enerji) günlük kapasitenin dörtte biri kadar ek ürün yapabilirsin. Sanayi izni arsası artık Sanayi ofisi: duvardaki izin belgesi neleri açtığını tek tek yazar, toptancı masası, fabrikaların durum panosu ve çalışan panosu da burada. Jeneratör dairesine, soğuk hava deposuna, liman acentesine ve holding merkezine de girilir. Her sanayi yapısının kapısında Ne işe yarar? açıklaması var.",
 "en": "Factories come alive: you can now walk into every building in the industrial zone. Inside the flour, feed and sugar factories and the textile workshop there are raw material piles, a feed hopper, a conveyor running through the machine and product pallets; raw material goes in and comes out as product. With no power or no raw materials the belt stops and the light turns red; without operator Erkan the belt runs at half speed. Erkan, Selin and the engineer work inside during working hours. The control panel shows the recipe, daily capacity and this morning's output; once a day you can run a manual shift (20 energy) for an extra quarter of the daily capacity. The industrial permit plot is now the Industry office: the permit on the wall lists everything it unlocks, and the wholesale desk, factory status board and staff board are there too. You can also enter the generator room, cold store, port agency and holding headquarters. Every industrial building has a What is it for? explanation at its door.",
 "pv": "v1.49"
-},
-{
-"v": 631,
-"d": "2026-11-04",
-"tr": "Karda köy kavşaklarındaki asfalt yaması artık yol gibi karla örtülüyor; gri karsız dikdörtgen kalmadı.",
-"en": "Asphalt patches at village junctions are now covered by snow like the roads; no more grey snow-free rectangle."
 }
 ]
