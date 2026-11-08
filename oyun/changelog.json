@@ -1,5 +1,11 @@
 [
 {
+"v": 687,
+"d": "2026-11-08",
+"tr": "Kürk Kaplıcası havuzunun suyu artık görünüyor; havuzun kenarından içine girilmiyor.",
+"en": "The Kürk hot spring pool now shows its water, and you can no longer walk into it through the rim."
+},
+{
 "v": 686,
 "d": "2026-11-08",
 "tr": "Gönderdiğin hata kayıtları artık oyunda nerede olduğunu da bize iletir; sorunları daha hızlı buluruz.",
@@ -379,11 +385,5 @@
 "d": "2026-11-04",
 "tr": "Mevsimler artık iki kat uzun sürüyor: her mevsim yaklaşık 7,5 gerçek gün, geçişler daha yavaş. Kışın kar daha seyrek yağıyor, iki kar yağışı arasında en az bir açık ya da bulutlu dönem oluyor; yağan kar yerde kalmayı sürdürüyor.",
 "en": "Seasons now last twice as long: each season is about 7.5 real days and the changes come more slowly. In winter it snows less often, with at least one clear or cloudy spell between two snowfalls; fallen snow still stays on the ground."
-},
-{
-"v": 627,
-"d": "2026-11-04",
-"tr": "Kış daha gerçekçi: karda ve soğukta (4°C altı) koyunlar kırkılmaz, havalar ısınınca kırkılır; kırkım görevi bu sırada ambardaki yünü de sayar. Kışın ve karda meyve ağaçları meyve vermez. Kar yağarken de kamp ateşi yanar; ateşin başında ısınınca sağlığın yükselir (yağmur yine söndürür). Karlı açık tarla sürülmez, ekilmez, biçilmez; olgun ekin kar kalkana kadar bozulmadan bekler, serada iş sürer. Traktör yolda da mazot yakar (100 metrede 1 L); mazot bitince durur, oturduğun yerden bidonla mazot koyabilirsin.",
-"en": "Winter is more realistic: sheep aren't sheared in snow or cold (below 4°C) and can be sheared once it warms up; meanwhile the shearing quest also counts wool in your barn. Fruit trees give no fruit in winter or snow. The campfire now keeps burning while it snows, and warming up by it raises your health (rain still puts it out). Snowy open fields can't be ploughed, sown or harvested; ripe crops wait under the snow without spoiling, and work goes on in the greenhouse. The tractor also burns diesel on the road (1 L per 100 m); it stops when the tank is empty, and you can top it up from a jerrycan without getting off."
 }
 ]
