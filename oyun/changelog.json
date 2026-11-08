@@ -1,6 +1,7 @@
 [
 {
 "v": 688,
+"pv": "v1.70",
 "d": "2026-11-08",
 "tr": "Fabrikalarda arıza ve planlı bakım: makineler çalıştıkça aşınır, oyunda değilken daha hızlı. Arızada üretim durur, onarılmazsa her gün büyür; teknik destek çağırınca parça ve ekip birkaç gün içinde gelir. Planlı bakım aşınmayı sıfırlar ve arıza riskini düşürür.",
 "en": "Factory breakdowns and scheduled maintenance: machines wear as they run, faster while you are away. A breakdown stops production and gets worse each day if not repaired; call technical support and parts arrive in a few days. Scheduled maintenance resets wear and lowers the risk."
