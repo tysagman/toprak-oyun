@@ -1,5 +1,11 @@
 [
 {
+"v": 688,
+"d": "2026-11-08",
+"tr": "Fabrikalarda arıza ve planlı bakım: makineler çalıştıkça aşınır, oyunda değilken daha hızlı. Arızada üretim durur, onarılmazsa her gün büyür; teknik destek çağırınca parça ve ekip birkaç gün içinde gelir. Planlı bakım aşınmayı sıfırlar ve arıza riskini düşürür.",
+"en": "Factory breakdowns and scheduled maintenance: machines wear as they run, faster while you are away. A breakdown stops production and gets worse each day if not repaired; call technical support and parts arrive in a few days. Scheduled maintenance resets wear and lowers the risk."
+},
+{
 "v": 687,
 "d": "2026-11-08",
 "tr": "Kürk Kaplıcası havuzunun suyu artık görünüyor; havuzun kenarından içine girilmiyor.",
@@ -379,11 +385,5 @@
 "d": "2026-11-04",
 "tr": "Laboratuvardaki alçı analizinde kristal suyu artık 300 °C'de ölçülüyor (önce 230 °C idi); soru, doğru cevap, açıklama ve rapor buna göre güncellendi.",
 "en": "In the lab's gypsum analysis, crystal water is now measured at 300 °C (was 230 °C); the question, correct answer, explanation and report were updated."
-},
-{
-"v": 628,
-"d": "2026-11-04",
-"tr": "Mevsimler artık iki kat uzun sürüyor: her mevsim yaklaşık 7,5 gerçek gün, geçişler daha yavaş. Kışın kar daha seyrek yağıyor, iki kar yağışı arasında en az bir açık ya da bulutlu dönem oluyor; yağan kar yerde kalmayı sürdürüyor.",
-"en": "Seasons now last twice as long: each season is about 7.5 real days and the changes come more slowly. In winter it snows less often, with at least one clear or cloudy spell between two snowfalls; fallen snow still stays on the ground."
 }
 ]
