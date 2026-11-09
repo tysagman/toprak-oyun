@@ -1,5 +1,11 @@
 [
  {
+  "v": 715,
+  "d": "2026-11-09",
+  "tr": "Fabrikada planlı bakım için altının yetmiyorsa reklam izleyerek bakım yaptırabilirsin (günde 2 kez; Destekçi paketinde reklamsız). Altının yetiyorsa bakım altınla yapılır. Planlı bakım 10 günden uzun yapılmazsa arıza riski her gün artar; kontrol panelinde son bakım günü ve uyarı görünür.",
+  "en": "If you can't afford a factory's scheduled maintenance, you can watch an ad to get it done (twice a day; ad-free with the Supporter pack). If you have enough gold, maintenance is paid with gold. If scheduled maintenance is skipped for more than 10 days, breakdown risk rises every day; the control panel shows the last maintenance day and a warning."
+ },
+ {
   "v": 714,
   "d": "2026-11-09",
   "tr": "Fabrikalar köyden uzağa taşındı: yeni Sanayi bölgesi Elazığ yolunun güneyinde, Uluova tarlalarının doğusunda (köy meydanına ~340 m). Giriş yolu, iki sokak, her fabrikaya beton arsa, kamyon parkı, sokak lambaları, ağaçlar, çit ve giriş tabelası var; taksiyle de gidilir. Fabrikalar artık yalnız bu bölgeye kurulur. Fabrikası köyün yanında olanlara uyarı çıkar: tek dokunuşla ücretsiz taşınır, stok, üretim, geliştirme, çalışan ve görevler aynen kalır. Her fabrikanın görünüşü artık farklı (un silolu değirmen, kemer çatılı yem hangarı, bacalı şeker fabrikası, şed çatılı tekstil, cam kuleli holding, konteynerli liman acentesi…).",
