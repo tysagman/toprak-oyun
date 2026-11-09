@@ -1,5 +1,11 @@
 [
  {
+  "d": "2026-11-09",
+  "tr": "Ban ekranında yönetimden gelen mesaj görünür; banı haksız bulan oyuncu ekrandan itiraz edebilir, sonucu aynı ekranda görür.",
+  "en": "The ban screen now shows the message from the team; players who think a ban is unfair can appeal from that screen and see the result there.",
+  "v": 708
+ },
+ {
   "v": 707,
   "d": "2026-11-09",
   "tr": "Geri düğmesiyle dönülen menü artık hep güncel açılır: altın, stok ve diğer sayılar eski kalmaz (Diğer, Durumun, Çanta, fabrika ve kişi pencereleri dahil).",
