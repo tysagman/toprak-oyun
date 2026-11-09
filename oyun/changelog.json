@@ -1,5 +1,11 @@
 [
 {
+"v": 700,
+"d": "2026-11-09",
+"tr": "Kâhya ek işleri kendisi yapmıyor: ilgili çalışan yoksa onu işe alıp işi ona yaptırıyor.",
+"en": "The steward no longer does extra jobs himself: if the matching worker isn't hired, he hires them and has them do it."
+},
+{
 "v": 699,
 "d": "2026-11-09",
 "tr": "Kâhyaya verilen ek işleri artık ilgili çalışan yapıyor (Hamit, Murat, Ayşe); çalışan yoksa kâhya kendisi yapar.",
@@ -378,11 +384,5 @@
 "d": "2026-11-05",
 "tr": "Yapıların birbirine çok yakın malzemeleri tek seferde çiziliyor: köyde her karede ~30 çizim daha az, kare süresi %8–11 kısaldı, görünüş aynı. Telefonun 3D ekranı bir anlığına kaybolursa (arka plana alıp dönme, ekran kartı yoğunluğu) oyun artık sayfayı baştan yüklemiyor, ekran geri gelince kaldığın yerden sürüyor. Giriş seviyesi cihazlarda daha akıcı.",
 "en": "Very similar building materials are now drawn together: about 30 fewer draws per frame in the village, frame time 8–11% shorter, looks unchanged. If the phone's 3D screen is briefly lost (switching apps, graphics load), the game no longer reloads; it continues where you left off when the screen returns. Smoother on entry-level devices."
-},
-{
-"v": 640,
-"d": "2026-11-05",
-"tr": "Hesabına giriş yapmış oyuncular oyunu açınca artık hesap ekranını görmez, doğrudan ana menü gelir. Hesap ekranı yalnız misafir oyunculara bir kez gösterilir.",
-"en": "Players who are signed in no longer see the account screen when they open the game; the main menu comes up directly. The account screen is shown once only to guest players."
 }
 ]
