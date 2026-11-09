@@ -1,5 +1,11 @@
 [
 {
+"v": 704,
+"d": "2026-11-09",
+"tr": "Kâhya bütün işleri yapar, fabrika hammaddesini köylüden alır",
+"en": "Steward handles every job and buys factory raw materials"
+},
+{
 "v": 703,
 "d": "2026-11-09",
 "tr": "Toprağın Mirası v1.00: Google Play sürümüne hazırlık. 90/120 Hz ekranlarda daha akıcı oyun ve oyun açıkken ekranın kapanmaması (yeni uygulama sürümüyle gelir).",
@@ -379,11 +385,5 @@
 "en": "Winter is shorter now: December–February last half as long as the other seasons, and snow rarely falls in March. Floods are no longer just a message, you see them: heavy rain, then muddy water rolls in from the lake, floods the village and the farm, drifts planks around and slows you down. When it recedes, mud is left behind and the headman reports the damage (part of the crops, repairs 2% of your cash; disaster insurance pays the repairs + 120 G).",
 "v": 645,
 "pv": "v1.50"
-},
-{
-"v": 644,
-"d": "2026-11-05",
-"tr": "Oyunun iç denetim testleri kış takvimine uyarlandı; oyunda görünen bir değişiklik yok. Kışın karlı tarlada ekim/hasat yapılmaması, ağaçlarda meyve olmaması ve soğuğun sağlığı etkilemesi bilerek böyle.",
-"en": "Internal game checks were adapted to the winter calendar; nothing changes in the game. No sowing/harvest on snowy fields, no fruit on trees and cold affecting health in winter are intended."
 }
 ]
