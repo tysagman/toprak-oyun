@@ -1,5 +1,11 @@
 [
  {
+  "v": 709,
+  "d": "2026-11-09",
+  "tr": "Tarlayı bölebilirsin: Ne ekilsin? ekranında ürünü seçip parsellere dokun, eksik tohumu tek düğmeyle al. Yeni ürün: şeker pancarı (bol verir, şeker fabrikası için).",
+  "en": "Split your field: on What to plant? pick a crop, tap the plots and buy missing seeds with one button. New crop: sugar beet (high yield, for the sugar factory)."
+ },
+ {
   "d": "2026-11-09",
   "tr": "Ban ekranında yönetimden gelen mesaj görünür; banı haksız bulan oyuncu ekrandan itiraz edebilir, sonucu aynı ekranda görür.",
   "en": "The ban screen now shows the message from the team; players who think a ban is unfair can appeal from that screen and see the result there.",
