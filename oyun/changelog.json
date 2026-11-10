@@ -1,5 +1,11 @@
 [
 {
+"v": 752,
+"d": "2026-11-10",
+"tr": "Görev ekranı fabrika silosundaki şeker pancarı, buğday ve yünü de sayar; silodaki yetiyorsa eksik görünmez.",
+"en": "The quest screen now counts raw materials in the factory silo; if the silo has enough, nothing shows as missing."
+},
+{
 "v": 751,
 "d": "2026-11-10",
 "tr": "Otobüsler oyuncunun ve yayaların içinden geçmiyor, kenara iter; önünde durursan korna çalar.",
@@ -353,11 +359,5 @@
 "d": "2026-11-08",
 "tr": "Dede tarlasında traktör sıra sıra sürer",
 "en": "Tractor works grandpa's field row by row"
-},
-{
-"v": 691,
-"d": "2026-11-08",
-"tr": "Dede tarlası duvarı düzeldi",
-"en": "Grandpa's field wall fixed"
 }
 ]
