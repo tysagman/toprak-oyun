@@ -1,5 +1,11 @@
 [
 {
+"v": 753,
+"d": "2026-11-11",
+"tr": "Genel tarama düzeltmeleri: bina içinde ve sanayi bölgesinde üstteki yer adı doğru yazar, haritada sanayi bölgesi görünür, ilk odun görevinde yanlış kış notu çıkmaz, uzak köylüye teslim yan görevleri Bölüm 2'den sonra gelir, diğer dillerde eksik çeviriler tamamlandı.",
+"en": "General sweep fixes: the place name is correct inside buildings and in the industrial zone, the industrial zone shows on the map, the first wood quest no longer shows a wrong winter note, far-villager delivery side quests start in Chapter 2, and missing translations were added."
+},
+{
 "v": 752,
 "d": "2026-11-10",
 "tr": "Görev ekranı fabrika silosundaki şeker pancarı, buğday ve yünü de sayar; silodaki yetiyorsa eksik görünmez.",
@@ -353,11 +359,5 @@
 "d": "2026-11-08",
 "tr": "Kâhya görünüşü ve traktör mazotu düzeldi",
 "en": "Steward appearance and tractor fuel fixed"
-},
-{
-"v": 692,
-"d": "2026-11-08",
-"tr": "Dede tarlasında traktör sıra sıra sürer",
-"en": "Tractor works grandpa's field row by row"
 }
 ]
