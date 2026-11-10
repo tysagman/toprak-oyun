@@ -1,5 +1,11 @@
 [
  {
+  "v": 741,
+  "d": "2026-11-10",
+  "tr": "Zeytinliğin yerini artık sen seçiyorsun: satın alınca yer seçme açılır, başka yapıların (çay çardağı, dinlenme alanı…) üstüne kurulamaz. Alanda ağaç ya da taş varsa zeytinlik yine kurulur ama o yerlere fidan dikilmez: önce ağacı kes, taşı kır, sonra dik. Zeytinlik ekranında engelli yerler ⛔ ile görünür ve 📍 Yerini değiştir düğmesi var. Başka bir yapının üstünde kalmış zeytinlikler ağaçlarıyla birlikte boş bir yere taşındı.",
+  "en": "You now choose where your olive grove goes: placement opens when you buy it, and it can't be built on other buildings (tea arbor, rest area…). If there are trees or stones in the area, the grove is still built but saplings can't be planted on those spots: cut the tree or break the stone first, then plant. The olive grove screen marks blocked spots with ⛔ and has a 📍 Change location button. Olive groves that ended up on another building were moved to a free spot with their trees."
+ },
+ {
   "v": 740,
   "d": "2026-11-10",
   "tr": "Traktörle otomatik sürüşte mazot bitince, mazot koyup yeniden otomatik sürdüğünde traktör artık kaldığı yerden devam eder; Hasan Dede'nin tarlasında işlenmiş sıraların üstünden baştan geçmez. Otomatik sürüş sırasında ana düğme \"Otomatik sürüşü durdur\" olur: istediğin an durdurursun, yapılan iş kalır, yeniden otomatik sürünce kalan işten devam eder.",
