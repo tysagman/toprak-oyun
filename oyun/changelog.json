@@ -1,5 +1,11 @@
 [
 {
+"v": 751,
+"d": "2026-11-10",
+"tr": "Otobüsler oyuncunun ve yayaların içinden geçmiyor, kenara iter; önünde durursan korna çalar.",
+"en": "Buses no longer drive through you or pedestrians; they push you aside and honk."
+},
+{
 "v": 750,
 "d": "2026-11-10",
 "tr": "Otobüs duraklarının içinden geçilmiyor. Tarım dronunun yanına gidince pencere açılır, Şimdi ilaçla ile uçurulur.",
@@ -353,11 +359,5 @@
 "d": "2026-11-08",
 "tr": "Dede tarlası duvarı düzeldi",
 "en": "Grandpa's field wall fixed"
-},
-{
-"v": 690,
-"d": "2026-11-08",
-"tr": "Ar-Ge laboratuvarı: araştırmacılar ve yeni donanım",
-"en": "R&D lab: researchers and new equipment"
 }
 ]
