@@ -1,5 +1,11 @@
 [
  {
+  "v": 736,
+  "d": "2026-11-10",
+  "tr": "Başka oyuncular artık yalnız ziyarette görünür: birinin köyüne ziyarete gidince ya da biri senin köyüne gelince birbirinizi görürsünüz. Şehirde, yollarda, ormanlarda ve sanayide ziyaret dışında başka oyuncu görünmez.",
+  "en": "Other players now appear only during visits: you see each other when you visit someone's village or they visit yours. Outside a visit, no other players appear in the city, on roads, in forests or in the industrial zone."
+ },
+ {
   "v": 735,
   "d": "2026-11-10",
   "tr": "Zeytin artık tarlaya ekilmiyor, ağaç olarak yetişiyor. Çiftlik › Zeytinlik kurulur (Bölüm 4); 24 yere zeytin fidanı dikilir, fidan 5 günde ağaç olur, olgun her ağaç iki günde bir 8 zeytin verir. Zeytin kışın da toplanır. Bahçıvan Cemil olgun zeytinleri toplar, sandıktaki fidanları boş yerlere diker. Tarlanda ya da Hasan Dede'nin tarlasında zeytin ağacın varsa zeytinlik sana bedava kurulur, ağaçların olgun haliyle oraya taşınır, olgun zeytinler sandığa konur; o parseller buğdaya döner.",
