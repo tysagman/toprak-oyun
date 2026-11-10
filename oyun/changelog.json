@@ -1,5 +1,11 @@
 [
 {
+"v": 750,
+"d": "2026-11-10",
+"tr": "Otobüs duraklarının içinden geçilmiyor. Tarım dronunun yanına gidince pencere açılır, Şimdi ilaçla ile uçurulur.",
+"en": "You can no longer walk through bus stops. Walk up to the farm drone to open its panel and spray now."
+},
+{
 "v": 749,
 "d": "2026-11-10",
 "tr": "Yem fabrikası silosunda buğday bitince un fabrikasındaki fazla buğday aktarılır. Ayşe yokken de dede tarlasını biçip eker.",
@@ -353,12 +359,5 @@
 "d": "2026-11-08",
 "tr": "Ar-Ge laboratuvarı: araştırmacılar ve yeni donanım",
 "en": "R&D lab: researchers and new equipment"
-},
-{
-"v": 689,
-"pv": "v1.71",
-"d": "2026-11-08",
-"tr": "Hammadde depolama tesisi + Merkez Ar-Ge laboratuvarı",
-"en": "Raw material storage + Central R&D lab"
 }
 ]
