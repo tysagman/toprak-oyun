@@ -1,5 +1,11 @@
 [
  {
+  "v": 737,
+  "d": "2026-11-10",
+  "tr": "Her fabrikanın artık sanayi bölgesinde kendi hammadde silosu ve ürün deposu var; fabrikanın arkasında durur, iki yüzündeki göstergeden doluluk görünür, yaklaşınca \"Hammadde silosu · %45\" düğmesi çıkar. Fabrika yalnız kendi silosundan işler, ürünü kendi deposuna koyar; çiftlikteki ambar fabrikalar için kullanılmaz ve fabrika ürünleri ambarda yer kaplamaz. Silolar geniş: 40 günlük hammadde, depo 60 günlük ürün alır (un fabrikasında 12.000 buğday ve 3.600 çuval un) ve fabrika seviyesiyle büyür. Siloyu köylüden alarak (doğrudan siloya), çantadan boşaltarak ya da ambardan aktararak doldurursun; istersen her sabah ambardan otomatik aktarılır. Hammadde depolama tesisindeki ürün ve kâhyanın aldığı hammadde silolara kendiliğinden gider. Ambarındaki fabrika hammaddesi silolara taşındı, hiçbir şey kaybolmadı; tohumluk ve görevde lazım olanlar ambarda kaldı. Çiftlikteki sandık da kapasitesi arttıkça gözle görülür büyüyor.",
+  "en": "Each factory now has its own raw material silo and product warehouse in the industrial zone, standing behind the factory with fill gauges on both sides; walk up and a \"Raw material silo · 45%\" button appears. A factory works only from its own silo and puts its product in its own warehouse; your farm barn is no longer used for factories and factory products take no barn space. Silos are large: 40 days of raw material and 60 days of product (12,000 wheat and 3,600 sacks of flour at the flour mill), growing with the factory level. Fill a silo by buying from villagers (delivered straight to the silo), emptying your bag or transferring from the barn, or let it transfer automatically every morning. Goods in the raw material facility and what your steward buys go to the silos by themselves. Factory raw materials in your barn were moved to the silos with nothing lost; seed grain and what quests need stayed in the barn. Your farm chest now also grows visibly as its capacity increases."
+ },
+ {
   "v": 736,
   "d": "2026-11-10",
   "tr": "Başka oyuncular artık yalnız ziyarette görünür: birinin köyüne ziyarete gidince ya da biri senin köyüne gelince birbirinizi görürsünüz. Şehirde, yollarda, ormanlarda ve sanayide ziyaret dışında başka oyuncu görünmez.",
