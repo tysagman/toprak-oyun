@@ -1,5 +1,11 @@
 [
 {
+"v": 749,
+"d": "2026-11-10",
+"tr": "Yem fabrikası silosunda buğday bitince un fabrikasındaki fazla buğday aktarılır. Ayşe yokken de dede tarlasını biçip eker.",
+"en": "Feed factory now gets surplus wheat from the flour mill silo. Ayşe harvests and replants the grandfather's field while you are away."
+},
+{
 "v": 748,
 "d": "2026-11-10",
 "tr": "Traktörle teslimata çıkınca karakter traktöre ışınlanmıyor. Çay ocağında elinde gerçek çay bardağı var. Römork duraklardan geçmiyor, tekerleri yere batmıyor. Sanayi girişindeki yol düzeldi. At bağlama tahtasının içinden geçilmiyor. Zeytinlikte taş ve ağaç kalmıyor.",
@@ -354,12 +360,5 @@
 "d": "2026-11-08",
 "tr": "Hammadde depolama tesisi + Merkez Ar-Ge laboratuvarı",
 "en": "Raw material storage + Central R&D lab"
-},
-{
-"v": 688,
-"pv": "v1.70",
-"d": "2026-11-08",
-"tr": "Fabrikalarda arıza ve planlı bakım: makineler çalıştıkça aşınır, oyunda değilken daha hızlı. Arızada üretim durur, onarılmazsa her gün büyür; teknik destek çağırınca parça ve ekip birkaç gün içinde gelir. Planlı bakım aşınmayı sıfırlar ve arıza riskini düşürür.",
-"en": "Factory breakdowns and scheduled maintenance: machines wear as they run, faster while you are away. A breakdown stops production and gets worse each day if not repaired; call technical support and parts arrive in a few days. Scheduled maintenance resets wear and lowers the risk."
 }
 ]
