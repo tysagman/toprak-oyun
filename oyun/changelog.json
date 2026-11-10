@@ -1,5 +1,11 @@
 [
  {
+  "v": 740,
+  "d": "2026-11-10",
+  "tr": "Traktörle otomatik sürüşte mazot bitince, mazot koyup yeniden otomatik sürdüğünde traktör artık kaldığı yerden devam eder; Hasan Dede'nin tarlasında işlenmiş sıraların üstünden baştan geçmez. Otomatik sürüş sırasında ana düğme \"Otomatik sürüşü durdur\" olur: istediğin an durdurursun, yapılan iş kalır, yeniden otomatik sürünce kalan işten devam eder.",
+  "en": "When the tractor runs out of diesel during automatic driving, refuel and run it again: it now continues where it stopped instead of going back over finished rows in Grandpa Hasan's field. While driving automatically the main button becomes \"Stop automatic driving\": stop any time, the work done stays, and the next automatic run finishes the rest."
+ },
+ {
   "v": 739,
   "d": "2026-11-10",
   "tr": "Hasan Dede'nin tarlası: Ne ekilsin? ekranında seçtiğin ürün artık tarlanın ana ürünü, bütün tarhlara o ekilir (ayrı boyadığın kareler kendi ürününde kalır). Tarlaya sulama kanalları, tarh aralarına ark, batı ucuna kuyu ve pompa eklendi.",
