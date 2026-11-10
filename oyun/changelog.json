@@ -1,5 +1,11 @@
 [
  {
+  "v": 746,
+  "d": "2026-11-10",
+  "tr": "Telefon ısınınca oyun kendiliğinden yavaşlar: kare hızı ve gerekirse görüntü kalitesi biraz düşer, telefon soğuyup pil daha az gider. Soğuyunca oyun normal hızına döner. (Yeni uygulama güncellemesiyle çalışır.)",
+  "en": "When your phone gets hot, the game now slows down on its own: the frame rate and, if needed, the image quality drop a little so the phone cools off and uses less battery. Once it cools down, the game returns to normal speed. (Works with the new app update.)"
+ },
+ {
   "v": 745,
   "d": "2026-11-10",
   "tr": "Köpek kulübesini taşıyınca köpekler de hemen yeni kulübenin önüne gelir. Laboratuvar çalışanları (Laborant Nazlı ve ekibi) sanayideki laboratuvarda başlar, eski yerden uzun yol yürümezler.",
