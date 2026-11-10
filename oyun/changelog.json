@@ -1,5 +1,11 @@
 [
  {
+  "v": 739,
+  "d": "2026-11-10",
+  "tr": "Hasan Dede'nin tarlası: Ne ekilsin? ekranında seçtiğin ürün artık tarlanın ana ürünü, bütün tarhlara o ekilir (ayrı boyadığın kareler kendi ürününde kalır). Tarlaya sulama kanalları, tarh aralarına ark, batı ucuna kuyu ve pompa eklendi.",
+  "en": "Hasan Dede's field: the crop you pick in What to plant? is now the field's main crop and every bed sows it (beds you painted separately keep their crop). Irrigation canals, furrows between beds and a well with a pump were added."
+ },
+ {
   "v": 738,
   "d": "2026-11-10",
   "tr": "Hava durumu artık yağışı doğru gösterir: bulunduğun yerde hava 0 °C ve altındayken yağış kar olarak yağar; üstteki hava göstergesi, Hava durumu ekranı ve tahminler de «Karlı» yazar. Ilık havada yağmur yine yağmurdur.",
