@@ -1,5 +1,11 @@
 [
 {
+"v": 748,
+"d": "2026-11-10",
+"tr": "Traktörle teslimata çıkınca karakter traktöre ışınlanmıyor. Çay ocağında elinde gerçek çay bardağı var. Römork duraklardan geçmiyor, tekerleri yere batmıyor. Sanayi girişindeki yol düzeldi. At bağlama tahtasının içinden geçilmiyor. Zeytinlikte taş ve ağaç kalmıyor.",
+"en": "Choosing the tractor for a delivery no longer teleports you to it. You now hold a real tea glass at the tea house. The trailer no longer passes through bus stops and its wheels no longer sink. The road at the industrial zone entrance is fixed. You can't walk through the horse hitching rail. The olive grove is cleared of stones and trees."
+},
+{
 "v": 747,
 "d": "2026-11-10",
 "tr": "Rıfat'ın traktörü ve gübre römorku artık ahır kapısının önünde değil, gübre çukurunun yanında duruyor. Rıfat gübreyi oraya yükler, seferden dönünce de oraya park eder. Taşıyıcı yoksa elle topladığın gübreyi gübre çukurunun yanındaki römorka yüklersin.",
@@ -355,95 +361,5 @@
 "d": "2026-11-08",
 "tr": "Fabrikalarda arıza ve planlı bakım: makineler çalıştıkça aşınır, oyunda değilken daha hızlı. Arızada üretim durur, onarılmazsa her gün büyür; teknik destek çağırınca parça ve ekip birkaç gün içinde gelir. Planlı bakım aşınmayı sıfırlar ve arıza riskini düşürür.",
 "en": "Factory breakdowns and scheduled maintenance: machines wear as they run, faster while you are away. A breakdown stops production and gets worse each day if not repaired; call technical support and parts arrive in a few days. Scheduled maintenance resets wear and lowers the risk."
-},
-{
-"v": 687,
-"d": "2026-11-08",
-"tr": "Kürk Kaplıcası havuzunun suyu artık görünüyor; havuzun kenarından içine girilmiyor.",
-"en": "The Kürk hot spring pool now shows its water, and you can no longer walk into it through the rim."
-},
-{
-"v": 686,
-"d": "2026-11-08",
-"tr": "Gönderdiğin hata kayıtları artık oyunda nerede olduğunu da bize iletir; sorunları daha hızlı buluruz.",
-"en": "Bug reports now include where you were in the game, so we can find issues faster."
-},
-{
-"d": "2026-11-08",
-"tr": "Geri bildirimde Hata ve Diğer türlerinde, oyuncu şikayetinde ekran görüntüsü artık zorunlu: görsel olmadan hata kısa sürede bulunamadığı için görselsiz gönderilemez. Öneriler görselsiz gönderilebilir.",
-"en": "A screenshot is now required for Bug and Other feedback and for player reports: without an image we can't find the problem quickly. Suggestions can still be sent without an image.",
-"v": 685
-},
-{
-"v": 684,
-"pv": "v1.69",
-"d": "2026-11-08",
-"tr": "Yeni Fabrika raporu ekranı: bütün fabrikaların bugünkü üretimi, kapasitesi, hammaddenin kaç gün yeteceği, ambardaki ürün ve son 7 günlük üretim tek listede. Duran fabrikanın sebebi satırında yazar; oradan hammadde alıp kontrol paneline geçebilirsin.",
-"en": "New Factory report screen: today's output, capacity, how many days of raw materials are left, stock and the last 7 days for every factory in one list. A stopped factory shows why; buy raw materials or open its control panel from its row."
-},
-{
-"v": 683,
-"d": "2026-11-08",
-"tr": "Şeker pancarı ve ham yünün artık her birinin kendi günlük alım sınırı var; bunları alınca genel alım sınırın azalmaz.",
-"en": "Sugar beet and raw wool now each have their own daily purchase limit; buying them no longer uses up your general limit."
-},
-{
-"v": 682,
-"pv": "v1.68",
-"d": "2026-11-08",
-"tr": "v1.68: Kış düzeltmeleri: Karlı havada yeni başlayanlar artık Bölüm 1'de takılmıyor. Ot ve meyve kar altındayken görev oku Pazarcı Hüseyin'i gösteriyor (kuru ot ve meyve satar). Tarla kar altındayken \"Kazma al, tarlayı sür, buğday ek\" görevi kazma ve tohum alınınca biter; kar kalkınca ekersin. Kışın meyve bahçesi elma vermez, arılar kovanda kümelenir: bal yapmaz, sokmaz. Başka kişilerle aynı adı taşıyan çalışanlar yeni ad aldı: Çoban Cafer, Arıcı Hatice, Kimyager Tuncay, Mikrobiyolog Gizem.",
-"en": "v1.68: Winter fixes: New players no longer get stuck in Chapter 1 when it snows. While grass and fruit are under the snow, the quest arrow points to Hüseyin the merchant (he sells dry grass and fruit). While the field is under snow, the \"Buy a pickaxe, plough the field, sow wheat\" quest is completed once you have the pickaxe and seeds; you sow when the snow melts. In winter the orchard gives no apples and the bees cluster in the hive: no honey, no stings. Workers who shared a name with other characters got new names: Shepherd Cafer, Beekeeper Hatice, Chemist Tuncay, Microbiologist Gizem."
-},
-{
-"v": 681,
-"pv": "v1.67",
-"d": "2026-11-08",
-"tr": "Tarlana artık buğdayın yanında arpa, mısır ve ayçiçeği de ekebilirsin. Kendi tarlan ve Hasan Dede'nin tarlası için ürünü ayrı seç (Tarla › Ne ekilsin?). Her ürünün tohumu Tarım Market'te ve Fatma Teyze'de; tarlada her biri kendi görünüşüyle büyür.",
-"en": "You can now plant barley, corn and sunflower besides wheat. Pick the crop separately for your field and Grandpa Hasan's field (Field › What to plant?). Seeds are at the Farm Store and Aunt Fatma; each crop grows with its own look."
-},
-{
-"v": 680,
-"d": "2026-11-08",
-"tr": "Hazırlık: oyunu desteklemek isteyenler için tek seferlik Destekçi paketi (yalnız yeşil çatı/tabela, sıralamada 💚 rozet ve reklam izlemeden ödüllü reklam ödülü). Altın ya da eşya satılmaz. Uygulamanın sonraki sürümüyle açılacak.",
-"en": "Preparation: a one-time Supporter pack for those who want to support the game (green roof/sign, a 💚 badge in rankings and rewarded-ad rewards without watching ads). No gold or items are sold. It will open with the next app version."
-},
-{
-"v": 679,
-"pv": "v1.66",
-"d": "2026-11-08",
-"tr": "Tarladaki ekinler artık 6 aşamada büyür: filiz, yeşil sap, başak, sararma ve olgun altın başak. Hasan Dede'nin tarlası da aynı görünür; olgunlaşan tarhlar uzaktan altın sarısıyla seçilir.",
-"en": "Crops now grow visibly in 6 stages: sprout, green stalk, ear, yellowing and golden ripe. Grandpa Hasan's field looks the same; ripe beds stand out in gold."
-},
-{
-"v": 678,
-"pv": "v1.65",
-"d": "2026-11-07",
-"tr": "v1.65: Çok yüksek grafik ayarı coştu (Ayarlar › Grafik ve hız › Çok yüksek; güçlü telefonlar ve bilgisayar için). Güneş, su pırıltısı, ateş ve lambalar parlıyor, ağaçların arasından güneş huzmeleri sızıyor, renkler daha canlı, kenarlar daha yumuşak. Göl artık dalgalanıyor, gökyüzünü yansıtıyor ve güneşte pırıl pırıl. Bilgisayarda gölgeler daha net. Düşük, Orta ve Yüksek ayarlar değişmedi.",
-"en": "v1.65: The Very high graphics setting got a big upgrade (Settings › Graphics and speed › Very high; for powerful phones and computers). The sun, water sparkles, fires and lamps glow, sunbeams shine through the trees, colors are more vivid and edges are smoother. The lake now ripples, reflects the sky and sparkles in the sun. Shadows are sharper on computers. Low, Medium and High are unchanged."
-},
-{
-"v": 677,
-"d": "2026-11-08",
-"tr": "Hazırlık: ödüllü reklam üst üste yüklenemezse oyun bunun özel DNS ya da reklam engelleyiciden olabileceğini kibarca söyler. Oyunda bir ceza ya da kısıtlama yok.",
-"en": "Preparation: if rewarded ads repeatedly fail to load, the game kindly mentions that a private DNS or ad blocker may be the reason. There is no penalty or restriction."
-},
-{
-"d": "2026-11-08",
-"tr": "Gelen kutusunda mesajlar silinebiliyor: her mesajın yanındaki 🗑 ile tek tek, «Seç» ile seçip, «Hepsini sil» ile hepsini birden.",
-"en": "Inbox messages can now be deleted: one by one with the 🗑 next to each message, several at once with «Select», or all at once with «Delete all».",
-"v": 676
-},
-{
-"v": 675,
-"d": "2026-11-07",
-"tr": "Hazırlık: yeni Android sürümü için isteğe bağlı ödüllü reklam altyapısı eklendi (inşaatı hızlandırma, Sen yokken ek ürün, günlük hediye, bozulmak üzere ürün, afet kurtarma, enerji, bedava taksi; günde en çok 5). Reklam izlemek hiçbir zaman zorunlu değil, araya giren reklam ve şerit reklam yok. Şu an oyunda bir değişiklik görünmez.",
-"en": "Preparation: optional rewarded ads were added for the next Android version (speed up construction, extra goods while away, daily gift, about-to-spoil goods, disaster recovery, energy, free taxi; at most 5 a day). Watching ads is never required, and there are no interstitial or banner ads. Nothing changes in the game yet."
-},
-{
-"v": 674,
-"pv": "v1.64",
-"d": "2026-11-07",
-"tr": "v1.64: Dede tarlasında traktör artık normal tarla gibi yalnız üstünden geçtiği parselleri sürer, eker, biçer. Tarlanın içinde ağaç kalmadı. At arabasındaki yük kasaya oturur. Dedenin tarlası ve konağı senin alanın: arkadaşın ziyarete gelmeden orada görünmez. Traktördeki arkadaşın traktörün üstünde görünür.",
-"en": "v1.64: On Grandpa's field the tractor now works parcel by parcel like on your own field. No trees inside the field. Cart load sits in the bed. The field and mansion are private. Friends driving a tractor are shown on it."
 }
 ]
