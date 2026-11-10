@@ -1,5 +1,11 @@
 [
  {
+  "v": 738,
+  "d": "2026-11-10",
+  "tr": "Hava durumu artık yağışı doğru gösterir: bulunduğun yerde hava 0 °C ve altındayken yağış kar olarak yağar; üstteki hava göstergesi, Hava durumu ekranı ve tahminler de «Karlı» yazar. Ilık havada yağmur yine yağmurdur.",
+  "en": "The weather now shows precipitation correctly: when it is 0 °C or below where you are, it falls as snow, and the weather bar, the Weather screen and the forecast say «Snowy». In mild weather rain is still rain."
+ },
+ {
   "v": 737,
   "d": "2026-11-10",
   "tr": "Her fabrikanın artık sanayi bölgesinde kendi hammadde silosu ve ürün deposu var; fabrikanın arkasında durur, iki yüzündeki göstergeden doluluk görünür, yaklaşınca \"Hammadde silosu · %45\" düğmesi çıkar. Fabrika yalnız kendi silosundan işler, ürünü kendi deposuna koyar; çiftlikteki ambar fabrikalar için kullanılmaz ve fabrika ürünleri ambarda yer kaplamaz. Silolar geniş: 40 günlük hammadde, depo 60 günlük ürün alır (un fabrikasında 12.000 buğday ve 3.600 çuval un) ve fabrika seviyesiyle büyür. Siloyu köylüden alarak (doğrudan siloya), çantadan boşaltarak ya da ambardan aktararak doldurursun; istersen her sabah ambardan otomatik aktarılır. Hammadde depolama tesisindeki ürün ve kâhyanın aldığı hammadde silolara kendiliğinden gider. Ambarındaki fabrika hammaddesi silolara taşındı, hiçbir şey kaybolmadı; tohumluk ve görevde lazım olanlar ambarda kaldı. Çiftlikteki sandık da kapasitesi arttıkça gözle görülür büyüyor.",
