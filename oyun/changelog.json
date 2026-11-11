@@ -1,5 +1,11 @@
 [
 {
+"v": 754,
+"d": "2026-11-11",
+"tr": "Diğer dillerde itibar açıklaması ve koyun/keçi süt haberi artık çevrili.",
+"en": "The reputation description and the sheep/goat milk report are now translated in other languages."
+},
+{
 "v": 753,
 "d": "2026-11-11",
 "tr": "Genel tarama düzeltmeleri: bina içinde ve sanayi bölgesinde üstteki yer adı doğru yazar, haritada sanayi bölgesi görünür, ilk odun görevinde yanlış kış notu çıkmaz, uzak köylüye teslim yan görevleri Bölüm 2'den sonra gelir, diğer dillerde eksik çeviriler tamamlandı.",
@@ -353,11 +359,5 @@
 "d": "2026-11-08",
 "tr": "Toptancı sözleşmesindeki ürün ayrılır",
 "en": "Wholesale contract goods are reserved"
-},
-{
-"v": 693,
-"d": "2026-11-08",
-"tr": "Kâhya görünüşü ve traktör mazotu düzeldi",
-"en": "Steward appearance and tractor fuel fixed"
 }
 ]
