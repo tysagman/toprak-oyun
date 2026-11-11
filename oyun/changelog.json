@@ -1,5 +1,11 @@
 [
 {
+"v": 774,
+"d": "2026-11-11",
+"tr": "Aynı evde oturan iki kişi (örneğin Derya ile Ayşe) evdeyken kapıda yalnız biri görünüyor, kapıyı çalınca yalnız o çıkıyordu. Artık kapı yazısında evdeki herkes görünüyor ve kapıyı çalınca hepsi dışarı çıkıyor.",
+"en": "When two people living in the same house (for example Derya and Ayşe) were at home, the door showed only one of them and knocking brought out only that one. The door label now lists everyone at home, and knocking brings them all out."
+},
+{
 "v": 773,
 "d": "2026-11-11",
 "tr": "Otobüs artık durakların içinden geçmiyor, dönüşlerde durağa değmiyor; durakların içine yürüyerek ya da araçla da girilmiyor. Otobüs bileti reklam izleyerek bedava alınabiliyor (günde 2 kez); taksinin reklamla bedava yolculuğu günde 1'den 2'ye çıktı. Parayla ödeme yerinde duruyor.",
@@ -352,11 +358,5 @@
 "d": "2026-11-09",
 "tr": "Fabrikalar köyden uzağa taşındı: yeni Sanayi bölgesi Elazığ yolunun güneyinde, Uluova tarlalarının doğusunda (köy meydanına ~340 m). Giriş yolu, iki sokak, her fabrikaya beton arsa, kamyon parkı, sokak lambaları, ağaçlar, çit ve giriş tabelası var; taksiyle de gidilir. Fabrikalar artık yalnız bu bölgeye kurulur. Fabrikası köyün yanında olanlara uyarı çıkar: tek dokunuşla ücretsiz taşınır, stok, üretim, geliştirme, çalışan ve görevler aynen kalır. Her fabrikanın görünüşü artık farklı (un silolu değirmen, kemer çatılı yem hangarı, bacalı şeker fabrikası, şed çatılı tekstil, cam kuleli holding, konteynerli liman acentesi…).",
 "en": "Factories have moved away from the village: the new Industrial zone is south of the Elazığ road, east of the Uluova fields (~340 m from the village square). It has an access road, two streets, a concrete plot for every factory, a truck park, street lights, trees, a fence and an entrance sign; you can also go by taxi. Factories can now only be built there. If your factories are next to the village you get a notice: move them for free with one tap, and your stock, production, upgrades, workers and quests stay the same. Every factory now looks different (mill with flour silos, arched feed hangar, sugar factory with chimney, saw-tooth textile hall, glass holding tower, port agency with containers…)."
-},
-{
-"v": 713,
-"d": "2026-11-09",
-"tr": "Fabrika kapasite artırma düğmesi artık hep basılır ve eksik olanı yazar (üretim ya da altın); seviye görevi o seviyenin ~10 günlük üretimi oldu. Kâhya fabrika hammaddesini oyunda olmadığın günlerde de alıyor, kendi alım payıyla alıyor (senin günlük limitine dokunmuyor), silo yetmezse buğdayı da köylüden alıp fabrikaya ayırıyor. Yeni: Zam dönemi. Her 30 günde kâhya çalışanları Çok iyi / İyi / Orta / Az çalışan diye raporlar, sen her gruba ayrı zam verirsin (👷 Çalışanlar › Zam dönemi). Beklediği zammı alanın şevki ve verimi artar, az alanınki düşer.",
-"en": "The factory capacity button can always be tapped now and says what is missing (output or gold); each level task is now about 10 days of that level's output. The steward buys factory raw materials on days you are away too, from its own allowance (your daily limit is untouched), and buys wheat from villagers for the factory when the silo runs short. New: Raise period. Every 30 days the steward rates workers as Very good / Good / Average / Low performers and you set a raise for each group (👷 Workers › Raise period). Workers who get the raise they expected work better, those who get less lose morale."
 }
 ]
