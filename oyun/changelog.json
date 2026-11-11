@@ -1,5 +1,11 @@
 [
 {
+"v": 769,
+"d": "2026-11-11",
+"tr": "Tarlada ne biçersen ekranda artık onun simgesi çıkıyor: hasat düğmesi, \"+12\" yazıları, traktör ve biçerdöver özetleri, Hasan Dede tarlası ve harita işareti biçilen ürünü gösterir (eskiden hep buğday görünüyordu). Arpa ve pamuğun kendi simgesi oldu.",
+"en": "Whatever you harvest now shows its own icon: the harvest button, the \"+12\" pop-ups, tractor and combine summaries, Hasan Dede's field and the map marker show the crop you cut (it used to always look like wheat). Barley and cotton got their own icons."
+},
+{
 "v": 768,
 "d": "2026-11-11",
 "tr": "Bir pencereyi kapattıktan hemen sonra gelen köylü mesajında \"Cevapla\" düğmesi bazen kayboluyordu; artık kaybolmuyor.",
@@ -352,11 +358,5 @@
 "d": "2026-11-09",
 "tr": "Tarlayı bölebilirsin: Ne ekilsin? ekranında ürünü seçip parsellere dokun, eksik tohumu tek düğmeyle al. Yeni ürün: şeker pancarı (bol verir, şeker fabrikası için).",
 "en": "Split your field: on What to plant? pick a crop, tap the plots and buy missing seeds with one button. New crop: sugar beet (high yield, for the sugar factory)."
-},
-{
-"d": "2026-11-09",
-"tr": "Ban ekranında yönetimden gelen mesaj görünür; banı haksız bulan oyuncu ekrandan itiraz edebilir, sonucu aynı ekranda görür.",
-"en": "The ban screen now shows the message from the team; players who think a ban is unfair can appeal from that screen and see the result there.",
-"v": 708
 }
 ]
