@@ -1,5 +1,11 @@
 [
 {
+"v": 757,
+"d": "2026-11-11",
+"tr": "Yeni oyun artık her zaman sabah 08:00'de, gün ışığında başlıyor (eskiden gece karanlığına denk gelebiliyordu). Yeni oyun ekranı yatay telefonda kaydırmadan sığıyor, yol gösterme yazısı karakter penceresinin üstüne binmiyor. Bir kayıt açılamazsa oyun takılı kalmıyor: kaydın kopyası saklanıyor ve başka kayıt yuvası ya da yedek seçebiliyorsun.",
+"en": "A new game now always starts at 08:00 in daylight (it could start in the dark before). The new game screen fits a landscape phone without scrolling, and the route hint no longer covers the character window. If a save cannot be opened the game no longer gets stuck: a copy of the save is kept and you can pick another slot or a backup."
+},
+{
 "v": 756,
 "d": "2026-11-11",
 "tr": "Pazar Savaşı'ndaki komşu iller artık kendi yurduna göre gelir: Karadeniz'de Rize ve Samsun, Ege'de Manisa ve Denizli, İç Anadolu'da Nevşehir ve Konya, Akdeniz'de Mersin ve Adana; rastgele yurtta iller de rastgele. Yurdunu kur ekranından değiştirebilirsin.",
@@ -353,11 +359,5 @@
 "d": "2026-11-08",
 "tr": "Dalışta karakter artık ileri yüzüyor. Salıncakta arı sokmuyor, karakter oturağa tam oturuyor. Eşek arabası tabelanın içine park etmiyor. Kapalı pazarda turistler yığılmıyor, tezgâhları geziyor.",
 "en": "Diving: the character now swims forward. No bee stings while on the swing, and the character sits properly on the seat. The donkey cart no longer parks inside the signpost. Covered market: tourists no longer crowd together, they browse the stalls."
-},
-{
-"v": 696,
-"d": "2026-11-08",
-"tr": "Traktör çarpışması düzeldi",
-"en": "Tractor collisions fixed"
 }
 ]
