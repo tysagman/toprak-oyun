@@ -1,5 +1,11 @@
 [
 {
+"v": 773,
+"d": "2026-11-11",
+"tr": "Otobüs artık durakların içinden geçmiyor, dönüşlerde durağa değmiyor; durakların içine yürüyerek ya da araçla da girilmiyor. Otobüs bileti reklam izleyerek bedava alınabiliyor (günde 2 kez); taksinin reklamla bedava yolculuğu günde 1'den 2'ye çıktı. Parayla ödeme yerinde duruyor.",
+"en": "The bus no longer drives through bus stops or clips them when turning, and you can no longer walk or drive into a stop. You can now get a free bus ticket by watching an ad (twice a day); the free taxi ride with an ad went from once to twice a day. Paying with gold still works as before."
+},
+{
 "v": 772,
 "d": "2026-11-11",
 "tr": "\"Ne ekilsin?\" ekranında arpa ve pamuk simgesi bazı telefonlarda boş kutu çıkıyordu, düzeldi. Karakter ata daha doğal oturuyor: bacaklar atın iki yanında, gövde hafif öne eğik.",
@@ -352,11 +358,5 @@
 "d": "2026-11-09",
 "tr": "Fabrika kapasite artırma düğmesi artık hep basılır ve eksik olanı yazar (üretim ya da altın); seviye görevi o seviyenin ~10 günlük üretimi oldu. Kâhya fabrika hammaddesini oyunda olmadığın günlerde de alıyor, kendi alım payıyla alıyor (senin günlük limitine dokunmuyor), silo yetmezse buğdayı da köylüden alıp fabrikaya ayırıyor. Yeni: Zam dönemi. Her 30 günde kâhya çalışanları Çok iyi / İyi / Orta / Az çalışan diye raporlar, sen her gruba ayrı zam verirsin (👷 Çalışanlar › Zam dönemi). Beklediği zammı alanın şevki ve verimi artar, az alanınki düşer.",
 "en": "The factory capacity button can always be tapped now and says what is missing (output or gold); each level task is now about 10 days of that level's output. The steward buys factory raw materials on days you are away too, from its own allowance (your daily limit is untouched), and buys wheat from villagers for the factory when the silo runs short. New: Raise period. Every 30 days the steward rates workers as Very good / Good / Average / Low performers and you set a raise for each group (👷 Workers › Raise period). Workers who get the raise they expected work better, those who get less lose morale."
-},
-{
-"v": 712,
-"d": "2026-11-09",
-"tr": "Yeni: Holding kurulunca Mastar Dağı'nın yamacında, göle bakan iki katlı havuzlu dağ evi yaptırabilirsin (Holding ekranı ya da arsadaki tabela; 1.500.000 A, 2 gün inşaat, itibar +5). Evin içine girilir: alt katta salon, şömine, mutfak ve yemek masası; merdivenle üst kata çıkılır: yatak odası, gardırop, holding masası ve manzara koltukları. Isıtmalı havuzda kışın da yüzülür, şezlonglara uzanılır. Çiftlikten eve taş patika çıkar; haritada Önemli yerler'de görünür.",
-"en": "New: once your holding is built you can have a two-storey mountain house with a pool built on the slope of Mount Mastar, overlooking the lake (Holding screen or the sign on the plot; 1,500,000 G, 2 days of building, reputation +5). You can go inside: living room, fireplace, kitchen and dining table downstairs; take the stairs up to the bedroom, wardrobe, holding desk and view armchairs. Swim in the heated pool even in winter and relax on the sun loungers. A stone path leads up from the farm; it shows under Important places on the map."
 }
 ]
