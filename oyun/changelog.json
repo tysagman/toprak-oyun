@@ -1,5 +1,11 @@
 [
 {
+"v": 766,
+"d": "2026-11-11",
+"tr": "Veteriner listelerinde (tedavi, aşı, vitamin), Islık çal'da ve At ahırında artık tür düğmeleri var: Hepsi, Atlar, İnekler, Tavuklar gibi; kalabalık sürüde aradığın hayvanı hemen bulursun. Geri bildirim gönderdikten sonra o sırada açtığın başka pencere kendiliğinden kapanmıyor.",
+"en": "Vet lists (treatment, vaccine, vitamin), Whistle and the Horse stable now have animal-type buttons such as All, Horses, Cows, Chickens, so you find the animal you want quickly in a big herd. After sending feedback, another window you opened in the meantime no longer closes by itself."
+},
+{
 "v": 765,
 "d": "2026-11-11",
 "tr": "Büyük toplu güncelleme. Bölüm 3–6'daki 38 teslim görevi artık birer küçük iş: tartı, tezgâhta satış, jüri, sıralama, soru; iyi yaparsan ödülün artar. ☰ Diğer menüsü üç başlıkta toplandı ve yeni oyuncuya adım adım açılıyor; köylü mesajları açık pencereni kapatmıyor. Çanta her bölümde kendiliğinden büyüyor, 600 ve 800'lük iki yeni kademe geldi. Traktörde aşınma ve bakım, çiftlik ile Hasan Dede tarlası arasına toprak yol, Bölüm 5'te biçerdöver; traktör dururken mazot yakmıyor, Ayşe çiftlikte olmayan traktörü kullanmıyor. Fabrikalara köylüden bir haftalık hammadde tek seferde alınıyor; un fabrikasına köylüden buğday. Evdeki soba yakılıp söndürülüyor, masanın taburesine oturuluyor, sırt çantası sırtında görünüyor. Attan ya da eşekten nadiren düşebilirsin; otobüs çarparsa savrulursun. Günde en çok 10 reklam, 10. reklamda +3 sadakat puanı; her hafta Sadakat şampiyonu seçiliyor. Sanayi girişi yolu ve taş ocağı durağı düzeltildi; zayıf telefonlarda ara ara gelen kısa takılma azaldı.",
@@ -352,11 +358,5 @@
 "d": "2026-11-09",
 "tr": "Kâhya üretimi yönetir (ek vardiya, kapasite artırma)",
 "en": "Steward manages production (extra shifts, capacity upgrades)"
-},
-{
-"v": 705,
-"d": "2026-11-09",
-"tr": "Her menüde ← Geri düğmesi: alt menüden bir adım önceki menüye döner. Android geri tuşu da artık menüden komple çıkmıyor, bir adım geri gidiyor. ✕ menüyü tamamen kapatır.",
-"en": "Every menu now has a ← Back button that returns to the previous menu. The Android back button also goes back one step instead of closing the whole menu. ✕ closes the menu completely."
 }
 ]
