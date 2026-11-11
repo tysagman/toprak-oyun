@@ -1,5 +1,11 @@
 [
 {
+"v": 772,
+"d": "2026-11-11",
+"tr": "\"Ne ekilsin?\" ekranında arpa ve pamuk simgesi bazı telefonlarda boş kutu çıkıyordu, düzeldi. Karakter ata daha doğal oturuyor: bacaklar atın iki yanında, gövde hafif öne eğik.",
+"en": "The barley and cotton icons on the \"What to plant?\" screen showed as empty boxes on some phones; fixed. The character now sits on the horse more naturally: legs on either side, body leaning slightly forward."
+},
+{
 "v": 771,
 "d": "2026-11-11",
 "tr": "Traktör, araba ya da başka bir araçtayken artık yürüme (ayak) sesi çıkmıyor.",
@@ -352,11 +358,5 @@
 "d": "2026-11-09",
 "tr": "Yeni: Holding kurulunca Mastar Dağı'nın yamacında, göle bakan iki katlı havuzlu dağ evi yaptırabilirsin (Holding ekranı ya da arsadaki tabela; 1.500.000 A, 2 gün inşaat, itibar +5). Evin içine girilir: alt katta salon, şömine, mutfak ve yemek masası; merdivenle üst kata çıkılır: yatak odası, gardırop, holding masası ve manzara koltukları. Isıtmalı havuzda kışın da yüzülür, şezlonglara uzanılır. Çiftlikten eve taş patika çıkar; haritada Önemli yerler'de görünür.",
 "en": "New: once your holding is built you can have a two-storey mountain house with a pool built on the slope of Mount Mastar, overlooking the lake (Holding screen or the sign on the plot; 1,500,000 G, 2 days of building, reputation +5). You can go inside: living room, fireplace, kitchen and dining table downstairs; take the stairs up to the bedroom, wardrobe, holding desk and view armchairs. Swim in the heated pool even in winter and relax on the sun loungers. A stone path leads up from the farm; it shows under Important places on the map."
-},
-{
-"v": 711,
-"d": "2026-11-09",
-"tr": "Yük teslimi taşıt seçimi, yalnız römork, traktör bırakıldığı yerde + haritada, reklamla mazot",
-"en": "Vehicle choice for big deliveries, trailer-only tractor, tractor stays where parked and shows on map, diesel by ad"
 }
 ]
