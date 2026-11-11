@@ -1,5 +1,11 @@
 [
 {
+"v": 767,
+"d": "2026-11-11",
+"tr": "Ayşe artık traktörün deposunu boşaltmıyor: mazot tankın varsa mazotu oradan kullanır, tank yoksa depoda sana 10 L bırakır. Traktör menüsünde bugün ne kadar mazot kullanıldığı yazıyor. Hasan Dede tarlasında eksik ekilmiş bir tarh traktörle biçilince artık boşken \"hasada hazır\" görünmüyor; eski kayıtta takılı kalan tarh da kendiliğinden düzelir.",
+"en": "Ayşe no longer empties the tractor's tank: if you have a diesel tank she uses diesel from there, and without one she leaves you 10 L. The tractor menu shows how much diesel was used today. In Hasan Dede's field, a partly sown bed harvested by tractor no longer shows as \"ready to harvest\" while empty; a bed stuck that way in an old save fixes itself."
+},
+{
 "v": 766,
 "d": "2026-11-11",
 "tr": "Veteriner listelerinde (tedavi, aşı, vitamin), Islık çal'da ve At ahırında artık tür düğmeleri var: Hepsi, Atlar, İnekler, Tavuklar gibi; kalabalık sürüde aradığın hayvanı hemen bulursun. Geri bildirim gönderdikten sonra o sırada açtığın başka pencere kendiliğinden kapanmıyor.",
@@ -352,11 +358,5 @@
 "d": "2026-11-09",
 "tr": "Geri düğmesiyle dönülen menü artık hep güncel açılır: altın, stok ve diğer sayılar eski kalmaz (Diğer, Durumun, Çanta, fabrika ve kişi pencereleri dahil).",
 "en": "Menus you return to with Back now always open up to date: gold, stock and other numbers are never stale (including More, Status, Bag, factory and character windows)."
-},
-{
-"v": 706,
-"d": "2026-11-09",
-"tr": "Kâhya üretimi yönetir (ek vardiya, kapasite artırma)",
-"en": "Steward manages production (extra shifts, capacity upgrades)"
 }
 ]
