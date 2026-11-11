@@ -1,5 +1,11 @@
 [
 {
+"v": 768,
+"d": "2026-11-11",
+"tr": "Bir pencereyi kapattıktan hemen sonra gelen köylü mesajında \"Cevapla\" düğmesi bazen kayboluyordu; artık kaybolmuyor.",
+"en": "The \"Reply\" button sometimes disappeared on a villager message that arrived right after you closed a window; it now stays."
+},
+{
 "v": 767,
 "d": "2026-11-11",
 "tr": "Ayşe artık traktörün deposunu boşaltmıyor: mazot tankın varsa mazotu oradan kullanır, tank yoksa depoda sana 10 L bırakır. Traktör menüsünde bugün ne kadar mazot kullanıldığı yazıyor. Hasan Dede tarlasında eksik ekilmiş bir tarh traktörle biçilince artık boşken \"hasada hazır\" görünmüyor; eski kayıtta takılı kalan tarh da kendiliğinden düzelir.",
@@ -352,11 +358,5 @@
 "tr": "Ban ekranında yönetimden gelen mesaj görünür; banı haksız bulan oyuncu ekrandan itiraz edebilir, sonucu aynı ekranda görür.",
 "en": "The ban screen now shows the message from the team; players who think a ban is unfair can appeal from that screen and see the result there.",
 "v": 708
-},
-{
-"v": 707,
-"d": "2026-11-09",
-"tr": "Geri düğmesiyle dönülen menü artık hep güncel açılır: altın, stok ve diğer sayılar eski kalmaz (Diğer, Durumun, Çanta, fabrika ve kişi pencereleri dahil).",
-"en": "Menus you return to with Back now always open up to date: gold, stock and other numbers are never stale (including More, Status, Bag, factory and character windows)."
 }
 ]
