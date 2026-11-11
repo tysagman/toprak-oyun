@@ -1,5 +1,11 @@
 [
 {
+"v": 758,
+"d": "2026-11-11",
+"tr": "Altın biriktirme görevleri artık bölümden bölüme büyüyor: Bölüm 4 450.000, Bölüm 5 600.000, Bölüm 6 800.000 altın. Şu an bu görevlerden birindeysen eski hedefinle bitirirsin.",
+"en": "Gold-saving quests now grow chapter by chapter: Chapter 4 450,000, Chapter 5 600,000, Chapter 6 800,000 gold. If you are on one of these quests right now, you finish it with your old target."
+},
+{
 "v": 757,
 "d": "2026-11-11",
 "tr": "Yeni oyun artık her zaman sabah 08:00'de, gün ışığında başlıyor (eskiden gece karanlığına denk gelebiliyordu). Yeni oyun ekranı yatay telefonda kaydırmadan sığıyor, yol gösterme yazısı karakter penceresinin üstüne binmiyor. Bir kayıt açılamazsa oyun takılı kalmıyor: kaydın kopyası saklanıyor ve başka kayıt yuvası ya da yedek seçebiliyorsun.",
@@ -353,11 +359,5 @@
 "d": "2026-11-09",
 "tr": "Kâhya fabrika bakımlarını yaptırır, arızada teknik destek çağırır. Dinlenme alanında çay içilir, banka oturulur. Çay ocağında ayaklar tahtanın içine girmiyor.",
 "en": "The steward now schedules factory maintenance and calls technical support on breakdowns. You can drink tea and sit on the benches at the workers' rest area. Feet no longer sink into the tea house floor."
-},
-{
-"v": 697,
-"d": "2026-11-08",
-"tr": "Dalışta karakter artık ileri yüzüyor. Salıncakta arı sokmuyor, karakter oturağa tam oturuyor. Eşek arabası tabelanın içine park etmiyor. Kapalı pazarda turistler yığılmıyor, tezgâhları geziyor.",
-"en": "Diving: the character now swims forward. No bee stings while on the swing, and the character sits properly on the seat. The donkey cart no longer parks inside the signpost. Covered market: tourists no longer crowd together, they browse the stalls."
 }
 ]
