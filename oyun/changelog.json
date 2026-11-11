@@ -1,5 +1,11 @@
 [
  {
+  "d": "2026-11-11",
+  "tr": "Fabrika hammadde silosundaki Reklam izle düğmesi geri geldi (ör. 3 ham yün, 12 ot; aynı gün izledikçe artar, günde 3). Toptancı sözleşmesindeki reklam da duruyor; ikisinin hakları ayrı, hepsi günde 5 reklam sınırının içinde.",
+  "en": "The Watch ad button in the factory raw material silo is back (e.g. 3 raw wool, 12 hay; grows with each ad the same day, 3 a day). The ad on the wholesale contract stays too; each has its own count, all within the 5-ads-a-day limit.",
+  "v": 764
+ },
+ {
   "v": 763,
   "d": "2026-11-11",
   "tr": "Yeni: Fabrika nöbeti. Oyundayken birkaç dakikada bir fabrikalarından birinde hat olayı çıkıyor (bant sıkıştı, voltaj dalgalanıyor, un kepekli çıkıyor…). Üç farklı iş var: arızanın sebebini bul, ibreyi yeşil alanda durdur ya da adımları doğru sırayla seç; aynı olay arka arkaya gelmez. Zamanında müdahale edersen silodaki hammaddeden ek parti üretilir, fabrikanın içindeysen 2 kat. Kaçırırsan makine biraz aşınır. Doğru müdahaleler hat ustalığını artırır (5 kademe, her biri kalıcı +%1 kapasite). Kontrol panelinde sabah üretimine kalan süre görünür. İstersen ödüllü reklamla ek partiyi bir kez daha alabilirsin (günde 2). Bugün listesine yeni iş: Fabrikada bir hat olayını çöz.",
