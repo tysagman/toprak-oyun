@@ -1,5 +1,11 @@
 [
 {
+"v": 784,
+"d": "2026-11-12",
+"tr": "Taksi ve otobüs kartı artık görev kartının, Bugün düğmesinin ve hareket çubuğunun üstüne binmiyor; kısa ekranlarda üstte ortada durur.",
+"en": "The taxi and bus cards no longer cover the quest card, the Today button or the joystick; on short screens they sit at the top centre."
+},
+{
 "v": 783,
 "d": "2026-11-12",
 "tr": "İlk bölümler için yeni ödüllü reklamlar: tarladaki ekinler 6 oyun saati erken olgunlaşır (günde 2), kümesin yarım günlük yumurtası ambara gelir (günde 1), yorgunken enerji reklamı günde 2. Hiçbiri kendiliğinden açılmaz; tarla ve kümes yanındaki ikinci düğmede çıkar.",
