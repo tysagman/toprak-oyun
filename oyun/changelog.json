@@ -1,5 +1,11 @@
 [
  {
+  "v": 795,
+  "d": "2026-11-12",
+  "tr": "Yeni ❓ Yardım ekranı: oyunun amacı ve hikâyenin altı bölümü, nasıl oynanır (düğmeler, kamera, durum çubukları), ipuçları ve sık sorulan sorular tek yerde. Ana menüden, ☰ Diğer menüsünden ve Ayarlar'dan açılır. Yükleme ekranına 13 yeni ipucu eklendi.",
+  "en": "New ❓ Help screen: the goal of the game and its six chapters, how to play (buttons, camera, status bars), tips and FAQ all in one place. Open it from the main menu, the ☰ More menu or Settings. 13 new tips were added to the loading screen."
+ },
+ {
   "v": 794,
   "d": "2026-11-12",
   "tr": "Çardakta çay içerken bardak artık dik duruyor, ters tutulmuyor; yudum alırken ağza hafifçe eğiliyor. Çay tabağı bardağa yapışık değil, karakterin öbür elinde düz duruyor.",
