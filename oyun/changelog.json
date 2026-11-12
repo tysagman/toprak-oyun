@@ -1,5 +1,11 @@
 [
  {
+  "v": 806,
+  "d": "2026-11-12",
+  "tr": "🚜 Park hâlindeki traktörün römorkunun içine artık girilemiyor (traktörle römork arasındaki boşlukta karakter römorka giriyordu).",
+  "en": "🚜 You can no longer walk into the trailer of a parked tractor (the character could slip into it from the gap behind the tractor)."
+ },
+ {
   "v": 805,
   "d": "2026-11-12",
   "tr": "📊 Oyunun ilk dakikalarını iyileştirebilmek için hangi adımda zorlandığını anonim olarak ölçen bir sayaç eklendi (kişisel bilgi toplanmaz).",
