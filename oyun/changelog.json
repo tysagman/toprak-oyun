@@ -1,5 +1,11 @@
 [
  {
+  "v": 788,
+  "d": "2026-11-12",
+  "tr": "Fabrikalarda planlı bakım artık daha seyrek gerekiyor: makineler yarı hızda aşınıyor, bakımsızlıkta arıza riski 10 yerine 20 gün sonra artmaya başlıyor. Seyrek yapıldığı için bir bakım biraz daha pahalı (150 A + aşınma × 4), toplamda bakıma daha az altın gider.",
+  "en": "Factories need scheduled maintenance less often: machines wear at half speed, and breakdown risk starts rising after 20 days without maintenance instead of 10. Since it is less frequent, one maintenance costs a bit more (150 G + wear × 4), but you spend less gold on maintenance overall."
+ },
+ {
   "v": 787,
   "d": "2026-11-12",
   "tr": "Bölüm 4'te Finans müdürü: Çalışanlar ekranından ilan ver, bir hafta içinde gelen 5 CV'den birini seç, maaşını sen belirle. Finans müdürü bütün gelir ve giderlerini kalem kalem deftere yazar (bugün, dün, son 7 gün, net kâr), ödeme günü cebin yetmezse maaşı, araba sigortasını, bursu ve zekâtı banka hesabından çekip öder, her sabah kısa bir hesap raporu verir: en çok kazandıran ve harcatan kalemler, kasanın kaç gün yeteceği, zarar eden işler. İstersen akşamları cepteki fazlayı bankaya da yatırır.",
