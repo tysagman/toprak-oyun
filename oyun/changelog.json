@@ -1,5 +1,11 @@
 [
 {
+"v": 779,
+"d": "2026-11-12",
+"tr": "İtibar kazanmak artık çok daha zor: her işten gelen itibar azaldı ve bir oyun gününde ilk 1,5 itibardan sonrası dörtte bir geliyor (önceden 3'ten sonra yarım). Kazandığın itibar ve seviye aynen duruyor. İtibar penceresinde günde 1 kez reklam izleyerek +0,5 itibar kazanabilirsin.",
+"en": "Earning reputation is now much harder: each task gives less reputation, and in one game day anything beyond the first 1.5 reputation comes at a quarter (was half after 3). The reputation and level you already earned stay the same. Once a day you can watch an ad in the Reputation window for +0.5 reputation."
+},
+{
 "v": 778,
 "d": "2026-11-12",
 "tr": "Günde en çok 15 ödüllü reklam izlenebiliyor (önceden 10). +3 sadakat puanı artık günün 15. reklamında veriliyor; her yerin kendi günlük hakkı aynı.",
