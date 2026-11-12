@@ -1,5 +1,11 @@
 [
 {
+"v": 780,
+"d": "2026-11-12",
+"tr": "Köydeki ibadethane artık mescit değil cami: adı Huzur Camii. Yurdunu düzenle › İbadethane seçeneği de yalnızca \"Cami\" yazıyor. Kayıtlar ve namaz/abdest aynen çalışıyor.",
+"en": "The village place of worship is now a mosque, not a small masjid: it's called Huzur Mosque. In Edit your homeland › Place of worship the option now just says \"Mosque\". Saves, prayer and ablution work as before."
+},
+{
 "v": 779,
 "d": "2026-11-12",
 "tr": "İtibar kazanmak artık çok daha zor: her işten gelen itibar azaldı ve bir oyun gününde ilk 1,5 itibardan sonrası dörtte bir geliyor (önceden 3'ten sonra yarım). Kazandığın itibar ve seviye aynen duruyor. İtibar penceresinde günde 1 kez reklam izleyerek +0,5 itibar kazanabilirsin.",
