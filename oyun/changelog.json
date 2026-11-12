@@ -1,10 +1,16 @@
 [
-{
-"v": 790,
-"d": "2026-11-12",
-"tr": "Traktör artık sen oyunda yokken arızalanmıyor: Ayşe marşta arıza riski taşımıyor, aşınma sen yokken %99'da duruyor. Teknik servis 450 A yerine 250 A. Altının yetmezse arızalı traktörde reklam izleyerek servisi bedava çağırabilirsin (günde 1).",
-"en": "The tractor no longer breaks down while you're away: Ayşe no longer risks a breakdown when starting it, and wear stops at 99% while you're offline. Technical service now costs 250 A instead of 450 A. If you're short on gold, you can watch an ad on a broken tractor to get the service for free (once a day)."
-},
+ {
+  "v": 791,
+  "d": "2026-11-12",
+  "tr": "Ar-Ge laboratuvarının tabelası artık okunuyor: cam cephenin çıtaları yazının üstünden geçmiyor, cephe tabelanın altında bitiyor.",
+  "en": "The R&D lab's sign is readable again: the glass facade's frames no longer cross the text, the facade now ends below the sign."
+ },
+ {
+  "v": 790,
+  "d": "2026-11-12",
+  "tr": "Traktör artık sen oyunda yokken arızalanmıyor: Ayşe marşta arıza riski taşımıyor, aşınma sen yokken %99'da duruyor. Teknik servis 450 A yerine 250 A. Altının yetmezse arızalı traktörde reklam izleyerek servisi bedava çağırabilirsin (günde 1).",
+  "en": "The tractor no longer breaks down while you're away: Ayşe no longer risks a breakdown when starting it, and wear stops at 99% while you're offline. Technical service now costs 250 A instead of 450 A. If you're short on gold, you can watch an ad on a broken tractor to get the service for free (once a day)."
+ },
  {
   "v": 789,
   "d": "2026-11-12",
