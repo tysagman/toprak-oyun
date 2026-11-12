@@ -1,5 +1,11 @@
 [
  {
+  "v": 792,
+  "d": "2026-11-12",
+  "tr": "Traktörün planlı bakım tuşu düzeldi (Başkan'ın bildirimi): aşınma %1'in altındayken tuş açık görünüp çalışmıyordu. Artık aşınma %1'i geçince bakım yapılabiliyor; daha az aşınmışsa tuşun neden kapalı olduğu altında yazıyor.",
+  "en": "The tractor's scheduled service button is fixed: below 1% wear it looked active but did nothing. Service now works once wear passes 1%, and below that the menu explains why the button is off."
+ },
+ {
   "v": 791,
   "d": "2026-11-12",
   "tr": "Ar-Ge laboratuvarının tabelası artık okunuyor: cam cephenin çıtaları yazının üstünden geçmiyor, cephe tabelanın altında bitiyor.",
