@@ -1,5 +1,11 @@
 [
  {
+  "v": 800,
+  "d": "2026-11-12",
+  "tr": "❓ Yardım ekranındaki 👪 Ebeveynler için sekmesi şimdilik kaldırıldı; uzman görüşüyle hazırlanıp yeniden eklenecek. Yardım ekranının diğer sekmeleri aynen duruyor.",
+  "en": "The 👪 For parents tab in the ❓ Help screen has been removed for now; it will return once prepared with expert input. The other Help tabs are unchanged."
+ },
+ {
   "v": 799,
   "d": "2026-11-12",
   "tr": "📺 Bölüm 1 ve 2'de daha çok isteğe bağlı ödüllü reklam fırsatı: ekin hızlandırma günde 4, inşaat hızlandırma günde 3, enerji günde 3, kümes yumurtası günde 2 kez. Yeni: bir görevi bitirdikten sonraki 5 dakika içinde reklam izlersen görevin altın ödülünü bir kez daha alırsın (günde 3). Sol üstteki 📺 düğmesi o an işine yarayacak reklamı gösterir. Ana menüden Çıkış'a basınca günde bir kez 'Çıkmadan önce' ekranı ödül seçeneklerini gösterir; istemezsen 'Kaydet ve çık' ile hemen çıkarsın. Hiçbir reklam kendiliğinden açılmaz, günde en çok 15 reklam sınırı aynı. Ayrıntılar: Ayarlar › Reklamlar.",
