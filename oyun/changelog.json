@@ -1,5 +1,11 @@
 [
  {
+  "v": 805,
+  "d": "2026-11-12",
+  "tr": "📊 Oyunun ilk dakikalarını iyileştirebilmek için hangi adımda zorlandığını anonim olarak ölçen bir sayaç eklendi (kişisel bilgi toplanmaz).",
+  "en": "📊 Added an anonymous counter that shows which step of the first minutes is hardest, so we can improve it (no personal data is collected)."
+ },
+ {
   "v": 804,
   "d": "2026-11-12",
   "tr": "📺 Bölüm 1 ve 2'deki reklam teklifleri eski hâline döndü: ekin, inşaat, enerji ve yumurta reklamlarının günlük hakları önceki gibi; görev ödülü reklamı, ana menüden çıkarken açılan 'Çıkmadan önce' ekranı ve sol üstteki 📺 düğmesinin ek önerileri kaldırıldı. Reklamlar yine isteğe bağlı, hiçbiri kendiliğinden açılmaz.",
