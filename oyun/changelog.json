@@ -1,5 +1,11 @@
 [
  {
+  "v": 797,
+  "d": "2026-11-12",
+  "tr": "Taksinin gittiği yerlere toprak yol yapıldı: göl kıyısı, doğu ve batı kıyısı, Batık Şehir, Meşe ormanı, Tavşan vadisi, Mastar Dağı eteği ve uzak köylerdeki duraklara giden yollar artık haritada çizili. Taksi bu yolları izliyor, yapıların, süslerin, çitlerin ve ağaçların içinden geçmiyor. Yol açılamayan yerde (çok kalabalık çiftlik çevresi) taksi seni ana yolda bırakır. Yolun üstüne yeni yapı kurarsan yol kendiliğinden başka yerden yeniden açılır.",
+  "en": "Taxi destinations now have dirt roads: the lake shore, east and west shores, the Sunken City, the oak forest, Rabbit Valley, the foot of Mount Mastar and outlying stops are connected by drawn roads. The taxi follows these roads and no longer drives through buildings, decorations, fences or trees. Where no road can be opened (a very crowded farm), the taxi drops you on the main road. If you build on a road, it is rerouted automatically."
+ },
+ {
   "v": 796,
   "d": "2026-11-12",
   "tr": "❓ Yardım ekranına 👪 Ebeveynler için sekmesi eklendi: oyunun ne olduğu, oyun süresi, diğer oyuncularla iletişim, baskın özelliği, reklam ve satın alma hakkında bilgi ve aileler için öneriler.",
