@@ -1,5 +1,11 @@
 [
  {
+  "v": 789,
+  "d": "2026-11-12",
+  "tr": "Traktörcü Rıfat artık yolda kendi şeridinden gidiyor; yolun ortasından gitmiyor. Arkadan ya da karşıdan otobüs veya araba gelince sağ kenara çekilip yol veriyor, önünde duran araç varsa bekleyip karşı şerit boşken soldan geçiyor. Araçlar artık Rıfat'ın traktörünün ve römorkunun içinden geçmiyor. Ambulans da sağ şeritten geliyor.",
+  "en": "Rıfat the tractor driver now stays in his own lane instead of driving down the middle of the road. When a bus or car comes from behind or ahead he pulls over to the right, and if a vehicle is stopped in front of him he waits and overtakes on the left when the other lane is clear. Vehicles no longer drive through Rıfat's tractor and trailer. The ambulance also comes in the right lane."
+ },
+ {
   "v": 788,
   "d": "2026-11-12",
   "tr": "Fabrikalarda planlı bakım artık daha seyrek gerekiyor: makineler yarı hızda aşınıyor, bakımsızlıkta arıza riski 10 yerine 20 gün sonra artmaya başlıyor. Seyrek yapıldığı için bir bakım biraz daha pahalı (150 A + aşınma × 4), toplamda bakıma daha az altın gider.",
