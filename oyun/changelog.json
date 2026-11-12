@@ -1,398 +1,404 @@
 [
-{
-"v": 780,
-"d": "2026-11-12",
-"tr": "Köydeki ibadethane artık mescit değil cami: adı Huzur Camii. Yurdunu düzenle › İbadethane seçeneği de yalnızca \"Cami\" yazıyor. Kayıtlar ve namaz/abdest aynen çalışıyor.",
-"en": "The village place of worship is now a mosque, not a small masjid: it's called Huzur Mosque. In Edit your homeland › Place of worship the option now just says \"Mosque\". Saves, prayer and ablution work as before."
-},
-{
-"v": 779,
-"d": "2026-11-12",
-"tr": "İtibar kazanmak artık çok daha zor: her işten gelen itibar azaldı ve bir oyun gününde ilk 1,5 itibardan sonrası dörtte bir geliyor (önceden 3'ten sonra yarım). Kazandığın itibar ve seviye aynen duruyor. İtibar penceresinde günde 1 kez reklam izleyerek +0,5 itibar kazanabilirsin.",
-"en": "Earning reputation is now much harder: each task gives less reputation, and in one game day anything beyond the first 1.5 reputation comes at a quarter (was half after 3). The reputation and level you already earned stay the same. Once a day you can watch an ad in the Reputation window for +0.5 reputation."
-},
-{
-"v": 778,
-"d": "2026-11-12",
-"tr": "Günde en çok 15 ödüllü reklam izlenebiliyor (önceden 10). +3 sadakat puanı artık günün 15. reklamında veriliyor; her yerin kendi günlük hakkı aynı.",
-"en": "You can now watch up to 15 rewarded ads a day (was 10). The +3 loyalty points now come with the day's 15th ad; each place keeps its own daily limit."
-},
-{
-"v": 777,
-"d": "2026-11-12",
-"tr": "Traktör artık çok daha geç arızalanıyor: aşınma 3 kat yavaş. Rastgele marş arızası ancak aşınma %75'i geçince görülüyor. Ayşe %90 aşınmış traktörü dede tarlasına götürmüyor, planlı bakım için haber veriyor; böylece sen yokken traktör bozulmuyor.",
-"en": "The tractor now breaks down much later: wear is 3 times slower. Random breakdowns on starting only happen above 75% wear. Ayşe won't take a 90% worn tractor to grandpa's field and tells you to get a scheduled service, so the tractor no longer breaks while you're away."
-},
-{
-"v": 776,
-"d": "2026-11-12",
-"tr": "Reklam izleyerek hammadde artık bütün fabrikalarda alınabiliyor: un ve yem fabrikasının buğdayı da dahil. Mandırada süt, biyogaz tesisinde ham gübre için de reklam var. Ödül büyüdü: bir reklam fabrikanın yaklaşık 12 saatlik hammaddesini veriyor, aynı gün izledikçe 16 ve 20 saate çıkıyor (günde 3 reklam = 2 günlük üretim).",
-"en": "You can now get raw materials by watching an ad at every factory, including wheat for the flour and feed mills. The dairy (milk) and the biogas plant (raw manure) have it too. The reward is bigger: one ad gives about 12 hours of the factory's raw materials, rising to 16 and 20 hours as you watch more the same day (3 ads a day = 2 days of production)."
-},
-{
-"v": 775,
-"d": "2026-11-12",
-"tr": "Fabrika nöbetindeki arıza soruları sadeleşti: her olayda ne olduğu ve ne yapman gerektiği kısa bir açıklamayla yazıyor, bilinmeyen kelimeler (tavlama, kepek, pelet gibi) açıklandı. Doğru cevaplar ve zorluk aynı. Meslek okulundaki \"Mühendislik temeli\" kursunun adı \"Makine teknikerliği\" oldu; mühendislik bursu artık üniversite bursu olarak anlatılıyor.",
-"en": "Factory shift fault questions are now simpler: every incident says what happened and what you should do, and unfamiliar words (tempering, bran, pellet and so on) are explained. Correct answers and difficulty are unchanged. The vocational school's \"Engineering basics\" course is now \"Machine technician\"; the engineering scholarship is now described as a university scholarship."
-},
-{
-"v": 774,
-"d": "2026-11-11",
-"tr": "Aynı evde oturan iki kişi (örneğin Derya ile Ayşe) evdeyken kapıda yalnız biri görünüyor, kapıyı çalınca yalnız o çıkıyordu. Artık kapı yazısında evdeki herkes görünüyor ve kapıyı çalınca hepsi dışarı çıkıyor.",
-"en": "When two people living in the same house (for example Derya and Ayşe) were at home, the door showed only one of them and knocking brought out only that one. The door label now lists everyone at home, and knocking brings them all out."
-},
-{
-"v": 773,
-"d": "2026-11-11",
-"tr": "Otobüs artık durakların içinden geçmiyor, dönüşlerde durağa değmiyor; durakların içine yürüyerek ya da araçla da girilmiyor. Otobüs bileti reklam izleyerek bedava alınabiliyor (günde 2 kez); taksinin reklamla bedava yolculuğu günde 1'den 2'ye çıktı. Parayla ödeme yerinde duruyor.",
-"en": "The bus no longer drives through bus stops or clips them when turning, and you can no longer walk or drive into a stop. You can now get a free bus ticket by watching an ad (twice a day); the free taxi ride with an ad went from once to twice a day. Paying with gold still works as before."
-},
-{
-"v": 772,
-"d": "2026-11-11",
-"tr": "\"Ne ekilsin?\" ekranında arpa ve pamuk simgesi bazı telefonlarda boş kutu çıkıyordu, düzeldi. Karakter ata daha doğal oturuyor: bacaklar atın iki yanında, gövde hafif öne eğik.",
-"en": "The barley and cotton icons on the \"What to plant?\" screen showed as empty boxes on some phones; fixed. The character now sits on the horse more naturally: legs on either side, body leaning slightly forward."
-},
-{
-"v": 771,
-"d": "2026-11-11",
-"tr": "Traktör, araba ya da başka bir araçtayken artık yürüme (ayak) sesi çıkmıyor.",
-"en": "Footstep sounds no longer play while you are on the tractor, in a car or on another vehicle."
-},
-{
-"v": 770,
-"d": "2026-11-11",
-"tr": "Fabrika hammaddesi reklamı artık fabrikanın üretimine göre ürün veriyor: günün 1. reklamında yaklaşık 2 saatlik, 2.'de 2,5 saatlik, 3.'de 3 saatlik hammadde (eskiden pahalı hammaddede yalnız +1 geliyordu). Toptancı sözleşmesi reklamı da aynı düzene geçti. Günde 3 kez, silodaki boş yer kadar.",
-"en": "The factory raw-material ad now gives product based on the factory's output: about 2 hours' worth on the day's 1st ad, 2.5 hours on the 2nd and 3 hours on the 3rd (it used to give just +1 for costly materials). The wholesaler contract ad works the same way. Up to 3 times a day, limited by free silo space."
-},
-{
-"v": 769,
-"d": "2026-11-11",
-"tr": "Tarlada ne biçersen ekranda artık onun simgesi çıkıyor: hasat düğmesi, \"+12\" yazıları, traktör ve biçerdöver özetleri, Hasan Dede tarlası ve harita işareti biçilen ürünü gösterir (eskiden hep buğday görünüyordu). Arpa ve pamuğun kendi simgesi oldu.",
-"en": "Whatever you harvest now shows its own icon: the harvest button, the \"+12\" pop-ups, tractor and combine summaries, Hasan Dede's field and the map marker show the crop you cut (it used to always look like wheat). Barley and cotton got their own icons."
-},
-{
-"v": 768,
-"d": "2026-11-11",
-"tr": "Bir pencereyi kapattıktan hemen sonra gelen köylü mesajında \"Cevapla\" düğmesi bazen kayboluyordu; artık kaybolmuyor.",
-"en": "The \"Reply\" button sometimes disappeared on a villager message that arrived right after you closed a window; it now stays."
-},
-{
-"v": 767,
-"d": "2026-11-11",
-"tr": "Ayşe artık traktörün deposunu boşaltmıyor: mazot tankın varsa mazotu oradan kullanır, tank yoksa depoda sana 10 L bırakır. Traktör menüsünde bugün ne kadar mazot kullanıldığı yazıyor. Hasan Dede tarlasında eksik ekilmiş bir tarh traktörle biçilince artık boşken \"hasada hazır\" görünmüyor; eski kayıtta takılı kalan tarh da kendiliğinden düzelir.",
-"en": "Ayşe no longer empties the tractor's tank: if you have a diesel tank she uses diesel from there, and without one she leaves you 10 L. The tractor menu shows how much diesel was used today. In Hasan Dede's field, a partly sown bed harvested by tractor no longer shows as \"ready to harvest\" while empty; a bed stuck that way in an old save fixes itself."
-},
-{
-"v": 766,
-"d": "2026-11-11",
-"tr": "Veteriner listelerinde (tedavi, aşı, vitamin), Islık çal'da ve At ahırında artık tür düğmeleri var: Hepsi, Atlar, İnekler, Tavuklar gibi; kalabalık sürüde aradığın hayvanı hemen bulursun. Geri bildirim gönderdikten sonra o sırada açtığın başka pencere kendiliğinden kapanmıyor.",
-"en": "Vet lists (treatment, vaccine, vitamin), Whistle and the Horse stable now have animal-type buttons such as All, Horses, Cows, Chickens, so you find the animal you want quickly in a big herd. After sending feedback, another window you opened in the meantime no longer closes by itself."
-},
-{
-"v": 765,
-"d": "2026-11-11",
-"tr": "Büyük toplu güncelleme. Bölüm 3–6'daki 38 teslim görevi artık birer küçük iş: tartı, tezgâhta satış, jüri, sıralama, soru; iyi yaparsan ödülün artar. ☰ Diğer menüsü üç başlıkta toplandı ve yeni oyuncuya adım adım açılıyor; köylü mesajları açık pencereni kapatmıyor. Çanta her bölümde kendiliğinden büyüyor, 600 ve 800'lük iki yeni kademe geldi. Traktörde aşınma ve bakım, çiftlik ile Hasan Dede tarlası arasına toprak yol, Bölüm 5'te biçerdöver; traktör dururken mazot yakmıyor, Ayşe çiftlikte olmayan traktörü kullanmıyor. Fabrikalara köylüden bir haftalık hammadde tek seferde alınıyor; un fabrikasına köylüden buğday. Evdeki soba yakılıp söndürülüyor, masanın taburesine oturuluyor, sırt çantası sırtında görünüyor. Attan ya da eşekten nadiren düşebilirsin; otobüs çarparsa savrulursun. Günde en çok 10 reklam, 10. reklamda +3 sadakat puanı; her hafta Sadakat şampiyonu seçiliyor. Sanayi girişi yolu ve taş ocağı durağı düzeltildi; zayıf telefonlarda ara ara gelen kısa takılma azaldı.",
-"en": "Big bundled update. The 38 delivery quests in Chapters 3–6 are now small jobs: weighing, selling at a stall, a jury, putting steps in order, a question; do well and your reward grows. The ☰ More menu is grouped under three headings and opens step by step for new players; villager messages no longer close the window you have open. Your bag grows by itself in every chapter, with two new tiers of 600 and 800. Tractor wear and maintenance, a dirt road between the farm and Hasan Dede's field, and a combine harvester in Chapter 5; the tractor burns no diesel while standing still, and Ayşe doesn't use a tractor that is away from the farm. Factories can buy a week of raw material from villagers in one go; the flour mill buys wheat from villagers. You can light and put out the stove at home, sit on the stool at the table, and your backpack shows on your back. You may rarely fall off a horse or donkey; a bus that hits you knocks you back. Up to 10 ads a day with +3 loyalty points on the 10th; a Loyalty champion is chosen every week. The industrial zone entrance road and the quarry stop were fixed; short stutters on weaker phones are reduced."
-},
-{
-"d": "2026-11-11",
-"tr": "Fabrika hammadde silosundaki Reklam izle düğmesi geri geldi (ör. 3 ham yün, 12 ot; aynı gün izledikçe artar, günde 3). Toptancı sözleşmesindeki reklam da duruyor; ikisinin hakları ayrı, hepsi günde 5 reklam sınırının içinde.",
-"en": "The Watch ad button in the factory raw material silo is back (e.g. 3 raw wool, 12 hay; grows with each ad the same day, 3 a day). The ad on the wholesale contract stays too; each has its own count, all within the 5-ads-a-day limit.",
-"v": 764
-},
-{
-"v": 763,
-"d": "2026-11-11",
-"tr": "Yeni: Fabrika nöbeti. Oyundayken birkaç dakikada bir fabrikalarından birinde hat olayı çıkıyor (bant sıkıştı, voltaj dalgalanıyor, un kepekli çıkıyor…). Üç farklı iş var: arızanın sebebini bul, ibreyi yeşil alanda durdur ya da adımları doğru sırayla seç; aynı olay arka arkaya gelmez. Zamanında müdahale edersen silodaki hammaddeden ek parti üretilir, fabrikanın içindeysen 2 kat. Kaçırırsan makine biraz aşınır. Doğru müdahaleler hat ustalığını artırır (5 kademe, her biri kalıcı +%1 kapasite). Kontrol panelinde sabah üretimine kalan süre görünür. İstersen ödüllü reklamla ek partiyi bir kez daha alabilirsin (günde 2). Bugün listesine yeni iş: Fabrikada bir hat olayını çöz.",
-"en": "New: Factory watch. While you play, a line event pops up in one of your factories every few minutes (belt jammed, voltage fluctuating, flour coming out with bran…). There are three kinds of jobs: find the cause, stop the needle in the green zone, or pick the steps in the right order; the same event never comes twice in a row. Step in on time and an extra batch is made from the silo's raw material, ×2 if you're inside the factory. Miss it and the machine wears a little. Right fixes raise your line mastery (5 ranks, each a permanent +1% capacity). The control panel shows the time until the morning production. If you like, a rewarded ad gives the extra batch once more (2 a day). New Today task: fix a line event at the factory."
-},
-{
-"d": "2026-11-11",
-"tr": "Fabrikada küçük arıza olunca kâhya haber veriyor, teknik desteği sen çağırıyorsun; bir gün çağırmazsan arıza büyür ve o zaman kâhya çağırır (ücret kasadan). Fabrika silosundaki reklamla hammadde kaldırıldı; yerine toptancı sözleşmesinde Reklam izle düğmesi var: sözleşmedeki üründen pahalıdan az, ucuzdan çok verir (ör. 1 top kumaş, 7 yem), aynı gün izledikçe artar, günde 3.",
-"en": "When a factory has a small breakdown the steward tells you and you call technical support; if you don't within a day, the breakdown gets worse and the steward calls them (paid from the treasury). Raw materials by ad in the factory silo were removed; instead the wholesale contract has a Watch ad button: it gives some of the contract's product, fewer of expensive goods and more of cheap ones (e.g. 1 bolt of fabric, 7 feed), growing with each ad the same day, 3 a day.",
-"v": 762
-},
-{
-"v": 761,
-"d": "2026-11-11",
-"tr": "Bölüm 3 artık üç kısım olarak görünüyor: Kuzey Yolu, Bereket Yılları ve Büyük Miras. Görevlerin sırası, hedefleri ve ödülleri aynı; görev çubuğunda kaçıncı kısımda olduğunu görürsün, her kısım bitince Muhtar seni kutlar ve enerjin dolar.",
-"en": "Chapter 3 is now shown in three parts: The Northern Road, Years of Plenty and The Great Legacy. Quest order, goals and rewards are unchanged; the quest bar shows which part you are in, and when a part ends the headman congratulates you and your energy is refilled."
-},
-{
-"d": "2026-11-11",
-"tr": "Reklam ödülleri dengelendi: günlük altın bölümüne göre 40–480 A, inşaat hızlandırma 15 dakika (günde 2), Sen yokken %10 ek ürün, günlük hediye eşyalarının yarısı, bozulmak üzere ürüne +6 saat, afette kaybın üçte biri, +20 enerji, 5 L mazot. Artık her reklamdan önce ne kazanacağın ve bugün kaç hakkın kaldığı yazıyor; istemezsen Vazgeç. Fabrikanın planlı bakımını artık kâhya yapmıyor, sadece zamanı gelince haber veriyor: bakımı fabrika panelinden altınla ya da reklam izleyerek sen yaptırırsın. Yeni: fabrika hammadde silosuna reklamla hammadde (ör. 3 ham yün, 12 ot; aynı gün izledikçe artar, günde 3). Ayrıntılar: Ayarlar › Reklamlar.",
-"en": "Ad rewards rebalanced: daily gold 40–480 G depending on your chapter, construction speed-up 15 minutes (twice a day), 10% extra goods while away, half of the daily gift items, +6 hours for goods about to spoil, a third of disaster losses back, +20 energy, 5 L diesel. Before every ad you now see what you will get and how many ads are left today; tap Cancel if you don't want it. The steward no longer does planned factory maintenance, only tells you when it is due: arrange it from the factory panel with gold or by watching an ad. New: raw materials for the factory silo by ad (e.g. 3 raw wool, 12 hay; grows with each ad the same day, 3 a day). Details: Settings › Ads.",
-"v": 760
-},
-{
-"v": 759,
-"d": "2026-11-11",
-"tr": "Un fabrikası ve yem fabrikası artık buğdayı ortak kullanıyor: iki fabrikanın silo ekranında, raporda ve dışarıdaki göstergede aynı buğday miktarı ve aynı doluluk oranı görünüyor (hangi silonun ne kadar tuttuğu altta yazıyor). Bir fabrikanın silosu boşalsa da öbüründeki buğdayla üretim sürüyor; toplam buğday iki kez sayılmıyor.",
-"en": "The flour mill and the feed mill now share wheat: both factories show the same wheat amount and the same fill level in the silo screen, the report and the outdoor gauge (the split per silo is shown below). If one silo runs empty, production continues with the wheat in the other; total wheat is no longer counted twice."
-},
-{
-"v": 758,
-"d": "2026-11-11",
-"tr": "Altın biriktirme görevleri artık bölümden bölüme büyüyor: Bölüm 4 450.000, Bölüm 5 600.000, Bölüm 6 800.000 altın. Şu an bu görevlerden birindeysen eski hedefinle bitirirsin.",
-"en": "Gold-saving quests now grow chapter by chapter: Chapter 4 450,000, Chapter 5 600,000, Chapter 6 800,000 gold. If you are on one of these quests right now, you finish it with your old target."
-},
-{
-"v": 757,
-"d": "2026-11-11",
-"tr": "Yeni oyun artık her zaman sabah 08:00'de, gün ışığında başlıyor (eskiden gece karanlığına denk gelebiliyordu). Yeni oyun ekranı yatay telefonda kaydırmadan sığıyor, yol gösterme yazısı karakter penceresinin üstüne binmiyor. Bir kayıt açılamazsa oyun takılı kalmıyor: kaydın kopyası saklanıyor ve başka kayıt yuvası ya da yedek seçebiliyorsun.",
-"en": "A new game now always starts at 08:00 in daylight (it could start in the dark before). The new game screen fits a landscape phone without scrolling, and the route hint no longer covers the character window. If a save cannot be opened the game no longer gets stuck: a copy of the save is kept and you can pick another slot or a backup."
-},
-{
-"v": 756,
-"d": "2026-11-11",
-"tr": "Pazar Savaşı'ndaki komşu iller artık kendi yurduna göre gelir: Karadeniz'de Rize ve Samsun, Ege'de Manisa ve Denizli, İç Anadolu'da Nevşehir ve Konya, Akdeniz'de Mersin ve Adana; rastgele yurtta iller de rastgele. Yurdunu kur ekranından değiştirebilirsin.",
-"en": "The neighbouring cities in the Market War now follow your own homeland: Rize and Samsun on the Black Sea, Manisa and Denizli in the Aegean, Nevşehir and Konya in Central Anatolia, Mersin and Adana on the Mediterranean; random homelands get random cities. You can change them on the Set up your homeland screen."
-},
-{
-"v": 755,
-"d": "2026-11-11",
-"tr": "Bölüm 5 ve 6 yenilendi. Bölüm 5'te Demirkol AŞ ile Pazar Savaşı: Elazığ, Malatya ve Diyarbakır pazar payları, bayiler, Demirkol'un hamlelerine karşılık, tadım günü, İstanbul Gıda Fuarı, Hamburg konteyneri ve kendi markan. Bölüm 6'da Demirkol AŞ'yi devralma: köylülerden pay toplama ve pazarlık, kapalı zarf ihale, banka rehni, yönetim kurulu kararları, büyük final (tamamen satın al ya da ortak ol) ve Hasan Dede'nin son mektubu. Mevcut ilerlemen korunur.",
-"en": "Chapters 5 and 6 redesigned. Chapter 5 brings the Market War with Demirkol Inc.: market shares in Elazığ, Malatya and Diyarbakır, dealerships, answering Demirkol's moves, tasting days, the Istanbul Food Fair, the Hamburg container and your own brand. Chapter 6 is the takeover of Demirkol Inc.: collecting and haggling for villagers' shares, a sealed-bid tender, the bank's pledged share, board decisions, a big finale (buy it outright or become partners) and Grandpa Hasan's last letter. Your progress is kept."
-},
-{
-"v": 754,
-"d": "2026-11-11",
-"tr": "Diğer dillerde itibar açıklaması ve koyun/keçi süt haberi artık çevrili.",
-"en": "The reputation description and the sheep/goat milk report are now translated in other languages."
-},
-{
-"v": 753,
-"d": "2026-11-11",
-"tr": "Genel tarama düzeltmeleri: bina içinde ve sanayi bölgesinde üstteki yer adı doğru yazar, haritada sanayi bölgesi görünür, ilk odun görevinde yanlış kış notu çıkmaz, uzak köylüye teslim yan görevleri Bölüm 2'den sonra gelir, diğer dillerde eksik çeviriler tamamlandı.",
-"en": "General sweep fixes: the place name is correct inside buildings and in the industrial zone, the industrial zone shows on the map, the first wood quest no longer shows a wrong winter note, far-villager delivery side quests start in Chapter 2, and missing translations were added."
-},
-{
-"v": 752,
-"d": "2026-11-10",
-"tr": "Görev ekranı fabrika silosundaki şeker pancarı, buğday ve yünü de sayar; silodaki yetiyorsa eksik görünmez.",
-"en": "The quest screen now counts raw materials in the factory silo; if the silo has enough, nothing shows as missing."
-},
-{
-"v": 751,
-"d": "2026-11-10",
-"tr": "Otobüsler oyuncunun ve yayaların içinden geçmiyor, kenara iter; önünde durursan korna çalar.",
-"en": "Buses no longer drive through you or pedestrians; they push you aside and honk."
-},
-{
-"v": 750,
-"d": "2026-11-10",
-"tr": "Otobüs duraklarının içinden geçilmiyor. Tarım dronunun yanına gidince pencere açılır, Şimdi ilaçla ile uçurulur.",
-"en": "You can no longer walk through bus stops. Walk up to the farm drone to open its panel and spray now."
-},
-{
-"v": 749,
-"d": "2026-11-10",
-"tr": "Yem fabrikası silosunda buğday bitince un fabrikasındaki fazla buğday aktarılır. Ayşe yokken de dede tarlasını biçip eker.",
-"en": "Feed factory now gets surplus wheat from the flour mill silo. Ayşe harvests and replants the grandfather's field while you are away."
-},
-{
-"v": 748,
-"d": "2026-11-10",
-"tr": "Traktörle teslimata çıkınca karakter traktöre ışınlanmıyor. Çay ocağında elinde gerçek çay bardağı var. Römork duraklardan geçmiyor, tekerleri yere batmıyor. Sanayi girişindeki yol düzeldi. At bağlama tahtasının içinden geçilmiyor. Zeytinlikte taş ve ağaç kalmıyor.",
-"en": "Choosing the tractor for a delivery no longer teleports you to it. You now hold a real tea glass at the tea house. The trailer no longer passes through bus stops and its wheels no longer sink. The road at the industrial zone entrance is fixed. You can't walk through the horse hitching rail. The olive grove is cleared of stones and trees."
-},
-{
-"v": 747,
-"d": "2026-11-10",
-"tr": "Rıfat'ın traktörü ve gübre römorku artık ahır kapısının önünde değil, gübre çukurunun yanında duruyor. Rıfat gübreyi oraya yükler, seferden dönünce de oraya park eder. Taşıyıcı yoksa elle topladığın gübreyi gübre çukurunun yanındaki römorka yüklersin.",
-"en": "Rıfat's tractor and manure trailer now stand next to the manure pit instead of in front of the barn gate. Rıfat loads the manure there and parks there after each trip. Without a carrier, load the manure you collect by hand onto the trailer next to the manure pit."
-},
-{
-"v": 746,
-"d": "2026-11-10",
-"tr": "Telefon ısınınca oyun kendiliğinden yavaşlar: kare hızı ve gerekirse görüntü kalitesi biraz düşer, telefon soğuyup pil daha az gider. Soğuyunca oyun normal hızına döner. (Yeni uygulama güncellemesiyle çalışır.)",
-"en": "When your phone gets hot, the game now slows down on its own: the frame rate and, if needed, the image quality drop a little so the phone cools off and uses less battery. Once it cools down, the game returns to normal speed. (Works with the new app update.)"
-},
-{
-"v": 745,
-"d": "2026-11-10",
-"tr": "Köpek kulübesini taşıyınca köpekler de hemen yeni kulübenin önüne gelir. Laboratuvar çalışanları (Laborant Nazlı ve ekibi) sanayideki laboratuvarda başlar, eski yerden uzun yol yürümezler.",
-"en": "When you move the dog kennel, the dogs now come to the new kennel right away. Lab staff (Lab Technician Nazlı and team) start at the lab in the industrial zone instead of walking a long way from the old spot."
-},
-{
-"v": 744,
-"d": "2026-11-10",
-"tr": "Gübre taşıyıcı Rıfat artık gübreyi traktör ve römorkla taşıyor: biyogaz tesisi sanayideyse Rıfat'ın yeşil traktörü ahır önündeki gübre römorkuna bağlı durur. Rıfat saat 11:00 ve 16:00'da traktöre biner, yollardan sanayiye gidip tesisin önünde römorkun kasasını devirerek gübreyi boşaltır, sonra dönüp ahır önüne park eder. Traktör ve römork yolda giderken de engeldir, içlerinden geçilmez; önlerinde durursan Rıfat bekler. Römork yoldayken elle gübre yüklenmez.",
-"en": "Manure hauler Rıfat now carries the manure by tractor and trailer: when the biogas plant is in the industrial zone, Rıfat's green tractor stands hitched to the manure trailer in front of the barn. At 11:00 and 16:00 Rıfat gets on, drives along the roads to the industrial zone, tips the trailer to unload in front of the plant, then drives back and parks by the barn. The tractor and trailer block you on the road too; if you stand in front of them Rıfat waits. You can't load manure by hand while the trailer is away."
-},
-{
-"v": 743,
-"d": "2026-11-10",
-"tr": "Sanayi bölgesinde ve çiftlikte görünen toprak yol kalktı (Başkan'ın bildirimi). Taksi yol dışından gidince arkasında iz kalıyordu; bu iz artık sanayinin, çiftlik arazisinin, asfaltın ve yapıların üstünde oluşmuyor. Eski kayıtlardaki bu izler de kendiliğinden silindi, bahçe artık yolun ortasında görünmüyor.",
-"en": "The dirt track showing up in the industrial zone and on the farm is gone. Taxi rides off the road used to leave a track; it no longer forms over the industrial zone, the farm land, asphalt or buildings, and such tracks in older saves are removed, so the garden no longer looks like it sits in the middle of a road."
-},
-{
-"v": 742,
-"d": "2026-11-10",
-"tr": "Sanayi bölgesine atla girilebilir; at çitin içinde kalır, kendiliğinden ahıra dönmez. Girişin içinde at bağlama direği var, yanında inersen atın direğe bağlanır. At çitin öbür yanındaysa artık çitin üstünden ata zıplamıyorsun, at kapıdan dolaşıp yanına geliyor. Hankendi'nin yeni evleri artık sanayi bölgesinin çevresine ve giriş yoluna kurulmuyor (sol şeridi kapatan ev). Güvenlik kulübesinin içinden çıkan ağaç kaldırıldı.",
-"en": "You can ride into the industrial zone; your horse stays inside the fence and doesn't head home on its own. There is a hitching post just inside the gate; dismount next to it and your horse is tied up. If your horse is on the other side of the fence you no longer jump over it; the horse comes round through the gate. Hankendi's new houses are no longer built around the industrial zone or on its entrance road (the house blocking the left lane). The tree growing inside the security booth is gone."
-},
-{
-"v": 741,
-"d": "2026-11-10",
-"tr": "Zeytinliğin yerini artık sen seçiyorsun: satın alınca yer seçme açılır, başka yapıların (çay çardağı, dinlenme alanı…) üstüne kurulamaz. Alanda ağaç ya da taş varsa zeytinlik yine kurulur ama o yerlere fidan dikilmez: önce ağacı kes, taşı kır, sonra dik. Zeytinlik ekranında engelli yerler ⛔ ile görünür ve 📍 Yerini değiştir düğmesi var. Başka bir yapının üstünde kalmış zeytinlikler ağaçlarıyla birlikte boş bir yere taşındı.",
-"en": "You now choose where your olive grove goes: placement opens when you buy it, and it can't be built on other buildings (tea arbor, rest area…). If there are trees or stones in the area, the grove is still built but saplings can't be planted on those spots: cut the tree or break the stone first, then plant. The olive grove screen marks blocked spots with ⛔ and has a 📍 Change location button. Olive groves that ended up on another building were moved to a free spot with their trees."
-},
-{
-"v": 740,
-"d": "2026-11-10",
-"tr": "Traktörle otomatik sürüşte mazot bitince, mazot koyup yeniden otomatik sürdüğünde traktör artık kaldığı yerden devam eder; Hasan Dede'nin tarlasında işlenmiş sıraların üstünden baştan geçmez. Otomatik sürüş sırasında ana düğme \"Otomatik sürüşü durdur\" olur: istediğin an durdurursun, yapılan iş kalır, yeniden otomatik sürünce kalan işten devam eder.",
-"en": "When the tractor runs out of diesel during automatic driving, refuel and run it again: it now continues where it stopped instead of going back over finished rows in Grandpa Hasan's field. While driving automatically the main button becomes \"Stop automatic driving\": stop any time, the work done stays, and the next automatic run finishes the rest."
-},
-{
-"v": 739,
-"d": "2026-11-10",
-"tr": "Hasan Dede'nin tarlası: Ne ekilsin? ekranında seçtiğin ürün artık tarlanın ana ürünü, bütün tarhlara o ekilir (ayrı boyadığın kareler kendi ürününde kalır). Tarlaya sulama kanalları, tarh aralarına ark, batı ucuna kuyu ve pompa eklendi.",
-"en": "Hasan Dede's field: the crop you pick in What to plant? is now the field's main crop and every bed sows it (beds you painted separately keep their crop). Irrigation canals, furrows between beds and a well with a pump were added."
-},
-{
-"v": 738,
-"d": "2026-11-10",
-"tr": "Hava durumu artık yağışı doğru gösterir: bulunduğun yerde hava 0 °C ve altındayken yağış kar olarak yağar; üstteki hava göstergesi, Hava durumu ekranı ve tahminler de «Karlı» yazar. Ilık havada yağmur yine yağmurdur.",
-"en": "The weather now shows precipitation correctly: when it is 0 °C or below where you are, it falls as snow, and the weather bar, the Weather screen and the forecast say «Snowy». In mild weather rain is still rain."
-},
-{
-"v": 737,
-"d": "2026-11-10",
-"tr": "Her fabrikanın artık sanayi bölgesinde kendi hammadde silosu ve ürün deposu var; fabrikanın arkasında durur, iki yüzündeki göstergeden doluluk görünür, yaklaşınca \"Hammadde silosu · %45\" düğmesi çıkar. Fabrika yalnız kendi silosundan işler, ürünü kendi deposuna koyar; çiftlikteki ambar fabrikalar için kullanılmaz ve fabrika ürünleri ambarda yer kaplamaz. Silolar geniş: 40 günlük hammadde, depo 60 günlük ürün alır (un fabrikasında 12.000 buğday ve 3.600 çuval un) ve fabrika seviyesiyle büyür. Siloyu köylüden alarak (doğrudan siloya), çantadan boşaltarak ya da ambardan aktararak doldurursun; istersen her sabah ambardan otomatik aktarılır. Hammadde depolama tesisindeki ürün ve kâhyanın aldığı hammadde silolara kendiliğinden gider. Ambarındaki fabrika hammaddesi silolara taşındı, hiçbir şey kaybolmadı; tohumluk ve görevde lazım olanlar ambarda kaldı. Çiftlikteki sandık da kapasitesi arttıkça gözle görülür büyüyor.",
-"en": "Each factory now has its own raw material silo and product warehouse in the industrial zone, standing behind the factory with fill gauges on both sides; walk up and a \"Raw material silo · 45%\" button appears. A factory works only from its own silo and puts its product in its own warehouse; your farm barn is no longer used for factories and factory products take no barn space. Silos are large: 40 days of raw material and 60 days of product (12,000 wheat and 3,600 sacks of flour at the flour mill), growing with the factory level. Fill a silo by buying from villagers (delivered straight to the silo), emptying your bag or transferring from the barn, or let it transfer automatically every morning. Goods in the raw material facility and what your steward buys go to the silos by themselves. Factory raw materials in your barn were moved to the silos with nothing lost; seed grain and what quests need stayed in the barn. Your farm chest now also grows visibly as its capacity increases."
-},
-{
-"v": 736,
-"d": "2026-11-10",
-"tr": "Başka oyuncular artık yalnız ziyarette görünür: birinin köyüne ziyarete gidince ya da biri senin köyüne gelince birbirinizi görürsünüz. Şehirde, yollarda, ormanlarda ve sanayide ziyaret dışında başka oyuncu görünmez.",
-"en": "Other players now appear only during visits: you see each other when you visit someone's village or they visit yours. Outside a visit, no other players appear in the city, on roads, in forests or in the industrial zone."
-},
-{
-"v": 735,
-"d": "2026-11-10",
-"tr": "Zeytin artık tarlaya ekilmiyor, ağaç olarak yetişiyor. Çiftlik › Zeytinlik kurulur (Bölüm 4); 24 yere zeytin fidanı dikilir, fidan 5 günde ağaç olur, olgun her ağaç iki günde bir 8 zeytin verir. Zeytin kışın da toplanır. Bahçıvan Cemil olgun zeytinleri toplar, sandıktaki fidanları boş yerlere diker. Tarlanda ya da Hasan Dede'nin tarlasında zeytin ağacın varsa zeytinlik sana bedava kurulur, ağaçların olgun haliyle oraya taşınır, olgun zeytinler sandığa konur; o parseller buğdaya döner.",
-"en": "Olives are no longer sown in the field; they now grow on trees. Build Farm › Olive grove (Chapter 4), plant olive saplings in its 24 spots; a sapling becomes a tree in 5 days and each mature tree gives 8 olives every two days, in winter too. Gardener Cemil picks ripe olives and plants saplings from the chest. If you had olive trees in your field or Grandpa Hasan's field, you get the olive grove for free with those trees moved there fully grown, ripe olives go to the chest, and those plots switch back to wheat."
-},
-{
-"v": 734,
-"d": "2026-11-10",
-"tr": "Gübre römorkunun içinden artık geçilmiyor. Yerde kar varken ahır ve ağılların yan perdeleri kapalı duruyor.",
-"en": "You can no longer walk through the manure trailer. Barn and pen side curtains stay closed while snow lies on the ground."
-},
-{
-"v": 733,
-"d": "2026-11-10",
-"tr": "Biyogaz tesisi ve laboratuvarı artık sanayi bölgesinde. Sanayi bölgesi batıya doğru büyüdü, ikisi bu yeni şeride kurulur; köyün yanındaki tesis ve laboratuvar ücretsiz olarak oraya taşınır, kademe, cihazlar ve verim aynı kalır. Gübre çiftlikte birikmeye devam eder: Rıfat ahırdaki gübreyi ahırın önündeki gübre römorkuna yükler, römork onu sanayideki tesise götürür. Rıfat yoksa topladığın gübreyi römorka boşaltabilirsin. Operatör Kadir ve laboratuvar çalışanları sanayiye kapıdan girip çıkar.",
-"en": "The biogas plant and laboratory are now in the Industrial zone. The zone has grown to the west and both are built on the new strip; a plant and lab near the village move there for free, keeping their level, equipment and efficiency. Manure still collects on the farm: Rıfat loads it from the barn onto the manure trailer in front of the barn, and the trailer takes it to the plant in the Industrial zone. Without Rıfat, you can unload the manure you collect onto the trailer. Operator Kadir and the lab staff come and go through the zone gate."
-},
-{
-"v": 732,
-"d": "2026-11-09",
-"tr": "Evinin balkonuna (sundurmasına) çıkmak kolaylaştı: korkuluktaki giriş aralığı genişletildi.",
-"en": "Getting onto your house's porch is easier: the opening in the railing is wider."
-},
-{
-"d": "2026-11-09",
-"tr": "Otobüsler artık tarifeyle çalışıyor: bileti alıp durakta bekliyorsun, otobüs sefer saatinde gelince biniyorsun ve yalnız duraklarda iniyorsun. Durağa dokununca her durağın sonraki otobüs saatini ve kaç dakika kaldığını görürsün. Sivrice ⇄ Elazığ hattında iki otobüs, Çamlıbel ve Akpınar hatları da var. Yol kenarındaki duraklar artık yola dönük. Hankendi çay ocağına kapı geldi; önündeki taburelerde oturup çay içebilirsin.",
-"en": "Buses now run on a timetable: buy a ticket, wait at the stop and board when the scheduled bus arrives; it only drops you off at stops. Tap a stop to see the next bus time and minutes left for every stop. Two buses on the Sivrice ⇄ Elazığ line, plus the Çamlıbel and Akpınar lines. Roadside bus stops now face the road. The Hankendi tea house has a door, and you can sit on the stools out front and drink tea.",
-"v": 731
-},
-{
-"v": 730,
-"d": "2026-11-09",
-"tr": "Güneş paneli tarlası artık sanayi bölgesinde, jeneratörün yanında kurulur; köyün yanındaki paneller fabrikalar gibi ücretsiz sanayiye taşınır, üretim ve gelir aynı. Sanayi kavşaklarında yollar artık üst üste binmiyor, şerit çizgileri düzgün; giriş yolu ana yolun kenarından başlıyor. Attan inince at en az 3 dakika indiğin yerde bekliyor; fabrikaya girip çıkınca kaybolmuyor.",
-"en": "The solar panel field is now built in the Industrial zone, next to the generator; panels near the village move there for free like factories, with the same output and income. Roads no longer overlap at Industrial zone junctions and lane markings are clean; the access road starts at the edge of the main road. When you get off your horse it now waits where you left it for at least 3 minutes, so it no longer disappears when you go into a factory."
-},
-{
-"v": 729,
-"d": "2026-11-09",
-"tr": "Evdeki sedire oturunca ayaklar artık sininin (yuvarlak sehpanın) içine girmiyor; sini biraz ileri alındı. Evinin önüne gelince \"Eve gir\" düğmesi artık balkonun (sundurmanın) önünde her yerde çıkıyor; balkona çıkınca \"Banka otur\" çıkıyor, ikinci düğmeden yine eve girebilirsin.",
-"en": "Sitting on the divan at home no longer puts your feet inside the round tray table; the table was moved a little further away. The \"Enter house\" button now appears anywhere in front of your porch; once you step onto the porch, \"Sit on bench\" appears, and you can still enter the house from the second button."
-},
-{
-"v": 728,
-"d": "2026-11-09",
-"tr": "Reklam teklif pencereleri artık kendiliğinden açılmıyor. Yorgunken ya da afetten sonra sol üstte küçük bir 📺 düğmesi çıkıyor, istersen basıyorsun. Mazot bitince de pencere açılmıyor. Yeni: Günlük hediye penceresinde reklam izleyerek günde bir kez bölümüne göre 100–1.200 altın alabilirsin. Ayrıntılar: Ayarlar › Reklamlar.",
-"en": "Ad offer windows no longer open on their own. When you're tired or after a disaster, a small 📺 button appears at the top left and you tap it only if you want. The window no longer pops up when diesel runs out either. New: once a day you can watch an ad in the Daily gift window for 100–1,200 gold depending on your chapter. Details: Settings › Ads."
-},
-{
-"v": 727,
-"d": "2026-11-09",
-"tr": "Hasan Dede'nin konağındaki anı odasında gençlik fotoğrafının çerçevesi boş görünüyordu; artık içinde genç Hasan ile arkadaşı Selim'in eski fotoğrafı duruyor.",
-"en": "In Grandpa Hasan's mansion, the frame of his youth photo looked empty; it now shows the old photo of young Hasan and his friend Selim."
-},
-{
-"v": 726,
-"d": "2026-11-09",
-"tr": "Gönderdiklerim düzeldi: düzeltilip yayınlanan ama listede hâlâ «Sırada» ya da «İşleme alındı» görünen bildirimlerin durumu güncellendi. Hata olmayan ya da artık geçerli olmayan bildirimler «İncelendi» yazar. Bundan sonra bir düzeltme yayınlanınca bildirimin kendiliğinden «Düzeltildi» olur.",
-"en": "My reports fixed: reports that were already fixed but still showed «Queued» or «In progress» now show the right status. Reports that were not bugs or no longer apply show «Reviewed». From now on a report turns «Fixed» automatically when its fix is released."
-},
-{
-"v": 724,
-"d": "2026-11-09",
-"tr": "Mandıradaki yoğurt tezgâhında artık yoğurttan ayran yapılabiliyor.",
-"en": "You can now make ayran from yogurt at the dairy's yogurt counter."
-},
-{
-"v": 723,
-"d": "2026-11-09",
-"tr": "Sanayi bölgesinin çitinden yürüyerek, atla ya da araçla geçilmiyor; giriş yalnız güvenlik kapısından. Taksi sanayinin içine girmiyor, ana yolda kapının önünde bırakıyor. Yapı taşırken yeni düğme: Yanıma getir (yapı karakterin yanındaki en yakın uygun yere gelir), fabrikalarda Boş arsaya koy. Köy yanında kalan fabrika Taşı deyince kendiliğinden sanayide boş arsaya gelir, ücretsizdir; Yapıların yeri ekranında Fabrikaları sanayi bölgesine taşı düğmesi de var.",
-"en": "You can no longer cross the Industrial zone fence on foot, on horseback or by vehicle; the only way in is the security gate. Taxis no longer drive into the zone and drop you on the main road at the gate. New button when moving buildings: Bring next to me (the building goes to the nearest free spot next to your character); for factories it's Put on a free plot. A factory still next to the village jumps to a free plot in the Industrial zone when you tap Move, for free; the Building locations screen also has a Move factories to the Industrial zone button."
-},
-{
-"v": 722,
-"d": "2026-11-09",
-"tr": "Selde su artık her yere geliyor; tavuklar ve tavşanlar sudan kaçıp kurtuluyor. Sanayi bölgesi girişinde yoldaki ağaç kaldırıldı.",
-"en": "Flood water now reaches everywhere; chickens and rabbits flee the water to safety. The tree on the road at the industrial zone entrance was removed."
-},
-{
-"v": 721,
-"d": "2026-11-09",
-"tr": "Hata bulana sürpriz hediye: geri bildirimle gönderdiğin hata ekibimizce onaylanıp düzeltilince sana sürpriz hediye gelir (bölümüne göre altın ve küçük bir eşya paketi). Geri bildirim formunda Hata seçince bu not görünür, Gönderdiklerim listesinde hediye gönderilen kayıtlar işaretli.",
-"en": "Surprise gift for bug finders: when our team confirms and fixes a bug you sent through feedback, you get a surprise gift (gold based on your chapter plus a small item pack). The note shows when you pick Bug in the feedback form, and rewarded entries are marked in My Submissions."
-},
-{
-"v": 720,
-"d": "2026-11-09",
-"tr": "Yağ fabrikası çatısı düzeldi, Uluova traktörüne engel",
-"en": "Oil mill roof fixed, Uluova tractor now blocks"
-},
-{
-"v": 719,
-"d": "2026-11-09",
-"tr": "Sanayi bölgesine köylüler ve hayvanlar girmez; girişte bariyer, güvenlik kulübesi, güvenlik görevlisi ve bekçi köpeği var. Yapı taşıma hakkı: herkesin 1 ücretsiz taşıma hakkı var; hak bitince bir taşıma altınla (bölüme göre 150 A'dan başlar) ya da reklam izleyerek alınır, Destekçi paketi olanlar reklamsız alır. Yer seçerken Vazgeç dersen hak harcanmaz; yeni alınan yapının yerini seçmek ve fabrikaları sanayi bölgesine taşımak ücretsizdir.",
-"en": "Villagers and animals no longer enter the Industrial zone; the entrance has a barrier, a security booth, a guard and a guard dog. Building move rights: everyone gets 1 free move; after that a move costs gold (from 150 G, depending on the chapter) or watching an ad, and Supporter pack owners get it without ads. Cancelling while placing doesn't use the right; placing a newly bought building and moving factories to the Industrial zone are free."
-},
-{
-"v": 718,
-"d": "2026-11-09",
-"tr": "Yağ fabrikası: sanayi bölgesinde ayçiçeği, pamuk ve zeytinden yağ çıkarılır; içeride laboratuvar analizleri ve proses akışı, küspe yem olur. Pamuk ve zeytin ekimi (zeytin ağacı her yıl yeniden meyve verir). Hasan Dede'nin tarlasında tarh tarh ürün seçimi için tarlada Ne ekilsin? düğmesi.",
-"en": "Oil mill: press sunflower, cotton seed and olive oil in the industrial zone; lab analyses and the full process inside, oil cake becomes feed. Cotton and olive farming (olive trees fruit again every year). What to plant? button inside Grandpa Hasan's field to choose crops bed by bed."
-},
-{
-"v": 717,
-"d": "2026-11-09",
-"tr": "Ekinler gerçekçi: buğday ve arpada kılçıklı başak, mısırda püskül ve koçan, ayçiçeğinde sarı taçlı tabla, şeker pancarında parlak yaprak rozeti ve toprakta pancar başı. Yeni şeker pancarı simgesi.",
-"en": "Realistic crops: bearded ears on wheat and barley, tassels and cobs on corn, golden sunflower heads, glossy sugar beet leaves with the root showing. New sugar beet icon."
-},
-{
-"v": 716,
-"d": "2026-11-09",
-"tr": "Fabrika duvarı ve Hankendi evleri engeli, atın gövdesi duvara çarpar",
-"en": "Factory walls and Hankendi houses now block, horse body collides"
-},
-{
-"v": 715,
-"d": "2026-11-09",
-"tr": "Fabrikada planlı bakım için altının yetmiyorsa reklam izleyerek bakım yaptırabilirsin (günde 2 kez; Destekçi paketinde reklamsız). Altının yetiyorsa bakım altınla yapılır. Planlı bakım 10 günden uzun yapılmazsa arıza riski her gün artar; kontrol panelinde son bakım günü ve uyarı görünür.",
-"en": "If you can't afford a factory's scheduled maintenance, you can watch an ad to get it done (twice a day; ad-free with the Supporter pack). If you have enough gold, maintenance is paid with gold. If scheduled maintenance is skipped for more than 10 days, breakdown risk rises every day; the control panel shows the last maintenance day and a warning."
-},
-{
-"v": 714,
-"d": "2026-11-09",
-"tr": "Fabrikalar köyden uzağa taşındı: yeni Sanayi bölgesi Elazığ yolunun güneyinde, Uluova tarlalarının doğusunda (köy meydanına ~340 m). Giriş yolu, iki sokak, her fabrikaya beton arsa, kamyon parkı, sokak lambaları, ağaçlar, çit ve giriş tabelası var; taksiyle de gidilir. Fabrikalar artık yalnız bu bölgeye kurulur. Fabrikası köyün yanında olanlara uyarı çıkar: tek dokunuşla ücretsiz taşınır, stok, üretim, geliştirme, çalışan ve görevler aynen kalır. Her fabrikanın görünüşü artık farklı (un silolu değirmen, kemer çatılı yem hangarı, bacalı şeker fabrikası, şed çatılı tekstil, cam kuleli holding, konteynerli liman acentesi…).",
-"en": "Factories have moved away from the village: the new Industrial zone is south of the Elazığ road, east of the Uluova fields (~340 m from the village square). It has an access road, two streets, a concrete plot for every factory, a truck park, street lights, trees, a fence and an entrance sign; you can also go by taxi. Factories can now only be built there. If your factories are next to the village you get a notice: move them for free with one tap, and your stock, production, upgrades, workers and quests stay the same. Every factory now looks different (mill with flour silos, arched feed hangar, sugar factory with chimney, saw-tooth textile hall, glass holding tower, port agency with containers…)."
-}
+ {
+  "v": 781,
+  "d": "2026-11-12",
+  "tr": "Zekât geldi: Bölüm 1'den sonra her 30 günde bir, nakit paran nisabı geçiyorsa Muhtar paranın %2,5'ini zekât olarak ister. Diğer › Zekât'tan ya da camideki kürsüden 3 gün içinde verebilirsin. Verince itibarın artar ve köylüler sevinir; verilmezse itibar biraz düşer.",
+  "en": "Zakat is here: after Chapter 1, every 30 days, if your cash is above the nisab, the Headman asks for 2.5% of it as zakat. You can give it within 3 days from Other › Zakat or at the pulpit in the mosque. Giving it raises your reputation and pleases the villagers; if you don't, your reputation drops a little."
+ },
+ {
+  "v": 780,
+  "d": "2026-11-12",
+  "tr": "Köydeki ibadethane artık mescit değil cami: adı Huzur Camii. Yurdunu düzenle › İbadethane seçeneği de yalnızca \"Cami\" yazıyor. Kayıtlar ve namaz/abdest aynen çalışıyor.",
+  "en": "The village place of worship is now a mosque, not a small masjid: it's called Huzur Mosque. In Edit your homeland › Place of worship the option now just says \"Mosque\". Saves, prayer and ablution work as before."
+ },
+ {
+  "v": 779,
+  "d": "2026-11-12",
+  "tr": "İtibar kazanmak artık çok daha zor: her işten gelen itibar azaldı ve bir oyun gününde ilk 1,5 itibardan sonrası dörtte bir geliyor (önceden 3'ten sonra yarım). Kazandığın itibar ve seviye aynen duruyor. İtibar penceresinde günde 1 kez reklam izleyerek +0,5 itibar kazanabilirsin.",
+  "en": "Earning reputation is now much harder: each task gives less reputation, and in one game day anything beyond the first 1.5 reputation comes at a quarter (was half after 3). The reputation and level you already earned stay the same. Once a day you can watch an ad in the Reputation window for +0.5 reputation."
+ },
+ {
+  "v": 778,
+  "d": "2026-11-12",
+  "tr": "Günde en çok 15 ödüllü reklam izlenebiliyor (önceden 10). +3 sadakat puanı artık günün 15. reklamında veriliyor; her yerin kendi günlük hakkı aynı.",
+  "en": "You can now watch up to 15 rewarded ads a day (was 10). The +3 loyalty points now come with the day's 15th ad; each place keeps its own daily limit."
+ },
+ {
+  "v": 777,
+  "d": "2026-11-12",
+  "tr": "Traktör artık çok daha geç arızalanıyor: aşınma 3 kat yavaş. Rastgele marş arızası ancak aşınma %75'i geçince görülüyor. Ayşe %90 aşınmış traktörü dede tarlasına götürmüyor, planlı bakım için haber veriyor; böylece sen yokken traktör bozulmuyor.",
+  "en": "The tractor now breaks down much later: wear is 3 times slower. Random breakdowns on starting only happen above 75% wear. Ayşe won't take a 90% worn tractor to grandpa's field and tells you to get a scheduled service, so the tractor no longer breaks while you're away."
+ },
+ {
+  "v": 776,
+  "d": "2026-11-12",
+  "tr": "Reklam izleyerek hammadde artık bütün fabrikalarda alınabiliyor: un ve yem fabrikasının buğdayı da dahil. Mandırada süt, biyogaz tesisinde ham gübre için de reklam var. Ödül büyüdü: bir reklam fabrikanın yaklaşık 12 saatlik hammaddesini veriyor, aynı gün izledikçe 16 ve 20 saate çıkıyor (günde 3 reklam = 2 günlük üretim).",
+  "en": "You can now get raw materials by watching an ad at every factory, including wheat for the flour and feed mills. The dairy (milk) and the biogas plant (raw manure) have it too. The reward is bigger: one ad gives about 12 hours of the factory's raw materials, rising to 16 and 20 hours as you watch more the same day (3 ads a day = 2 days of production)."
+ },
+ {
+  "v": 775,
+  "d": "2026-11-12",
+  "tr": "Fabrika nöbetindeki arıza soruları sadeleşti: her olayda ne olduğu ve ne yapman gerektiği kısa bir açıklamayla yazıyor, bilinmeyen kelimeler (tavlama, kepek, pelet gibi) açıklandı. Doğru cevaplar ve zorluk aynı. Meslek okulundaki \"Mühendislik temeli\" kursunun adı \"Makine teknikerliği\" oldu; mühendislik bursu artık üniversite bursu olarak anlatılıyor.",
+  "en": "Factory shift fault questions are now simpler: every incident says what happened and what you should do, and unfamiliar words (tempering, bran, pellet and so on) are explained. Correct answers and difficulty are unchanged. The vocational school's \"Engineering basics\" course is now \"Machine technician\"; the engineering scholarship is now described as a university scholarship."
+ },
+ {
+  "v": 774,
+  "d": "2026-11-11",
+  "tr": "Aynı evde oturan iki kişi (örneğin Derya ile Ayşe) evdeyken kapıda yalnız biri görünüyor, kapıyı çalınca yalnız o çıkıyordu. Artık kapı yazısında evdeki herkes görünüyor ve kapıyı çalınca hepsi dışarı çıkıyor.",
+  "en": "When two people living in the same house (for example Derya and Ayşe) were at home, the door showed only one of them and knocking brought out only that one. The door label now lists everyone at home, and knocking brings them all out."
+ },
+ {
+  "v": 773,
+  "d": "2026-11-11",
+  "tr": "Otobüs artık durakların içinden geçmiyor, dönüşlerde durağa değmiyor; durakların içine yürüyerek ya da araçla da girilmiyor. Otobüs bileti reklam izleyerek bedava alınabiliyor (günde 2 kez); taksinin reklamla bedava yolculuğu günde 1'den 2'ye çıktı. Parayla ödeme yerinde duruyor.",
+  "en": "The bus no longer drives through bus stops or clips them when turning, and you can no longer walk or drive into a stop. You can now get a free bus ticket by watching an ad (twice a day); the free taxi ride with an ad went from once to twice a day. Paying with gold still works as before."
+ },
+ {
+  "v": 772,
+  "d": "2026-11-11",
+  "tr": "\"Ne ekilsin?\" ekranında arpa ve pamuk simgesi bazı telefonlarda boş kutu çıkıyordu, düzeldi. Karakter ata daha doğal oturuyor: bacaklar atın iki yanında, gövde hafif öne eğik.",
+  "en": "The barley and cotton icons on the \"What to plant?\" screen showed as empty boxes on some phones; fixed. The character now sits on the horse more naturally: legs on either side, body leaning slightly forward."
+ },
+ {
+  "v": 771,
+  "d": "2026-11-11",
+  "tr": "Traktör, araba ya da başka bir araçtayken artık yürüme (ayak) sesi çıkmıyor.",
+  "en": "Footstep sounds no longer play while you are on the tractor, in a car or on another vehicle."
+ },
+ {
+  "v": 770,
+  "d": "2026-11-11",
+  "tr": "Fabrika hammaddesi reklamı artık fabrikanın üretimine göre ürün veriyor: günün 1. reklamında yaklaşık 2 saatlik, 2.'de 2,5 saatlik, 3.'de 3 saatlik hammadde (eskiden pahalı hammaddede yalnız +1 geliyordu). Toptancı sözleşmesi reklamı da aynı düzene geçti. Günde 3 kez, silodaki boş yer kadar.",
+  "en": "The factory raw-material ad now gives product based on the factory's output: about 2 hours' worth on the day's 1st ad, 2.5 hours on the 2nd and 3 hours on the 3rd (it used to give just +1 for costly materials). The wholesaler contract ad works the same way. Up to 3 times a day, limited by free silo space."
+ },
+ {
+  "v": 769,
+  "d": "2026-11-11",
+  "tr": "Tarlada ne biçersen ekranda artık onun simgesi çıkıyor: hasat düğmesi, \"+12\" yazıları, traktör ve biçerdöver özetleri, Hasan Dede tarlası ve harita işareti biçilen ürünü gösterir (eskiden hep buğday görünüyordu). Arpa ve pamuğun kendi simgesi oldu.",
+  "en": "Whatever you harvest now shows its own icon: the harvest button, the \"+12\" pop-ups, tractor and combine summaries, Hasan Dede's field and the map marker show the crop you cut (it used to always look like wheat). Barley and cotton got their own icons."
+ },
+ {
+  "v": 768,
+  "d": "2026-11-11",
+  "tr": "Bir pencereyi kapattıktan hemen sonra gelen köylü mesajında \"Cevapla\" düğmesi bazen kayboluyordu; artık kaybolmuyor.",
+  "en": "The \"Reply\" button sometimes disappeared on a villager message that arrived right after you closed a window; it now stays."
+ },
+ {
+  "v": 767,
+  "d": "2026-11-11",
+  "tr": "Ayşe artık traktörün deposunu boşaltmıyor: mazot tankın varsa mazotu oradan kullanır, tank yoksa depoda sana 10 L bırakır. Traktör menüsünde bugün ne kadar mazot kullanıldığı yazıyor. Hasan Dede tarlasında eksik ekilmiş bir tarh traktörle biçilince artık boşken \"hasada hazır\" görünmüyor; eski kayıtta takılı kalan tarh da kendiliğinden düzelir.",
+  "en": "Ayşe no longer empties the tractor's tank: if you have a diesel tank she uses diesel from there, and without one she leaves you 10 L. The tractor menu shows how much diesel was used today. In Hasan Dede's field, a partly sown bed harvested by tractor no longer shows as \"ready to harvest\" while empty; a bed stuck that way in an old save fixes itself."
+ },
+ {
+  "v": 766,
+  "d": "2026-11-11",
+  "tr": "Veteriner listelerinde (tedavi, aşı, vitamin), Islık çal'da ve At ahırında artık tür düğmeleri var: Hepsi, Atlar, İnekler, Tavuklar gibi; kalabalık sürüde aradığın hayvanı hemen bulursun. Geri bildirim gönderdikten sonra o sırada açtığın başka pencere kendiliğinden kapanmıyor.",
+  "en": "Vet lists (treatment, vaccine, vitamin), Whistle and the Horse stable now have animal-type buttons such as All, Horses, Cows, Chickens, so you find the animal you want quickly in a big herd. After sending feedback, another window you opened in the meantime no longer closes by itself."
+ },
+ {
+  "v": 765,
+  "d": "2026-11-11",
+  "tr": "Büyük toplu güncelleme. Bölüm 3–6'daki 38 teslim görevi artık birer küçük iş: tartı, tezgâhta satış, jüri, sıralama, soru; iyi yaparsan ödülün artar. ☰ Diğer menüsü üç başlıkta toplandı ve yeni oyuncuya adım adım açılıyor; köylü mesajları açık pencereni kapatmıyor. Çanta her bölümde kendiliğinden büyüyor, 600 ve 800'lük iki yeni kademe geldi. Traktörde aşınma ve bakım, çiftlik ile Hasan Dede tarlası arasına toprak yol, Bölüm 5'te biçerdöver; traktör dururken mazot yakmıyor, Ayşe çiftlikte olmayan traktörü kullanmıyor. Fabrikalara köylüden bir haftalık hammadde tek seferde alınıyor; un fabrikasına köylüden buğday. Evdeki soba yakılıp söndürülüyor, masanın taburesine oturuluyor, sırt çantası sırtında görünüyor. Attan ya da eşekten nadiren düşebilirsin; otobüs çarparsa savrulursun. Günde en çok 10 reklam, 10. reklamda +3 sadakat puanı; her hafta Sadakat şampiyonu seçiliyor. Sanayi girişi yolu ve taş ocağı durağı düzeltildi; zayıf telefonlarda ara ara gelen kısa takılma azaldı.",
+  "en": "Big bundled update. The 38 delivery quests in Chapters 3–6 are now small jobs: weighing, selling at a stall, a jury, putting steps in order, a question; do well and your reward grows. The ☰ More menu is grouped under three headings and opens step by step for new players; villager messages no longer close the window you have open. Your bag grows by itself in every chapter, with two new tiers of 600 and 800. Tractor wear and maintenance, a dirt road between the farm and Hasan Dede's field, and a combine harvester in Chapter 5; the tractor burns no diesel while standing still, and Ayşe doesn't use a tractor that is away from the farm. Factories can buy a week of raw material from villagers in one go; the flour mill buys wheat from villagers. You can light and put out the stove at home, sit on the stool at the table, and your backpack shows on your back. You may rarely fall off a horse or donkey; a bus that hits you knocks you back. Up to 10 ads a day with +3 loyalty points on the 10th; a Loyalty champion is chosen every week. The industrial zone entrance road and the quarry stop were fixed; short stutters on weaker phones are reduced."
+ },
+ {
+  "d": "2026-11-11",
+  "tr": "Fabrika hammadde silosundaki Reklam izle düğmesi geri geldi (ör. 3 ham yün, 12 ot; aynı gün izledikçe artar, günde 3). Toptancı sözleşmesindeki reklam da duruyor; ikisinin hakları ayrı, hepsi günde 5 reklam sınırının içinde.",
+  "en": "The Watch ad button in the factory raw material silo is back (e.g. 3 raw wool, 12 hay; grows with each ad the same day, 3 a day). The ad on the wholesale contract stays too; each has its own count, all within the 5-ads-a-day limit.",
+  "v": 764
+ },
+ {
+  "v": 763,
+  "d": "2026-11-11",
+  "tr": "Yeni: Fabrika nöbeti. Oyundayken birkaç dakikada bir fabrikalarından birinde hat olayı çıkıyor (bant sıkıştı, voltaj dalgalanıyor, un kepekli çıkıyor…). Üç farklı iş var: arızanın sebebini bul, ibreyi yeşil alanda durdur ya da adımları doğru sırayla seç; aynı olay arka arkaya gelmez. Zamanında müdahale edersen silodaki hammaddeden ek parti üretilir, fabrikanın içindeysen 2 kat. Kaçırırsan makine biraz aşınır. Doğru müdahaleler hat ustalığını artırır (5 kademe, her biri kalıcı +%1 kapasite). Kontrol panelinde sabah üretimine kalan süre görünür. İstersen ödüllü reklamla ek partiyi bir kez daha alabilirsin (günde 2). Bugün listesine yeni iş: Fabrikada bir hat olayını çöz.",
+  "en": "New: Factory watch. While you play, a line event pops up in one of your factories every few minutes (belt jammed, voltage fluctuating, flour coming out with bran…). There are three kinds of jobs: find the cause, stop the needle in the green zone, or pick the steps in the right order; the same event never comes twice in a row. Step in on time and an extra batch is made from the silo's raw material, ×2 if you're inside the factory. Miss it and the machine wears a little. Right fixes raise your line mastery (5 ranks, each a permanent +1% capacity). The control panel shows the time until the morning production. If you like, a rewarded ad gives the extra batch once more (2 a day). New Today task: fix a line event at the factory."
+ },
+ {
+  "d": "2026-11-11",
+  "tr": "Fabrikada küçük arıza olunca kâhya haber veriyor, teknik desteği sen çağırıyorsun; bir gün çağırmazsan arıza büyür ve o zaman kâhya çağırır (ücret kasadan). Fabrika silosundaki reklamla hammadde kaldırıldı; yerine toptancı sözleşmesinde Reklam izle düğmesi var: sözleşmedeki üründen pahalıdan az, ucuzdan çok verir (ör. 1 top kumaş, 7 yem), aynı gün izledikçe artar, günde 3.",
+  "en": "When a factory has a small breakdown the steward tells you and you call technical support; if you don't within a day, the breakdown gets worse and the steward calls them (paid from the treasury). Raw materials by ad in the factory silo were removed; instead the wholesale contract has a Watch ad button: it gives some of the contract's product, fewer of expensive goods and more of cheap ones (e.g. 1 bolt of fabric, 7 feed), growing with each ad the same day, 3 a day.",
+  "v": 762
+ },
+ {
+  "v": 761,
+  "d": "2026-11-11",
+  "tr": "Bölüm 3 artık üç kısım olarak görünüyor: Kuzey Yolu, Bereket Yılları ve Büyük Miras. Görevlerin sırası, hedefleri ve ödülleri aynı; görev çubuğunda kaçıncı kısımda olduğunu görürsün, her kısım bitince Muhtar seni kutlar ve enerjin dolar.",
+  "en": "Chapter 3 is now shown in three parts: The Northern Road, Years of Plenty and The Great Legacy. Quest order, goals and rewards are unchanged; the quest bar shows which part you are in, and when a part ends the headman congratulates you and your energy is refilled."
+ },
+ {
+  "d": "2026-11-11",
+  "tr": "Reklam ödülleri dengelendi: günlük altın bölümüne göre 40–480 A, inşaat hızlandırma 15 dakika (günde 2), Sen yokken %10 ek ürün, günlük hediye eşyalarının yarısı, bozulmak üzere ürüne +6 saat, afette kaybın üçte biri, +20 enerji, 5 L mazot. Artık her reklamdan önce ne kazanacağın ve bugün kaç hakkın kaldığı yazıyor; istemezsen Vazgeç. Fabrikanın planlı bakımını artık kâhya yapmıyor, sadece zamanı gelince haber veriyor: bakımı fabrika panelinden altınla ya da reklam izleyerek sen yaptırırsın. Yeni: fabrika hammadde silosuna reklamla hammadde (ör. 3 ham yün, 12 ot; aynı gün izledikçe artar, günde 3). Ayrıntılar: Ayarlar › Reklamlar.",
+  "en": "Ad rewards rebalanced: daily gold 40–480 G depending on your chapter, construction speed-up 15 minutes (twice a day), 10% extra goods while away, half of the daily gift items, +6 hours for goods about to spoil, a third of disaster losses back, +20 energy, 5 L diesel. Before every ad you now see what you will get and how many ads are left today; tap Cancel if you don't want it. The steward no longer does planned factory maintenance, only tells you when it is due: arrange it from the factory panel with gold or by watching an ad. New: raw materials for the factory silo by ad (e.g. 3 raw wool, 12 hay; grows with each ad the same day, 3 a day). Details: Settings › Ads.",
+  "v": 760
+ },
+ {
+  "v": 759,
+  "d": "2026-11-11",
+  "tr": "Un fabrikası ve yem fabrikası artık buğdayı ortak kullanıyor: iki fabrikanın silo ekranında, raporda ve dışarıdaki göstergede aynı buğday miktarı ve aynı doluluk oranı görünüyor (hangi silonun ne kadar tuttuğu altta yazıyor). Bir fabrikanın silosu boşalsa da öbüründeki buğdayla üretim sürüyor; toplam buğday iki kez sayılmıyor.",
+  "en": "The flour mill and the feed mill now share wheat: both factories show the same wheat amount and the same fill level in the silo screen, the report and the outdoor gauge (the split per silo is shown below). If one silo runs empty, production continues with the wheat in the other; total wheat is no longer counted twice."
+ },
+ {
+  "v": 758,
+  "d": "2026-11-11",
+  "tr": "Altın biriktirme görevleri artık bölümden bölüme büyüyor: Bölüm 4 450.000, Bölüm 5 600.000, Bölüm 6 800.000 altın. Şu an bu görevlerden birindeysen eski hedefinle bitirirsin.",
+  "en": "Gold-saving quests now grow chapter by chapter: Chapter 4 450,000, Chapter 5 600,000, Chapter 6 800,000 gold. If you are on one of these quests right now, you finish it with your old target."
+ },
+ {
+  "v": 757,
+  "d": "2026-11-11",
+  "tr": "Yeni oyun artık her zaman sabah 08:00'de, gün ışığında başlıyor (eskiden gece karanlığına denk gelebiliyordu). Yeni oyun ekranı yatay telefonda kaydırmadan sığıyor, yol gösterme yazısı karakter penceresinin üstüne binmiyor. Bir kayıt açılamazsa oyun takılı kalmıyor: kaydın kopyası saklanıyor ve başka kayıt yuvası ya da yedek seçebiliyorsun.",
+  "en": "A new game now always starts at 08:00 in daylight (it could start in the dark before). The new game screen fits a landscape phone without scrolling, and the route hint no longer covers the character window. If a save cannot be opened the game no longer gets stuck: a copy of the save is kept and you can pick another slot or a backup."
+ },
+ {
+  "v": 756,
+  "d": "2026-11-11",
+  "tr": "Pazar Savaşı'ndaki komşu iller artık kendi yurduna göre gelir: Karadeniz'de Rize ve Samsun, Ege'de Manisa ve Denizli, İç Anadolu'da Nevşehir ve Konya, Akdeniz'de Mersin ve Adana; rastgele yurtta iller de rastgele. Yurdunu kur ekranından değiştirebilirsin.",
+  "en": "The neighbouring cities in the Market War now follow your own homeland: Rize and Samsun on the Black Sea, Manisa and Denizli in the Aegean, Nevşehir and Konya in Central Anatolia, Mersin and Adana on the Mediterranean; random homelands get random cities. You can change them on the Set up your homeland screen."
+ },
+ {
+  "v": 755,
+  "d": "2026-11-11",
+  "tr": "Bölüm 5 ve 6 yenilendi. Bölüm 5'te Demirkol AŞ ile Pazar Savaşı: Elazığ, Malatya ve Diyarbakır pazar payları, bayiler, Demirkol'un hamlelerine karşılık, tadım günü, İstanbul Gıda Fuarı, Hamburg konteyneri ve kendi markan. Bölüm 6'da Demirkol AŞ'yi devralma: köylülerden pay toplama ve pazarlık, kapalı zarf ihale, banka rehni, yönetim kurulu kararları, büyük final (tamamen satın al ya da ortak ol) ve Hasan Dede'nin son mektubu. Mevcut ilerlemen korunur.",
+  "en": "Chapters 5 and 6 redesigned. Chapter 5 brings the Market War with Demirkol Inc.: market shares in Elazığ, Malatya and Diyarbakır, dealerships, answering Demirkol's moves, tasting days, the Istanbul Food Fair, the Hamburg container and your own brand. Chapter 6 is the takeover of Demirkol Inc.: collecting and haggling for villagers' shares, a sealed-bid tender, the bank's pledged share, board decisions, a big finale (buy it outright or become partners) and Grandpa Hasan's last letter. Your progress is kept."
+ },
+ {
+  "v": 754,
+  "d": "2026-11-11",
+  "tr": "Diğer dillerde itibar açıklaması ve koyun/keçi süt haberi artık çevrili.",
+  "en": "The reputation description and the sheep/goat milk report are now translated in other languages."
+ },
+ {
+  "v": 753,
+  "d": "2026-11-11",
+  "tr": "Genel tarama düzeltmeleri: bina içinde ve sanayi bölgesinde üstteki yer adı doğru yazar, haritada sanayi bölgesi görünür, ilk odun görevinde yanlış kış notu çıkmaz, uzak köylüye teslim yan görevleri Bölüm 2'den sonra gelir, diğer dillerde eksik çeviriler tamamlandı.",
+  "en": "General sweep fixes: the place name is correct inside buildings and in the industrial zone, the industrial zone shows on the map, the first wood quest no longer shows a wrong winter note, far-villager delivery side quests start in Chapter 2, and missing translations were added."
+ },
+ {
+  "v": 752,
+  "d": "2026-11-10",
+  "tr": "Görev ekranı fabrika silosundaki şeker pancarı, buğday ve yünü de sayar; silodaki yetiyorsa eksik görünmez.",
+  "en": "The quest screen now counts raw materials in the factory silo; if the silo has enough, nothing shows as missing."
+ },
+ {
+  "v": 751,
+  "d": "2026-11-10",
+  "tr": "Otobüsler oyuncunun ve yayaların içinden geçmiyor, kenara iter; önünde durursan korna çalar.",
+  "en": "Buses no longer drive through you or pedestrians; they push you aside and honk."
+ },
+ {
+  "v": 750,
+  "d": "2026-11-10",
+  "tr": "Otobüs duraklarının içinden geçilmiyor. Tarım dronunun yanına gidince pencere açılır, Şimdi ilaçla ile uçurulur.",
+  "en": "You can no longer walk through bus stops. Walk up to the farm drone to open its panel and spray now."
+ },
+ {
+  "v": 749,
+  "d": "2026-11-10",
+  "tr": "Yem fabrikası silosunda buğday bitince un fabrikasındaki fazla buğday aktarılır. Ayşe yokken de dede tarlasını biçip eker.",
+  "en": "Feed factory now gets surplus wheat from the flour mill silo. Ayşe harvests and replants the grandfather's field while you are away."
+ },
+ {
+  "v": 748,
+  "d": "2026-11-10",
+  "tr": "Traktörle teslimata çıkınca karakter traktöre ışınlanmıyor. Çay ocağında elinde gerçek çay bardağı var. Römork duraklardan geçmiyor, tekerleri yere batmıyor. Sanayi girişindeki yol düzeldi. At bağlama tahtasının içinden geçilmiyor. Zeytinlikte taş ve ağaç kalmıyor.",
+  "en": "Choosing the tractor for a delivery no longer teleports you to it. You now hold a real tea glass at the tea house. The trailer no longer passes through bus stops and its wheels no longer sink. The road at the industrial zone entrance is fixed. You can't walk through the horse hitching rail. The olive grove is cleared of stones and trees."
+ },
+ {
+  "v": 747,
+  "d": "2026-11-10",
+  "tr": "Rıfat'ın traktörü ve gübre römorku artık ahır kapısının önünde değil, gübre çukurunun yanında duruyor. Rıfat gübreyi oraya yükler, seferden dönünce de oraya park eder. Taşıyıcı yoksa elle topladığın gübreyi gübre çukurunun yanındaki römorka yüklersin.",
+  "en": "Rıfat's tractor and manure trailer now stand next to the manure pit instead of in front of the barn gate. Rıfat loads the manure there and parks there after each trip. Without a carrier, load the manure you collect by hand onto the trailer next to the manure pit."
+ },
+ {
+  "v": 746,
+  "d": "2026-11-10",
+  "tr": "Telefon ısınınca oyun kendiliğinden yavaşlar: kare hızı ve gerekirse görüntü kalitesi biraz düşer, telefon soğuyup pil daha az gider. Soğuyunca oyun normal hızına döner. (Yeni uygulama güncellemesiyle çalışır.)",
+  "en": "When your phone gets hot, the game now slows down on its own: the frame rate and, if needed, the image quality drop a little so the phone cools off and uses less battery. Once it cools down, the game returns to normal speed. (Works with the new app update.)"
+ },
+ {
+  "v": 745,
+  "d": "2026-11-10",
+  "tr": "Köpek kulübesini taşıyınca köpekler de hemen yeni kulübenin önüne gelir. Laboratuvar çalışanları (Laborant Nazlı ve ekibi) sanayideki laboratuvarda başlar, eski yerden uzun yol yürümezler.",
+  "en": "When you move the dog kennel, the dogs now come to the new kennel right away. Lab staff (Lab Technician Nazlı and team) start at the lab in the industrial zone instead of walking a long way from the old spot."
+ },
+ {
+  "v": 744,
+  "d": "2026-11-10",
+  "tr": "Gübre taşıyıcı Rıfat artık gübreyi traktör ve römorkla taşıyor: biyogaz tesisi sanayideyse Rıfat'ın yeşil traktörü ahır önündeki gübre römorkuna bağlı durur. Rıfat saat 11:00 ve 16:00'da traktöre biner, yollardan sanayiye gidip tesisin önünde römorkun kasasını devirerek gübreyi boşaltır, sonra dönüp ahır önüne park eder. Traktör ve römork yolda giderken de engeldir, içlerinden geçilmez; önlerinde durursan Rıfat bekler. Römork yoldayken elle gübre yüklenmez.",
+  "en": "Manure hauler Rıfat now carries the manure by tractor and trailer: when the biogas plant is in the industrial zone, Rıfat's green tractor stands hitched to the manure trailer in front of the barn. At 11:00 and 16:00 Rıfat gets on, drives along the roads to the industrial zone, tips the trailer to unload in front of the plant, then drives back and parks by the barn. The tractor and trailer block you on the road too; if you stand in front of them Rıfat waits. You can't load manure by hand while the trailer is away."
+ },
+ {
+  "v": 743,
+  "d": "2026-11-10",
+  "tr": "Sanayi bölgesinde ve çiftlikte görünen toprak yol kalktı (Başkan'ın bildirimi). Taksi yol dışından gidince arkasında iz kalıyordu; bu iz artık sanayinin, çiftlik arazisinin, asfaltın ve yapıların üstünde oluşmuyor. Eski kayıtlardaki bu izler de kendiliğinden silindi, bahçe artık yolun ortasında görünmüyor.",
+  "en": "The dirt track showing up in the industrial zone and on the farm is gone. Taxi rides off the road used to leave a track; it no longer forms over the industrial zone, the farm land, asphalt or buildings, and such tracks in older saves are removed, so the garden no longer looks like it sits in the middle of a road."
+ },
+ {
+  "v": 742,
+  "d": "2026-11-10",
+  "tr": "Sanayi bölgesine atla girilebilir; at çitin içinde kalır, kendiliğinden ahıra dönmez. Girişin içinde at bağlama direği var, yanında inersen atın direğe bağlanır. At çitin öbür yanındaysa artık çitin üstünden ata zıplamıyorsun, at kapıdan dolaşıp yanına geliyor. Hankendi'nin yeni evleri artık sanayi bölgesinin çevresine ve giriş yoluna kurulmuyor (sol şeridi kapatan ev). Güvenlik kulübesinin içinden çıkan ağaç kaldırıldı.",
+  "en": "You can ride into the industrial zone; your horse stays inside the fence and doesn't head home on its own. There is a hitching post just inside the gate; dismount next to it and your horse is tied up. If your horse is on the other side of the fence you no longer jump over it; the horse comes round through the gate. Hankendi's new houses are no longer built around the industrial zone or on its entrance road (the house blocking the left lane). The tree growing inside the security booth is gone."
+ },
+ {
+  "v": 741,
+  "d": "2026-11-10",
+  "tr": "Zeytinliğin yerini artık sen seçiyorsun: satın alınca yer seçme açılır, başka yapıların (çay çardağı, dinlenme alanı…) üstüne kurulamaz. Alanda ağaç ya da taş varsa zeytinlik yine kurulur ama o yerlere fidan dikilmez: önce ağacı kes, taşı kır, sonra dik. Zeytinlik ekranında engelli yerler ⛔ ile görünür ve 📍 Yerini değiştir düğmesi var. Başka bir yapının üstünde kalmış zeytinlikler ağaçlarıyla birlikte boş bir yere taşındı.",
+  "en": "You now choose where your olive grove goes: placement opens when you buy it, and it can't be built on other buildings (tea arbor, rest area…). If there are trees or stones in the area, the grove is still built but saplings can't be planted on those spots: cut the tree or break the stone first, then plant. The olive grove screen marks blocked spots with ⛔ and has a 📍 Change location button. Olive groves that ended up on another building were moved to a free spot with their trees."
+ },
+ {
+  "v": 740,
+  "d": "2026-11-10",
+  "tr": "Traktörle otomatik sürüşte mazot bitince, mazot koyup yeniden otomatik sürdüğünde traktör artık kaldığı yerden devam eder; Hasan Dede'nin tarlasında işlenmiş sıraların üstünden baştan geçmez. Otomatik sürüş sırasında ana düğme \"Otomatik sürüşü durdur\" olur: istediğin an durdurursun, yapılan iş kalır, yeniden otomatik sürünce kalan işten devam eder.",
+  "en": "When the tractor runs out of diesel during automatic driving, refuel and run it again: it now continues where it stopped instead of going back over finished rows in Grandpa Hasan's field. While driving automatically the main button becomes \"Stop automatic driving\": stop any time, the work done stays, and the next automatic run finishes the rest."
+ },
+ {
+  "v": 739,
+  "d": "2026-11-10",
+  "tr": "Hasan Dede'nin tarlası: Ne ekilsin? ekranında seçtiğin ürün artık tarlanın ana ürünü, bütün tarhlara o ekilir (ayrı boyadığın kareler kendi ürününde kalır). Tarlaya sulama kanalları, tarh aralarına ark, batı ucuna kuyu ve pompa eklendi.",
+  "en": "Hasan Dede's field: the crop you pick in What to plant? is now the field's main crop and every bed sows it (beds you painted separately keep their crop). Irrigation canals, furrows between beds and a well with a pump were added."
+ },
+ {
+  "v": 738,
+  "d": "2026-11-10",
+  "tr": "Hava durumu artık yağışı doğru gösterir: bulunduğun yerde hava 0 °C ve altındayken yağış kar olarak yağar; üstteki hava göstergesi, Hava durumu ekranı ve tahminler de «Karlı» yazar. Ilık havada yağmur yine yağmurdur.",
+  "en": "The weather now shows precipitation correctly: when it is 0 °C or below where you are, it falls as snow, and the weather bar, the Weather screen and the forecast say «Snowy». In mild weather rain is still rain."
+ },
+ {
+  "v": 737,
+  "d": "2026-11-10",
+  "tr": "Her fabrikanın artık sanayi bölgesinde kendi hammadde silosu ve ürün deposu var; fabrikanın arkasında durur, iki yüzündeki göstergeden doluluk görünür, yaklaşınca \"Hammadde silosu · %45\" düğmesi çıkar. Fabrika yalnız kendi silosundan işler, ürünü kendi deposuna koyar; çiftlikteki ambar fabrikalar için kullanılmaz ve fabrika ürünleri ambarda yer kaplamaz. Silolar geniş: 40 günlük hammadde, depo 60 günlük ürün alır (un fabrikasında 12.000 buğday ve 3.600 çuval un) ve fabrika seviyesiyle büyür. Siloyu köylüden alarak (doğrudan siloya), çantadan boşaltarak ya da ambardan aktararak doldurursun; istersen her sabah ambardan otomatik aktarılır. Hammadde depolama tesisindeki ürün ve kâhyanın aldığı hammadde silolara kendiliğinden gider. Ambarındaki fabrika hammaddesi silolara taşındı, hiçbir şey kaybolmadı; tohumluk ve görevde lazım olanlar ambarda kaldı. Çiftlikteki sandık da kapasitesi arttıkça gözle görülür büyüyor.",
+  "en": "Each factory now has its own raw material silo and product warehouse in the industrial zone, standing behind the factory with fill gauges on both sides; walk up and a \"Raw material silo · 45%\" button appears. A factory works only from its own silo and puts its product in its own warehouse; your farm barn is no longer used for factories and factory products take no barn space. Silos are large: 40 days of raw material and 60 days of product (12,000 wheat and 3,600 sacks of flour at the flour mill), growing with the factory level. Fill a silo by buying from villagers (delivered straight to the silo), emptying your bag or transferring from the barn, or let it transfer automatically every morning. Goods in the raw material facility and what your steward buys go to the silos by themselves. Factory raw materials in your barn were moved to the silos with nothing lost; seed grain and what quests need stayed in the barn. Your farm chest now also grows visibly as its capacity increases."
+ },
+ {
+  "v": 736,
+  "d": "2026-11-10",
+  "tr": "Başka oyuncular artık yalnız ziyarette görünür: birinin köyüne ziyarete gidince ya da biri senin köyüne gelince birbirinizi görürsünüz. Şehirde, yollarda, ormanlarda ve sanayide ziyaret dışında başka oyuncu görünmez.",
+  "en": "Other players now appear only during visits: you see each other when you visit someone's village or they visit yours. Outside a visit, no other players appear in the city, on roads, in forests or in the industrial zone."
+ },
+ {
+  "v": 735,
+  "d": "2026-11-10",
+  "tr": "Zeytin artık tarlaya ekilmiyor, ağaç olarak yetişiyor. Çiftlik › Zeytinlik kurulur (Bölüm 4); 24 yere zeytin fidanı dikilir, fidan 5 günde ağaç olur, olgun her ağaç iki günde bir 8 zeytin verir. Zeytin kışın da toplanır. Bahçıvan Cemil olgun zeytinleri toplar, sandıktaki fidanları boş yerlere diker. Tarlanda ya da Hasan Dede'nin tarlasında zeytin ağacın varsa zeytinlik sana bedava kurulur, ağaçların olgun haliyle oraya taşınır, olgun zeytinler sandığa konur; o parseller buğdaya döner.",
+  "en": "Olives are no longer sown in the field; they now grow on trees. Build Farm › Olive grove (Chapter 4), plant olive saplings in its 24 spots; a sapling becomes a tree in 5 days and each mature tree gives 8 olives every two days, in winter too. Gardener Cemil picks ripe olives and plants saplings from the chest. If you had olive trees in your field or Grandpa Hasan's field, you get the olive grove for free with those trees moved there fully grown, ripe olives go to the chest, and those plots switch back to wheat."
+ },
+ {
+  "v": 734,
+  "d": "2026-11-10",
+  "tr": "Gübre römorkunun içinden artık geçilmiyor. Yerde kar varken ahır ve ağılların yan perdeleri kapalı duruyor.",
+  "en": "You can no longer walk through the manure trailer. Barn and pen side curtains stay closed while snow lies on the ground."
+ },
+ {
+  "v": 733,
+  "d": "2026-11-10",
+  "tr": "Biyogaz tesisi ve laboratuvarı artık sanayi bölgesinde. Sanayi bölgesi batıya doğru büyüdü, ikisi bu yeni şeride kurulur; köyün yanındaki tesis ve laboratuvar ücretsiz olarak oraya taşınır, kademe, cihazlar ve verim aynı kalır. Gübre çiftlikte birikmeye devam eder: Rıfat ahırdaki gübreyi ahırın önündeki gübre römorkuna yükler, römork onu sanayideki tesise götürür. Rıfat yoksa topladığın gübreyi römorka boşaltabilirsin. Operatör Kadir ve laboratuvar çalışanları sanayiye kapıdan girip çıkar.",
+  "en": "The biogas plant and laboratory are now in the Industrial zone. The zone has grown to the west and both are built on the new strip; a plant and lab near the village move there for free, keeping their level, equipment and efficiency. Manure still collects on the farm: Rıfat loads it from the barn onto the manure trailer in front of the barn, and the trailer takes it to the plant in the Industrial zone. Without Rıfat, you can unload the manure you collect onto the trailer. Operator Kadir and the lab staff come and go through the zone gate."
+ },
+ {
+  "v": 732,
+  "d": "2026-11-09",
+  "tr": "Evinin balkonuna (sundurmasına) çıkmak kolaylaştı: korkuluktaki giriş aralığı genişletildi.",
+  "en": "Getting onto your house's porch is easier: the opening in the railing is wider."
+ },
+ {
+  "d": "2026-11-09",
+  "tr": "Otobüsler artık tarifeyle çalışıyor: bileti alıp durakta bekliyorsun, otobüs sefer saatinde gelince biniyorsun ve yalnız duraklarda iniyorsun. Durağa dokununca her durağın sonraki otobüs saatini ve kaç dakika kaldığını görürsün. Sivrice ⇄ Elazığ hattında iki otobüs, Çamlıbel ve Akpınar hatları da var. Yol kenarındaki duraklar artık yola dönük. Hankendi çay ocağına kapı geldi; önündeki taburelerde oturup çay içebilirsin.",
+  "en": "Buses now run on a timetable: buy a ticket, wait at the stop and board when the scheduled bus arrives; it only drops you off at stops. Tap a stop to see the next bus time and minutes left for every stop. Two buses on the Sivrice ⇄ Elazığ line, plus the Çamlıbel and Akpınar lines. Roadside bus stops now face the road. The Hankendi tea house has a door, and you can sit on the stools out front and drink tea.",
+  "v": 731
+ },
+ {
+  "v": 730,
+  "d": "2026-11-09",
+  "tr": "Güneş paneli tarlası artık sanayi bölgesinde, jeneratörün yanında kurulur; köyün yanındaki paneller fabrikalar gibi ücretsiz sanayiye taşınır, üretim ve gelir aynı. Sanayi kavşaklarında yollar artık üst üste binmiyor, şerit çizgileri düzgün; giriş yolu ana yolun kenarından başlıyor. Attan inince at en az 3 dakika indiğin yerde bekliyor; fabrikaya girip çıkınca kaybolmuyor.",
+  "en": "The solar panel field is now built in the Industrial zone, next to the generator; panels near the village move there for free like factories, with the same output and income. Roads no longer overlap at Industrial zone junctions and lane markings are clean; the access road starts at the edge of the main road. When you get off your horse it now waits where you left it for at least 3 minutes, so it no longer disappears when you go into a factory."
+ },
+ {
+  "v": 729,
+  "d": "2026-11-09",
+  "tr": "Evdeki sedire oturunca ayaklar artık sininin (yuvarlak sehpanın) içine girmiyor; sini biraz ileri alındı. Evinin önüne gelince \"Eve gir\" düğmesi artık balkonun (sundurmanın) önünde her yerde çıkıyor; balkona çıkınca \"Banka otur\" çıkıyor, ikinci düğmeden yine eve girebilirsin.",
+  "en": "Sitting on the divan at home no longer puts your feet inside the round tray table; the table was moved a little further away. The \"Enter house\" button now appears anywhere in front of your porch; once you step onto the porch, \"Sit on bench\" appears, and you can still enter the house from the second button."
+ },
+ {
+  "v": 728,
+  "d": "2026-11-09",
+  "tr": "Reklam teklif pencereleri artık kendiliğinden açılmıyor. Yorgunken ya da afetten sonra sol üstte küçük bir 📺 düğmesi çıkıyor, istersen basıyorsun. Mazot bitince de pencere açılmıyor. Yeni: Günlük hediye penceresinde reklam izleyerek günde bir kez bölümüne göre 100–1.200 altın alabilirsin. Ayrıntılar: Ayarlar › Reklamlar.",
+  "en": "Ad offer windows no longer open on their own. When you're tired or after a disaster, a small 📺 button appears at the top left and you tap it only if you want. The window no longer pops up when diesel runs out either. New: once a day you can watch an ad in the Daily gift window for 100–1,200 gold depending on your chapter. Details: Settings › Ads."
+ },
+ {
+  "v": 727,
+  "d": "2026-11-09",
+  "tr": "Hasan Dede'nin konağındaki anı odasında gençlik fotoğrafının çerçevesi boş görünüyordu; artık içinde genç Hasan ile arkadaşı Selim'in eski fotoğrafı duruyor.",
+  "en": "In Grandpa Hasan's mansion, the frame of his youth photo looked empty; it now shows the old photo of young Hasan and his friend Selim."
+ },
+ {
+  "v": 726,
+  "d": "2026-11-09",
+  "tr": "Gönderdiklerim düzeldi: düzeltilip yayınlanan ama listede hâlâ «Sırada» ya da «İşleme alındı» görünen bildirimlerin durumu güncellendi. Hata olmayan ya da artık geçerli olmayan bildirimler «İncelendi» yazar. Bundan sonra bir düzeltme yayınlanınca bildirimin kendiliğinden «Düzeltildi» olur.",
+  "en": "My reports fixed: reports that were already fixed but still showed «Queued» or «In progress» now show the right status. Reports that were not bugs or no longer apply show «Reviewed». From now on a report turns «Fixed» automatically when its fix is released."
+ },
+ {
+  "v": 724,
+  "d": "2026-11-09",
+  "tr": "Mandıradaki yoğurt tezgâhında artık yoğurttan ayran yapılabiliyor.",
+  "en": "You can now make ayran from yogurt at the dairy's yogurt counter."
+ },
+ {
+  "v": 723,
+  "d": "2026-11-09",
+  "tr": "Sanayi bölgesinin çitinden yürüyerek, atla ya da araçla geçilmiyor; giriş yalnız güvenlik kapısından. Taksi sanayinin içine girmiyor, ana yolda kapının önünde bırakıyor. Yapı taşırken yeni düğme: Yanıma getir (yapı karakterin yanındaki en yakın uygun yere gelir), fabrikalarda Boş arsaya koy. Köy yanında kalan fabrika Taşı deyince kendiliğinden sanayide boş arsaya gelir, ücretsizdir; Yapıların yeri ekranında Fabrikaları sanayi bölgesine taşı düğmesi de var.",
+  "en": "You can no longer cross the Industrial zone fence on foot, on horseback or by vehicle; the only way in is the security gate. Taxis no longer drive into the zone and drop you on the main road at the gate. New button when moving buildings: Bring next to me (the building goes to the nearest free spot next to your character); for factories it's Put on a free plot. A factory still next to the village jumps to a free plot in the Industrial zone when you tap Move, for free; the Building locations screen also has a Move factories to the Industrial zone button."
+ },
+ {
+  "v": 722,
+  "d": "2026-11-09",
+  "tr": "Selde su artık her yere geliyor; tavuklar ve tavşanlar sudan kaçıp kurtuluyor. Sanayi bölgesi girişinde yoldaki ağaç kaldırıldı.",
+  "en": "Flood water now reaches everywhere; chickens and rabbits flee the water to safety. The tree on the road at the industrial zone entrance was removed."
+ },
+ {
+  "v": 721,
+  "d": "2026-11-09",
+  "tr": "Hata bulana sürpriz hediye: geri bildirimle gönderdiğin hata ekibimizce onaylanıp düzeltilince sana sürpriz hediye gelir (bölümüne göre altın ve küçük bir eşya paketi). Geri bildirim formunda Hata seçince bu not görünür, Gönderdiklerim listesinde hediye gönderilen kayıtlar işaretli.",
+  "en": "Surprise gift for bug finders: when our team confirms and fixes a bug you sent through feedback, you get a surprise gift (gold based on your chapter plus a small item pack). The note shows when you pick Bug in the feedback form, and rewarded entries are marked in My Submissions."
+ },
+ {
+  "v": 720,
+  "d": "2026-11-09",
+  "tr": "Yağ fabrikası çatısı düzeldi, Uluova traktörüne engel",
+  "en": "Oil mill roof fixed, Uluova tractor now blocks"
+ },
+ {
+  "v": 719,
+  "d": "2026-11-09",
+  "tr": "Sanayi bölgesine köylüler ve hayvanlar girmez; girişte bariyer, güvenlik kulübesi, güvenlik görevlisi ve bekçi köpeği var. Yapı taşıma hakkı: herkesin 1 ücretsiz taşıma hakkı var; hak bitince bir taşıma altınla (bölüme göre 150 A'dan başlar) ya da reklam izleyerek alınır, Destekçi paketi olanlar reklamsız alır. Yer seçerken Vazgeç dersen hak harcanmaz; yeni alınan yapının yerini seçmek ve fabrikaları sanayi bölgesine taşımak ücretsizdir.",
+  "en": "Villagers and animals no longer enter the Industrial zone; the entrance has a barrier, a security booth, a guard and a guard dog. Building move rights: everyone gets 1 free move; after that a move costs gold (from 150 G, depending on the chapter) or watching an ad, and Supporter pack owners get it without ads. Cancelling while placing doesn't use the right; placing a newly bought building and moving factories to the Industrial zone are free."
+ },
+ {
+  "v": 718,
+  "d": "2026-11-09",
+  "tr": "Yağ fabrikası: sanayi bölgesinde ayçiçeği, pamuk ve zeytinden yağ çıkarılır; içeride laboratuvar analizleri ve proses akışı, küspe yem olur. Pamuk ve zeytin ekimi (zeytin ağacı her yıl yeniden meyve verir). Hasan Dede'nin tarlasında tarh tarh ürün seçimi için tarlada Ne ekilsin? düğmesi.",
+  "en": "Oil mill: press sunflower, cotton seed and olive oil in the industrial zone; lab analyses and the full process inside, oil cake becomes feed. Cotton and olive farming (olive trees fruit again every year). What to plant? button inside Grandpa Hasan's field to choose crops bed by bed."
+ },
+ {
+  "v": 717,
+  "d": "2026-11-09",
+  "tr": "Ekinler gerçekçi: buğday ve arpada kılçıklı başak, mısırda püskül ve koçan, ayçiçeğinde sarı taçlı tabla, şeker pancarında parlak yaprak rozeti ve toprakta pancar başı. Yeni şeker pancarı simgesi.",
+  "en": "Realistic crops: bearded ears on wheat and barley, tassels and cobs on corn, golden sunflower heads, glossy sugar beet leaves with the root showing. New sugar beet icon."
+ },
+ {
+  "v": 716,
+  "d": "2026-11-09",
+  "tr": "Fabrika duvarı ve Hankendi evleri engeli, atın gövdesi duvara çarpar",
+  "en": "Factory walls and Hankendi houses now block, horse body collides"
+ },
+ {
+  "v": 715,
+  "d": "2026-11-09",
+  "tr": "Fabrikada planlı bakım için altının yetmiyorsa reklam izleyerek bakım yaptırabilirsin (günde 2 kez; Destekçi paketinde reklamsız). Altının yetiyorsa bakım altınla yapılır. Planlı bakım 10 günden uzun yapılmazsa arıza riski her gün artar; kontrol panelinde son bakım günü ve uyarı görünür.",
+  "en": "If you can't afford a factory's scheduled maintenance, you can watch an ad to get it done (twice a day; ad-free with the Supporter pack). If you have enough gold, maintenance is paid with gold. If scheduled maintenance is skipped for more than 10 days, breakdown risk rises every day; the control panel shows the last maintenance day and a warning."
+ },
+ {
+  "v": 714,
+  "d": "2026-11-09",
+  "tr": "Fabrikalar köyden uzağa taşındı: yeni Sanayi bölgesi Elazığ yolunun güneyinde, Uluova tarlalarının doğusunda (köy meydanına ~340 m). Giriş yolu, iki sokak, her fabrikaya beton arsa, kamyon parkı, sokak lambaları, ağaçlar, çit ve giriş tabelası var; taksiyle de gidilir. Fabrikalar artık yalnız bu bölgeye kurulur. Fabrikası köyün yanında olanlara uyarı çıkar: tek dokunuşla ücretsiz taşınır, stok, üretim, geliştirme, çalışan ve görevler aynen kalır. Her fabrikanın görünüşü artık farklı (un silolu değirmen, kemer çatılı yem hangarı, bacalı şeker fabrikası, şed çatılı tekstil, cam kuleli holding, konteynerli liman acentesi…).",
+  "en": "Factories have moved away from the village: the new Industrial zone is south of the Elazığ road, east of the Uluova fields (~340 m from the village square). It has an access road, two streets, a concrete plot for every factory, a truck park, street lights, trees, a fence and an entrance sign; you can also go by taxi. Factories can now only be built there. If your factories are next to the village you get a notice: move them for free with one tap, and your stock, production, upgrades, workers and quests stay the same. Every factory now looks different (mill with flour silos, arched feed hangar, sugar factory with chimney, saw-tooth textile hall, glass holding tower, port agency with containers…)."
+ }
 ]
