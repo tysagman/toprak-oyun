@@ -1,5 +1,11 @@
 [
  {
+  "v": 815,
+  "d": "2026-11-13",
+  "tr": "Finans müdürü artık senin onayın olmadan bankaya para yatırmaz ve hesaptan çekmez; önerir, sen Onayla/Reddet dersin. Defterde «Para nerede?» kutusu cebin ve hesabın gün içindeki hareketini gösterir.",
+  "en": "The finance manager no longer moves money to or from the bank without your approval; it proposes and you approve or decline. The ledger now shows a «Where is the money?» box with pocket and bank movements."
+ },
+ {
   "v": 814,
   "d": "2026-11-13",
   "tr": "Mağaza görevi «Bereketli gün» artık tek günde 1.500 A istiyor (3.000 idi); görevde bugünkü kazanç ve en iyi gün görünür.",
