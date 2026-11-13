@@ -1,5 +1,11 @@
 [
  {
+  "v": 821,
+  "d": "2026-11-13",
+  "tr": "Köylü arabaları azaldı (en çok 4): artık yalnız yol kenarındaki asfalt park ceplerinde durur, çimene, köy meydanına ve çiftliğinin önüne park etmez. Köy meydanına hiçbir araç giremez.",
+  "en": "Fewer villager cars (at most 4): they now park only in roadside parking bays, never on grass, the village square or in front of your farm. No vehicle can enter the village square."
+ },
+ {
   "v": 820,
   "d": "2026-11-13",
   "tr": "Araba, taksi ve ambulans dönüş yaparken artık ahır, ağıl, kümes gibi yapıların içinden geçmiyor; taksi yapıya değmeyen yerde duruyor.",
