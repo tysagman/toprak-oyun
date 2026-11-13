@@ -1,5 +1,11 @@
 [
  {
+  "v": 807,
+  "d": "2026-11-13",
+  "tr": "Çiftlik mağazasında her ürün için günlük satış limiti yazabilirsin: bir oyun gününde o üründen en çok o kadar satılır, raftaki yetmezse eksik sandıktan tamamlanır.",
+  "en": "Farm shop: set a daily sales limit for each product. At most that many are sold per game day; if the shelf runs short, the rest is topped up from the chest."
+ },
+ {
   "v": 806,
   "d": "2026-11-12",
   "tr": "🚜 Park hâlindeki traktörün römorkunun içine artık girilemiyor (traktörle römork arasındaki boşlukta karakter römorka giriyordu).",
