@@ -1,5 +1,11 @@
 [
  {
+  "v": 823,
+  "d": "2026-11-14",
+  "tr": "Ambarda balık ve yumurta miktarları artık virgüllü uzun sayılar olarak görünmüyor; bozulan ürün tam adet olarak eksilir, eski kayıtlardaki küsuratlar düzeltildi.",
+  "en": "Fish and egg amounts in the barn no longer show long decimals; spoiled goods now drop by whole pieces and old saves were fixed."
+ },
+ {
   "v": 822,
   "d": "2026-11-14",
   "tr": "Yatay ekranda sağ üstteki Ayarlar ve yakınlaştırma tuşları artık uzun köy/bölge adının ve haritanın üstüne binmiyor; uzun adlar iki satıra iner. Menü açılınca telsiz (mikrofon) tuşu bir an menünün üstünde görünmüyor.",
