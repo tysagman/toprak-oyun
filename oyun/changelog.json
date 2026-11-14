@@ -1,5 +1,11 @@
 [
  {
+  "v": 831,
+  "d": "2026-11-14",
+  "tr": "Yönetim paneli için küçük iç düzenleme.",
+  "en": "Small internal update for the admin panel."
+ },
+ {
   "v": 830,
   "d": "2026-11-14",
   "tr": "Oto Galeri'de artık Sedan, Hatchback, SUV ve Pikap'ın benzinli, dizel ve elektrikli modelleri var; her birinin kasası, hızı ve motor sesi farklı. Spor araba gür V8 sesiyle en hızlısı: 750.000 A, Bölüm 5 ve itibar seviyesi 10 gerekir.",
