@@ -1,5 +1,11 @@
 [
  {
+  "v": 829,
+  "d": "2026-11-14",
+  "tr": "Araba sürüşü kolaylaştı: çubuğu ne kadar itersen o kadar hızlı gidersin, sağa-sola çevirince direksiyon döner, geri çekince fren ve geri vites; kamera hep arkada. Arabayla giderken ayak sesi gelmiyor. Araba insanların içinden geçmiyor: önüne çıkan yayaya yavaşlayıp durur, korna çalar. Hızlı giderken arabanın ekranda titremesi giderildi. Akaryakıtta pompa hortumu arabanın içinden geçmiyor, depo kapağı pompaya bakan tarafta.",
+  "en": "Driving is easier: push the stick further to go faster, steer left and right, pull back to brake and reverse; the camera stays behind. No more footstep sounds while driving. Cars no longer pass through people: they slow down, stop and honk for pedestrians. Fixed the car shaking on screen at speed. At the fuel station the pump hose no longer goes through the car."
+ },
+ {
   "v": 828,
   "d": "2026-11-14",
   "tr": "Araba alınca artık galerinin kapısından çıkıp önüne gelir, üstünde işaret yanar ve tebrik penceresi açılır: hemen binebilir ya da ücretsiz eve (otoparka) teslim ettirebilirsin. Arabanın nerede olduğu haritada Önemli yerler › Araban satırında; Git deyince yol gösterilir. Daha önce alınıp evden uzakta kalmış araba bir kez evin otoparkına getirildi.",
