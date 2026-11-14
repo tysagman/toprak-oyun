@@ -1,5 +1,11 @@
 [
  {
+  "v": 833,
+  "d": "2026-11-14",
+  "tr": "Otobüs artık durmak için karşı şeride geçmiyor: yol üstündeki her durağın karşısında ikinci bir durak var, otobüs gittiği yönün sağındaki durakta durur. Biletli yolculukta da doğru taraftaki durağa yönlendirilirsin.",
+  "en": "Buses no longer cross into the opposite lane to stop: every roadside stop now has a twin across the road and the bus stops on its own side. Ticket guidance points you to the stop on the correct side."
+ },
+ {
   "v": 832,
   "d": "2026-11-14",
   "tr": "Akaryakıt istasyonunda pompa adaları artık yürürken engel değil: bordürün üstünden karşı şeride geçebilirsin. Pompa, şarj ünitesi ve direkler yine engel, arabayla adaya çıkılmaz.",
