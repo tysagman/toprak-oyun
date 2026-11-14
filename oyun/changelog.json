@@ -1,5 +1,11 @@
 [
  {
+  "v": 822,
+  "d": "2026-11-14",
+  "tr": "Yatay ekranda sağ üstteki Ayarlar ve yakınlaştırma tuşları artık uzun köy/bölge adının ve haritanın üstüne binmiyor; uzun adlar iki satıra iner. Menü açılınca telsiz (mikrofon) tuşu bir an menünün üstünde görünmüyor.",
+  "en": "In landscape, the Settings and zoom buttons at the top right no longer cover long village/area names or the minimap; long names wrap to two lines. The walkie-talkie (mic) button no longer flashes over menus when they open."
+ },
+ {
   "v": 821,
   "d": "2026-11-13",
   "tr": "Köylü arabaları azaldı (en çok 4): artık yalnız yol kenarındaki asfalt park ceplerinde durur, çimene, köy meydanına ve çiftliğinin önüne park etmez. Köy meydanına hiçbir araç giremez.",
