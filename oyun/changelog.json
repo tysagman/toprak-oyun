@@ -1,5 +1,11 @@
 [
  {
+  "v": 825,
+  "d": "2026-11-14",
+  "tr": "Çiftlik evinin sundurmasında ve kapı basamağında karakterin ayakları artık döşemeye gömülmüyor; sundurma çatısı biraz yükseldi, baş değmiyor.",
+  "en": "Your character's feet no longer sink into the farmhouse porch floor and doorstep; the porch roof is slightly higher so your head doesn't touch it."
+ },
+ {
   "v": 824,
   "d": "2026-11-14",
   "tr": "Finans müdürünün önerisi artık mesajın içinden onaylanır: mesajda ✔ Onayla / ✖ Reddet ve 📒 Defteri aç tuşları var, nereden onaylanacağı ve neden önerdiği yazıyor; bildirime dokununca Defter açılır. Defterde her gelir ve gider kaleminin ne olduğu yazıyor; kaleme dokununca saatiyle hareketleri ve satılan ya da alınan eşyalar (ör. −40 Domates, +100 Buğday) görünür.",
