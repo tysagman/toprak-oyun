@@ -1,5 +1,11 @@
 [
  {
+  "v": 824,
+  "d": "2026-11-14",
+  "tr": "Finans müdürünün önerisi artık mesajın içinden onaylanır: mesajda ✔ Onayla / ✖ Reddet ve 📒 Defteri aç tuşları var, nereden onaylanacağı ve neden önerdiği yazıyor; bildirime dokununca Defter açılır. Defterde her gelir ve gider kaleminin ne olduğu yazıyor; kaleme dokununca saatiyle hareketleri ve satılan ya da alınan eşyalar (ör. −40 Domates, +100 Buğday) görünür.",
+  "en": "The finance manager's proposal can now be approved right in the message: it has ✔ Approve / ✖ Decline and 📒 Open the book buttons and says where to approve and why; tapping the notification opens the book. Every income and expense item in the book now explains what it is; tap an item to see its timed movements and the goods sold or bought (e.g. −40 Tomatoes, +100 Wheat)."
+ },
+ {
   "v": 823,
   "d": "2026-11-14",
   "tr": "Ambarda balık ve yumurta miktarları artık virgüllü uzun sayılar olarak görünmüyor; bozulan ürün tam adet olarak eksilir, eski kayıtlardaki küsuratlar düzeltildi.",
