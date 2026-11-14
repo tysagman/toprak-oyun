@@ -1,5 +1,11 @@
 [
  {
+  "v": 832,
+  "d": "2026-11-14",
+  "tr": "Akaryakıt istasyonunda pompa adaları artık yürürken engel değil: bordürün üstünden karşı şeride geçebilirsin. Pompa, şarj ünitesi ve direkler yine engel, arabayla adaya çıkılmaz.",
+  "en": "At the fuel station the pump islands no longer block you on foot: you can step over the curb to the other lane. Pumps, chargers and pillars still block, and cars cannot drive onto the islands."
+ },
+ {
   "v": 831,
   "d": "2026-11-14",
   "tr": "Yönetim paneli için küçük iç düzenleme.",
