@@ -1,5 +1,11 @@
 [
  {
+  "v": 835,
+  "d": "2026-11-15",
+  "tr": "Kartal ortada yokken (örneğin şehirde) «Kartalı kov» düğmesi artık çıkmıyor; kartal yalnız yakında avlanacak hayvan varken gelir.",
+  "en": "The «Shoo the eagle» button no longer appears when no eagle is hunting nearby (e.g. in the city); eagles only come when there is prey nearby."
+ },
+ {
   "v": 834,
   "d": "2026-11-15",
   "tr": "Kale Rehberi Zehra'nın kalenin dibinde, Çiftçi Halil'in Uluova'da kendi evi var. Geceleyin görev oku ve kapı çalma artık onları başka köylünün evinde göstermiyor (Zehra'nın kumaş görevi Bağcı Rüstem'in evine gidiyordu).",
