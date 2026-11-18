@@ -1,5 +1,11 @@
 [
  {
+  "v": 847,
+  "d": "2026-11-18",
+  "tr": "Pazar savaşında her şehrin yanında Gönder düğmesi var: kamyonlarını tek tek farklı şehirlere gönderebilirsin. Bir kamyon gidemezse nedeni yazılır.",
+  "en": "In the market war each city has a Send button: you can send your trucks one by one to different cities. If a truck can't leave, the reason is shown."
+ },
+ {
   "v": 846,
   "d": "2026-11-18",
   "tr": "Bölüm 5'teki köy yolu görevi artık «Köy yolunu kamyon yoluna çevirt»: muhtar dilekçesiyle yapılan asfalttan farklı olarak yolu kamyonlar için güçlendirir (kamyon 250 ürün, yakıt %20 az). Kamyon yolu varken asfalt yol dilekçesi tekrar istenmez.",
