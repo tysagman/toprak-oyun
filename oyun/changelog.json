@@ -1,5 +1,11 @@
 [
  {
+  "v": 842,
+  "d": "2026-11-18",
+  "tr": "Ambar ve sandık artık yanına yaklaşınca açılıyor; kedi, köpek ya da köylü önüne girse de ana düğme ambarda/sandıkta kalır, onlar ikinci düğmede.",
+  "en": "The barn and chest now open when you get close; if a cat, dog or villager is in the way, the main button stays on the storage and they move to the second button."
+ },
+ {
   "v": 841,
   "d": "2026-11-18",
   "tr": "Spor coupe V8 yenilendi: alçak, kavisli gövde, tekerlek kemerleri, LED farlar, yıldız jantlar ve kırmızı kaliperler. Motor sesi artık gerçek bir V8 gibi gurulduyor (marş, vites geçişleri, gaz kesince patlamalar). Arabadan inip binerken karakter artık arabanın içinden geçmiyor, kapı dışa açılıyor.",
