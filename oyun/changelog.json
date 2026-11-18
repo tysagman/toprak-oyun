@@ -1,5 +1,11 @@
 [
  {
+  "v": 844,
+  "d": "2026-11-18",
+  "tr": "Kamyon seferinde artık kaç kamyonun hangi şehre gideceğini sen seçiyorsun; yük kamyonlara eşit bölünür.",
+  "en": "On truck trips you now choose how many trucks go to which city; the load is split evenly between the trucks."
+ },
+ {
   "v": 843,
   "d": "2026-11-18",
   "tr": "Reklam izleyerek yakıt doldurma artık aracın deposunun yarısını dolduruyor (traktör 20 L, araba ve biçerdöver de dahil); depo taşmaz, günlük reklam hakları aynı.",
