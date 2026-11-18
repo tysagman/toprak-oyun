@@ -1,5 +1,11 @@
 [
  {
+  "v": 848,
+  "d": "2026-11-18",
+  "tr": "Fabrika arızaları artık çeşitli: kayış kopması, motor ısınması, elektrik arızası, rulman ve her fabrikaya özel arızalar. Fabrikanın içinde arızanın türü görünür. Arıza sıklığı ve onarım ücretleri aynı.",
+  "en": "Factory breakdowns now vary: snapped belts, overheated motors, electrical faults, bearings and breakdowns specific to each factory. You can see the type of breakdown inside the factory. Breakdown frequency and repair costs are unchanged."
+ },
+ {
   "v": 847,
   "d": "2026-11-18",
   "tr": "Pazar savaşında her şehrin yanında Gönder düğmesi var: kamyonlarını tek tek farklı şehirlere gönderebilirsin. Bir kamyon gidemezse nedeni yazılır.",
