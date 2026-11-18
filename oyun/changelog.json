@@ -1,5 +1,11 @@
 [
  {
+  "v": 840,
+  "d": "2026-11-18",
+  "tr": "Bursiyerin mezuniyeti artık oyun gününe göre sayılıyor: oyunda olmadığın saatler de sayılır, para yetmeyince mezuniyet kaymaz (burs sonra ödenir).",
+  "en": "Your scholar's graduation now counts in game days: hours away from the game count too, and a short purse no longer delays graduation (the scholarship is paid later)."
+ },
+ {
   "v": 839,
   "d": "2026-11-16",
   "tr": "Sanayi bölgesindeki beyaz beton zeminler kaldırıldı. Çiftlikten giden toprak yollar traktör üstündeyken artık kaybolmuyor. Hamburg konteyneri siparişinde istenen ürünler adıyla yazılıyor. Muhtarlık seçimi sonuçlanınca sonuç penceresi açılıyor.",
