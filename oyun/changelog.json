@@ -1,5 +1,11 @@
 [
  {
+  "v": 852,
+  "d": "2026-11-20",
+  "tr": "Aydınlatma direklerinin ışığı artık uzaktan (ör. dağ evi yolundan) köyün üstünde parlak leke gibi görünmüyor; çiftliğe yaklaşınca yine yanıyor.",
+  "en": "Farm lamp post glow no longer shows as bright patches from far away (e.g. the mountain house path); it still lights up the farm up close."
+ },
+ {
   "v": 851,
   "d": "2026-11-19",
   "tr": "Dağ evindeki şezlonglara artık gerçekten uzanılıyor: karakter sırtlığa yaslanır, bacakları minderin üstünde durur; şezlong sırtı doğru yöne yatık. Havuz yanındaki şezlonglarda da \"Şezlonga uzan\" çıkar.",
