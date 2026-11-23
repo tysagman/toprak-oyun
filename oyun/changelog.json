@@ -1,5 +1,11 @@
 [
  {
+  "v": 861,
+  "d": "2026-11-23",
+  "tr": "Bazı telefonlarda (yeni Android WebView) zemin, dağlar ve yapılar kapkara görünüyordu. Oyun açılışta bunu kendisi fark edip dokuları düzgün çizer.",
+  "en": "On some phones (new Android WebView) the ground, mountains and buildings looked pitch black. The game now detects this at startup and draws textures correctly."
+ },
+ {
   "v": 860,
   "d": "2026-11-23",
   "tr": "Kaleyi süsle görevi bitince kalede artık şenlik süsü görünüyor: surlarda flama dizileri, kulelerde sancaklar, avluda perdeli sahne ve gece yanan fenerler. Görevi önceden bitirenlerde de görünür.",
