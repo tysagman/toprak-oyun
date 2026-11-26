@@ -1,5 +1,11 @@
 [
  {
+  "v": 867,
+  "d": "2026-11-26",
+  "tr": "Kamyon seferi: «50 kg tulum ya da keçi peyniri gönder» görevinde peynir artık kamyon yükü ekranında çıkıyor; çantadaki peynir de yüklenebiliyor.",
+  "en": "Truck runs: in the «send 50 kg tulum or goat cheese» quest the cheese now appears on the truck load screen; cheese in your bag can be loaded too."
+ },
+ {
   "v": 866,
   "d": "2026-11-26",
   "tr": "Reklamla kazanılan bedava taksi yolculuğu artık taksiyi iptal edince ya da menüden çıkınca kaybolmuyor; hak araca binince harcanır.",
